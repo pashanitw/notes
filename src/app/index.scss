@@ -1,0 +1,85 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+body{
+  overflow: hidden;
+}
+.thumbnail {
+  height: 200px;
+
+  img.pull-right {
+    width: 50px;
+  }
+}
+.btn-group{
+  &:first-child{
+    display: none;
+  }
+  &:last-child{
+    display: none;
+  }
+}
+
+/* Styles go here */
+
+.bubble{
+  cursor: pointer;
+  width:35px;
+  height:30px;
+  border:2px solid #666;
+  border-radius:5px;
+  background-color:#FFD801;
+  text-align:center;
+  box-shadow: 2px 2px 2px #888;
+  hr{
+    line-height: 1px;
+    padding: 0;
+    margin: 0 auto;
+    height: 2px;
+    background: #000;
+    margin-top: 5px;
+  }
+
+}
+.bubble:before{
+  content:'';
+  width:0;
+  height:0;
+  border:9px solid;
+  position:absolute;
+  top: 28px;
+  left:8px;
+  border-color: #666 transparent transparent #666;
+
+}
+.bubble:after{
+  content:'';
+  width:0;
+  height:0;
+  border:6px solid;
+  position:absolute;
+  top: 28px;
+  border-color:#FFD801 transparent transparent #FFD801;
+  left:10px;
+}
+.richtext-editor{
+  width: 500px;
+  background-color:#FFD801;
+  .ta-scroll-window > .ta-bind{
+    min-height: 200px;
+    background-color:#FFD801;
+
+  }
+  .ta-editor.ta-html, .ta-scroll-window.form-control{
+    min-height: 200px;
+    background-color:#FFD801;
+  }
+  button[name="strikeThrough"],button[name="ol"],button[name="redo"],button[name="undo"],button[name="clear"],button[name="justifyLeft"],button[name="justifyRight"],
+  button[name="justifyCenter"],button[name="indent"],button[name="outdent"]{
+    display: none;
+  }
+  box-shadow: 0px 3px 9px 1px #888;
+}
