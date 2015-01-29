@@ -1,17 +1,8 @@
-<div class="container">
+<div class="container" droppable>
+  <input type="text" colorpicker=""/>
+    <notes-widget ng-repeat="notes in items" ng-model="notes.model" ng-style="{'z-index':'{{$index+10}}'}"></notes-widget>
 
-  <div ng-include="'components/navbar/navbar.html'"></div>
-  <div style="position:relative" data-drag="true" jqyoui-draggable jqyoui-draggable="{animate:true}" draggable="true">
-    <div class="bubble">
-      <hr style="color:#000;width:28px;"/>
-      <hr style="color:#000;width:25px;"/>
-      <hr style="color:#000;width:20px;"/>
-    </div>
-  </div>
-  <div class="jumbotron text-center">
+    <button type="button" class="btn btn-default btn-large" ng-click="addItem()">Add</button>
 
-    <div text-angular ng-model="model.notesModel" data-drag="true" jqyoui-draggable jqyoui-draggable="{animate:true}" draggable="true" class="richtext-editor"></div>
-  </div>
 
-  <div style="margin-top: 50px" ng-bind="model.notesModel"></div>
 </div>
