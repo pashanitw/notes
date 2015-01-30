@@ -11,29 +11,11 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
         redirectTo: '/'
       });
   })
+  .config(function($compileProvider){
+    $compileProvider.debugInfoEnabled(false);
+  })
   .config(function($provide){
    $provide.decorator('taOptions', ['taRegisterTool', '$delegate', function(taRegisterTool, taOptions){
-   // $delegate is the taOptions we are decorating
-   // register the tool with textAngular
-   /*taRegisterTool('save', {
-   iconclass: "fa fa-floppy-o",
-   action: function(){
-   this.$parent.$parent.showHtml=false;
-   // return false;
-   }
-   });
-   taRegisterTool('delete', {
-   iconclass: "fa fa-times",
-   action: function(){
-   return false;
-   }
-   });
-   taRegisterTool('minimize', {
-   iconclass: "fa fa-minus-square",
-   action: function(){
-   return false;
-   }
-   });*/
      taRegisterTool('color', {
        display: "<span style='padding: 0'><button type='button' colorpicker='rgba' ng-init='color.color=\"#000\"' ng-model='color.color' class='btn btn-default' ng-class='displayActiveToolClass(active)' ng-disabled='showHtml()'><i class='fa fa-font'></i></button></span>",
        action: function () {
@@ -76,10 +58,6 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
        }
      });
 
-   // add the button to the default toolbar definition
-   taOptions.toolbar[1].push('save');/*
-   taOptions.toolbar[2].push('delete');
-   taOptions.toolbar[2].push('minimize');*/
    return taOptions;
    }]);
    })
@@ -87,10 +65,11 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     return {
       restrict: 'AC',
       replace:true,
+      transclude:true,
       template: "<div class='btn-group'>" +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="saveData()"><i class="fa fa-floppy-o"></i></button>' +
-      '<button type="button" class="btn btn-default"  tabindex="-1"><i class="fa fa-times" ng-click="delete()"></i></button>' +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="minimize()"><i class="fa fa-minus-square"></i></button>' +
+      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.save()"><i class="fa fa-floppy-o"></i></button>' +
+      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
+      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.minimize()"><i class="fa fa-minus-square"></i></button>' +
       "</div>",
       link: function (scope, elem, attr) {
 
@@ -103,50 +82,65 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       link: function (scope, elem, attr) {
         elem.droppable({
           drop: function(event, ui) {
-            ui.draggable.draggable("option", "revert", false);
+         //   ui.draggable.draggable("option", "revert", false);
           }
 
         });
       }
     }
   })
-  .directive('draggable1', function (positionService) {
+  .directive('resizable', function () {
     return {
       restrict: 'AC',
       link: function (scope, elem, attr) {
- /*      elem.attr('data-draggable',{options:{scroll: false,obstacle: ".notes-icon",preventCollision: true,containment: ".notes-icon"}});*/
-        elem.draggable({
-          revert:'invalid',
-          obstacle: ".notes-icon",
-          preventCollision: true,
-          containment: ".container",
-          drag:function(){
-/*            var offset = $(this).offset();
-            var xPos = offset.left;
-            var yPos = offset.top;*/
-            //console.log(xPos,yPos,$(this).parent().offset().left,$(this).parent().offset().top);
-          },
-          stop:function(){
-            /*if($(this).hasClass("notes-icon")){
-              var offset = $(this).offset();
-              var xPos = offset.left;
-              var yPos = offset.top;
-              var pos=positionService.returnPosition(xPos,yPos,$('.container').offset().left,$('.container').offset().top,
-                $('.container').width(),$('.container').height(),elem.siblings().width(),elem.siblings().height());
-              if(pos){
-                elem.siblings().css("left",(pos.a-elem.siblings().width())+"px")
-                elem.siblings().css("top",pos.b+"px");
-                if(pos.pos=="br"){
-                  elem.siblings().css("transform-origin","100% 0%");
-                }
-              }else{
-                console.log("cannotfit");
-              }
-            }*/
-
-          }
-        });
+        elem.resizable();
       }
+    }
+  })
+  .directive('draggable', function (positionService) {
+    return {
+      restrict: 'AC',
+      compile: function(tElement, tAttrs, transcludeFn) {
+
+        return function (scope, el, tAttrs) {
+          el.draggable({
+            revert:'invalid',
+            obstacle: ".notes-icon",
+            preventCollision: true,
+            containment: ".container",
+            drag:function(){
+              /*            var offset = $(this).offset();
+               var xPos = offset.left;
+               var yPos = offset.top;*/
+              //console.log(xPos,yPos,$(this).parent().offset().left,$(this).parent().offset().top);
+            },
+            stop:function(){
+              /*if($(this).hasClass("notes-icon")){
+               var offset = $(this).offset();
+               var xPos = offset.left;
+               var yPos = offset.top;
+               var pos=positionService.returnPosition(xPos,yPos,$('.container').offset().left,$('.container').offset().top,
+               $('.container').width(),$('.container').height(),elem.siblings().width(),elem.siblings().height());
+               if(pos){
+               elem.siblings().css("left",(pos.a-elem.siblings().width())+"px")
+               elem.siblings().css("top",pos.b+"px");
+               if(pos.pos=="br"){
+               elem.siblings().css("transform-origin","100% 0%");
+               }
+               }else{
+               console.log("cannotfit");
+               }
+               }*/
+
+            }
+          });
+        };
+      }
+      /*,
+      link: function (scope, elem, attr) {
+ *//*      elem.attr('data-draggable',{options:{scroll: false,obstacle: ".notes-icon",preventCollision: true,containment: ".notes-icon"}});*//*
+
+      }*/
     }
   })
   .factory('positionService',function(){
@@ -175,10 +169,12 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
   .directive('notesIcon', function () {
     return {
       restrict: 'E',
-      scope:{},
-      require: "^notesWidget",
+      scope:{
+        posx:"=",
+        posy:"="
+      },
       replace:true,
-      template: '<div  class="notes-icon">' +
+      template: '<div  class="notes-icon" >' +
       '<div class="bubble">' +
       '<hr style="color:#000;width:28px;"/>' +
       '<hr style="color:#000;width:25px;"/>' +
@@ -186,10 +182,31 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '</div>' +
       '</div>',
       link: function (scope, elem, attr,ctrl) {
-        ctrl.makeAnnouncement("this is from parent");
+       elem.css({"left":scope.posx,"top":scope.posy});
 
       }
     }
+  })
+  .directive('textEditor', function () {
+    return {
+      restrict: 'A',
+      scope:{
+        posx:"=",
+        posy:"="
+      },
+      link: function (scope, elem, attr,ctrl) {
+        debugger;
+       elem.css({"left":scope.posx,"top":scope.posy});
+
+      }
+    }
+  })
+  .service("alertMesssages",function(){
+    this.alert=[];
+    this.alert[0]="Succcessfully Saved";
+    this.alert[1]="Save Failed";
+    this.alert[2]="Succcessfully Deleted";
+    this.alert[3]="Save Failed";
   })
   .directive('notesWidget', function () {
     return {
@@ -204,24 +221,35 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       templateUrl:'components/templates/noteswidget.html' ,
       link: function (scope, elem, attr) {
         var ob=getRandomInt();
+/*
         elem.find(".notes-icon").css("top",ob.x+"px");
         elem.find(".notes-icon").css("left",ob.y+"px");
 
         elem.find(".notes-widget").css("top",ob.x+"px");
         elem.find(".notes-widget").css("left",ob.y+"px");
-        setTimeout(function(){
-          elem.find(".notes-widget").css("transform","scale(1)");
-        })
-        elem.css("left",ob.y+"px");
-        elem.find('.notes-icon').click(function(evt){
-          $(this).css();
-        });
+*/
+
+
         scope.minimize=function(){
           elem.find('.notes-widget').removeClass('active');
         }
       }
     }
-  });
+  })
+  .directive('transcludeElement', function() {
+  return {
+    restrict: 'A',
+    transclude: true,
+    compile: function(tElement, tAttrs, transcludeFn) {
+      return function (scope, el, tAttrs) {
+        transcludeFn(scope, function cloneConnectFn(cElement) {
+          console.log(cElement,tElement);
+          tElement.append(cElement);
+        });
+      };
+    }
+  };
+});
 function getRandomInt() {
   var max1=$(".container").height(),
     min1= 0,

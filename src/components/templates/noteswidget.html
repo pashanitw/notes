@@ -1,12 +1,10 @@
-<div class="notes-wrapper">
-  <notes-icon draggable1 ></notes-icon>
-  <div class="notes-widget inl-blk" draggable1>
+<div class="notes-wrapper" transclude-element ng-transclude>
+  <notes-icon draggable title="{{notes.name}}"  ng-dblclick="notes.toggle()" posx="notes.windowX" posy="notes.windowY"></notes-icon>
+  <div  draggable resizable class="notes-widget inl-blk" text-editor posx="notes.windowX" posy="notes.windowY"  ng-class="{'in-active':!notes.isWindowExpanded,'active':notes.isWindowExpanded}">
 
     <div class="crud-commands inl-blk"></div>
-    <div text-angular ng-model="model.notesModel" ta-toolbar="[['bold','italics','underline','ul','color','fontsize']]"
-
-         class="richtext-editor"></div>
-    <alert type="success" close="">Saved SuccessFully</alert>
-    <alert type="danger" close="">Failed while saving</alert>
+    <div text-angular ng-model="notes.data" ta-toolbar="[['bold','italics','underline','ul','color','fontsize']]"
+    class="richtext-editor"></div>
+   <!-- <alert ng-repeat="alert in notes.alerts" close="notes.closeAlert()">Saved SuccessFully</alert>-->
   </div>
 </div>

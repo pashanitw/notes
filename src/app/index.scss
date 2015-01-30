@@ -33,8 +33,11 @@ body{
   display: inline-block;
 }
 .notes-widget{
+  min-width:378px;
+  height: 200px;
+  min-height: 200px;
   transition:all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
-  transform: scale(0);
+ // transform: scale(0);
   transform-origin: 0% 0%;
   position: absolute;
 .dropdown-menu{
@@ -54,13 +57,16 @@ body{
     bottom: 0;
     margin-bottom: 0;
     width: 100%;
-    height: 20px;
+  //  height: 20px;
     font-size: 0.9em;
-    padding-top: 1px;
+    //padding-top: 1px;
   }
 }
 .notes-widget.active{
   transform: scale(1);
+}
+.notes-widget.in-active{
+  transform: scale(0);
 }
 
 .fa-floppy-o{
@@ -112,11 +118,10 @@ body{
   left:10px;
 }
 .richtext-editor{
+  height: 100%;
   .btn-toolbar{
     cursor: pointer;
   }
-
-  width: 500px;
   background-color:#FFD801;
   .ta-scroll-window > .ta-bind{
     min-height: 200px;
@@ -124,10 +129,18 @@ body{
 
   }
   .ta-editor.ta-html, .ta-scroll-window.form-control{
-    min-height: 200px;
+    min-height: 0;
     background-color:#FFD801;
   }
-
+  .ta-scroll-window > .ta-bind{
+    min-height: 100%;
+  }
+  .ta-toolbar{
+   height: 35px;
+  }
+  .ta-scroll-window{
+    height: calc(100% - 35px);
+  }
   box-shadow: 0px 3px 9px 1px #888;
 }
 .notes-icon{
