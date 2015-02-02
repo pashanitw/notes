@@ -4,6 +4,10 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
+        templateUrl: 'app/main/notebooks.html',
+        controller: 'NotebooksCtrl'
+      })
+      .when('/video', {
         templateUrl: 'app/main/main.html',
         controller: 'MainCtrl'
       })
@@ -12,12 +16,13 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       });
   })
   .config(function($compileProvider){
-    $compileProvider.debugInfoEnabled(false);
+   // $compileProvider.debugInfoEnabled(false);
   })
   .config(function($provide){
    $provide.decorator('taOptions', ['taRegisterTool', '$delegate', function(taRegisterTool, taOptions){
      taRegisterTool('color', {
        display: "<span style='padding: 0'><button type='button' colorpicker='rgba' ng-init='color.color=\"#000\"' ng-model='color.color' class='btn btn-default' ng-class='displayActiveToolClass(active)' ng-disabled='showHtml()'><i class='fa fa-font'></i></button></span>",
+
        action: function () {
          var scope=this;
          if(!scope.color || !scope.color.color){
@@ -27,23 +32,63 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
          }
 
          scope.$watch('color.color', function (oldval,newVal) {
-           console.log(scope.color);
-           return scope.$editor().wrapSelection('foreColor',newVal)
+           console.log(scope.color,newVal);
+           return scope.$editor().wrapSelection('foreColor',scope.color.color)
          });
           // return this.$editor().wrapSelection('foreColor', this.$editor().color);
        }
      });
      taRegisterTool('fontsize', {
-       display: "<span style='padding: 0' class='dropdown' dropdown>" +
-       "<button type='button' dropdown-toggle  ng-init='fontsize.model=3'  class='btn btn-default' ng-class='displayActiveToolClass(active)' ng-disabled='showHtml()'>" +
-       "<i class='fa fa-header'></i></button>" +
-       '<ul class="dropdown-menu">'+
-     '<li ng-repeat="size in sizes" ng-click="fontsize.model={{size+1}}">'+
-     '<a href>{{size}}</a>'+
-   '</li>'+
-   '</ul></span>',
+       display: "<div style='padding: 0' class='fontsize'>" +
+       "<button type='button' ng-init='fontsize.model=3' ng-click='toggle($event)'  class='btn btn-default' ng-class='displayActiveToolClass(active)' ng-disabled='showHtml()'>" +
+       "<i class='fa fa-header'></i>" +
+       "<div class='dropdown'>"+
+       '<ul class="dropdown-menu" ng-class="{\'visible\':visible,\'no-visible\':!visible}">'+
+       '<li ng-repeat="size in sizes"  ng-click="fontsize.model={{size}};toggle($event);">'+
+       '<a href>{{size}}</a>'+
+       '</li>'+
+       '</ul></div></button>'+
+      '</div>',
+       disabled: function() {
+
+         // runs as an init function
+
+         // hack to get around the errors thrown by textAngular
+         // because it didn't get to store a pointer to the editor,
+         // because it's not focused.
+
+
+         var self = this;
+
+         // insert all qtMethods into the scope
+
+/*
+          Object.keys(qtMethods).forEach(function(key) {
+          self[key] = qtMethods[key];
+          });
+*/
+
+
+         this.isDisabled = function() {
+           return false;
+         };
+
+
+       },
        action: function () {
+
+       /*  this.focusHack = function() {
+           $('.ta-scroll-window [contenteditable]')[0].focus();
+         };*/
+
          var scope=this;
+         scope.visible=true;
+         scope.toggle=function($event){
+           if($event){
+             $event.stopPropagation();
+           }
+           scope.visible=!scope.visible;
+         }
          scope.sizes=[1,2,3,4,5,6,7];
          if(!scope.fontsize || !scope.fontsize.model){
            scope.fontsize={
@@ -52,8 +97,8 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
          }
 
          scope.$watch('fontsize.model', function (oldval,newVal) {
-           console.log(newVal);
-           return scope.$editor().wrapSelection('fontSize',newVal)
+           console.log(scope.fontsize);
+           return scope.$editor().wrapSelection('fontSize',scope.fontsize.model)
          });
        }
      });
@@ -65,9 +110,8 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     return {
       restrict: 'AC',
       replace:true,
-      transclude:true,
       template: "<div class='btn-group'>" +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.save()"><i class="fa fa-floppy-o"></i></button>' +
+      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.save()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
       '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
       '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.minimize()"><i class="fa fa-minus-square"></i></button>' +
       "</div>",
@@ -89,9 +133,18 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       }
     }
   })
+.directive('zIndex', function(){
+  return function(scope, element, attrs){
+    attrs.$observe('zIndex', function(value) {
+      element.css({
+        'z-index': value
+      });
+    });
+  };
+})
   .directive('resizable', function () {
     return {
-      restrict: 'AC',
+      restrict: 'A',
       link: function (scope, elem, attr) {
         elem.resizable();
       }
@@ -99,7 +152,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
   })
   .directive('draggable', function (positionService) {
     return {
-      restrict: 'AC',
+      restrict: 'A',
       compile: function(tElement, tAttrs, transcludeFn) {
 
         return function (scope, el, tAttrs) {
@@ -183,6 +236,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '</div>',
       link: function (scope, elem, attr,ctrl) {
        elem.css({"left":scope.posx,"top":scope.posy});
+        elem.siblings().css({"left":scope.posx,"top":scope.posy});
 
       }
     }
@@ -220,15 +274,6 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       },
       templateUrl:'components/templates/noteswidget.html' ,
       link: function (scope, elem, attr) {
-        var ob=getRandomInt();
-/*
-        elem.find(".notes-icon").css("top",ob.x+"px");
-        elem.find(".notes-icon").css("left",ob.y+"px");
-
-        elem.find(".notes-widget").css("top",ob.x+"px");
-        elem.find(".notes-widget").css("left",ob.y+"px");
-*/
-
 
         scope.minimize=function(){
           elem.find('.notes-widget').removeClass('active');
@@ -241,9 +286,8 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     restrict: 'A',
     transclude: true,
     compile: function(tElement, tAttrs, transcludeFn) {
-      return function (scope, el, tAttrs) {
+      return function (scope) {
         transcludeFn(scope, function cloneConnectFn(cElement) {
-          console.log(cElement,tElement);
           tElement.append(cElement);
         });
       };

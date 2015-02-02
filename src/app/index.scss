@@ -36,15 +36,31 @@ body{
   min-width:378px;
   height: 200px;
   min-height: 200px;
-  transition:all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
  // transform: scale(0);
   transform-origin: 0% 0%;
   position: absolute;
-.dropdown-menu{
-  height: 100px;
-  overflow: scroll;
-  min-width: 0;
-}
+  .fontsize{
+    .visible{
+      display: block !important;
+    }
+    .no-visible{
+      display: none !important;
+    }
+    .dropdown{
+      left: -2px;
+      bottom: -1px;
+      position: absolute;
+      z-index: 999;
+    }
+    .dropdown-menu{
+      height: 100px;
+      overflow: scroll;
+      min-width: 0;
+
+      border: 0;
+    }
+  }
+
 
   .crud-commands{
     position: absolute;
@@ -61,12 +77,16 @@ body{
     font-size: 0.9em;
     //padding-top: 1px;
   }
+
+  transition:transform 0.5s ease-in-out;
 }
 .notes-widget.active{
+
   transform: scale(1);
 }
 .notes-widget.in-active{
   transform: scale(0);
+
 }
 
 .fa-floppy-o{
@@ -117,6 +137,9 @@ body{
   border-color:#FFD801 transparent transparent #FFD801;
   left:10px;
 }
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
 .richtext-editor{
   height: 100%;
   .btn-toolbar{
@@ -127,6 +150,9 @@ body{
     min-height: 200px;
     background-color:#FFD801;
 
+  }
+  [type="hidden"]{
+    height: 0;
   }
   .ta-editor.ta-html, .ta-scroll-window.form-control{
     min-height: 0;
