@@ -1,4 +1,3 @@
-'use strict';
 
 angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngResource', 'ngRoute', 'ui.bootstrap', 'textAngular','colorpicker.module'])
   .config(function ($routeProvider) {
@@ -18,6 +17,10 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
   .config(function($compileProvider){
    // $compileProvider.debugInfoEnabled(false);
   })
+  .run(['$http', function($http) {
+    //IConcept-Method - store
+   $http.defaults.headers.common['IConcept-Method'] = 'store';
+}])
   .config(function($provide){
    $provide.decorator('taOptions', ['taRegisterTool', '$delegate', function(taRegisterTool, taOptions){
      taRegisterTool('color', {

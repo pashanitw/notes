@@ -8,20 +8,40 @@
               <ul class="pages nav nav-pills nav-stacked">
 
                 <li ng-repeat="notebook in notebooks" ng-click="changeCurrentNotebook(notebook);"><a class='elem'>{{notebook._name}}</a>
+                  <a href="" style="display: inline-block;position: absolute;top: 2px;left: 144px;" ng-click="notebook.delete()"><i class="fa fa-times" style="float: right"></i></a>
                 </li>
+                <li>
+                  <input type="text" ng-model="noteBook.name"/>
+                  <button class="btn btn-default btn-primary" ng-click="createNotebook()">
+                    Create Notebook</button>
+                </li>
+
               </ul>
             </div>
           </div>
           <div class="col-sm-9 col-md-9">
             <div ng-controller="PageCtrl" ng-repeat="notebook in notebooks"
-                 ng-show="notebook._id==currentNotebook._id">
+                 ng-if="notebook._id==currentNotebook._id">
+              <div>
+                <input type="text" ng-model="pageModel.name"/>
+                <button class="btn btn-default btn-primary" ng-click="pageCreate()">
+                  Create Page</button>
+              </div>
             <accordion>
 
-              <accordion-group ng-repeat="page in notebook.page" is-open="page.open">
+              <accordion-group ng-repeat="page in currentNotebook.page" is-open="page.open" >
+                <but class="btn btn-delete" ng-click="page.delete()">delete</but>
                 <accordion-heading>
-                  {{page._name}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': page.open, 'glyphicon-chevron-right': !page.open}"></i>
-                </accordion-heading>
-                <notes-widget ng-repeat="notes in page.note"></notes-widget>
+                  <a href="" ng-click="pageClicked(page)">
+                    {{page._name}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': page.open, 'glyphicon-chevron-right': !page.open}"></i>
+                  </a></accordion-heading>
+                <div>
+                  <input type="text" ng-model="notesModel.name"/>
+                  <button class="btn btn-default btn-primary" ng-click="noteCreate(page.note)">
+                    Create Note</button>
+                </div>
+                <accordion>
+                <notes-widget ng-repeat="notes in page.note" ng-if="page.open"></notes-widget>
               </accordion-group>
             </accordion>
             </div>

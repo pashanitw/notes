@@ -19,7 +19,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-f8aa8291-0bc8-46c6-8fc0-d0e91d27fdf7",
                   "_index": 0,
-                  "name": "Simpson Bush",
+                  "_name": "Simpson Bush",
                   "_type": "Syllubus",
                   "_iconX": 325,
                   "_iconY": 445,
@@ -30,12 +30,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1965,
                   "_lessonId": 2400,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f92a1b05-ab17-425b-9675-3e3f54fe45cb",
                   "_index": 1,
-                  "name": "Luella Knox",
+                  "_name": "Luella Knox",
                   "_type": "Syllubus",
                   "_iconX": 794,
                   "_iconY": 230,
@@ -46,12 +46,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5587,
                   "_lessonId": 5896,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-734bc3dd-050b-4589-a4a9-88dfb208a869",
                   "_index": 2,
-                  "name": "Tisha Simon",
+                  "_name": "Tisha Simon",
                   "_type": "Syllubus",
                   "_iconX": 183,
                   "_iconY": 80,
@@ -62,12 +62,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3328,
                   "_lessonId": 2237,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-91059361-03bb-456f-8be9-116ed3f81399",
                   "_index": 3,
-                  "name": "Rhea Joseph",
+                  "_name": "Rhea Joseph",
                   "_type": "Syllubus",
                   "_iconX": 29,
                   "_iconY": 433,
@@ -78,12 +78,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1935,
                   "_lessonId": 2251,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9ce09d92-ed11-4216-93dd-0fce2ab65b2d",
                   "_index": 4,
-                  "name": "Yolanda Hogan",
+                  "_name": "Yolanda Hogan",
                   "_type": "Syllubus",
                   "_iconX": 476,
                   "_iconY": 193,
@@ -94,12 +94,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1567,
                   "_lessonId": 3883,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-43632269-cf22-45be-9c60-06f59ffc99f1",
                   "_index": 5,
-                  "name": "Lynda Garcia",
+                  "_name": "Lynda Garcia",
                   "_type": "Syllubus",
                   "_iconX": 952,
                   "_iconY": 157,
@@ -110,12 +110,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3920,
                   "_lessonId": 5825,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f92e6fd4-5dd1-4612-9ac2-0d1a58685c1d",
                   "_index": 6,
-                  "name": "Haley Lindsay",
+                  "_name": "Haley Lindsay",
                   "_type": "Syllubus",
                   "_iconX": 253,
                   "_iconY": 287,
@@ -126,7 +126,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1357,
                   "_lessonId": 1163,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -138,7 +138,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-781338a6-a82c-4f55-a4f5-2950c00e0960",
                   "_index": 0,
-                  "name": "Angelina Mcdowell",
+                  "_name": "Angelina Mcdowell",
                   "_type": "Syllubus",
                   "_iconX": 545,
                   "_iconY": 133,
@@ -149,12 +149,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5847,
                   "_lessonId": 5190,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2b1d93d5-b2e1-482b-8208-0708a6da406a",
                   "_index": 1,
-                  "name": "Olive Meyers",
+                  "_name": "Olive Meyers",
                   "_type": "Syllubus",
                   "_iconX": 269,
                   "_iconY": 499,
@@ -165,12 +165,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1953,
                   "_lessonId": 1540,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0bc764dd-f9d8-4390-b86d-a99e3e7bfea2",
                   "_index": 2,
-                  "name": "Kristi Sykes",
+                  "_name": "Kristi Sykes",
                   "_type": "Syllubus",
                   "_iconX": 15,
                   "_iconY": 153,
@@ -181,12 +181,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1890,
                   "_lessonId": 2351,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a4c138a9-6da4-44aa-ac25-66ea7e1a6f61",
                   "_index": 3,
-                  "name": "Patton Reid",
+                  "_name": "Patton Reid",
                   "_type": "Syllubus",
                   "_iconX": 961,
                   "_iconY": 180,
@@ -197,12 +197,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5486,
                   "_lessonId": 1611,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7e9ea6c9-85ff-4ced-8e77-ee3ca900b9bd",
                   "_index": 4,
-                  "name": "Lucile Mckee",
+                  "_name": "Lucile Mckee",
                   "_type": "Syllubus",
                   "_iconX": 170,
                   "_iconY": 456,
@@ -213,12 +213,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1976,
                   "_lessonId": 1466,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d86dc5a9-8f12-4747-919f-1fd18488bf8f",
                   "_index": 5,
-                  "name": "Thelma Ortiz",
+                  "_name": "Thelma Ortiz",
                   "_type": "Syllubus",
                   "_iconX": 957,
                   "_iconY": 558,
@@ -229,7 +229,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4485,
                   "_lessonId": 5218,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -241,7 +241,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7c16ed38-81c7-4cd7-818b-d5936856fa22",
                   "_index": 0,
-                  "name": "Whitney Gilbert",
+                  "_name": "Whitney Gilbert",
                   "_type": "Syllubus",
                   "_iconX": 367,
                   "_iconY": 477,
@@ -252,12 +252,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5856,
                   "_lessonId": 1423,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f3dc1696-4662-4590-9abd-28397e92ae53",
                   "_index": 1,
-                  "name": "Crosby Rios",
+                  "_name": "Crosby Rios",
                   "_type": "Syllubus",
                   "_iconX": 824,
                   "_iconY": 119,
@@ -268,12 +268,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4960,
                   "_lessonId": 1103,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a9434609-6d68-4eb2-96fc-e80437853266",
                   "_index": 2,
-                  "name": "Patrick Moore",
+                  "_name": "Patrick Moore",
                   "_type": "Syllubus",
                   "_iconX": 208,
                   "_iconY": 332,
@@ -284,12 +284,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2535,
                   "_lessonId": 4198,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-75e749d3-82aa-4b68-874e-6611fea03576",
                   "_index": 3,
-                  "name": "Vargas Frank",
+                  "_name": "Vargas Frank",
                   "_type": "Syllubus",
                   "_iconX": 695,
                   "_iconY": 477,
@@ -300,12 +300,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1679,
                   "_lessonId": 4514,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3c82a33-d88f-41b6-8ad0-e96971fc09c8",
                   "_index": 4,
-                  "name": "Jacklyn Eaton",
+                  "_name": "Jacklyn Eaton",
                   "_type": "Syllubus",
                   "_iconX": 744,
                   "_iconY": 329,
@@ -316,12 +316,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5801,
                   "_lessonId": 1919,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c20e38eb-a616-4f23-ada5-7e8cac22f62f",
                   "_index": 5,
-                  "name": "Cherry Mcneil",
+                  "_name": "Cherry Mcneil",
                   "_type": "Syllubus",
                   "_iconX": 739,
                   "_iconY": 257,
@@ -332,7 +332,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5480,
                   "_lessonId": 1891,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -344,7 +344,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-81fe68c3-4e78-48c3-8b7e-2f9199cb2269",
                   "_index": 0,
-                  "name": "Mariana Gallagher",
+                  "_name": "Mariana Gallagher",
                   "_type": "Syllubus",
                   "_iconX": 133,
                   "_iconY": 100,
@@ -355,12 +355,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1794,
                   "_lessonId": 3280,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0fed8172-3716-4c02-827b-3196595c0b13",
                   "_index": 1,
-                  "name": "Lola Cash",
+                  "_name": "Lola Cash",
                   "_type": "Syllubus",
                   "_iconX": 57,
                   "_iconY": 182,
@@ -371,12 +371,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2908,
                   "_lessonId": 2809,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c356c1eb-3678-4c78-ad42-33ff38c810a1",
                   "_index": 2,
-                  "name": "Acosta Frye",
+                  "_name": "Acosta Frye",
                   "_type": "Syllubus",
                   "_iconX": 452,
                   "_iconY": 18,
@@ -387,12 +387,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5321,
                   "_lessonId": 2810,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0d85078c-b8f2-4175-9d62-0f42bb0e96c3",
                   "_index": 3,
-                  "name": "Ora Moody",
+                  "_name": "Ora Moody",
                   "_type": "Syllubus",
                   "_iconX": 538,
                   "_iconY": 333,
@@ -403,12 +403,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4583,
                   "_lessonId": 2315,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0a99d01d-c118-481c-a5ec-4cbeaf45105c",
                   "_index": 4,
-                  "name": "Anna Morin",
+                  "_name": "Anna Morin",
                   "_type": "Syllubus",
                   "_iconX": 484,
                   "_iconY": 483,
@@ -419,7 +419,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4594,
                   "_lessonId": 2527,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -431,7 +431,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d4b52b6e-63a5-412f-b9f5-7045910e6137",
                   "_index": 0,
-                  "name": "Le Delgado",
+                  "_name": "Le Delgado",
                   "_type": "Syllubus",
                   "_iconX": 40,
                   "_iconY": 16,
@@ -442,12 +442,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2693,
                   "_lessonId": 5881,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-67b1a24f-2533-4eda-b8d8-9ed647a09287",
                   "_index": 1,
-                  "name": "Mitchell Gibson",
+                  "_name": "Mitchell Gibson",
                   "_type": "Syllubus",
                   "_iconX": 681,
                   "_iconY": 480,
@@ -458,12 +458,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3530,
                   "_lessonId": 1008,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-493d733d-ab4b-46aa-a229-1fdc1c0c90c1",
                   "_index": 2,
-                  "name": "Thomas Chang",
+                  "_name": "Thomas Chang",
                   "_type": "Syllubus",
                   "_iconX": 591,
                   "_iconY": 100,
@@ -474,12 +474,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3919,
                   "_lessonId": 4434,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3b1106d9-ccd0-4136-8991-32c075afc9cc",
                   "_index": 3,
-                  "name": "Rosemarie Maynard",
+                  "_name": "Rosemarie Maynard",
                   "_type": "Syllubus",
                   "_iconX": 72,
                   "_iconY": 287,
@@ -490,12 +490,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4281,
                   "_lessonId": 2592,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4d9f46d-baa7-4a71-adab-6632216340ab",
                   "_index": 4,
-                  "name": "Corinne Blackburn",
+                  "_name": "Corinne Blackburn",
                   "_type": "Syllubus",
                   "_iconX": 713,
                   "_iconY": 194,
@@ -506,12 +506,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3214,
                   "_lessonId": 4302,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0b328363-98f7-4605-87cf-d8068855abe4",
                   "_index": 5,
-                  "name": "Cherry Greer",
+                  "_name": "Cherry Greer",
                   "_type": "Syllubus",
                   "_iconX": 819,
                   "_iconY": 169,
@@ -522,12 +522,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1512,
                   "_lessonId": 5966,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-81e064c4-acd1-4763-94f6-49dcea41a6cd",
                   "_index": 6,
-                  "name": "Garcia Maldonado",
+                  "_name": "Garcia Maldonado",
                   "_type": "Syllubus",
                   "_iconX": 298,
                   "_iconY": 320,
@@ -538,7 +538,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3592,
                   "_lessonId": 2244,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -550,7 +550,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d883193d-5d5d-4969-9fd1-395a78acecd0",
                   "_index": 0,
-                  "name": "Jenifer Fleming",
+                  "_name": "Jenifer Fleming",
                   "_type": "Syllubus",
                   "_iconX": 575,
                   "_iconY": 323,
@@ -561,12 +561,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5135,
                   "_lessonId": 3002,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2e414df9-08b4-4825-817b-1c4d047f990f",
                   "_index": 1,
-                  "name": "Shauna Noble",
+                  "_name": "Shauna Noble",
                   "_type": "Syllubus",
                   "_iconX": 835,
                   "_iconY": 248,
@@ -577,12 +577,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3654,
                   "_lessonId": 4441,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c8e8a77-f3d2-464b-82d1-65899abda6c0",
                   "_index": 2,
-                  "name": "Karin Dotson",
+                  "_name": "Karin Dotson",
                   "_type": "Syllubus",
                   "_iconX": 334,
                   "_iconY": 174,
@@ -593,12 +593,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4371,
                   "_lessonId": 3203,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2839207e-780e-4dfd-a74a-8d87b5dc50b6",
                   "_index": 3,
-                  "name": "Graham Moreno",
+                  "_name": "Graham Moreno",
                   "_type": "Syllubus",
                   "_iconX": 847,
                   "_iconY": 509,
@@ -609,12 +609,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5455,
                   "_lessonId": 4916,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c4b78fd-6e88-4f5e-85a2-d2ab684e4d52",
                   "_index": 4,
-                  "name": "Sexton Horne",
+                  "_name": "Sexton Horne",
                   "_type": "Syllubus",
                   "_iconX": 368,
                   "_iconY": 373,
@@ -625,7 +625,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3158,
                   "_lessonId": 2220,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -637,7 +637,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-916997b6-6c1d-4d2f-b878-9a5ec56e26ef",
                   "_index": 0,
-                  "name": "Fields Nielsen",
+                  "_name": "Fields Nielsen",
                   "_type": "Syllubus",
                   "_iconX": 342,
                   "_iconY": 203,
@@ -648,12 +648,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2965,
                   "_lessonId": 5640,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-83dbe5cc-69f3-4a5f-aafe-7330f71406e1",
                   "_index": 1,
-                  "name": "Byrd Armstrong",
+                  "_name": "Byrd Armstrong",
                   "_type": "Syllubus",
                   "_iconX": 45,
                   "_iconY": 487,
@@ -664,12 +664,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5321,
                   "_lessonId": 5707,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cd911ce2-5558-4d81-9a8e-24cf26208e56",
                   "_index": 2,
-                  "name": "Tasha Chambers",
+                  "_name": "Tasha Chambers",
                   "_type": "Syllubus",
                   "_iconX": 133,
                   "_iconY": 243,
@@ -680,12 +680,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5404,
                   "_lessonId": 3511,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2684f326-c0e0-4c41-be96-a0d2f9e17f1b",
                   "_index": 3,
-                  "name": "Jean Brooks",
+                  "_name": "Jean Brooks",
                   "_type": "Syllubus",
                   "_iconX": 84,
                   "_iconY": 305,
@@ -696,12 +696,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5819,
                   "_lessonId": 5709,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c093cf80-16fb-484f-82f8-7eb0cf5b004a",
                   "_index": 4,
-                  "name": "Lynnette Sanchez",
+                  "_name": "Lynnette Sanchez",
                   "_type": "Syllubus",
                   "_iconX": 330,
                   "_iconY": 312,
@@ -712,12 +712,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5219,
                   "_lessonId": 1413,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7cbaaefd-8986-4ba5-b876-50d89cb7a37e",
                   "_index": 5,
-                  "name": "Ava Stephenson",
+                  "_name": "Ava Stephenson",
                   "_type": "Syllubus",
                   "_iconX": 797,
                   "_iconY": 241,
@@ -728,7 +728,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1416,
                   "_lessonId": 1461,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -751,7 +751,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d38135af-456c-4cb6-b91e-fb668201db4a",
                   "_index": 0,
-                  "name": "Lindsay Olsen",
+                  "_name": "Lindsay Olsen",
                   "_type": "Syllubus",
                   "_iconX": 852,
                   "_iconY": 499,
@@ -762,12 +762,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5227,
                   "_lessonId": 3656,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d4da3b41-4c81-4cf7-b625-2a127e8ab3a9",
                   "_index": 1,
-                  "name": "June Harmon",
+                  "_name": "June Harmon",
                   "_type": "Syllubus",
                   "_iconX": 888,
                   "_iconY": 570,
@@ -778,12 +778,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2754,
                   "_lessonId": 4444,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e7ce4d71-e22a-48ba-afe3-be335706b0e9",
                   "_index": 2,
-                  "name": "Sasha Holmes",
+                  "_name": "Sasha Holmes",
                   "_type": "Syllubus",
                   "_iconX": 309,
                   "_iconY": 290,
@@ -794,12 +794,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2869,
                   "_lessonId": 2263,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b0cb9cbd-dc68-474a-949f-cae8daa94d07",
                   "_index": 3,
-                  "name": "Mayer Riley",
+                  "_name": "Mayer Riley",
                   "_type": "Syllubus",
                   "_iconX": 93,
                   "_iconY": 600,
@@ -810,12 +810,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1045,
                   "_lessonId": 3403,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3143d927-47ca-447a-b57d-2ed4bf13c83f",
                   "_index": 4,
-                  "name": "Jacqueline Hodges",
+                  "_name": "Jacqueline Hodges",
                   "_type": "Syllubus",
                   "_iconX": 373,
                   "_iconY": 242,
@@ -826,7 +826,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2330,
                   "_lessonId": 3444,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -838,7 +838,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-41d0300a-bcc5-4a6b-bce5-b853888cfb2c",
                   "_index": 0,
-                  "name": "Ellison Branch",
+                  "_name": "Ellison Branch",
                   "_type": "Syllubus",
                   "_iconX": 950,
                   "_iconY": 467,
@@ -849,12 +849,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4474,
                   "_lessonId": 4468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0a140c5b-3064-4a62-ad36-a58afeb6f802",
                   "_index": 1,
-                  "name": "Curry Landry",
+                  "_name": "Curry Landry",
                   "_type": "Syllubus",
                   "_iconX": 993,
                   "_iconY": 450,
@@ -865,12 +865,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2306,
                   "_lessonId": 5326,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-548b63ad-a434-416f-aaf4-903ccc72b730",
                   "_index": 2,
-                  "name": "Mccormick Bauer",
+                  "_name": "Mccormick Bauer",
                   "_type": "Syllubus",
                   "_iconX": 987,
                   "_iconY": 523,
@@ -881,12 +881,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4052,
                   "_lessonId": 3074,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a3a53725-1d58-4fdf-84fa-37931587c011",
                   "_index": 3,
-                  "name": "Peters Good",
+                  "_name": "Peters Good",
                   "_type": "Syllubus",
                   "_iconX": 778,
                   "_iconY": 576,
@@ -897,12 +897,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3937,
                   "_lessonId": 1386,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5fef01a9-db1b-436c-9848-df96678e404e",
                   "_index": 4,
-                  "name": "Amy Mcfarland",
+                  "_name": "Amy Mcfarland",
                   "_type": "Syllubus",
                   "_iconX": 214,
                   "_iconY": 531,
@@ -913,7 +913,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4757,
                   "_lessonId": 3525,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -925,7 +925,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e6934e08-1e2e-4ec2-b72c-8147bd9a6456",
                   "_index": 0,
-                  "name": "Shanna Luna",
+                  "_name": "Shanna Luna",
                   "_type": "Syllubus",
                   "_iconX": 520,
                   "_iconY": 289,
@@ -936,12 +936,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2082,
                   "_lessonId": 3985,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0f84229e-4de6-4e36-abf3-dc5034127e51",
                   "_index": 1,
-                  "name": "Charlene Becker",
+                  "_name": "Charlene Becker",
                   "_type": "Syllubus",
                   "_iconX": 973,
                   "_iconY": 494,
@@ -952,12 +952,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5396,
                   "_lessonId": 2723,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-648a1b17-ac96-42d1-94b1-8c67afdd7b52",
                   "_index": 2,
-                  "name": "Short Wiggins",
+                  "_name": "Short Wiggins",
                   "_type": "Syllubus",
                   "_iconX": 981,
                   "_iconY": 358,
@@ -968,12 +968,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1431,
                   "_lessonId": 3962,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0be327ca-2ac4-4b15-9f81-ebabf3e6eb96",
                   "_index": 3,
-                  "name": "Rosa Stephens",
+                  "_name": "Rosa Stephens",
                   "_type": "Syllubus",
                   "_iconX": 536,
                   "_iconY": 18,
@@ -984,12 +984,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2861,
                   "_lessonId": 3044,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-605c2c6e-794d-4d5b-a1a8-c2d5153dbcd2",
                   "_index": 4,
-                  "name": "Houston Massey",
+                  "_name": "Houston Massey",
                   "_type": "Syllubus",
                   "_iconX": 845,
                   "_iconY": 138,
@@ -1000,12 +1000,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1543,
                   "_lessonId": 3428,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f18f0634-60f8-475d-8099-a96254b8fde2",
                   "_index": 5,
-                  "name": "Addie Slater",
+                  "_name": "Addie Slater",
                   "_type": "Syllubus",
                   "_iconX": 338,
                   "_iconY": 290,
@@ -1016,7 +1016,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3199,
                   "_lessonId": 1984,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1028,7 +1028,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0b8519d8-3722-472e-911a-277bb8b32398",
                   "_index": 0,
-                  "name": "Imogene Ortega",
+                  "_name": "Imogene Ortega",
                   "_type": "Syllubus",
                   "_iconX": 314,
                   "_iconY": 129,
@@ -1039,12 +1039,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5928,
                   "_lessonId": 3454,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-02082f4d-ecb6-448e-ab7d-e5b8fe7aef0b",
                   "_index": 1,
-                  "name": "Ophelia Hurley",
+                  "_name": "Ophelia Hurley",
                   "_type": "Syllubus",
                   "_iconX": 959,
                   "_iconY": 0,
@@ -1055,12 +1055,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3136,
                   "_lessonId": 1006,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a7d6acdb-12a2-4d45-89da-faf6e2c81d34",
                   "_index": 2,
-                  "name": "Allison Cantu",
+                  "_name": "Allison Cantu",
                   "_type": "Syllubus",
                   "_iconX": 269,
                   "_iconY": 448,
@@ -1071,12 +1071,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4692,
                   "_lessonId": 3019,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-892b7418-222a-4743-bcb8-5b0cc7a374f0",
                   "_index": 3,
-                  "name": "Evans Coffey",
+                  "_name": "Evans Coffey",
                   "_type": "Syllubus",
                   "_iconX": 419,
                   "_iconY": 108,
@@ -1087,12 +1087,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2789,
                   "_lessonId": 4179,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-edef6c48-56e4-4faf-a083-742144e3c6ac",
                   "_index": 4,
-                  "name": "Tara Stuart",
+                  "_name": "Tara Stuart",
                   "_type": "Syllubus",
                   "_iconX": 541,
                   "_iconY": 535,
@@ -1103,7 +1103,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4235,
                   "_lessonId": 3828,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1115,7 +1115,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ff82f812-833b-4acb-ab00-f7c801166984",
                   "_index": 0,
-                  "name": "Buchanan Schmidt",
+                  "_name": "Buchanan Schmidt",
                   "_type": "Syllubus",
                   "_iconX": 228,
                   "_iconY": 21,
@@ -1126,12 +1126,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3946,
                   "_lessonId": 5366,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a763c045-2d28-442b-9d2d-e90aec558d67",
                   "_index": 1,
-                  "name": "Cantrell Baxter",
+                  "_name": "Cantrell Baxter",
                   "_type": "Syllubus",
                   "_iconX": 292,
                   "_iconY": 200,
@@ -1142,12 +1142,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1700,
                   "_lessonId": 1074,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8a794afa-9bd9-4d79-b27e-f87b0d277426",
                   "_index": 2,
-                  "name": "Carr Johns",
+                  "_name": "Carr Johns",
                   "_type": "Syllubus",
                   "_iconX": 629,
                   "_iconY": 403,
@@ -1158,12 +1158,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2944,
                   "_lessonId": 1433,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5de004f-c9df-4213-9a12-88f65e974a36",
                   "_index": 3,
-                  "name": "Randi Terry",
+                  "_name": "Randi Terry",
                   "_type": "Syllubus",
                   "_iconX": 826,
                   "_iconY": 390,
@@ -1174,12 +1174,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3374,
                   "_lessonId": 4830,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-386fbb18-0739-42de-990b-d58ad545d4d0",
                   "_index": 4,
-                  "name": "Ericka Merrill",
+                  "_name": "Ericka Merrill",
                   "_type": "Syllubus",
                   "_iconX": 236,
                   "_iconY": 560,
@@ -1190,12 +1190,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4703,
                   "_lessonId": 5046,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-572aca41-ca52-4086-838d-42298a767945",
                   "_index": 5,
-                  "name": "Holt Pratt",
+                  "_name": "Holt Pratt",
                   "_type": "Syllubus",
                   "_iconX": 650,
                   "_iconY": 197,
@@ -1206,7 +1206,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3215,
                   "_lessonId": 2542,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1218,7 +1218,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-46e1a050-e5ad-48bb-86e1-b3660b7ef367",
                   "_index": 0,
-                  "name": "Millie Copeland",
+                  "_name": "Millie Copeland",
                   "_type": "Syllubus",
                   "_iconX": 377,
                   "_iconY": 142,
@@ -1229,12 +1229,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3551,
                   "_lessonId": 2687,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31c3b197-8bfb-4862-a53c-dbff207f4d34",
                   "_index": 1,
-                  "name": "Lana Sandoval",
+                  "_name": "Lana Sandoval",
                   "_type": "Syllubus",
                   "_iconX": 723,
                   "_iconY": 256,
@@ -1245,12 +1245,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4292,
                   "_lessonId": 2666,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5900c0cf-e765-443c-8b04-8651f41a7a66",
                   "_index": 2,
-                  "name": "Cassandra Steele",
+                  "_name": "Cassandra Steele",
                   "_type": "Syllubus",
                   "_iconX": 225,
                   "_iconY": 295,
@@ -1261,12 +1261,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5729,
                   "_lessonId": 4953,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-491c36d8-15dc-4e78-9155-e00668a23aca",
                   "_index": 3,
-                  "name": "Burch Caldwell",
+                  "_name": "Burch Caldwell",
                   "_type": "Syllubus",
                   "_iconX": 260,
                   "_iconY": 27,
@@ -1277,12 +1277,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2980,
                   "_lessonId": 4436,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-48743dad-c225-405b-aed6-5367f74225ed",
                   "_index": 4,
-                  "name": "Odom Strong",
+                  "_name": "Odom Strong",
                   "_type": "Syllubus",
                   "_iconX": 691,
                   "_iconY": 195,
@@ -1293,12 +1293,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5418,
                   "_lessonId": 1056,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-014f04d4-14c3-4aa2-b33c-2247b7412b05",
                   "_index": 5,
-                  "name": "Wilkerson Hawkins",
+                  "_name": "Wilkerson Hawkins",
                   "_type": "Syllubus",
                   "_iconX": 200,
                   "_iconY": 409,
@@ -1309,7 +1309,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2925,
                   "_lessonId": 5129,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1321,7 +1321,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d9ba9aea-be48-4733-bc4e-7eeee211e42a",
                   "_index": 0,
-                  "name": "Billie Foster",
+                  "_name": "Billie Foster",
                   "_type": "Syllubus",
                   "_iconX": 86,
                   "_iconY": 182,
@@ -1332,12 +1332,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5486,
                   "_lessonId": 3564,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-91473adc-9ba0-449a-b6da-720dd0680a2f",
                   "_index": 1,
-                  "name": "Morris Boyd",
+                  "_name": "Morris Boyd",
                   "_type": "Syllubus",
                   "_iconX": 495,
                   "_iconY": 437,
@@ -1348,12 +1348,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4870,
                   "_lessonId": 1254,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ec1cce85-f9c9-4363-a0fb-921396d1f23c",
                   "_index": 2,
-                  "name": "Hawkins Gaines",
+                  "_name": "Hawkins Gaines",
                   "_type": "Syllubus",
                   "_iconX": 446,
                   "_iconY": 146,
@@ -1364,12 +1364,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4061,
                   "_lessonId": 1314,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-efb5d366-ef58-4ca2-8c7f-ceb4508da50a",
                   "_index": 3,
-                  "name": "Silvia Kent",
+                  "_name": "Silvia Kent",
                   "_type": "Syllubus",
                   "_iconX": 889,
                   "_iconY": 432,
@@ -1380,12 +1380,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1766,
                   "_lessonId": 4443,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d4348aac-0eee-41c7-8dc8-975c1c4a80d9",
                   "_index": 4,
-                  "name": "Jeannette Crawford",
+                  "_name": "Jeannette Crawford",
                   "_type": "Syllubus",
                   "_iconX": 791,
                   "_iconY": 329,
@@ -1396,12 +1396,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1962,
                   "_lessonId": 2182,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3481e495-0a94-4cf4-8696-0b12516144f8",
                   "_index": 5,
-                  "name": "Turner Peterson",
+                  "_name": "Turner Peterson",
                   "_type": "Syllubus",
                   "_iconX": 150,
                   "_iconY": 233,
@@ -1412,12 +1412,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1627,
                   "_lessonId": 4865,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-64eecd23-7d28-44c3-9a7f-ae1e0e27ca9a",
                   "_index": 6,
-                  "name": "Gale Pitts",
+                  "_name": "Gale Pitts",
                   "_type": "Syllubus",
                   "_iconX": 267,
                   "_iconY": 23,
@@ -1428,7 +1428,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2951,
                   "_lessonId": 5854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -1451,7 +1451,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b3ef2c26-bc48-4f18-954d-36cccf110f79",
                   "_index": 0,
-                  "name": "Elisa Sutton",
+                  "_name": "Elisa Sutton",
                   "_type": "Syllubus",
                   "_iconX": 473,
                   "_iconY": 65,
@@ -1462,12 +1462,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3891,
                   "_lessonId": 5632,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fa1d227e-fafa-4aa1-976c-9bcf88c6dc96",
                   "_index": 1,
-                  "name": "Carrillo Church",
+                  "_name": "Carrillo Church",
                   "_type": "Syllubus",
                   "_iconX": 888,
                   "_iconY": 51,
@@ -1478,12 +1478,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1873,
                   "_lessonId": 3287,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1866a2b-dacd-4557-880a-ef3968e7d3a0",
                   "_index": 2,
-                  "name": "Chris Lyons",
+                  "_name": "Chris Lyons",
                   "_type": "Syllubus",
                   "_iconX": 117,
                   "_iconY": 471,
@@ -1494,12 +1494,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4480,
                   "_lessonId": 5001,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b865071b-10f0-49f5-8949-d9c6c5472cc3",
                   "_index": 3,
-                  "name": "Pace Ratliff",
+                  "_name": "Pace Ratliff",
                   "_type": "Syllubus",
                   "_iconX": 854,
                   "_iconY": 457,
@@ -1510,12 +1510,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3853,
                   "_lessonId": 4614,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6d79fa01-fdeb-46e2-a0fd-89ef0387c108",
                   "_index": 4,
-                  "name": "Emilia Nolan",
+                  "_name": "Emilia Nolan",
                   "_type": "Syllubus",
                   "_iconX": 907,
                   "_iconY": 193,
@@ -1526,12 +1526,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3758,
                   "_lessonId": 4206,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-250c4b01-cbd3-423c-b9d2-ad4f4b87ed6d",
                   "_index": 5,
-                  "name": "Helena Logan",
+                  "_name": "Helena Logan",
                   "_type": "Syllubus",
                   "_iconX": 930,
                   "_iconY": 189,
@@ -1542,12 +1542,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3378,
                   "_lessonId": 2237,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-48872e07-9546-4a2a-a74b-f91e6abd3902",
                   "_index": 6,
-                  "name": "Christy Navarro",
+                  "_name": "Christy Navarro",
                   "_type": "Syllubus",
                   "_iconX": 150,
                   "_iconY": 33,
@@ -1558,7 +1558,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4053,
                   "_lessonId": 2670,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1570,7 +1570,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-92056521-0000-4c3d-b904-2279bb0c46ed",
                   "_index": 0,
-                  "name": "Farmer Carney",
+                  "_name": "Farmer Carney",
                   "_type": "Syllubus",
                   "_iconX": 947,
                   "_iconY": 221,
@@ -1581,12 +1581,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1985,
                   "_lessonId": 1660,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8c36dbc0-dc7c-4293-b280-7df0c0ba5f13",
                   "_index": 1,
-                  "name": "Phelps Blackwell",
+                  "_name": "Phelps Blackwell",
                   "_type": "Syllubus",
                   "_iconX": 786,
                   "_iconY": 402,
@@ -1597,12 +1597,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5226,
                   "_lessonId": 5986,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c7430687-637c-42f6-bd57-ed16b72f2ea4",
                   "_index": 2,
-                  "name": "Kent Blanchard",
+                  "_name": "Kent Blanchard",
                   "_type": "Syllubus",
                   "_iconX": 328,
                   "_iconY": 104,
@@ -1613,12 +1613,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1111,
                   "_lessonId": 5589,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a604fa6d-7707-45e7-bbad-517321235784",
                   "_index": 3,
-                  "name": "Padilla Holman",
+                  "_name": "Padilla Holman",
                   "_type": "Syllubus",
                   "_iconX": 150,
                   "_iconY": 351,
@@ -1629,12 +1629,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5594,
                   "_lessonId": 1950,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1d94766d-d2d2-4667-accd-6316d1a0fa4a",
                   "_index": 4,
-                  "name": "Conrad Moses",
+                  "_name": "Conrad Moses",
                   "_type": "Syllubus",
                   "_iconX": 182,
                   "_iconY": 384,
@@ -1645,12 +1645,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1608,
                   "_lessonId": 2753,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-52f9e561-9f91-4bdc-b874-e7abc1d77530",
                   "_index": 5,
-                  "name": "Payne Brewer",
+                  "_name": "Payne Brewer",
                   "_type": "Syllubus",
                   "_iconX": 510,
                   "_iconY": 508,
@@ -1661,7 +1661,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3590,
                   "_lessonId": 5473,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1673,7 +1673,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-83528a7f-21b0-4537-b5ca-63067ce63e3f",
                   "_index": 0,
-                  "name": "Burns House",
+                  "_name": "Burns House",
                   "_type": "Syllubus",
                   "_iconX": 697,
                   "_iconY": 201,
@@ -1684,12 +1684,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4353,
                   "_lessonId": 4459,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e9c658c7-12d3-40e2-a1c4-2cf176354604",
                   "_index": 1,
-                  "name": "Melinda Fisher",
+                  "_name": "Melinda Fisher",
                   "_type": "Syllubus",
                   "_iconX": 456,
                   "_iconY": 110,
@@ -1700,12 +1700,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1328,
                   "_lessonId": 4648,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d2e81c5d-5b3f-45d9-a7af-021c44ff8eee",
                   "_index": 2,
-                  "name": "Logan Finch",
+                  "_name": "Logan Finch",
                   "_type": "Syllubus",
                   "_iconX": 647,
                   "_iconY": 332,
@@ -1716,12 +1716,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3649,
                   "_lessonId": 3512,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76651c4e-f4e0-4a7d-a211-94d34f91fc57",
                   "_index": 3,
-                  "name": "Oneal Guy",
+                  "_name": "Oneal Guy",
                   "_type": "Syllubus",
                   "_iconX": 299,
                   "_iconY": 339,
@@ -1732,12 +1732,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1972,
                   "_lessonId": 5609,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-22362410-f3ef-41cb-abb8-00e18a2a8980",
                   "_index": 4,
-                  "name": "Collins Joyce",
+                  "_name": "Collins Joyce",
                   "_type": "Syllubus",
                   "_iconX": 625,
                   "_iconY": 597,
@@ -1748,12 +1748,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5012,
                   "_lessonId": 4946,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cdc3e51c-3276-4e4a-8d09-b21345a2a3a6",
                   "_index": 5,
-                  "name": "Knox Perkins",
+                  "_name": "Knox Perkins",
                   "_type": "Syllubus",
                   "_iconX": 23,
                   "_iconY": 367,
@@ -1764,7 +1764,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5076,
                   "_lessonId": 1452,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1776,7 +1776,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2e856325-90eb-45b5-a143-9c9271d86c63",
                   "_index": 0,
-                  "name": "Cruz Franklin",
+                  "_name": "Cruz Franklin",
                   "_type": "Syllubus",
                   "_iconX": 155,
                   "_iconY": 27,
@@ -1787,12 +1787,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2340,
                   "_lessonId": 3995,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3258ecea-63bd-4bba-8db3-236a28c84429",
                   "_index": 1,
-                  "name": "Patrica Gilliam",
+                  "_name": "Patrica Gilliam",
                   "_type": "Syllubus",
                   "_iconX": 234,
                   "_iconY": 275,
@@ -1803,12 +1803,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1746,
                   "_lessonId": 4650,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9994c2a7-da66-45aa-a762-321ff9f75f18",
                   "_index": 2,
-                  "name": "Oconnor Perez",
+                  "_name": "Oconnor Perez",
                   "_type": "Syllubus",
                   "_iconX": 47,
                   "_iconY": 190,
@@ -1819,12 +1819,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3590,
                   "_lessonId": 3229,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4453f495-e70c-4527-8c96-df6930ac36e2",
                   "_index": 3,
-                  "name": "Milagros Coleman",
+                  "_name": "Milagros Coleman",
                   "_type": "Syllubus",
                   "_iconX": 431,
                   "_iconY": 211,
@@ -1835,12 +1835,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2374,
                   "_lessonId": 2465,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ff6115bf-18e3-4246-ac0b-40e1bf9098f6",
                   "_index": 4,
-                  "name": "Robyn Pruitt",
+                  "_name": "Robyn Pruitt",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 293,
@@ -1851,12 +1851,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1499,
                   "_lessonId": 5162,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8e0fc594-7b66-49c1-a9b5-2b062ff48b49",
                   "_index": 5,
-                  "name": "Tamra Chandler",
+                  "_name": "Tamra Chandler",
                   "_type": "Syllubus",
                   "_iconX": 271,
                   "_iconY": 376,
@@ -1867,7 +1867,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3205,
                   "_lessonId": 4854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1879,7 +1879,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-5435de5f-a494-43da-bb55-07d417358d77",
                   "_index": 0,
-                  "name": "Hatfield Banks",
+                  "_name": "Hatfield Banks",
                   "_type": "Syllubus",
                   "_iconX": 623,
                   "_iconY": 275,
@@ -1890,12 +1890,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4687,
                   "_lessonId": 5692,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-42381643-8a6f-4a7d-92a2-7da0f5bd3871",
                   "_index": 1,
-                  "name": "Becker Cote",
+                  "_name": "Becker Cote",
                   "_type": "Syllubus",
                   "_iconX": 481,
                   "_iconY": 12,
@@ -1906,12 +1906,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2379,
                   "_lessonId": 4519,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d60c6b8c-5f3f-4883-8694-4e4ff4b91da1",
                   "_index": 2,
-                  "name": "Lorna Rasmussen",
+                  "_name": "Lorna Rasmussen",
                   "_type": "Syllubus",
                   "_iconX": 66,
                   "_iconY": 416,
@@ -1922,12 +1922,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5876,
                   "_lessonId": 5297,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fedab32a-13a8-4a49-a059-3e489ad9d02c",
                   "_index": 3,
-                  "name": "Moreno Watson",
+                  "_name": "Moreno Watson",
                   "_type": "Syllubus",
                   "_iconX": 156,
                   "_iconY": 287,
@@ -1938,12 +1938,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5756,
                   "_lessonId": 4575,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f26f8659-bf3e-43c8-a20f-d7d208c21fb0",
                   "_index": 4,
-                  "name": "Althea Hanson",
+                  "_name": "Althea Hanson",
                   "_type": "Syllubus",
                   "_iconX": 699,
                   "_iconY": 485,
@@ -1954,7 +1954,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3397,
                   "_lessonId": 1299,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -1966,7 +1966,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-af1bff9d-2df6-492d-a94a-db7596ea18a0",
                   "_index": 0,
-                  "name": "Young Whitfield",
+                  "_name": "Young Whitfield",
                   "_type": "Syllubus",
                   "_iconX": 725,
                   "_iconY": 243,
@@ -1977,12 +1977,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2285,
                   "_lessonId": 5421,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-321162d0-3cf4-41e4-a631-2764b5f14d9b",
                   "_index": 1,
-                  "name": "Nguyen Bradshaw",
+                  "_name": "Nguyen Bradshaw",
                   "_type": "Syllubus",
                   "_iconX": 956,
                   "_iconY": 200,
@@ -1993,12 +1993,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2391,
                   "_lessonId": 4427,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8e2bd9c3-2f81-4dad-91f8-b29cbe8aefd1",
                   "_index": 2,
-                  "name": "Faye English",
+                  "_name": "Faye English",
                   "_type": "Syllubus",
                   "_iconX": 307,
                   "_iconY": 334,
@@ -2009,12 +2009,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3909,
                   "_lessonId": 1085,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7bbcf8ae-8c8b-404e-8832-8a94bb586d90",
                   "_index": 3,
-                  "name": "Olsen Jacobson",
+                  "_name": "Olsen Jacobson",
                   "_type": "Syllubus",
                   "_iconX": 873,
                   "_iconY": 377,
@@ -2025,12 +2025,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4523,
                   "_lessonId": 5768,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e6ae9925-5859-4956-8f32-0229f41d0339",
                   "_index": 4,
-                  "name": "Reeves Salinas",
+                  "_name": "Reeves Salinas",
                   "_type": "Syllubus",
                   "_iconX": 771,
                   "_iconY": 135,
@@ -2041,12 +2041,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3401,
                   "_lessonId": 1255,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-55c95a81-bb26-4aad-be91-2b6d4db0cb66",
                   "_index": 5,
-                  "name": "Rodgers Bryan",
+                  "_name": "Rodgers Bryan",
                   "_type": "Syllubus",
                   "_iconX": 598,
                   "_iconY": 320,
@@ -2057,7 +2057,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1621,
                   "_lessonId": 1984,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -2080,7 +2080,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4c079201-38bb-4e6e-9dfe-e57f537944eb",
                   "_index": 0,
-                  "name": "Marcie Morrison",
+                  "_name": "Marcie Morrison",
                   "_type": "Syllubus",
                   "_iconX": 87,
                   "_iconY": 504,
@@ -2091,12 +2091,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2721,
                   "_lessonId": 5024,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c49dcd4b-1264-4492-b914-d404a1174d8b",
                   "_index": 1,
-                  "name": "Knight Morse",
+                  "_name": "Knight Morse",
                   "_type": "Syllubus",
                   "_iconX": 596,
                   "_iconY": 307,
@@ -2107,12 +2107,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3691,
                   "_lessonId": 5079,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a7865631-8e67-401d-bb52-967efd43a3e6",
                   "_index": 2,
-                  "name": "Ines Sargent",
+                  "_name": "Ines Sargent",
                   "_type": "Syllubus",
                   "_iconX": 587,
                   "_iconY": 182,
@@ -2123,12 +2123,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4967,
                   "_lessonId": 4165,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-399720a6-443e-4c61-a62c-b96c9b9bc801",
                   "_index": 3,
-                  "name": "Rosanne Barron",
+                  "_name": "Rosanne Barron",
                   "_type": "Syllubus",
                   "_iconX": 337,
                   "_iconY": 367,
@@ -2139,12 +2139,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5968,
                   "_lessonId": 2413,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31ea64a1-c2b9-4795-a2de-bbee71aed03a",
                   "_index": 4,
-                  "name": "Aimee Haynes",
+                  "_name": "Aimee Haynes",
                   "_type": "Syllubus",
                   "_iconX": 826,
                   "_iconY": 512,
@@ -2155,12 +2155,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3615,
                   "_lessonId": 2362,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ef0c0e05-30d4-4333-a5dc-d352f72dffa7",
                   "_index": 5,
-                  "name": "Maribel Parks",
+                  "_name": "Maribel Parks",
                   "_type": "Syllubus",
                   "_iconX": 203,
                   "_iconY": 288,
@@ -2171,12 +2171,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3748,
                   "_lessonId": 3344,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-146b705a-4d9a-4c5e-a2fd-515c75c3968a",
                   "_index": 6,
-                  "name": "Barlow David",
+                  "_name": "Barlow David",
                   "_type": "Syllubus",
                   "_iconX": 627,
                   "_iconY": 140,
@@ -2187,7 +2187,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4936,
                   "_lessonId": 2780,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2199,7 +2199,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c16be824-abf8-443e-aae5-6670a80d414f",
                   "_index": 0,
-                  "name": "Coleen Chaney",
+                  "_name": "Coleen Chaney",
                   "_type": "Syllubus",
                   "_iconX": 12,
                   "_iconY": 416,
@@ -2210,12 +2210,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4322,
                   "_lessonId": 4537,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4efc1fc2-1f7f-44f8-a2b1-593fbc4bccca",
                   "_index": 1,
-                  "name": "Young Robbins",
+                  "_name": "Young Robbins",
                   "_type": "Syllubus",
                   "_iconX": 272,
                   "_iconY": 407,
@@ -2226,12 +2226,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1650,
                   "_lessonId": 4265,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-65321d95-aeda-45ba-a86f-72531b5618d7",
                   "_index": 2,
-                  "name": "Bette Blair",
+                  "_name": "Bette Blair",
                   "_type": "Syllubus",
                   "_iconX": 263,
                   "_iconY": 73,
@@ -2242,12 +2242,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2726,
                   "_lessonId": 2004,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-13a08832-6ee3-491d-89f2-bb63d335ac7f",
                   "_index": 3,
-                  "name": "Eloise Duke",
+                  "_name": "Eloise Duke",
                   "_type": "Syllubus",
                   "_iconX": 787,
                   "_iconY": 389,
@@ -2258,12 +2258,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5385,
                   "_lessonId": 4504,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5bec27e8-8aa6-4c40-87fa-10e779e01f51",
                   "_index": 4,
-                  "name": "Mccoy Mays",
+                  "_name": "Mccoy Mays",
                   "_type": "Syllubus",
                   "_iconX": 759,
                   "_iconY": 49,
@@ -2274,7 +2274,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2738,
                   "_lessonId": 5697,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2286,7 +2286,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-3340468a-ab88-4ab1-9473-5e54473e3b51",
                   "_index": 0,
-                  "name": "Owens Turner",
+                  "_name": "Owens Turner",
                   "_type": "Syllubus",
                   "_iconX": 899,
                   "_iconY": 347,
@@ -2297,12 +2297,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2864,
                   "_lessonId": 5791,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e55c8f5a-b373-4b1e-ab98-842e908ba170",
                   "_index": 1,
-                  "name": "Spears Hill",
+                  "_name": "Spears Hill",
                   "_type": "Syllubus",
                   "_iconX": 940,
                   "_iconY": 343,
@@ -2313,12 +2313,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2273,
                   "_lessonId": 3817,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4ad41e4e-c0f7-441d-a04c-9a3ea12842fe",
                   "_index": 2,
-                  "name": "Richard Berg",
+                  "_name": "Richard Berg",
                   "_type": "Syllubus",
                   "_iconX": 833,
                   "_iconY": 311,
@@ -2329,12 +2329,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4201,
                   "_lessonId": 4037,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b430c1a4-f5ed-453b-8ae2-d166b1a5ecf9",
                   "_index": 3,
-                  "name": "Wilkins Burns",
+                  "_name": "Wilkins Burns",
                   "_type": "Syllubus",
                   "_iconX": 690,
                   "_iconY": 348,
@@ -2345,12 +2345,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2713,
                   "_lessonId": 3446,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ada7f07a-87af-40c6-bb8c-4e43bc822209",
                   "_index": 4,
-                  "name": "Chandra Golden",
+                  "_name": "Chandra Golden",
                   "_type": "Syllubus",
                   "_iconX": 787,
                   "_iconY": 523,
@@ -2361,12 +2361,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3185,
                   "_lessonId": 4838,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-244645d9-d8ae-46e5-bd7d-f09887840813",
                   "_index": 5,
-                  "name": "Helga Key",
+                  "_name": "Helga Key",
                   "_type": "Syllubus",
                   "_iconX": 875,
                   "_iconY": 184,
@@ -2377,7 +2377,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3106,
                   "_lessonId": 4001,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2389,7 +2389,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d31f4060-35e8-417d-8831-51c582b5268c",
                   "_index": 0,
-                  "name": "Sheree Sherman",
+                  "_name": "Sheree Sherman",
                   "_type": "Syllubus",
                   "_iconX": 205,
                   "_iconY": 456,
@@ -2400,12 +2400,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2072,
                   "_lessonId": 4443,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fa9fe1f5-bab8-4f27-b86b-6fbc1409c6e7",
                   "_index": 1,
-                  "name": "Cynthia Clayton",
+                  "_name": "Cynthia Clayton",
                   "_type": "Syllubus",
                   "_iconX": 418,
                   "_iconY": 97,
@@ -2416,12 +2416,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2175,
                   "_lessonId": 4282,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b4754b21-2325-4f95-9eaf-ab18492efa0a",
                   "_index": 2,
-                  "name": "Hale Dean",
+                  "_name": "Hale Dean",
                   "_type": "Syllubus",
                   "_iconX": 640,
                   "_iconY": 437,
@@ -2432,12 +2432,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3360,
                   "_lessonId": 4452,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a771002-116d-40eb-9a3e-1e88eca494b5",
                   "_index": 3,
-                  "name": "Frances Porter",
+                  "_name": "Frances Porter",
                   "_type": "Syllubus",
                   "_iconX": 537,
                   "_iconY": 221,
@@ -2448,12 +2448,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2039,
                   "_lessonId": 2100,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-58e96bac-4bdc-406a-9702-bc0253dd38e0",
                   "_index": 4,
-                  "name": "Hayden Nash",
+                  "_name": "Hayden Nash",
                   "_type": "Syllubus",
                   "_iconX": 121,
                   "_iconY": 377,
@@ -2464,12 +2464,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5465,
                   "_lessonId": 5452,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bce82d39-de2b-4be4-9629-4f32d81b9da0",
                   "_index": 5,
-                  "name": "Ollie Kennedy",
+                  "_name": "Ollie Kennedy",
                   "_type": "Syllubus",
                   "_iconX": 626,
                   "_iconY": 378,
@@ -2480,12 +2480,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2136,
                   "_lessonId": 5803,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3e7c5b03-c83d-4169-82c1-4e4b3164c25d",
                   "_index": 6,
-                  "name": "Buckner Stanley",
+                  "_name": "Buckner Stanley",
                   "_type": "Syllubus",
                   "_iconX": 568,
                   "_iconY": 84,
@@ -2496,7 +2496,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4209,
                   "_lessonId": 5656,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2508,7 +2508,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9a20c9c5-b9ff-4de3-b040-68f1e061de29",
                   "_index": 0,
-                  "name": "Alfreda Holloway",
+                  "_name": "Alfreda Holloway",
                   "_type": "Syllubus",
                   "_iconX": 601,
                   "_iconY": 157,
@@ -2519,12 +2519,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5235,
                   "_lessonId": 3627,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2c03be7d-165e-485a-a8c8-e96f78b1694f",
                   "_index": 1,
-                  "name": "Jordan Lynn",
+                  "_name": "Jordan Lynn",
                   "_type": "Syllubus",
                   "_iconX": 116,
                   "_iconY": 453,
@@ -2535,12 +2535,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4339,
                   "_lessonId": 2644,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-98e17ff6-79f8-4810-8f79-1f66792562e6",
                   "_index": 2,
-                  "name": "Mona Hopkins",
+                  "_name": "Mona Hopkins",
                   "_type": "Syllubus",
                   "_iconX": 891,
                   "_iconY": 283,
@@ -2551,12 +2551,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1489,
                   "_lessonId": 2324,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-697ea9ff-d910-4d4e-9159-37fbb8cc2cc6",
                   "_index": 3,
-                  "name": "Chan Heath",
+                  "_name": "Chan Heath",
                   "_type": "Syllubus",
                   "_iconX": 55,
                   "_iconY": 72,
@@ -2567,12 +2567,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2418,
                   "_lessonId": 1110,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b2b9e284-5f63-4178-b906-3557ebad0fbe",
                   "_index": 4,
-                  "name": "Jennifer Floyd",
+                  "_name": "Jennifer Floyd",
                   "_type": "Syllubus",
                   "_iconX": 592,
                   "_iconY": 0,
@@ -2583,12 +2583,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3306,
                   "_lessonId": 2275,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0797bcaa-9e62-40d1-97c6-d91ff5832160",
                   "_index": 5,
-                  "name": "Gaines Ruiz",
+                  "_name": "Gaines Ruiz",
                   "_type": "Syllubus",
                   "_iconX": 338,
                   "_iconY": 402,
@@ -2599,7 +2599,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1433,
                   "_lessonId": 1080,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2611,7 +2611,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-325791c0-aa8d-4606-8eaf-aede5d27ddbe",
                   "_index": 0,
-                  "name": "Fay May",
+                  "_name": "Fay May",
                   "_type": "Syllubus",
                   "_iconX": 62,
                   "_iconY": 474,
@@ -2622,12 +2622,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5163,
                   "_lessonId": 4632,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a8627a6a-2447-4cd0-acba-1440c017c52d",
                   "_index": 1,
-                  "name": "Jill Frazier",
+                  "_name": "Jill Frazier",
                   "_type": "Syllubus",
                   "_iconX": 556,
                   "_iconY": 113,
@@ -2638,12 +2638,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5664,
                   "_lessonId": 2251,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2d1d96d9-c34d-4899-b9b7-7a4cb582e767",
                   "_index": 2,
-                  "name": "Frankie Barber",
+                  "_name": "Frankie Barber",
                   "_type": "Syllubus",
                   "_iconX": 23,
                   "_iconY": 466,
@@ -2654,12 +2654,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5376,
                   "_lessonId": 4546,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21abeff3-0bbb-4ffe-8a3f-bcec01b08698",
                   "_index": 3,
-                  "name": "Wendi Hess",
+                  "_name": "Wendi Hess",
                   "_type": "Syllubus",
                   "_iconX": 24,
                   "_iconY": 429,
@@ -2670,12 +2670,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3692,
                   "_lessonId": 1952,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b77800fc-f3c2-4dfd-9971-2d96cbca48cb",
                   "_index": 4,
-                  "name": "Kimberley Conway",
+                  "_name": "Kimberley Conway",
                   "_type": "Syllubus",
                   "_iconX": 755,
                   "_iconY": 541,
@@ -2686,7 +2686,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3778,
                   "_lessonId": 3046,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -2709,7 +2709,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-26d1e3c7-0465-4318-8b91-e81632733158",
                   "_index": 0,
-                  "name": "Rice Norman",
+                  "_name": "Rice Norman",
                   "_type": "Syllubus",
                   "_iconX": 774,
                   "_iconY": 167,
@@ -2720,12 +2720,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4894,
                   "_lessonId": 1918,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ec21ee8b-363b-415f-9364-b1edfaa2534d",
                   "_index": 1,
-                  "name": "Katy Dawson",
+                  "_name": "Katy Dawson",
                   "_type": "Syllubus",
                   "_iconX": 624,
                   "_iconY": 496,
@@ -2736,12 +2736,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5635,
                   "_lessonId": 2757,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a61e1708-7334-4e07-bd8f-cbac5dba768b",
                   "_index": 2,
-                  "name": "Paige Byers",
+                  "_name": "Paige Byers",
                   "_type": "Syllubus",
                   "_iconX": 955,
                   "_iconY": 444,
@@ -2752,12 +2752,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4921,
                   "_lessonId": 2651,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a7e3f0ea-8440-409e-a218-8255b3cbecef",
                   "_index": 3,
-                  "name": "Joyce Cabrera",
+                  "_name": "Joyce Cabrera",
                   "_type": "Syllubus",
                   "_iconX": 889,
                   "_iconY": 106,
@@ -2768,12 +2768,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4628,
                   "_lessonId": 2126,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-545b8383-5579-4a31-9d9f-c180afb77969",
                   "_index": 4,
-                  "name": "Townsend Shaffer",
+                  "_name": "Townsend Shaffer",
                   "_type": "Syllubus",
                   "_iconX": 146,
                   "_iconY": 587,
@@ -2784,12 +2784,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3154,
                   "_lessonId": 4409,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3fd8d2b9-9ce0-4384-93cb-de57ba41aeef",
                   "_index": 5,
-                  "name": "Moody Stark",
+                  "_name": "Moody Stark",
                   "_type": "Syllubus",
                   "_iconX": 18,
                   "_iconY": 322,
@@ -2800,7 +2800,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5703,
                   "_lessonId": 5493,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2812,7 +2812,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a6bada52-6136-45e2-8992-27c81ea7a353",
                   "_index": 0,
-                  "name": "Kline Little",
+                  "_name": "Kline Little",
                   "_type": "Syllubus",
                   "_iconX": 735,
                   "_iconY": 418,
@@ -2823,12 +2823,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1928,
                   "_lessonId": 2946,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c7b9a7a-f64d-4d9a-aac8-b1170b1749ec",
                   "_index": 1,
-                  "name": "Ernestine Morton",
+                  "_name": "Ernestine Morton",
                   "_type": "Syllubus",
                   "_iconX": 805,
                   "_iconY": 253,
@@ -2839,12 +2839,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1370,
                   "_lessonId": 3168,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dc7e8daf-aca0-4dd9-9f21-588d269d4d98",
                   "_index": 2,
-                  "name": "Liz Newton",
+                  "_name": "Liz Newton",
                   "_type": "Syllubus",
                   "_iconX": 234,
                   "_iconY": 507,
@@ -2855,12 +2855,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4287,
                   "_lessonId": 4794,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d9c7d90c-4347-4566-a037-a2c65dd373c4",
                   "_index": 3,
-                  "name": "Schmidt Buckner",
+                  "_name": "Schmidt Buckner",
                   "_type": "Syllubus",
                   "_iconX": 438,
                   "_iconY": 448,
@@ -2871,12 +2871,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3553,
                   "_lessonId": 4873,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9b53a0a7-c13d-4a97-af05-3c46d8e0083e",
                   "_index": 4,
-                  "name": "Julie Peters",
+                  "_name": "Julie Peters",
                   "_type": "Syllubus",
                   "_iconX": 802,
                   "_iconY": 511,
@@ -2887,12 +2887,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4188,
                   "_lessonId": 2337,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fbeb604b-9461-422a-8b9a-11d6321a79d3",
                   "_index": 5,
-                  "name": "Fry Glover",
+                  "_name": "Fry Glover",
                   "_type": "Syllubus",
                   "_iconX": 389,
                   "_iconY": 10,
@@ -2903,7 +2903,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5743,
                   "_lessonId": 5412,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -2915,7 +2915,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d265f0ac-7dc7-4d26-aa07-a28f04502b64",
                   "_index": 0,
-                  "name": "Latoya Valdez",
+                  "_name": "Latoya Valdez",
                   "_type": "Syllubus",
                   "_iconX": 125,
                   "_iconY": 198,
@@ -2926,12 +2926,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5045,
                   "_lessonId": 5215,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-be0edf90-5ff1-4bd5-9257-538dd412a92b",
                   "_index": 1,
-                  "name": "Marsh Mendez",
+                  "_name": "Marsh Mendez",
                   "_type": "Syllubus",
                   "_iconX": 225,
                   "_iconY": 212,
@@ -2942,12 +2942,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4541,
                   "_lessonId": 1838,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-950f18d5-55d4-45d0-b71a-17918b15f7eb",
                   "_index": 2,
-                  "name": "Cheri Colon",
+                  "_name": "Cheri Colon",
                   "_type": "Syllubus",
                   "_iconX": 862,
                   "_iconY": 181,
@@ -2958,12 +2958,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5225,
                   "_lessonId": 4430,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-75c3ea69-9311-45cb-a5e7-3c229dc66d8d",
                   "_index": 3,
-                  "name": "Allison Lowery",
+                  "_name": "Allison Lowery",
                   "_type": "Syllubus",
                   "_iconX": 90,
                   "_iconY": 442,
@@ -2974,12 +2974,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4262,
                   "_lessonId": 3795,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e49bf105-9ae1-484e-b3ad-03291337dc4f",
                   "_index": 4,
-                  "name": "Norman Dudley",
+                  "_name": "Norman Dudley",
                   "_type": "Syllubus",
                   "_iconX": 979,
                   "_iconY": 4,
@@ -2990,12 +2990,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5981,
                   "_lessonId": 1442,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b3a869a5-b184-4537-b9bc-4d8c1e181fb9",
                   "_index": 5,
-                  "name": "Amber Pearson",
+                  "_name": "Amber Pearson",
                   "_type": "Syllubus",
                   "_iconX": 564,
                   "_iconY": 70,
@@ -3006,12 +3006,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4285,
                   "_lessonId": 3222,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-47481084-a91a-4614-ae0c-3d6bd2e36a7e",
                   "_index": 6,
-                  "name": "Odonnell Mullins",
+                  "_name": "Odonnell Mullins",
                   "_type": "Syllubus",
                   "_iconX": 62,
                   "_iconY": 106,
@@ -3022,7 +3022,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2373,
                   "_lessonId": 4822,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3034,7 +3034,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-3b1af171-d729-4beb-8bfc-61637fe8cf15",
                   "_index": 0,
-                  "name": "Sykes Villarreal",
+                  "_name": "Sykes Villarreal",
                   "_type": "Syllubus",
                   "_iconX": 933,
                   "_iconY": 1,
@@ -3045,12 +3045,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1546,
                   "_lessonId": 4626,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3296f639-2547-4023-bbca-6eb8ad781ceb",
                   "_index": 1,
-                  "name": "Janell Whitley",
+                  "_name": "Janell Whitley",
                   "_type": "Syllubus",
                   "_iconX": 577,
                   "_iconY": 156,
@@ -3061,12 +3061,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4616,
                   "_lessonId": 1790,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-081355d9-221f-4e3b-b40e-91fdabd7cfaf",
                   "_index": 2,
-                  "name": "Roach Osborn",
+                  "_name": "Roach Osborn",
                   "_type": "Syllubus",
                   "_iconX": 728,
                   "_iconY": 591,
@@ -3077,12 +3077,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1593,
                   "_lessonId": 4394,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aa0a8d95-0831-47c1-b518-7ef2bf53871c",
                   "_index": 3,
-                  "name": "Carla Harrell",
+                  "_name": "Carla Harrell",
                   "_type": "Syllubus",
                   "_iconX": 192,
                   "_iconY": 279,
@@ -3093,12 +3093,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4002,
                   "_lessonId": 2663,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2050cf44-2e66-47d3-8802-27d8d6a353f6",
                   "_index": 4,
-                  "name": "Donna Dillard",
+                  "_name": "Donna Dillard",
                   "_type": "Syllubus",
                   "_iconX": 407,
                   "_iconY": 547,
@@ -3109,12 +3109,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2489,
                   "_lessonId": 2507,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fdd912dc-6520-4584-9e93-6ef266da449d",
                   "_index": 5,
-                  "name": "Bell Bright",
+                  "_name": "Bell Bright",
                   "_type": "Syllubus",
                   "_iconX": 966,
                   "_iconY": 360,
@@ -3125,7 +3125,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2634,
                   "_lessonId": 3119,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3137,7 +3137,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ebb0e9fb-e16a-40b8-9835-0baa2f2f079c",
                   "_index": 0,
-                  "name": "Rosales Ramsey",
+                  "_name": "Rosales Ramsey",
                   "_type": "Syllubus",
                   "_iconX": 896,
                   "_iconY": 400,
@@ -3148,12 +3148,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4366,
                   "_lessonId": 1651,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0347b7c5-6886-4b5f-834d-fa21085ea890",
                   "_index": 1,
-                  "name": "Donaldson Powell",
+                  "_name": "Donaldson Powell",
                   "_type": "Syllubus",
                   "_iconX": 293,
                   "_iconY": 525,
@@ -3164,12 +3164,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2901,
                   "_lessonId": 3233,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-499af0fc-77cd-43d4-ada6-26974e16b8e4",
                   "_index": 2,
-                  "name": "Cross Buck",
+                  "_name": "Cross Buck",
                   "_type": "Syllubus",
                   "_iconX": 603,
                   "_iconY": 459,
@@ -3180,12 +3180,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4977,
                   "_lessonId": 2921,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-591d1e8e-fb55-4d58-85c5-9ff3cbd59e7e",
                   "_index": 3,
-                  "name": "Nixon Marshall",
+                  "_name": "Nixon Marshall",
                   "_type": "Syllubus",
                   "_iconX": 747,
                   "_iconY": 566,
@@ -3196,12 +3196,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4795,
                   "_lessonId": 3340,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76c3e41d-4392-4e21-98c7-642ef3979664",
                   "_index": 4,
-                  "name": "Puckett Nunez",
+                  "_name": "Puckett Nunez",
                   "_type": "Syllubus",
                   "_iconX": 504,
                   "_iconY": 331,
@@ -3212,7 +3212,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5555,
                   "_lessonId": 5820,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3224,7 +3224,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d4e4eb1f-4962-4301-8ac1-56a74c07c102",
                   "_index": 0,
-                  "name": "Alma Monroe",
+                  "_name": "Alma Monroe",
                   "_type": "Syllubus",
                   "_iconX": 955,
                   "_iconY": 329,
@@ -3235,12 +3235,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1218,
                   "_lessonId": 1075,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bf0ed814-0317-4120-a531-1dc5f0ec67cc",
                   "_index": 1,
-                  "name": "Joy Boyer",
+                  "_name": "Joy Boyer",
                   "_type": "Syllubus",
                   "_iconX": 535,
                   "_iconY": 177,
@@ -3251,12 +3251,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5418,
                   "_lessonId": 2714,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8552ada0-d2b7-45f0-8ea3-b9ce042e7663",
                   "_index": 2,
-                  "name": "Lisa Lambert",
+                  "_name": "Lisa Lambert",
                   "_type": "Syllubus",
                   "_iconX": 487,
                   "_iconY": 372,
@@ -3267,12 +3267,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3944,
                   "_lessonId": 5792,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e0e64401-0931-454a-82bd-71aeef574352",
                   "_index": 3,
-                  "name": "Jennings Hampton",
+                  "_name": "Jennings Hampton",
                   "_type": "Syllubus",
                   "_iconX": 743,
                   "_iconY": 350,
@@ -3283,12 +3283,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3628,
                   "_lessonId": 1187,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a5d4a63-5477-4c41-9ef1-dee848295c5f",
                   "_index": 4,
-                  "name": "Marietta Mcknight",
+                  "_name": "Marietta Mcknight",
                   "_type": "Syllubus",
                   "_iconX": 460,
                   "_iconY": 20,
@@ -3299,12 +3299,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5209,
                   "_lessonId": 1835,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0e01dacc-d587-4475-8fda-f1b9728eb088",
                   "_index": 5,
-                  "name": "Schneider Richards",
+                  "_name": "Schneider Richards",
                   "_type": "Syllubus",
                   "_iconX": 67,
                   "_iconY": 30,
@@ -3315,12 +3315,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4070,
                   "_lessonId": 1555,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e198c5a0-a621-4dcf-9b7e-1f28abf77889",
                   "_index": 6,
-                  "name": "Sawyer Fitzpatrick",
+                  "_name": "Sawyer Fitzpatrick",
                   "_type": "Syllubus",
                   "_iconX": 75,
                   "_iconY": 144,
@@ -3331,7 +3331,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4304,
                   "_lessonId": 5201,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3343,7 +3343,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-338263eb-1da7-4914-b0e0-31703022b6bc",
                   "_index": 0,
-                  "name": "Delia Downs",
+                  "_name": "Delia Downs",
                   "_type": "Syllubus",
                   "_iconX": 683,
                   "_iconY": 219,
@@ -3354,12 +3354,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5495,
                   "_lessonId": 4599,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-46bde6f3-408e-4fe6-b05a-3c4b38448f57",
                   "_index": 1,
-                  "name": "Parrish Prince",
+                  "_name": "Parrish Prince",
                   "_type": "Syllubus",
                   "_iconX": 521,
                   "_iconY": 260,
@@ -3370,12 +3370,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4120,
                   "_lessonId": 2498,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8ef094b8-6966-4520-82b3-4ff40cc5c7fe",
                   "_index": 2,
-                  "name": "Larsen Mccullough",
+                  "_name": "Larsen Mccullough",
                   "_type": "Syllubus",
                   "_iconX": 649,
                   "_iconY": 518,
@@ -3386,12 +3386,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4489,
                   "_lessonId": 4969,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c731e54-15e5-4c3f-929f-7086470fe2b2",
                   "_index": 3,
-                  "name": "Aurelia Wiley",
+                  "_name": "Aurelia Wiley",
                   "_type": "Syllubus",
                   "_iconX": 860,
                   "_iconY": 398,
@@ -3402,12 +3402,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5208,
                   "_lessonId": 3854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6efff3be-44e4-4842-be16-177ae5471229",
                   "_index": 4,
-                  "name": "Alexis Buchanan",
+                  "_name": "Alexis Buchanan",
                   "_type": "Syllubus",
                   "_iconX": 690,
                   "_iconY": 88,
@@ -3418,12 +3418,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2017,
                   "_lessonId": 1222,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f386901b-93ef-411c-906a-54d919ba4a69",
                   "_index": 5,
-                  "name": "Hansen Case",
+                  "_name": "Hansen Case",
                   "_type": "Syllubus",
                   "_iconX": 882,
                   "_iconY": 424,
@@ -3434,12 +3434,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3541,
                   "_lessonId": 2557,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-57dd01a5-f506-40c9-81f9-ed9b510c0f75",
                   "_index": 6,
-                  "name": "Clarissa Riggs",
+                  "_name": "Clarissa Riggs",
                   "_type": "Syllubus",
                   "_iconX": 672,
                   "_iconY": 7,
@@ -3450,7 +3450,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3431,
                   "_lessonId": 5013,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -3477,7 +3477,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-5fabb901-28a4-45ea-b40c-bb4408a512b3",
                   "_index": 0,
-                  "name": "Rachel Singleton",
+                  "_name": "Rachel Singleton",
                   "_type": "Syllubus",
                   "_iconX": 427,
                   "_iconY": 191,
@@ -3488,12 +3488,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4306,
                   "_lessonId": 2039,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e9e13852-e179-432f-9a66-401906782891",
                   "_index": 1,
-                  "name": "Ina Brennan",
+                  "_name": "Ina Brennan",
                   "_type": "Syllubus",
                   "_iconX": 369,
                   "_iconY": 139,
@@ -3504,12 +3504,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5509,
                   "_lessonId": 3078,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a20e0acd-7eac-4e47-b0b4-edc8f9be42b3",
                   "_index": 2,
-                  "name": "Mack Le",
+                  "_name": "Mack Le",
                   "_type": "Syllubus",
                   "_iconX": 728,
                   "_iconY": 170,
@@ -3520,12 +3520,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2435,
                   "_lessonId": 2973,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d504cbc8-c99c-4abe-96f7-2263d9cc270f",
                   "_index": 3,
-                  "name": "Katrina Roach",
+                  "_name": "Katrina Roach",
                   "_type": "Syllubus",
                   "_iconX": 485,
                   "_iconY": 172,
@@ -3536,12 +3536,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1411,
                   "_lessonId": 3234,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cd2287db-329e-4748-9c2f-e974c69fdccc",
                   "_index": 4,
-                  "name": "Hoover West",
+                  "_name": "Hoover West",
                   "_type": "Syllubus",
                   "_iconX": 154,
                   "_iconY": 6,
@@ -3552,12 +3552,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3114,
                   "_lessonId": 1720,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e17c3c25-3aec-412d-9eb8-0d69bb883f44",
                   "_index": 5,
-                  "name": "Casey Warren",
+                  "_name": "Casey Warren",
                   "_type": "Syllubus",
                   "_iconX": 594,
                   "_iconY": 36,
@@ -3568,7 +3568,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2685,
                   "_lessonId": 1089,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3580,7 +3580,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a75b1dbf-202a-4afc-b704-163cb37f3c3e",
                   "_index": 0,
-                  "name": "Lora Neal",
+                  "_name": "Lora Neal",
                   "_type": "Syllubus",
                   "_iconX": 288,
                   "_iconY": 256,
@@ -3591,12 +3591,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3451,
                   "_lessonId": 5541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b2754bb5-5c7b-4cfe-a264-63aa72ab5211",
                   "_index": 1,
-                  "name": "Jo Marquez",
+                  "_name": "Jo Marquez",
                   "_type": "Syllubus",
                   "_iconX": 307,
                   "_iconY": 322,
@@ -3607,12 +3607,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5801,
                   "_lessonId": 3565,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fe777a82-8a26-4463-b6e4-d1012635bab2",
                   "_index": 2,
-                  "name": "Gutierrez Ashley",
+                  "_name": "Gutierrez Ashley",
                   "_type": "Syllubus",
                   "_iconX": 322,
                   "_iconY": 286,
@@ -3623,12 +3623,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3654,
                   "_lessonId": 2262,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-58ffa301-0a55-414c-a7c9-070eff5ae89c",
                   "_index": 3,
-                  "name": "Kimberly Dillon",
+                  "_name": "Kimberly Dillon",
                   "_type": "Syllubus",
                   "_iconX": 821,
                   "_iconY": 246,
@@ -3639,12 +3639,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1980,
                   "_lessonId": 4343,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c9e097d9-b1ed-44f9-8808-1f3e41af5d3a",
                   "_index": 4,
-                  "name": "Jody Pace",
+                  "_name": "Jody Pace",
                   "_type": "Syllubus",
                   "_iconX": 456,
                   "_iconY": 265,
@@ -3655,7 +3655,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2157,
                   "_lessonId": 5644,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3667,7 +3667,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-f27dd87c-ade1-4916-98d8-8d631f7047ea",
                   "_index": 0,
-                  "name": "Massey Wooten",
+                  "_name": "Massey Wooten",
                   "_type": "Syllubus",
                   "_iconX": 468,
                   "_iconY": 47,
@@ -3678,12 +3678,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2064,
                   "_lessonId": 3473,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cb445171-798c-4fd5-a8c1-4156052314de",
                   "_index": 1,
-                  "name": "Edwards Mcclain",
+                  "_name": "Edwards Mcclain",
                   "_type": "Syllubus",
                   "_iconX": 382,
                   "_iconY": 452,
@@ -3694,12 +3694,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3975,
                   "_lessonId": 5990,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-91e892e1-e938-49e6-8cae-4296e04fdcce",
                   "_index": 2,
-                  "name": "Lottie Mcdonald",
+                  "_name": "Lottie Mcdonald",
                   "_type": "Syllubus",
                   "_iconX": 547,
                   "_iconY": 59,
@@ -3710,12 +3710,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5549,
                   "_lessonId": 5205,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-867c88ec-24a4-437f-ba84-521cd74ccc7b",
                   "_index": 3,
-                  "name": "Monique Sweet",
+                  "_name": "Monique Sweet",
                   "_type": "Syllubus",
                   "_iconX": 220,
                   "_iconY": 238,
@@ -3726,12 +3726,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4513,
                   "_lessonId": 1139,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cad714f6-8ca0-4d8c-b56f-90dfa86034f0",
                   "_index": 4,
-                  "name": "Faulkner Vargas",
+                  "_name": "Faulkner Vargas",
                   "_type": "Syllubus",
                   "_iconX": 190,
                   "_iconY": 204,
@@ -3742,12 +3742,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4248,
                   "_lessonId": 2486,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-79a1f363-b7d8-49cf-8f0c-33cc7eb7700f",
                   "_index": 5,
-                  "name": "Camacho Figueroa",
+                  "_name": "Camacho Figueroa",
                   "_type": "Syllubus",
                   "_iconX": 320,
                   "_iconY": 421,
@@ -3758,7 +3758,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3043,
                   "_lessonId": 1114,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3770,7 +3770,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a58dfaeb-97a2-4428-9dd0-49f784b3af8f",
                   "_index": 0,
-                  "name": "Carol Pate",
+                  "_name": "Carol Pate",
                   "_type": "Syllubus",
                   "_iconX": 372,
                   "_iconY": 393,
@@ -3781,12 +3781,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5847,
                   "_lessonId": 4624,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9fb904a0-fae4-4f3c-97db-88f0fac9385c",
                   "_index": 1,
-                  "name": "Zelma Ryan",
+                  "_name": "Zelma Ryan",
                   "_type": "Syllubus",
                   "_iconX": 232,
                   "_iconY": 350,
@@ -3797,12 +3797,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5243,
                   "_lessonId": 4523,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f7f2bf42-1e72-4f44-ae61-072f2e9da55a",
                   "_index": 2,
-                  "name": "Lauren Oneal",
+                  "_name": "Lauren Oneal",
                   "_type": "Syllubus",
                   "_iconX": 802,
                   "_iconY": 534,
@@ -3813,12 +3813,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4543,
                   "_lessonId": 5520,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fc332d85-c4b6-486d-b293-85bd4a3f506d",
                   "_index": 3,
-                  "name": "Mays Small",
+                  "_name": "Mays Small",
                   "_type": "Syllubus",
                   "_iconX": 629,
                   "_iconY": 535,
@@ -3829,12 +3829,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1895,
                   "_lessonId": 5888,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5544c0ef-3909-40d5-b6f9-9dfe02a06bcc",
                   "_index": 4,
-                  "name": "Tonia Cobb",
+                  "_name": "Tonia Cobb",
                   "_type": "Syllubus",
                   "_iconX": 28,
                   "_iconY": 573,
@@ -3845,7 +3845,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3491,
                   "_lessonId": 4433,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3857,7 +3857,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9cb79c7d-8455-4ffc-916d-cb669bfb2175",
                   "_index": 0,
-                  "name": "Brianna Mathews",
+                  "_name": "Brianna Mathews",
                   "_type": "Syllubus",
                   "_iconX": 291,
                   "_iconY": 89,
@@ -3868,12 +3868,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3950,
                   "_lessonId": 4200,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f7f62a1f-3522-4d3c-8da5-cc3d9b639874",
                   "_index": 1,
-                  "name": "Mildred Blevins",
+                  "_name": "Mildred Blevins",
                   "_type": "Syllubus",
                   "_iconX": 318,
                   "_iconY": 367,
@@ -3884,12 +3884,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1260,
                   "_lessonId": 2687,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-30bbc5b4-71ca-4aa1-be87-4bff8a09e57a",
                   "_index": 2,
-                  "name": "Ada Harper",
+                  "_name": "Ada Harper",
                   "_type": "Syllubus",
                   "_iconX": 572,
                   "_iconY": 344,
@@ -3900,12 +3900,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4191,
                   "_lessonId": 1841,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31a87658-78a0-44a7-aeb2-87a2b9252fca",
                   "_index": 3,
-                  "name": "Amie Hale",
+                  "_name": "Amie Hale",
                   "_type": "Syllubus",
                   "_iconX": 990,
                   "_iconY": 168,
@@ -3916,12 +3916,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1532,
                   "_lessonId": 3466,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2c4bbd0f-b1e7-43af-be09-281c561d894a",
                   "_index": 4,
-                  "name": "Angela Flowers",
+                  "_name": "Angela Flowers",
                   "_type": "Syllubus",
                   "_iconX": 961,
                   "_iconY": 475,
@@ -3932,12 +3932,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2447,
                   "_lessonId": 3608,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76013a59-bbaf-48ce-b621-a2a04c5953f2",
                   "_index": 5,
-                  "name": "Glass Sullivan",
+                  "_name": "Glass Sullivan",
                   "_type": "Syllubus",
                   "_iconX": 260,
                   "_iconY": 258,
@@ -3948,12 +3948,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5410,
                   "_lessonId": 3967,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ffe877e5-af8d-4d89-85dc-4aab3cea9668",
                   "_index": 6,
-                  "name": "Vilma Fuentes",
+                  "_name": "Vilma Fuentes",
                   "_type": "Syllubus",
                   "_iconX": 828,
                   "_iconY": 74,
@@ -3964,7 +3964,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3715,
                   "_lessonId": 1791,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -3976,7 +3976,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-decd247b-cd2f-4a49-bf96-087756bce74a",
                   "_index": 0,
-                  "name": "Natasha Payne",
+                  "_name": "Natasha Payne",
                   "_type": "Syllubus",
                   "_iconX": 644,
                   "_iconY": 458,
@@ -3987,12 +3987,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3064,
                   "_lessonId": 5887,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-63414dbb-33b2-4c35-89b7-86e891e20b52",
                   "_index": 1,
-                  "name": "Hubbard Noel",
+                  "_name": "Hubbard Noel",
                   "_type": "Syllubus",
                   "_iconX": 484,
                   "_iconY": 165,
@@ -4003,12 +4003,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3771,
                   "_lessonId": 5100,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-236d0a8f-bd85-4223-9eae-6ea15d9fbcde",
                   "_index": 2,
-                  "name": "Shannon Howe",
+                  "_name": "Shannon Howe",
                   "_type": "Syllubus",
                   "_iconX": 22,
                   "_iconY": 189,
@@ -4019,12 +4019,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4874,
                   "_lessonId": 5145,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-874f9b85-dd61-4541-819c-5f746b8f8988",
                   "_index": 3,
-                  "name": "Larson Page",
+                  "_name": "Larson Page",
                   "_type": "Syllubus",
                   "_iconX": 982,
                   "_iconY": 119,
@@ -4035,12 +4035,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2144,
                   "_lessonId": 3719,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-41842c5f-478a-4c65-a4ec-ba936fc93d75",
                   "_index": 4,
-                  "name": "Holland Horton",
+                  "_name": "Holland Horton",
                   "_type": "Syllubus",
                   "_iconX": 186,
                   "_iconY": 50,
@@ -4051,12 +4051,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3520,
                   "_lessonId": 3984,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-90030763-e40f-4a6f-ba89-32ac5ad96dbc",
                   "_index": 5,
-                  "name": "Mckee Keith",
+                  "_name": "Mckee Keith",
                   "_type": "Syllubus",
                   "_iconX": 518,
                   "_iconY": 600,
@@ -4067,12 +4067,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4592,
                   "_lessonId": 2635,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7edd809b-a2b2-4b50-8283-2bb1779e4f6d",
                   "_index": 6,
-                  "name": "Elvira Bender",
+                  "_name": "Elvira Bender",
                   "_type": "Syllubus",
                   "_iconX": 313,
                   "_iconY": 27,
@@ -4083,7 +4083,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5613,
                   "_lessonId": 1573,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -4106,7 +4106,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2a8aa035-6f22-414a-9279-74533b49aba9",
                   "_index": 0,
-                  "name": "John Parker",
+                  "_name": "John Parker",
                   "_type": "Syllubus",
                   "_iconX": 727,
                   "_iconY": 88,
@@ -4117,12 +4117,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4226,
                   "_lessonId": 5872,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b6db98ef-c54a-481f-82b7-c772c7d14f67",
                   "_index": 1,
-                  "name": "Ginger Pugh",
+                  "_name": "Ginger Pugh",
                   "_type": "Syllubus",
                   "_iconX": 937,
                   "_iconY": 498,
@@ -4133,12 +4133,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2643,
                   "_lessonId": 5617,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b0fab6ee-9163-4d6c-8ef6-a7023a17c6a1",
                   "_index": 2,
-                  "name": "Pitts Petersen",
+                  "_name": "Pitts Petersen",
                   "_type": "Syllubus",
                   "_iconX": 616,
                   "_iconY": 396,
@@ -4149,12 +4149,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3143,
                   "_lessonId": 4210,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9465ffa7-c176-4403-a699-819c3493e413",
                   "_index": 3,
-                  "name": "Robbins Mclean",
+                  "_name": "Robbins Mclean",
                   "_type": "Syllubus",
                   "_iconX": 268,
                   "_iconY": 507,
@@ -4165,12 +4165,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2783,
                   "_lessonId": 4519,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-46da21f9-dbd1-4662-8a93-004bf106afb2",
                   "_index": 4,
-                  "name": "Clarke Dodson",
+                  "_name": "Clarke Dodson",
                   "_type": "Syllubus",
                   "_iconX": 670,
                   "_iconY": 169,
@@ -4181,12 +4181,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3910,
                   "_lessonId": 1783,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fabb77f1-452b-444c-be9c-ef61f5b3f00d",
                   "_index": 5,
-                  "name": "Danielle Bentley",
+                  "_name": "Danielle Bentley",
                   "_type": "Syllubus",
                   "_iconX": 773,
                   "_iconY": 48,
@@ -4197,7 +4197,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3789,
                   "_lessonId": 1337,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4209,7 +4209,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4e117be5-4788-4f84-a2b2-ebab34dc24a8",
                   "_index": 0,
-                  "name": "Leigh Gibbs",
+                  "_name": "Leigh Gibbs",
                   "_type": "Syllubus",
                   "_iconX": 916,
                   "_iconY": 181,
@@ -4220,12 +4220,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3701,
                   "_lessonId": 4923,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d08be2bd-9153-43ec-922f-cfaea28689b4",
                   "_index": 1,
-                  "name": "Gibson Wells",
+                  "_name": "Gibson Wells",
                   "_type": "Syllubus",
                   "_iconX": 112,
                   "_iconY": 304,
@@ -4236,12 +4236,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1215,
                   "_lessonId": 1890,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b897ce24-29f4-4534-8dd6-27bd9f48e246",
                   "_index": 2,
-                  "name": "Brandy Salazar",
+                  "_name": "Brandy Salazar",
                   "_type": "Syllubus",
                   "_iconX": 201,
                   "_iconY": 575,
@@ -4252,12 +4252,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1707,
                   "_lessonId": 4742,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3e9ae4d-2410-4e02-8672-3896e99eb9ec",
                   "_index": 3,
-                  "name": "Alyssa Murphy",
+                  "_name": "Alyssa Murphy",
                   "_type": "Syllubus",
                   "_iconX": 616,
                   "_iconY": 309,
@@ -4268,12 +4268,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3578,
                   "_lessonId": 1079,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a66f8003-e554-4d1b-b096-eab996280c56",
                   "_index": 4,
-                  "name": "Francis Ellis",
+                  "_name": "Francis Ellis",
                   "_type": "Syllubus",
                   "_iconX": 578,
                   "_iconY": 421,
@@ -4284,7 +4284,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2048,
                   "_lessonId": 3176,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4296,7 +4296,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-912a08cc-c721-481b-b99f-1b06bc579d15",
                   "_index": 0,
-                  "name": "Boone Sparks",
+                  "_name": "Boone Sparks",
                   "_type": "Syllubus",
                   "_iconX": 222,
                   "_iconY": 33,
@@ -4307,12 +4307,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3849,
                   "_lessonId": 3821,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-689cd554-7103-4f71-babe-f80d283915dd",
                   "_index": 1,
-                  "name": "Nichole Mcguire",
+                  "_name": "Nichole Mcguire",
                   "_type": "Syllubus",
                   "_iconX": 596,
                   "_iconY": 151,
@@ -4323,12 +4323,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5158,
                   "_lessonId": 3096,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4bbf9fe-19b5-460b-97e6-0fc1058db863",
                   "_index": 2,
-                  "name": "Levine Callahan",
+                  "_name": "Levine Callahan",
                   "_type": "Syllubus",
                   "_iconX": 570,
                   "_iconY": 46,
@@ -4339,12 +4339,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1854,
                   "_lessonId": 2108,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3c038139-328e-483b-886d-38bc45781138",
                   "_index": 3,
-                  "name": "Quinn Andrews",
+                  "_name": "Quinn Andrews",
                   "_type": "Syllubus",
                   "_iconX": 330,
                   "_iconY": 0,
@@ -4355,12 +4355,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5832,
                   "_lessonId": 5152,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c2d584d5-fb83-40c6-9c87-534124df05c7",
                   "_index": 4,
-                  "name": "Eula Barton",
+                  "_name": "Eula Barton",
                   "_type": "Syllubus",
                   "_iconX": 816,
                   "_iconY": 304,
@@ -4371,12 +4371,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1264,
                   "_lessonId": 1951,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c1007388-d810-451f-95df-daa23a75ddc2",
                   "_index": 5,
-                  "name": "Cathryn Macias",
+                  "_name": "Cathryn Macias",
                   "_type": "Syllubus",
                   "_iconX": 547,
                   "_iconY": 218,
@@ -4387,12 +4387,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2759,
                   "_lessonId": 2127,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-eef37579-b33f-426e-9d2f-c9ae85727444",
                   "_index": 6,
-                  "name": "Galloway Booker",
+                  "_name": "Galloway Booker",
                   "_type": "Syllubus",
                   "_iconX": 81,
                   "_iconY": 5,
@@ -4403,7 +4403,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4674,
                   "_lessonId": 4736,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4415,7 +4415,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-da27fddd-bf3b-4310-bd7a-a64e5b89abbc",
                   "_index": 0,
-                  "name": "Rivera Campos",
+                  "_name": "Rivera Campos",
                   "_type": "Syllubus",
                   "_iconX": 419,
                   "_iconY": 153,
@@ -4426,12 +4426,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5209,
                   "_lessonId": 1466,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5a125c10-19e0-40e7-8b4d-30ad4d590408",
                   "_index": 1,
-                  "name": "Parsons Davis",
+                  "_name": "Parsons Davis",
                   "_type": "Syllubus",
                   "_iconX": 674,
                   "_iconY": 357,
@@ -4442,12 +4442,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4626,
                   "_lessonId": 2865,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a239dab2-83f3-4cfa-9b07-82655e78d718",
                   "_index": 2,
-                  "name": "Alvarado Goodman",
+                  "_name": "Alvarado Goodman",
                   "_type": "Syllubus",
                   "_iconX": 209,
                   "_iconY": 314,
@@ -4458,12 +4458,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1308,
                   "_lessonId": 1677,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2eec1b63-73fe-44fb-9131-8d416484352a",
                   "_index": 3,
-                  "name": "Jenna Freeman",
+                  "_name": "Jenna Freeman",
                   "_type": "Syllubus",
                   "_iconX": 6,
                   "_iconY": 93,
@@ -4474,12 +4474,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1282,
                   "_lessonId": 3082,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4861af31-9369-4d76-b2f5-02001d0f0347",
                   "_index": 4,
-                  "name": "Lavonne Cortez",
+                  "_name": "Lavonne Cortez",
                   "_type": "Syllubus",
                   "_iconX": 488,
                   "_iconY": 459,
@@ -4490,12 +4490,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4175,
                   "_lessonId": 2260,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bc037643-ac87-46b0-862c-d674c145c3f6",
                   "_index": 5,
-                  "name": "Angeline Evans",
+                  "_name": "Angeline Evans",
                   "_type": "Syllubus",
                   "_iconX": 292,
                   "_iconY": 20,
@@ -4506,12 +4506,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1252,
                   "_lessonId": 1718,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-82e919ff-2910-401e-bf06-ab8b82fd1918",
                   "_index": 6,
-                  "name": "Hillary Hendrix",
+                  "_name": "Hillary Hendrix",
                   "_type": "Syllubus",
                   "_iconX": 83,
                   "_iconY": 164,
@@ -4522,7 +4522,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1156,
                   "_lessonId": 4865,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4534,7 +4534,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-160f092e-9548-42a6-912c-08d4209938b7",
                   "_index": 0,
-                  "name": "Jennie Mueller",
+                  "_name": "Jennie Mueller",
                   "_type": "Syllubus",
                   "_iconX": 144,
                   "_iconY": 193,
@@ -4545,12 +4545,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3587,
                   "_lessonId": 1741,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dabacd11-2073-49e7-a1f3-7b476ec802d4",
                   "_index": 1,
-                  "name": "Clark Preston",
+                  "_name": "Clark Preston",
                   "_type": "Syllubus",
                   "_iconX": 623,
                   "_iconY": 364,
@@ -4561,12 +4561,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1427,
                   "_lessonId": 5055,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e1121fd7-30ca-4238-8f60-cc3b7befbda9",
                   "_index": 2,
-                  "name": "Lina Rich",
+                  "_name": "Lina Rich",
                   "_type": "Syllubus",
                   "_iconX": 281,
                   "_iconY": 225,
@@ -4577,12 +4577,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5716,
                   "_lessonId": 2367,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8b9db15d-036b-45f5-9815-87cdfda8ab93",
                   "_index": 3,
-                  "name": "Earlene Brady",
+                  "_name": "Earlene Brady",
                   "_type": "Syllubus",
                   "_iconX": 16,
                   "_iconY": 301,
@@ -4593,12 +4593,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1379,
                   "_lessonId": 3673,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb0c0d25-e637-42e9-b185-aa25e3f85975",
                   "_index": 4,
-                  "name": "Clayton Adams",
+                  "_name": "Clayton Adams",
                   "_type": "Syllubus",
                   "_iconX": 549,
                   "_iconY": 281,
@@ -4609,12 +4609,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4980,
                   "_lessonId": 2362,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1336483e-cc49-452e-be46-9d6d782ac5dd",
                   "_index": 5,
-                  "name": "May Wilson",
+                  "_name": "May Wilson",
                   "_type": "Syllubus",
                   "_iconX": 458,
                   "_iconY": 164,
@@ -4625,7 +4625,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5646,
                   "_lessonId": 5907,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4637,7 +4637,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-79d5d163-2b2c-4c9f-ab8f-375a237625bc",
                   "_index": 0,
-                  "name": "Georgette Edwards",
+                  "_name": "Georgette Edwards",
                   "_type": "Syllubus",
                   "_iconX": 860,
                   "_iconY": 164,
@@ -4648,12 +4648,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5140,
                   "_lessonId": 4352,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1cc191ac-93cc-4ed8-b770-ec17e92891f5",
                   "_index": 1,
-                  "name": "Pope Carr",
+                  "_name": "Pope Carr",
                   "_type": "Syllubus",
                   "_iconX": 363,
                   "_iconY": 48,
@@ -4664,12 +4664,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2698,
                   "_lessonId": 1441,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-45704cd6-b3db-442b-bc4d-a4d50733eac2",
                   "_index": 2,
-                  "name": "Bass Jarvis",
+                  "_name": "Bass Jarvis",
                   "_type": "Syllubus",
                   "_iconX": 997,
                   "_iconY": 138,
@@ -4680,12 +4680,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1634,
                   "_lessonId": 1728,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-44e5e422-c59a-4960-b667-dce036b7d5ee",
                   "_index": 3,
-                  "name": "Snow Koch",
+                  "_name": "Snow Koch",
                   "_type": "Syllubus",
                   "_iconX": 544,
                   "_iconY": 391,
@@ -4696,12 +4696,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1960,
                   "_lessonId": 5407,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-692f2a14-3156-4d0e-ba4e-5c63ca89fff5",
                   "_index": 4,
-                  "name": "Tammi Molina",
+                  "_name": "Tammi Molina",
                   "_type": "Syllubus",
                   "_iconX": 380,
                   "_iconY": 555,
@@ -4712,12 +4712,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5962,
                   "_lessonId": 3585,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d1a11691-c367-4b80-a40d-749feb85f6ec",
                   "_index": 5,
-                  "name": "Lorena Norton",
+                  "_name": "Lorena Norton",
                   "_type": "Syllubus",
                   "_iconX": 245,
                   "_iconY": 448,
@@ -4728,7 +4728,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4602,
                   "_lessonId": 2842,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4740,7 +4740,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ed0f077d-dce7-4a6b-b784-3f85366b760f",
                   "_index": 0,
-                  "name": "Elena Tanner",
+                  "_name": "Elena Tanner",
                   "_type": "Syllubus",
                   "_iconX": 133,
                   "_iconY": 57,
@@ -4751,12 +4751,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2055,
                   "_lessonId": 2194,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dab141b1-ad04-43dc-a17a-2905d007716f",
                   "_index": 1,
-                  "name": "Daniels Watkins",
+                  "_name": "Daniels Watkins",
                   "_type": "Syllubus",
                   "_iconX": 779,
                   "_iconY": 255,
@@ -4767,12 +4767,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5589,
                   "_lessonId": 4733,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3b488cbb-540a-4ed7-ae41-c9d087b12a4f",
                   "_index": 2,
-                  "name": "Dudley Gill",
+                  "_name": "Dudley Gill",
                   "_type": "Syllubus",
                   "_iconX": 224,
                   "_iconY": 517,
@@ -4783,12 +4783,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2814,
                   "_lessonId": 1976,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c15a1ccd-5c8b-4d29-a8e1-5b410b43bc3c",
                   "_index": 3,
-                  "name": "Annie Pacheco",
+                  "_name": "Annie Pacheco",
                   "_type": "Syllubus",
                   "_iconX": 299,
                   "_iconY": 467,
@@ -4799,12 +4799,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2365,
                   "_lessonId": 4788,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ec9e095d-3d1d-4cad-9ec1-9cc147b80364",
                   "_index": 4,
-                  "name": "Meagan Bray",
+                  "_name": "Meagan Bray",
                   "_type": "Syllubus",
                   "_iconX": 204,
                   "_iconY": 47,
@@ -4815,12 +4815,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4501,
                   "_lessonId": 4221,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d953e778-4488-40de-ba3e-4832034e1c7e",
                   "_index": 5,
-                  "name": "Lorraine Rojas",
+                  "_name": "Lorraine Rojas",
                   "_type": "Syllubus",
                   "_iconX": 387,
                   "_iconY": 189,
@@ -4831,12 +4831,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4491,
                   "_lessonId": 1859,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f16bb51-e5aa-4f9f-bd82-f5bef49c72ff",
                   "_index": 6,
-                  "name": "Lesa Tucker",
+                  "_name": "Lesa Tucker",
                   "_type": "Syllubus",
                   "_iconX": 109,
                   "_iconY": 465,
@@ -4847,7 +4847,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3363,
                   "_lessonId": 1893,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -4870,7 +4870,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c63ae7c9-1221-4287-a4eb-03cc8ee4bd29",
                   "_index": 0,
-                  "name": "Avila Saunders",
+                  "_name": "Avila Saunders",
                   "_type": "Syllubus",
                   "_iconX": 528,
                   "_iconY": 512,
@@ -4881,12 +4881,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4369,
                   "_lessonId": 2193,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f40a8ec6-b119-4348-8581-060a28c462f6",
                   "_index": 1,
-                  "name": "Ellis Haney",
+                  "_name": "Ellis Haney",
                   "_type": "Syllubus",
                   "_iconX": 188,
                   "_iconY": 21,
@@ -4897,12 +4897,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5337,
                   "_lessonId": 1118,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-35037c44-2b77-4a79-b05e-c288eb668281",
                   "_index": 2,
-                  "name": "Rowland Chase",
+                  "_name": "Rowland Chase",
                   "_type": "Syllubus",
                   "_iconX": 753,
                   "_iconY": 114,
@@ -4913,12 +4913,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2141,
                   "_lessonId": 2750,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5659c328-a3dd-449c-b8c8-3d27591e9e29",
                   "_index": 3,
-                  "name": "Kerry Moss",
+                  "_name": "Kerry Moss",
                   "_type": "Syllubus",
                   "_iconX": 51,
                   "_iconY": 393,
@@ -4929,12 +4929,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2914,
                   "_lessonId": 4454,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1a1b642-107e-4e95-bea2-afda31de3bcf",
                   "_index": 4,
-                  "name": "Norris Lindsey",
+                  "_name": "Norris Lindsey",
                   "_type": "Syllubus",
                   "_iconX": 319,
                   "_iconY": 467,
@@ -4945,12 +4945,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5755,
                   "_lessonId": 5889,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-62ecd529-9a36-402d-8627-11fa2fbb116b",
                   "_index": 5,
-                  "name": "Mcguire Duran",
+                  "_name": "Mcguire Duran",
                   "_type": "Syllubus",
                   "_iconX": 127,
                   "_iconY": 452,
@@ -4961,7 +4961,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5557,
                   "_lessonId": 5183,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -4973,7 +4973,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-32f7c0b4-462e-48ac-bd29-aad441f58956",
                   "_index": 0,
-                  "name": "Patricia Stanton",
+                  "_name": "Patricia Stanton",
                   "_type": "Syllubus",
                   "_iconX": 493,
                   "_iconY": 425,
@@ -4984,12 +4984,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2786,
                   "_lessonId": 4873,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5140a7af-b566-4f07-a365-cd8319f973a3",
                   "_index": 1,
-                  "name": "Warren Whitney",
+                  "_name": "Warren Whitney",
                   "_type": "Syllubus",
                   "_iconX": 889,
                   "_iconY": 593,
@@ -5000,12 +5000,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1092,
                   "_lessonId": 5054,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7f4a7b4e-97e4-421b-a646-01604415aa4b",
                   "_index": 2,
-                  "name": "Roman Combs",
+                  "_name": "Roman Combs",
                   "_type": "Syllubus",
                   "_iconX": 36,
                   "_iconY": 372,
@@ -5016,12 +5016,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2563,
                   "_lessonId": 3259,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-54436915-6120-4053-a663-eb0b9bcefa50",
                   "_index": 3,
-                  "name": "Effie Hull",
+                  "_name": "Effie Hull",
                   "_type": "Syllubus",
                   "_iconX": 24,
                   "_iconY": 404,
@@ -5032,12 +5032,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1967,
                   "_lessonId": 5372,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-eb7f77db-33e5-4b50-a2b9-a5bcc83012ce",
                   "_index": 4,
-                  "name": "Consuelo French",
+                  "_name": "Consuelo French",
                   "_type": "Syllubus",
                   "_iconX": 532,
                   "_iconY": 473,
@@ -5048,7 +5048,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5477,
                   "_lessonId": 5701,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5060,7 +5060,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-58341a44-c9f7-4ec2-a44e-9609364f6be9",
                   "_index": 0,
-                  "name": "Lupe Christensen",
+                  "_name": "Lupe Christensen",
                   "_type": "Syllubus",
                   "_iconX": 750,
                   "_iconY": 120,
@@ -5071,12 +5071,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1257,
                   "_lessonId": 2065,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d1ce314b-fcec-48a2-bcd6-7cff8a53ed9c",
                   "_index": 1,
-                  "name": "Calhoun Kidd",
+                  "_name": "Calhoun Kidd",
                   "_type": "Syllubus",
                   "_iconX": 337,
                   "_iconY": 381,
@@ -5087,12 +5087,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2533,
                   "_lessonId": 5108,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3c004acb-8847-4d36-baa4-145418702027",
                   "_index": 2,
-                  "name": "Mae Carter",
+                  "_name": "Mae Carter",
                   "_type": "Syllubus",
                   "_iconX": 532,
                   "_iconY": 479,
@@ -5103,12 +5103,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1140,
                   "_lessonId": 2694,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2df33ada-0f09-4f01-9f4f-e91d242c534c",
                   "_index": 3,
-                  "name": "Pansy Rosario",
+                  "_name": "Pansy Rosario",
                   "_type": "Syllubus",
                   "_iconX": 719,
                   "_iconY": 214,
@@ -5119,12 +5119,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2965,
                   "_lessonId": 3249,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f8907f00-6590-4f3c-a7d8-0484379d60da",
                   "_index": 4,
-                  "name": "Henson Soto",
+                  "_name": "Henson Soto",
                   "_type": "Syllubus",
                   "_iconX": 325,
                   "_iconY": 99,
@@ -5135,12 +5135,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1664,
                   "_lessonId": 4468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b707496c-1fae-4e87-986f-a43f7a4b085e",
                   "_index": 5,
-                  "name": "Carey Trujillo",
+                  "_name": "Carey Trujillo",
                   "_type": "Syllubus",
                   "_iconX": 265,
                   "_iconY": 227,
@@ -5151,12 +5151,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3369,
                   "_lessonId": 2028,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32609694-4939-4745-b76a-b157e72dfbe9",
                   "_index": 6,
-                  "name": "Pearson Bishop",
+                  "_name": "Pearson Bishop",
                   "_type": "Syllubus",
                   "_iconX": 851,
                   "_iconY": 561,
@@ -5167,7 +5167,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4730,
                   "_lessonId": 4653,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5179,7 +5179,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-04ca07ec-06eb-4e00-bba5-6fc8da58d8e1",
                   "_index": 0,
-                  "name": "Glover Robles",
+                  "_name": "Glover Robles",
                   "_type": "Syllubus",
                   "_iconX": 803,
                   "_iconY": 389,
@@ -5190,12 +5190,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5622,
                   "_lessonId": 4430,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5e4aa8a3-78b8-493d-a7f7-625e6240fc70",
                   "_index": 1,
-                  "name": "Benson Humphrey",
+                  "_name": "Benson Humphrey",
                   "_type": "Syllubus",
                   "_iconX": 36,
                   "_iconY": 89,
@@ -5206,12 +5206,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4318,
                   "_lessonId": 3541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c305813-feba-4c6b-80fe-fbe2c77156d3",
                   "_index": 2,
-                  "name": "Palmer Conrad",
+                  "_name": "Palmer Conrad",
                   "_type": "Syllubus",
                   "_iconX": 25,
                   "_iconY": 226,
@@ -5222,12 +5222,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4092,
                   "_lessonId": 1271,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-06ec5e73-156d-4ba8-965c-24f02cee6b11",
                   "_index": 3,
-                  "name": "Ferrell Hutchinson",
+                  "_name": "Ferrell Hutchinson",
                   "_type": "Syllubus",
                   "_iconX": 728,
                   "_iconY": 447,
@@ -5238,12 +5238,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5313,
                   "_lessonId": 5355,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-92a1ff60-ec42-4fd6-9538-dd3a5c3c92d4",
                   "_index": 4,
-                  "name": "Pam Delacruz",
+                  "_name": "Pam Delacruz",
                   "_type": "Syllubus",
                   "_iconX": 145,
                   "_iconY": 391,
@@ -5254,7 +5254,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1563,
                   "_lessonId": 5153,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5266,7 +5266,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ddd03b2a-9a0a-4574-9925-7f2583a607a6",
                   "_index": 0,
-                  "name": "Chandler Richard",
+                  "_name": "Chandler Richard",
                   "_type": "Syllubus",
                   "_iconX": 937,
                   "_iconY": 52,
@@ -5277,12 +5277,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1951,
                   "_lessonId": 1905,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-24ea965e-cc94-4f14-af20-a80b178e05a0",
                   "_index": 1,
-                  "name": "Cotton Smith",
+                  "_name": "Cotton Smith",
                   "_type": "Syllubus",
                   "_iconX": 794,
                   "_iconY": 418,
@@ -5293,12 +5293,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4622,
                   "_lessonId": 5961,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-db9e5efd-a896-4c32-ac4b-2144d04cc7dd",
                   "_index": 2,
-                  "name": "Araceli Oneil",
+                  "_name": "Araceli Oneil",
                   "_type": "Syllubus",
                   "_iconX": 555,
                   "_iconY": 571,
@@ -5309,12 +5309,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3703,
                   "_lessonId": 3785,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-83110ea1-6e9c-42d5-b106-97d3fe73c555",
                   "_index": 3,
-                  "name": "Flowers Mercado",
+                  "_name": "Flowers Mercado",
                   "_type": "Syllubus",
                   "_iconX": 171,
                   "_iconY": 309,
@@ -5325,12 +5325,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2236,
                   "_lessonId": 3290,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a2cae6e7-e48a-4688-b9a1-ad5cdb4a3763",
                   "_index": 4,
-                  "name": "Lorrie Guzman",
+                  "_name": "Lorrie Guzman",
                   "_type": "Syllubus",
                   "_iconX": 348,
                   "_iconY": 389,
@@ -5341,7 +5341,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5428,
                   "_lessonId": 1148,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5353,7 +5353,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1b0e24ab-ff37-488c-81f8-8488f0a4680d",
                   "_index": 0,
-                  "name": "Nellie Jenkins",
+                  "_name": "Nellie Jenkins",
                   "_type": "Syllubus",
                   "_iconX": 61,
                   "_iconY": 199,
@@ -5364,12 +5364,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2969,
                   "_lessonId": 5732,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6173d5eb-5834-4c9d-b461-504fad434fa2",
                   "_index": 1,
-                  "name": "Katina Burnett",
+                  "_name": "Katina Burnett",
                   "_type": "Syllubus",
                   "_iconX": 474,
                   "_iconY": 264,
@@ -5380,12 +5380,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4295,
                   "_lessonId": 1818,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3f38e86a-ee9d-4dd2-8100-ae9784c6d450",
                   "_index": 2,
-                  "name": "Mann Mcintosh",
+                  "_name": "Mann Mcintosh",
                   "_type": "Syllubus",
                   "_iconX": 578,
                   "_iconY": 500,
@@ -5396,12 +5396,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2013,
                   "_lessonId": 4067,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-898be338-30ac-4130-a5f0-f0efa3f6f602",
                   "_index": 3,
-                  "name": "Frederick Rosa",
+                  "_name": "Frederick Rosa",
                   "_type": "Syllubus",
                   "_iconX": 385,
                   "_iconY": 230,
@@ -5412,12 +5412,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5100,
                   "_lessonId": 5648,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8a40403f-c616-4c7e-ba9e-0be02cae8198",
                   "_index": 4,
-                  "name": "Burks Mcintyre",
+                  "_name": "Burks Mcintyre",
                   "_type": "Syllubus",
                   "_iconX": 896,
                   "_iconY": 76,
@@ -5428,12 +5428,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3745,
                   "_lessonId": 2739,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c4bcf1d7-ecdc-4671-88f0-dd2768774251",
                   "_index": 5,
-                  "name": "Bridget Workman",
+                  "_name": "Bridget Workman",
                   "_type": "Syllubus",
                   "_iconX": 687,
                   "_iconY": 248,
@@ -5444,7 +5444,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2499,
                   "_lessonId": 5186,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -5467,7 +5467,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-054d8dda-4b4d-4ea5-81f0-c7bbbce9ff54",
                   "_index": 0,
-                  "name": "Gardner Pope",
+                  "_name": "Gardner Pope",
                   "_type": "Syllubus",
                   "_iconX": 151,
                   "_iconY": 398,
@@ -5478,12 +5478,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3886,
                   "_lessonId": 4659,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5ae4eea-e84d-43c9-9950-8db6203603b1",
                   "_index": 1,
-                  "name": "Griffin Mclaughlin",
+                  "_name": "Griffin Mclaughlin",
                   "_type": "Syllubus",
                   "_iconX": 350,
                   "_iconY": 527,
@@ -5494,12 +5494,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4347,
                   "_lessonId": 4486,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-320066c2-4d0b-4610-b7d6-302a024e67ac",
                   "_index": 2,
-                  "name": "Spence Mcfadden",
+                  "_name": "Spence Mcfadden",
                   "_type": "Syllubus",
                   "_iconX": 6,
                   "_iconY": 439,
@@ -5510,12 +5510,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5549,
                   "_lessonId": 4830,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5fac9aa2-17e1-409a-a07e-83c2f2dbda3c",
                   "_index": 3,
-                  "name": "Amalia Benson",
+                  "_name": "Amalia Benson",
                   "_type": "Syllubus",
                   "_iconX": 841,
                   "_iconY": 41,
@@ -5526,12 +5526,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3758,
                   "_lessonId": 4849,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4576dc3e-6c31-4f26-8297-9e2236fdea90",
                   "_index": 4,
-                  "name": "Madden Rush",
+                  "_name": "Madden Rush",
                   "_type": "Syllubus",
                   "_iconX": 354,
                   "_iconY": 488,
@@ -5542,7 +5542,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3516,
                   "_lessonId": 2371,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5554,7 +5554,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2603c535-e5f6-4c1e-8e2f-425e3ef80ec2",
                   "_index": 0,
-                  "name": "Osborne Jordan",
+                  "_name": "Osborne Jordan",
                   "_type": "Syllubus",
                   "_iconX": 513,
                   "_iconY": 71,
@@ -5565,12 +5565,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1192,
                   "_lessonId": 5532,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ef4442be-2cbc-4259-95b8-2e4ddaea92f4",
                   "_index": 1,
-                  "name": "Lilly Dixon",
+                  "_name": "Lilly Dixon",
                   "_type": "Syllubus",
                   "_iconX": 982,
                   "_iconY": 511,
@@ -5581,12 +5581,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2450,
                   "_lessonId": 2342,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-05e5c29f-a18c-4ad1-bda5-cbf810bab43f",
                   "_index": 2,
-                  "name": "Meyers Morris",
+                  "_name": "Meyers Morris",
                   "_type": "Syllubus",
                   "_iconX": 705,
                   "_iconY": 549,
@@ -5597,12 +5597,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5647,
                   "_lessonId": 2691,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-94a24426-f76e-4613-b635-a93c6eaf2c7d",
                   "_index": 3,
-                  "name": "Hopkins Weeks",
+                  "_name": "Hopkins Weeks",
                   "_type": "Syllubus",
                   "_iconX": 182,
                   "_iconY": 569,
@@ -5613,12 +5613,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4581,
                   "_lessonId": 4720,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0d07316b-2582-4cdc-bf90-113166f81a10",
                   "_index": 4,
-                  "name": "Diann Douglas",
+                  "_name": "Diann Douglas",
                   "_type": "Syllubus",
                   "_iconX": 493,
                   "_iconY": 36,
@@ -5629,12 +5629,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5400,
                   "_lessonId": 3217,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3ea26456-33f5-48f1-9f8e-1ba4fd2499c7",
                   "_index": 5,
-                  "name": "Hensley Wagner",
+                  "_name": "Hensley Wagner",
                   "_type": "Syllubus",
                   "_iconX": 299,
                   "_iconY": 576,
@@ -5645,12 +5645,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2789,
                   "_lessonId": 1068,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-82f04a62-a954-4015-aded-a3be84b2ea09",
                   "_index": 6,
-                  "name": "Sandoval Clark",
+                  "_name": "Sandoval Clark",
                   "_type": "Syllubus",
                   "_iconX": 881,
                   "_iconY": 425,
@@ -5661,7 +5661,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1857,
                   "_lessonId": 5496,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5673,7 +5673,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d0d41053-fad4-4aa9-b614-c33a56af4984",
                   "_index": 0,
-                  "name": "Marguerite Moran",
+                  "_name": "Marguerite Moran",
                   "_type": "Syllubus",
                   "_iconX": 413,
                   "_iconY": 450,
@@ -5684,12 +5684,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2410,
                   "_lessonId": 2489,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7b4c0f04-c027-46fd-a429-41b60fb2bc52",
                   "_index": 1,
-                  "name": "Morin Medina",
+                  "_name": "Morin Medina",
                   "_type": "Syllubus",
                   "_iconX": 509,
                   "_iconY": 254,
@@ -5700,12 +5700,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3514,
                   "_lessonId": 2420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9c419bea-1fc7-4e1e-bd9b-ff43c4996675",
                   "_index": 2,
-                  "name": "Caroline Alvarez",
+                  "_name": "Caroline Alvarez",
                   "_type": "Syllubus",
                   "_iconX": 777,
                   "_iconY": 32,
@@ -5716,12 +5716,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3417,
                   "_lessonId": 4254,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d63efe45-4e6d-4187-9c4d-280d05ef7142",
                   "_index": 3,
-                  "name": "Munoz Burris",
+                  "_name": "Munoz Burris",
                   "_type": "Syllubus",
                   "_iconX": 636,
                   "_iconY": 446,
@@ -5732,12 +5732,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4353,
                   "_lessonId": 4061,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6969d839-1afa-41dd-afcb-da1e666cfb4d",
                   "_index": 4,
-                  "name": "Ofelia Irwin",
+                  "_name": "Ofelia Irwin",
                   "_type": "Syllubus",
                   "_iconX": 977,
                   "_iconY": 164,
@@ -5748,7 +5748,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5182,
                   "_lessonId": 4558,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5760,7 +5760,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-86937f00-af45-4531-8e75-c4d1200fc0e6",
                   "_index": 0,
-                  "name": "Lewis Tyson",
+                  "_name": "Lewis Tyson",
                   "_type": "Syllubus",
                   "_iconX": 815,
                   "_iconY": 430,
@@ -5771,12 +5771,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1796,
                   "_lessonId": 5336,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1701744-7d91-4b19-b5e2-56058e6aff4f",
                   "_index": 1,
-                  "name": "Hart Crane",
+                  "_name": "Hart Crane",
                   "_type": "Syllubus",
                   "_iconX": 911,
                   "_iconY": 199,
@@ -5787,12 +5787,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1088,
                   "_lessonId": 4557,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-07b53c1a-dc72-4c4c-9a22-f777a66a6aff",
                   "_index": 2,
-                  "name": "Howard Ayers",
+                  "_name": "Howard Ayers",
                   "_type": "Syllubus",
                   "_iconX": 71,
                   "_iconY": 242,
@@ -5803,12 +5803,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1047,
                   "_lessonId": 3887,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-73b944c9-455a-4781-bbfb-b28bd8d6ab10",
                   "_index": 3,
-                  "name": "Carson Garrison",
+                  "_name": "Carson Garrison",
                   "_type": "Syllubus",
                   "_iconX": 90,
                   "_iconY": 306,
@@ -5819,12 +5819,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5580,
                   "_lessonId": 3698,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4a58d699-980a-406d-bb08-11ccfe4b8755",
                   "_index": 4,
-                  "name": "Burnett Sellers",
+                  "_name": "Burnett Sellers",
                   "_type": "Syllubus",
                   "_iconX": 379,
                   "_iconY": 559,
@@ -5835,12 +5835,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3790,
                   "_lessonId": 2846,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-706b8aba-dfea-4833-8bb0-8d2f5674bcae",
                   "_index": 5,
-                  "name": "Augusta Gilmore",
+                  "_name": "Augusta Gilmore",
                   "_type": "Syllubus",
                   "_iconX": 542,
                   "_iconY": 206,
@@ -5851,12 +5851,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2997,
                   "_lessonId": 5413,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-503fc724-99e5-4379-ab61-f8f390ee4b12",
                   "_index": 6,
-                  "name": "Hunter Puckett",
+                  "_name": "Hunter Puckett",
                   "_type": "Syllubus",
                   "_iconX": 311,
                   "_iconY": 383,
@@ -5867,7 +5867,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4470,
                   "_lessonId": 1955,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -5879,7 +5879,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-812635c5-b97d-46c7-8c9d-677fc7bbd8a5",
                   "_index": 0,
-                  "name": "Colette Franks",
+                  "_name": "Colette Franks",
                   "_type": "Syllubus",
                   "_iconX": 312,
                   "_iconY": 202,
@@ -5890,12 +5890,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3406,
                   "_lessonId": 3499,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-80ddb3a7-a59c-4921-bf05-60fbf36c7117",
                   "_index": 1,
-                  "name": "Jeanie Camacho",
+                  "_name": "Jeanie Camacho",
                   "_type": "Syllubus",
                   "_iconX": 972,
                   "_iconY": 77,
@@ -5906,12 +5906,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1627,
                   "_lessonId": 5664,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1af63e9f-e7b4-4e3c-8155-9a747f60c44d",
                   "_index": 2,
-                  "name": "Pickett Waters",
+                  "_name": "Pickett Waters",
                   "_type": "Syllubus",
                   "_iconX": 572,
                   "_iconY": 19,
@@ -5922,12 +5922,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5973,
                   "_lessonId": 5517,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-243c6319-cb2a-4c3a-a611-4aaaeb719793",
                   "_index": 3,
-                  "name": "Gina Park",
+                  "_name": "Gina Park",
                   "_type": "Syllubus",
                   "_iconX": 939,
                   "_iconY": 132,
@@ -5938,12 +5938,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1916,
                   "_lessonId": 5849,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9eba119e-88c4-4b13-b4e6-cca67bd34497",
                   "_index": 4,
-                  "name": "Guadalupe Day",
+                  "_name": "Guadalupe Day",
                   "_type": "Syllubus",
                   "_iconX": 990,
                   "_iconY": 516,
@@ -5954,12 +5954,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3772,
                   "_lessonId": 5517,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a896a94d-01c6-47c6-b6eb-266235c6a3ea",
                   "_index": 5,
-                  "name": "Carney Lang",
+                  "_name": "Carney Lang",
                   "_type": "Syllubus",
                   "_iconX": 260,
                   "_iconY": 536,
@@ -5970,12 +5970,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1721,
                   "_lessonId": 1891,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c1375b8c-bc66-4f2f-a69a-78567f7b5bcd",
                   "_index": 6,
-                  "name": "Whitehead Avery",
+                  "_name": "Whitehead Avery",
                   "_type": "Syllubus",
                   "_iconX": 712,
                   "_iconY": 42,
@@ -5986,7 +5986,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4981,
                   "_lessonId": 5586,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -6009,7 +6009,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2050d350-4fb3-4592-af86-ae28ed8de195",
                   "_index": 0,
-                  "name": "Geneva Rodriquez",
+                  "_name": "Geneva Rodriquez",
                   "_type": "Syllubus",
                   "_iconX": 190,
                   "_iconY": 577,
@@ -6020,12 +6020,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4983,
                   "_lessonId": 2547,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a4ef746-ff79-4dfb-b872-9e7bf8741846",
                   "_index": 1,
-                  "name": "Decker Schneider",
+                  "_name": "Decker Schneider",
                   "_type": "Syllubus",
                   "_iconX": 238,
                   "_iconY": 16,
@@ -6036,12 +6036,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1810,
                   "_lessonId": 4600,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4e0d2a6e-0ff8-4c53-a2e7-dfede873e150",
                   "_index": 2,
-                  "name": "Ladonna Romero",
+                  "_name": "Ladonna Romero",
                   "_type": "Syllubus",
                   "_iconX": 594,
                   "_iconY": 297,
@@ -6052,12 +6052,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4428,
                   "_lessonId": 5564,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-844f2eef-b0b2-48fd-9f7a-561e1fbbc8b7",
                   "_index": 3,
-                  "name": "Emerson Sheppard",
+                  "_name": "Emerson Sheppard",
                   "_type": "Syllubus",
                   "_iconX": 491,
                   "_iconY": 256,
@@ -6068,12 +6068,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1851,
                   "_lessonId": 4125,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8a309559-f56b-4eca-a37f-e484b7c8f049",
                   "_index": 4,
-                  "name": "Patrice Hamilton",
+                  "_name": "Patrice Hamilton",
                   "_type": "Syllubus",
                   "_iconX": 556,
                   "_iconY": 278,
@@ -6084,12 +6084,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2638,
                   "_lessonId": 5382,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-430f88c7-63f1-4455-b434-adff6a10f09f",
                   "_index": 5,
-                  "name": "Stafford Keller",
+                  "_name": "Stafford Keller",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 554,
@@ -6100,12 +6100,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3751,
                   "_lessonId": 1330,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a4dbfb1b-4b3e-429b-a3dd-f3a0d9336eca",
                   "_index": 6,
-                  "name": "Bentley Galloway",
+                  "_name": "Bentley Galloway",
                   "_type": "Syllubus",
                   "_iconX": 166,
                   "_iconY": 0,
@@ -6116,7 +6116,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4038,
                   "_lessonId": 2850,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6128,7 +6128,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-865bce57-e1ef-4f6a-be2d-f55bed16acd7",
                   "_index": 0,
-                  "name": "Rocha Larsen",
+                  "_name": "Rocha Larsen",
                   "_type": "Syllubus",
                   "_iconX": 409,
                   "_iconY": 499,
@@ -6139,12 +6139,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3003,
                   "_lessonId": 5637,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e83abcb3-b9f2-45f6-ab58-50365f793813",
                   "_index": 1,
-                  "name": "Dana Langley",
+                  "_name": "Dana Langley",
                   "_type": "Syllubus",
                   "_iconX": 571,
                   "_iconY": 386,
@@ -6155,12 +6155,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1348,
                   "_lessonId": 3752,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bae4037c-ebb1-4cfa-a6de-10266cd8c0c1",
                   "_index": 2,
-                  "name": "Mcknight Macdonald",
+                  "_name": "Mcknight Macdonald",
                   "_type": "Syllubus",
                   "_iconX": 305,
                   "_iconY": 495,
@@ -6171,12 +6171,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5657,
                   "_lessonId": 4560,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b962844d-1aca-4698-9ca0-3bedad36b1c3",
                   "_index": 3,
-                  "name": "Michelle Shannon",
+                  "_name": "Michelle Shannon",
                   "_type": "Syllubus",
                   "_iconX": 137,
                   "_iconY": 580,
@@ -6187,12 +6187,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5984,
                   "_lessonId": 4117,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-39a265f8-6573-450a-83b2-9f77d4c21ee2",
                   "_index": 4,
-                  "name": "Newman Gould",
+                  "_name": "Newman Gould",
                   "_type": "Syllubus",
                   "_iconX": 283,
                   "_iconY": 76,
@@ -6203,12 +6203,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3061,
                   "_lessonId": 5987,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c42ec7ce-9518-432a-9f93-76ba8c793f70",
                   "_index": 5,
-                  "name": "Good Thompson",
+                  "_name": "Good Thompson",
                   "_type": "Syllubus",
                   "_iconX": 770,
                   "_iconY": 484,
@@ -6219,7 +6219,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1859,
                   "_lessonId": 5329,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6231,7 +6231,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-91bdbb84-5a40-4624-9ffd-187f0b2dfafe",
                   "_index": 0,
-                  "name": "Nettie Levine",
+                  "_name": "Nettie Levine",
                   "_type": "Syllubus",
                   "_iconX": 113,
                   "_iconY": 443,
@@ -6242,12 +6242,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2974,
                   "_lessonId": 2079,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-42f0d999-4936-44d8-acce-c4127180c6a7",
                   "_index": 1,
-                  "name": "Felicia Gonzales",
+                  "_name": "Felicia Gonzales",
                   "_type": "Syllubus",
                   "_iconX": 544,
                   "_iconY": 266,
@@ -6258,12 +6258,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2809,
                   "_lessonId": 4473,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a96c2a0a-84b2-43de-bf8c-b35f02aa807f",
                   "_index": 2,
-                  "name": "Marina Maxwell",
+                  "_name": "Marina Maxwell",
                   "_type": "Syllubus",
                   "_iconX": 964,
                   "_iconY": 440,
@@ -6274,12 +6274,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4535,
                   "_lessonId": 3328,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-27683e36-6f4c-4f6a-81f2-eba282dc5c73",
                   "_index": 3,
-                  "name": "Casandra Atkinson",
+                  "_name": "Casandra Atkinson",
                   "_type": "Syllubus",
                   "_iconX": 606,
                   "_iconY": 220,
@@ -6290,12 +6290,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3193,
                   "_lessonId": 4923,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-70fa993e-a4d0-4799-a8df-7000d272ebda",
                   "_index": 4,
-                  "name": "Beulah Daniel",
+                  "_name": "Beulah Daniel",
                   "_type": "Syllubus",
                   "_iconX": 4,
                   "_iconY": 269,
@@ -6306,7 +6306,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2278,
                   "_lessonId": 5607,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6318,7 +6318,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-37c3043b-34e5-4871-a817-26e2efe1520a",
                   "_index": 0,
-                  "name": "Lizzie Mason",
+                  "_name": "Lizzie Mason",
                   "_type": "Syllubus",
                   "_iconX": 119,
                   "_iconY": 349,
@@ -6329,12 +6329,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3554,
                   "_lessonId": 3832,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f22eb117-e3a9-44e3-a916-03244816603d",
                   "_index": 1,
-                  "name": "Celeste Aguirre",
+                  "_name": "Celeste Aguirre",
                   "_type": "Syllubus",
                   "_iconX": 376,
                   "_iconY": 5,
@@ -6345,12 +6345,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2815,
                   "_lessonId": 4519,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-708fb1eb-b032-4267-9b1c-1fbf085d0cee",
                   "_index": 2,
-                  "name": "Hazel Abbott",
+                  "_name": "Hazel Abbott",
                   "_type": "Syllubus",
                   "_iconX": 36,
                   "_iconY": 345,
@@ -6361,12 +6361,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2919,
                   "_lessonId": 5135,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b365e6c9-6692-4450-a748-e65aff785655",
                   "_index": 3,
-                  "name": "Audrey Howell",
+                  "_name": "Audrey Howell",
                   "_type": "Syllubus",
                   "_iconX": 100,
                   "_iconY": 59,
@@ -6377,12 +6377,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2744,
                   "_lessonId": 5140,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ba7dc017-ee2f-4e7d-b45f-a041819db9a8",
                   "_index": 4,
-                  "name": "Kim Decker",
+                  "_name": "Kim Decker",
                   "_type": "Syllubus",
                   "_iconX": 38,
                   "_iconY": 4,
@@ -6393,7 +6393,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2093,
                   "_lessonId": 5280,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6405,7 +6405,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-04ce1ca8-d796-476e-a459-9cf6a31736b1",
                   "_index": 0,
-                  "name": "Carmen Oneill",
+                  "_name": "Carmen Oneill",
                   "_type": "Syllubus",
                   "_iconX": 330,
                   "_iconY": 566,
@@ -6416,12 +6416,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2414,
                   "_lessonId": 5815,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9c5eec6c-c489-43df-a022-c2041cf93d94",
                   "_index": 1,
-                  "name": "Lang Nichols",
+                  "_name": "Lang Nichols",
                   "_type": "Syllubus",
                   "_iconX": 435,
                   "_iconY": 362,
@@ -6432,12 +6432,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4472,
                   "_lessonId": 4430,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dbf963fc-d7dc-46d9-b317-a3cc3145b486",
                   "_index": 2,
-                  "name": "Davenport Snow",
+                  "_name": "Davenport Snow",
                   "_type": "Syllubus",
                   "_iconX": 576,
                   "_iconY": 312,
@@ -6448,12 +6448,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2188,
                   "_lessonId": 2815,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-895755f2-2724-4199-8f1f-46648fec5b90",
                   "_index": 3,
-                  "name": "Foster Gallegos",
+                  "_name": "Foster Gallegos",
                   "_type": "Syllubus",
                   "_iconX": 804,
                   "_iconY": 378,
@@ -6464,12 +6464,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4167,
                   "_lessonId": 5401,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fe18ed84-94e8-485d-b89e-5032f22a00f0",
                   "_index": 4,
-                  "name": "Mattie Valenzuela",
+                  "_name": "Mattie Valenzuela",
                   "_type": "Syllubus",
                   "_iconX": 972,
                   "_iconY": 439,
@@ -6480,12 +6480,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2524,
                   "_lessonId": 2873,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a559904e-c8bf-47cd-87f5-ca7cab42e6c3",
                   "_index": 5,
-                  "name": "Carolina Barnett",
+                  "_name": "Carolina Barnett",
                   "_type": "Syllubus",
                   "_iconX": 466,
                   "_iconY": 57,
@@ -6496,7 +6496,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1546,
                   "_lessonId": 5013,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -6519,7 +6519,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-82f6c834-3af3-4f9b-9493-ecdcd5abaf6e",
                   "_index": 0,
-                  "name": "Woods Barker",
+                  "_name": "Woods Barker",
                   "_type": "Syllubus",
                   "_iconX": 682,
                   "_iconY": 119,
@@ -6530,12 +6530,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3136,
                   "_lessonId": 3168,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-53e033fc-c7a4-46f6-ba0b-42e45fc10de6",
                   "_index": 1,
-                  "name": "Goodwin Obrien",
+                  "_name": "Goodwin Obrien",
                   "_type": "Syllubus",
                   "_iconX": 95,
                   "_iconY": 454,
@@ -6546,12 +6546,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2671,
                   "_lessonId": 1475,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-78fb62fe-b58d-4194-a125-c211b954ec3e",
                   "_index": 2,
-                  "name": "Bartlett Davidson",
+                  "_name": "Bartlett Davidson",
                   "_type": "Syllubus",
                   "_iconX": 210,
                   "_iconY": 140,
@@ -6562,12 +6562,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3214,
                   "_lessonId": 3215,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-00591b4f-5105-4fb5-9e1b-1a8ee0fbe0a6",
                   "_index": 3,
-                  "name": "Guerra Dunn",
+                  "_name": "Guerra Dunn",
                   "_type": "Syllubus",
                   "_iconX": 554,
                   "_iconY": 500,
@@ -6578,12 +6578,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3601,
                   "_lessonId": 4092,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3575550-ffac-446b-98ef-8ea8b8aa00a2",
                   "_index": 4,
-                  "name": "Rae Patrick",
+                  "_name": "Rae Patrick",
                   "_type": "Syllubus",
                   "_iconX": 618,
                   "_iconY": 408,
@@ -6594,12 +6594,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1185,
                   "_lessonId": 5402,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-064b56a1-d4c4-487c-97ed-f17e6082271a",
                   "_index": 5,
-                  "name": "Elba Mccarthy",
+                  "_name": "Elba Mccarthy",
                   "_type": "Syllubus",
                   "_iconX": 617,
                   "_iconY": 493,
@@ -6610,12 +6610,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3100,
                   "_lessonId": 2784,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4322d92f-8c55-4248-8a26-6a465a4f2712",
                   "_index": 6,
-                  "name": "Jasmine Holcomb",
+                  "_name": "Jasmine Holcomb",
                   "_type": "Syllubus",
                   "_iconX": 845,
                   "_iconY": 221,
@@ -6626,7 +6626,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3753,
                   "_lessonId": 3585,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6638,7 +6638,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9e0d9cef-c2cf-4b15-a5c6-f48caee74e43",
                   "_index": 0,
-                  "name": "Blanca Cain",
+                  "_name": "Blanca Cain",
                   "_type": "Syllubus",
                   "_iconX": 418,
                   "_iconY": 545,
@@ -6649,12 +6649,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4692,
                   "_lessonId": 1254,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-174f87c2-0148-46bd-8c87-22b5a0af64ed",
                   "_index": 1,
-                  "name": "Dominique Nicholson",
+                  "_name": "Dominique Nicholson",
                   "_type": "Syllubus",
                   "_iconX": 679,
                   "_iconY": 41,
@@ -6665,12 +6665,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5939,
                   "_lessonId": 2888,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a61362c-10e3-46f8-8252-b3ccffd2baa2",
                   "_index": 2,
-                  "name": "Kramer Barnes",
+                  "_name": "Kramer Barnes",
                   "_type": "Syllubus",
                   "_iconX": 86,
                   "_iconY": 322,
@@ -6681,12 +6681,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5689,
                   "_lessonId": 1711,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-448ba212-658d-44b9-88d8-da365f3607c7",
                   "_index": 3,
-                  "name": "Conner Conley",
+                  "_name": "Conner Conley",
                   "_type": "Syllubus",
                   "_iconX": 85,
                   "_iconY": 26,
@@ -6697,12 +6697,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5658,
                   "_lessonId": 4980,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-33972374-7b1d-4ca2-bafc-27e54d6cc033",
                   "_index": 4,
-                  "name": "Lee Parsons",
+                  "_name": "Lee Parsons",
                   "_type": "Syllubus",
                   "_iconX": 108,
                   "_iconY": 349,
@@ -6713,12 +6713,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2797,
                   "_lessonId": 3440,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-78d68c39-a195-4be5-94fc-68b0183935ec",
                   "_index": 5,
-                  "name": "Sherry Faulkner",
+                  "_name": "Sherry Faulkner",
                   "_type": "Syllubus",
                   "_iconX": 585,
                   "_iconY": 90,
@@ -6729,12 +6729,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4064,
                   "_lessonId": 5324,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-596bdddc-f757-4de8-b0e0-b600aa3d8754",
                   "_index": 6,
-                  "name": "Ayers Mack",
+                  "_name": "Ayers Mack",
                   "_type": "Syllubus",
                   "_iconX": 343,
                   "_iconY": 428,
@@ -6745,7 +6745,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3399,
                   "_lessonId": 5723,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6757,7 +6757,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-cfa27e92-7ae5-45e3-b613-b4d32b127bb8",
                   "_index": 0,
-                  "name": "Bernard Giles",
+                  "_name": "Bernard Giles",
                   "_type": "Syllubus",
                   "_iconX": 186,
                   "_iconY": 229,
@@ -6768,12 +6768,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5261,
                   "_lessonId": 1756,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-876a67f5-45cd-4a1d-acef-58b1abfb69b1",
                   "_index": 1,
-                  "name": "Trina Holt",
+                  "_name": "Trina Holt",
                   "_type": "Syllubus",
                   "_iconX": 303,
                   "_iconY": 515,
@@ -6784,12 +6784,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3091,
                   "_lessonId": 1664,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1b092f43-cd45-4596-8f0d-bec0598993bb",
                   "_index": 2,
-                  "name": "Valdez Brock",
+                  "_name": "Valdez Brock",
                   "_type": "Syllubus",
                   "_iconX": 280,
                   "_iconY": 467,
@@ -6800,12 +6800,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4177,
                   "_lessonId": 5081,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cf609f79-a752-484a-a8cb-885ac054ce54",
                   "_index": 3,
-                  "name": "Singleton Garrett",
+                  "_name": "Singleton Garrett",
                   "_type": "Syllubus",
                   "_iconX": 743,
                   "_iconY": 103,
@@ -6816,12 +6816,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4637,
                   "_lessonId": 5843,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c2486771-6816-49b8-ac0a-8ab4b3c4cde5",
                   "_index": 4,
-                  "name": "Cooke Roberson",
+                  "_name": "Cooke Roberson",
                   "_type": "Syllubus",
                   "_iconX": 858,
                   "_iconY": 401,
@@ -6832,12 +6832,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1901,
                   "_lessonId": 2274,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-13b5be24-7a07-49b5-a91a-07b864c725fd",
                   "_index": 5,
-                  "name": "Tia Johnson",
+                  "_name": "Tia Johnson",
                   "_type": "Syllubus",
                   "_iconX": 759,
                   "_iconY": 595,
@@ -6848,7 +6848,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1739,
                   "_lessonId": 1619,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6860,7 +6860,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7127f7c2-032c-461a-8ac6-bb6e97bf335c",
                   "_index": 0,
-                  "name": "Gabriela Solis",
+                  "_name": "Gabriela Solis",
                   "_type": "Syllubus",
                   "_iconX": 990,
                   "_iconY": 350,
@@ -6871,12 +6871,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3790,
                   "_lessonId": 1787,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bde711eb-e407-4584-b2e5-b82be0988d76",
                   "_index": 1,
-                  "name": "Katelyn Wright",
+                  "_name": "Katelyn Wright",
                   "_type": "Syllubus",
                   "_iconX": 458,
                   "_iconY": 564,
@@ -6887,12 +6887,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2205,
                   "_lessonId": 1741,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4ff1bbc6-9b22-4a8b-bd34-7a6c0f02145a",
                   "_index": 2,
-                  "name": "Leach Hobbs",
+                  "_name": "Leach Hobbs",
                   "_type": "Syllubus",
                   "_iconX": 366,
                   "_iconY": 424,
@@ -6903,12 +6903,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1976,
                   "_lessonId": 1746,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-135a6415-0c1d-4796-be18-c7b615445b32",
                   "_index": 3,
-                  "name": "Cristina Livingston",
+                  "_name": "Cristina Livingston",
                   "_type": "Syllubus",
                   "_iconX": 374,
                   "_iconY": 600,
@@ -6919,12 +6919,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2288,
                   "_lessonId": 2020,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1725d8d6-fe5e-4f63-9ca2-e988107baf6d",
                   "_index": 4,
-                  "name": "Ida Dickerson",
+                  "_name": "Ida Dickerson",
                   "_type": "Syllubus",
                   "_iconX": 904,
                   "_iconY": 263,
@@ -6935,12 +6935,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1051,
                   "_lessonId": 2286,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-73578256-b8de-4557-9b6e-07d7fe3bb68b",
                   "_index": 5,
-                  "name": "Evelyn Stevenson",
+                  "_name": "Evelyn Stevenson",
                   "_type": "Syllubus",
                   "_iconX": 490,
                   "_iconY": 519,
@@ -6951,12 +6951,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4945,
                   "_lessonId": 2478,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d809b5b6-bc9b-489e-b1c9-d318c0efa3e3",
                   "_index": 6,
-                  "name": "Cleo Bullock",
+                  "_name": "Cleo Bullock",
                   "_type": "Syllubus",
                   "_iconX": 2,
                   "_iconY": 595,
@@ -6967,7 +6967,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3455,
                   "_lessonId": 3425,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -6979,7 +6979,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c26c449e-04af-4390-87fc-0e931602c16d",
                   "_index": 0,
-                  "name": "Rhoda Ward",
+                  "_name": "Rhoda Ward",
                   "_type": "Syllubus",
                   "_iconX": 786,
                   "_iconY": 450,
@@ -6990,12 +6990,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1546,
                   "_lessonId": 4258,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4864f7ac-0b39-48fa-b66a-0ecd5a27f209",
                   "_index": 1,
-                  "name": "Hutchinson Guerra",
+                  "_name": "Hutchinson Guerra",
                   "_type": "Syllubus",
                   "_iconX": 887,
                   "_iconY": 165,
@@ -7006,12 +7006,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5314,
                   "_lessonId": 4467,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d770f710-e279-4937-97a0-5c2db52e1d10",
                   "_index": 2,
-                  "name": "Henry Lawrence",
+                  "_name": "Henry Lawrence",
                   "_type": "Syllubus",
                   "_iconX": 465,
                   "_iconY": 287,
@@ -7022,12 +7022,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2394,
                   "_lessonId": 5701,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1000faf8-b695-496a-9c45-0ef7f61813be",
                   "_index": 3,
-                  "name": "Branch Weaver",
+                  "_name": "Branch Weaver",
                   "_type": "Syllubus",
                   "_iconX": 178,
                   "_iconY": 233,
@@ -7038,12 +7038,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3368,
                   "_lessonId": 1029,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f1693168-2789-48e7-b4f1-a9958ccb4256",
                   "_index": 4,
-                  "name": "Manning Stafford",
+                  "_name": "Manning Stafford",
                   "_type": "Syllubus",
                   "_iconX": 711,
                   "_iconY": 50,
@@ -7054,12 +7054,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2656,
                   "_lessonId": 4886,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b4d13d2b-d756-4bb9-bb6f-0b97c6687c48",
                   "_index": 5,
-                  "name": "Jeri Mcbride",
+                  "_name": "Jeri Mcbride",
                   "_type": "Syllubus",
                   "_iconX": 649,
                   "_iconY": 86,
@@ -7070,12 +7070,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1781,
                   "_lessonId": 3848,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-99297f65-2582-4057-8a16-999436f6827c",
                   "_index": 6,
-                  "name": "Lucy Ford",
+                  "_name": "Lucy Ford",
                   "_type": "Syllubus",
                   "_iconX": 880,
                   "_iconY": 338,
@@ -7086,7 +7086,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4773,
                   "_lessonId": 3809,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7098,7 +7098,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-74bc306b-ff9f-4a58-bfcb-eff7cc6f9962",
                   "_index": 0,
-                  "name": "Oneil Thornton",
+                  "_name": "Oneil Thornton",
                   "_type": "Syllubus",
                   "_iconX": 790,
                   "_iconY": 197,
@@ -7109,12 +7109,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3955,
                   "_lessonId": 3130,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6ea27673-9675-4352-b9ac-f5f87ee68643",
                   "_index": 1,
-                  "name": "House Weber",
+                  "_name": "House Weber",
                   "_type": "Syllubus",
                   "_iconX": 918,
                   "_iconY": 389,
@@ -7125,12 +7125,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4620,
                   "_lessonId": 4868,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c63b2d0c-0242-4e0c-bee7-e31417f62a51",
                   "_index": 2,
-                  "name": "Lillian Glass",
+                  "_name": "Lillian Glass",
                   "_type": "Syllubus",
                   "_iconX": 642,
                   "_iconY": 398,
@@ -7141,12 +7141,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3221,
                   "_lessonId": 3278,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-29f177de-bb30-4c54-81aa-cd82079f101b",
                   "_index": 3,
-                  "name": "Dena Phillips",
+                  "_name": "Dena Phillips",
                   "_type": "Syllubus",
                   "_iconX": 677,
                   "_iconY": 593,
@@ -7157,12 +7157,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1591,
                   "_lessonId": 3017,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b282020e-b153-4a41-8e53-ccea6df10024",
                   "_index": 4,
-                  "name": "Rosemary Parrish",
+                  "_name": "Rosemary Parrish",
                   "_type": "Syllubus",
                   "_iconX": 544,
                   "_iconY": 147,
@@ -7173,7 +7173,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4982,
                   "_lessonId": 5420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -7200,7 +7200,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-02269519-e859-4272-b886-1980c0ff0fb9",
                   "_index": 0,
-                  "name": "Sonia Burch",
+                  "_name": "Sonia Burch",
                   "_type": "Syllubus",
                   "_iconX": 517,
                   "_iconY": 283,
@@ -7211,12 +7211,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3300,
                   "_lessonId": 4610,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-181f765b-35cb-4c14-ab5f-f0fc5f1e60c0",
                   "_index": 1,
-                  "name": "Sweeney Lee",
+                  "_name": "Sweeney Lee",
                   "_type": "Syllubus",
                   "_iconX": 381,
                   "_iconY": 417,
@@ -7227,12 +7227,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3938,
                   "_lessonId": 5341,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-669ed5ce-929e-4c8b-93de-cc74ec577fa7",
                   "_index": 2,
-                  "name": "Terry Briggs",
+                  "_name": "Terry Briggs",
                   "_type": "Syllubus",
                   "_iconX": 381,
                   "_iconY": 289,
@@ -7243,12 +7243,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1975,
                   "_lessonId": 1459,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e73a8039-430b-4a30-8837-4e2a5bf1cf24",
                   "_index": 3,
-                  "name": "Marcia Waller",
+                  "_name": "Marcia Waller",
                   "_type": "Syllubus",
                   "_iconX": 726,
                   "_iconY": 534,
@@ -7259,12 +7259,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2267,
                   "_lessonId": 5741,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2472ff42-0b2b-43e7-a2d1-3162ebb93cdc",
                   "_index": 4,
-                  "name": "Grace Haley",
+                  "_name": "Grace Haley",
                   "_type": "Syllubus",
                   "_iconX": 532,
                   "_iconY": 143,
@@ -7275,12 +7275,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1958,
                   "_lessonId": 3035,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c5cfd0af-a029-4c44-a85a-36266aea927d",
                   "_index": 5,
-                  "name": "Jeanine Randall",
+                  "_name": "Jeanine Randall",
                   "_type": "Syllubus",
                   "_iconX": 270,
                   "_iconY": 540,
@@ -7291,7 +7291,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5969,
                   "_lessonId": 1564,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7303,7 +7303,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-cd3374d8-8bb9-4e81-8044-c11003b65e6e",
                   "_index": 0,
-                  "name": "Rodriquez Serrano",
+                  "_name": "Rodriquez Serrano",
                   "_type": "Syllubus",
                   "_iconX": 765,
                   "_iconY": 338,
@@ -7314,12 +7314,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5739,
                   "_lessonId": 4444,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ed60498d-9130-49dc-9c49-b3e6ea1a19db",
                   "_index": 1,
-                  "name": "Mosley Rollins",
+                  "_name": "Mosley Rollins",
                   "_type": "Syllubus",
                   "_iconX": 687,
                   "_iconY": 548,
@@ -7330,12 +7330,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4006,
                   "_lessonId": 2610,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5a41e2c0-f8bf-4e46-bb7f-94ef5d5f0c51",
                   "_index": 2,
-                  "name": "Christi Reilly",
+                  "_name": "Christi Reilly",
                   "_type": "Syllubus",
                   "_iconX": 448,
                   "_iconY": 577,
@@ -7346,12 +7346,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1460,
                   "_lessonId": 5230,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1feeb3bc-b629-484c-81b1-69ad4a764c4a",
                   "_index": 3,
-                  "name": "Clarice Mcleod",
+                  "_name": "Clarice Mcleod",
                   "_type": "Syllubus",
                   "_iconX": 36,
                   "_iconY": 85,
@@ -7362,12 +7362,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2743,
                   "_lessonId": 1711,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a7d0ccab-6baa-4b09-a80b-b0d7ebb81c3a",
                   "_index": 4,
-                  "name": "Phillips Wilcox",
+                  "_name": "Phillips Wilcox",
                   "_type": "Syllubus",
                   "_iconX": 602,
                   "_iconY": 464,
@@ -7378,12 +7378,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1694,
                   "_lessonId": 2565,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5c8f5db3-5145-4156-80a5-c9751e926bf0",
                   "_index": 5,
-                  "name": "Petersen Watts",
+                  "_name": "Petersen Watts",
                   "_type": "Syllubus",
                   "_iconX": 314,
                   "_iconY": 137,
@@ -7394,12 +7394,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1182,
                   "_lessonId": 5336,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-29e940a4-05a1-4353-b9c3-596558b456e4",
                   "_index": 6,
-                  "name": "Verna Hernandez",
+                  "_name": "Verna Hernandez",
                   "_type": "Syllubus",
                   "_iconX": 783,
                   "_iconY": 314,
@@ -7410,7 +7410,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5734,
                   "_lessonId": 5029,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7422,7 +7422,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-74bdf997-f9b3-4901-bf8b-f28cd360fae2",
                   "_index": 0,
-                  "name": "Adriana Dyer",
+                  "_name": "Adriana Dyer",
                   "_type": "Syllubus",
                   "_iconX": 300,
                   "_iconY": 79,
@@ -7433,12 +7433,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4540,
                   "_lessonId": 4158,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e2211ccc-0fa2-41c9-b7e7-a9fb798817fd",
                   "_index": 1,
-                  "name": "Earline Burt",
+                  "_name": "Earline Burt",
                   "_type": "Syllubus",
                   "_iconX": 211,
                   "_iconY": 461,
@@ -7449,12 +7449,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1501,
                   "_lessonId": 2191,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fcc1eda1-74b1-489c-8352-6ebe88dfddab",
                   "_index": 2,
-                  "name": "Barbara Sosa",
+                  "_name": "Barbara Sosa",
                   "_type": "Syllubus",
                   "_iconX": 76,
                   "_iconY": 326,
@@ -7465,12 +7465,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5200,
                   "_lessonId": 2072,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-53c41d0e-0782-41c6-9110-f578c3dd1631",
                   "_index": 3,
-                  "name": "Louella Morrow",
+                  "_name": "Louella Morrow",
                   "_type": "Syllubus",
                   "_iconX": 155,
                   "_iconY": 595,
@@ -7481,12 +7481,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2687,
                   "_lessonId": 1592,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-83c2ea3f-543a-484d-901a-d8d83dab07cd",
                   "_index": 4,
-                  "name": "Ball Fuller",
+                  "_name": "Ball Fuller",
                   "_type": "Syllubus",
                   "_iconX": 425,
                   "_iconY": 394,
@@ -7497,12 +7497,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3137,
                   "_lessonId": 4126,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f83b3f0b-eabc-4304-8e81-cf757277b94b",
                   "_index": 5,
-                  "name": "Kristine Bell",
+                  "_name": "Kristine Bell",
                   "_type": "Syllubus",
                   "_iconX": 139,
                   "_iconY": 38,
@@ -7513,7 +7513,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4904,
                   "_lessonId": 2769,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7525,7 +7525,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e9fd149e-d2c4-47c6-bea0-8f2dcc64a4a7",
                   "_index": 0,
-                  "name": "Perkins Hudson",
+                  "_name": "Perkins Hudson",
                   "_type": "Syllubus",
                   "_iconX": 472,
                   "_iconY": 152,
@@ -7536,12 +7536,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3561,
                   "_lessonId": 4130,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c8135cf9-72fb-4230-9543-45c8b09cea56",
                   "_index": 1,
-                  "name": "Griffith Warner",
+                  "_name": "Griffith Warner",
                   "_type": "Syllubus",
                   "_iconX": 534,
                   "_iconY": 462,
@@ -7552,12 +7552,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2941,
                   "_lessonId": 2218,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-46b6fe3c-5c83-4fd1-9b40-ad9aa70f0536",
                   "_index": 2,
-                  "name": "Mabel Rowland",
+                  "_name": "Mabel Rowland",
                   "_type": "Syllubus",
                   "_iconX": 430,
                   "_iconY": 168,
@@ -7568,12 +7568,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2003,
                   "_lessonId": 1835,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a6e095ae-55fb-43f1-9a9e-de95ae289d65",
                   "_index": 3,
-                  "name": "Wiley Gillespie",
+                  "_name": "Wiley Gillespie",
                   "_type": "Syllubus",
                   "_iconX": 543,
                   "_iconY": 350,
@@ -7584,12 +7584,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5737,
                   "_lessonId": 1927,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e043f587-b049-4486-89aa-411d0604cc38",
                   "_index": 4,
-                  "name": "Alexandra Carroll",
+                  "_name": "Alexandra Carroll",
                   "_type": "Syllubus",
                   "_iconX": 425,
                   "_iconY": 41,
@@ -7600,7 +7600,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4308,
                   "_lessonId": 2584,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7612,7 +7612,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-102ed8a7-d58c-49cb-97d3-96695551fc9f",
                   "_index": 0,
-                  "name": "Velma Savage",
+                  "_name": "Velma Savage",
                   "_type": "Syllubus",
                   "_iconX": 568,
                   "_iconY": 355,
@@ -7623,12 +7623,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1765,
                   "_lessonId": 1753,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e6ecd526-01a8-4c84-a4e8-79fce878491a",
                   "_index": 1,
-                  "name": "Norton Harris",
+                  "_name": "Norton Harris",
                   "_type": "Syllubus",
                   "_iconX": 659,
                   "_iconY": 237,
@@ -7639,12 +7639,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5712,
                   "_lessonId": 2784,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-08c59919-35b4-4621-82af-72cbb3be25a6",
                   "_index": 2,
-                  "name": "Holcomb Espinoza",
+                  "_name": "Holcomb Espinoza",
                   "_type": "Syllubus",
                   "_iconX": 383,
                   "_iconY": 400,
@@ -7655,12 +7655,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5456,
                   "_lessonId": 2869,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a9595f12-da57-412f-aa9d-55ab9094956d",
                   "_index": 3,
-                  "name": "Bishop Schultz",
+                  "_name": "Bishop Schultz",
                   "_type": "Syllubus",
                   "_iconX": 353,
                   "_iconY": 523,
@@ -7671,12 +7671,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3212,
                   "_lessonId": 4370,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f88b6f59-7b7e-4587-b357-5b1d80f912f2",
                   "_index": 4,
-                  "name": "Nolan Shepard",
+                  "_name": "Nolan Shepard",
                   "_type": "Syllubus",
                   "_iconX": 701,
                   "_iconY": 298,
@@ -7687,12 +7687,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2164,
                   "_lessonId": 4862,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e58a2c44-a8d3-4705-942f-1b988fff8ca8",
                   "_index": 5,
-                  "name": "Juliet Knight",
+                  "_name": "Juliet Knight",
                   "_type": "Syllubus",
                   "_iconX": 285,
                   "_iconY": 154,
@@ -7703,12 +7703,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3821,
                   "_lessonId": 3777,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-077fd0b3-7e3e-4eea-b89f-be86aee142c7",
                   "_index": 6,
-                  "name": "Georgia Hammond",
+                  "_name": "Georgia Hammond",
                   "_type": "Syllubus",
                   "_iconX": 691,
                   "_iconY": 297,
@@ -7719,7 +7719,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1796,
                   "_lessonId": 1522,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7731,7 +7731,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-8a576437-c69b-42f0-9f1f-a06944afcf51",
                   "_index": 0,
-                  "name": "Castro Cummings",
+                  "_name": "Castro Cummings",
                   "_type": "Syllubus",
                   "_iconX": 661,
                   "_iconY": 40,
@@ -7742,12 +7742,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1728,
                   "_lessonId": 4235,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4563869-8578-4db8-a9e4-62b9f9852f11",
                   "_index": 1,
-                  "name": "Deloris Kelley",
+                  "_name": "Deloris Kelley",
                   "_type": "Syllubus",
                   "_iconX": 545,
                   "_iconY": 555,
@@ -7758,12 +7758,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5191,
                   "_lessonId": 5655,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0b63809a-39b1-41c1-9e4f-a2dbbe00d75f",
                   "_index": 2,
-                  "name": "Vanessa Michael",
+                  "_name": "Vanessa Michael",
                   "_type": "Syllubus",
                   "_iconX": 785,
                   "_iconY": 150,
@@ -7774,12 +7774,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5583,
                   "_lessonId": 1174,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-13d5ef6b-8d14-4d34-8c22-1cd92880cb37",
                   "_index": 3,
-                  "name": "Alissa Hines",
+                  "_name": "Alissa Hines",
                   "_type": "Syllubus",
                   "_iconX": 905,
                   "_iconY": 471,
@@ -7790,12 +7790,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4098,
                   "_lessonId": 3624,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5c3fb0c-2430-4fe0-8dc5-7532b12a6443",
                   "_index": 4,
-                  "name": "Guthrie Leach",
+                  "_name": "Guthrie Leach",
                   "_type": "Syllubus",
                   "_iconX": 105,
                   "_iconY": 526,
@@ -7806,12 +7806,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2352,
                   "_lessonId": 3321,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-015acb2c-50c1-49a4-9b5d-e00ef3834ec5",
                   "_index": 5,
-                  "name": "Antonia Hensley",
+                  "_name": "Antonia Hensley",
                   "_type": "Syllubus",
                   "_iconX": 323,
                   "_iconY": 438,
@@ -7822,12 +7822,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4075,
                   "_lessonId": 1395,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-af79a34f-e8ec-4e5d-937f-6ba02bdd1ae8",
                   "_index": 6,
-                  "name": "Sheena Houston",
+                  "_name": "Sheena Houston",
                   "_type": "Syllubus",
                   "_iconX": 236,
                   "_iconY": 166,
@@ -7838,7 +7838,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2772,
                   "_lessonId": 1502,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -7850,7 +7850,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ff63aaba-4626-4a93-8b73-1ec8723597b8",
                   "_index": 0,
-                  "name": "Serena Walsh",
+                  "_name": "Serena Walsh",
                   "_type": "Syllubus",
                   "_iconX": 196,
                   "_iconY": 420,
@@ -7861,12 +7861,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4549,
                   "_lessonId": 2647,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d0fc425d-3ef9-4dfe-aa89-cd733c3c2dba",
                   "_index": 1,
-                  "name": "Long Mckay",
+                  "_name": "Long Mckay",
                   "_type": "Syllubus",
                   "_iconX": 760,
                   "_iconY": 139,
@@ -7877,12 +7877,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4623,
                   "_lessonId": 4021,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b83cf50c-cb7f-4928-a92e-d0b443012162",
                   "_index": 2,
-                  "name": "Roseann Craft",
+                  "_name": "Roseann Craft",
                   "_type": "Syllubus",
                   "_iconX": 331,
                   "_iconY": 83,
@@ -7893,12 +7893,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4709,
                   "_lessonId": 4556,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-627e42fa-7169-4ee2-b1a8-8d0fdeb57a2b",
                   "_index": 3,
-                  "name": "Louisa Collier",
+                  "_name": "Louisa Collier",
                   "_type": "Syllubus",
                   "_iconX": 629,
                   "_iconY": 567,
@@ -7909,12 +7909,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1882,
                   "_lessonId": 3489,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f2377fcd-ce8c-4ccb-aa84-0475674cdcd2",
                   "_index": 4,
-                  "name": "Lilian Russo",
+                  "_name": "Lilian Russo",
                   "_type": "Syllubus",
                   "_iconX": 852,
                   "_iconY": 436,
@@ -7925,12 +7925,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2589,
                   "_lessonId": 2061,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e6b5dc4-4fbe-405e-abd2-62abee362ef3",
                   "_index": 5,
-                  "name": "Harrell Wise",
+                  "_name": "Harrell Wise",
                   "_type": "Syllubus",
                   "_iconX": 246,
                   "_iconY": 27,
@@ -7941,7 +7941,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3600,
                   "_lessonId": 1693,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -7964,7 +7964,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-6cdd7938-bc70-4012-94aa-26ea84d0ab63",
                   "_index": 0,
-                  "name": "Roberts Rodriguez",
+                  "_name": "Roberts Rodriguez",
                   "_type": "Syllubus",
                   "_iconX": 102,
                   "_iconY": 311,
@@ -7975,12 +7975,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3603,
                   "_lessonId": 4469,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a42eff07-3722-4b6c-b574-e6ff96fed0f9",
                   "_index": 1,
-                  "name": "Collier Drake",
+                  "_name": "Collier Drake",
                   "_type": "Syllubus",
                   "_iconX": 544,
                   "_iconY": 509,
@@ -7991,12 +7991,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3485,
                   "_lessonId": 2034,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-66b6ce0d-f209-433c-8157-43790106d7e5",
                   "_index": 2,
-                  "name": "Vaughn Marks",
+                  "_name": "Vaughn Marks",
                   "_type": "Syllubus",
                   "_iconX": 325,
                   "_iconY": 387,
@@ -8007,12 +8007,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2272,
                   "_lessonId": 2516,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb626d14-bbce-401a-9a62-7a2a53751069",
                   "_index": 3,
-                  "name": "Ella Lopez",
+                  "_name": "Ella Lopez",
                   "_type": "Syllubus",
                   "_iconX": 570,
                   "_iconY": 15,
@@ -8023,12 +8023,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3951,
                   "_lessonId": 1594,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f059048a-e379-4cfb-8e06-17e63884cbb4",
                   "_index": 4,
-                  "name": "Hickman Collins",
+                  "_name": "Hickman Collins",
                   "_type": "Syllubus",
                   "_iconX": 352,
                   "_iconY": 359,
@@ -8039,12 +8039,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5993,
                   "_lessonId": 5541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5d260e4b-4d77-4aeb-aaf1-b27184e55f6b",
                   "_index": 5,
-                  "name": "Terrell Kline",
+                  "_name": "Terrell Kline",
                   "_type": "Syllubus",
                   "_iconX": 796,
                   "_iconY": 58,
@@ -8055,12 +8055,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1453,
                   "_lessonId": 4057,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32452a09-01ee-4cd2-8eb8-778880250d99",
                   "_index": 6,
-                  "name": "Navarro Hartman",
+                  "_name": "Navarro Hartman",
                   "_type": "Syllubus",
                   "_iconX": 642,
                   "_iconY": 552,
@@ -8071,7 +8071,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5745,
                   "_lessonId": 2403,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8083,7 +8083,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-8ab466d6-3e7b-4c57-9912-7ed65346c87e",
                   "_index": 0,
-                  "name": "Rosella Holden",
+                  "_name": "Rosella Holden",
                   "_type": "Syllubus",
                   "_iconX": 706,
                   "_iconY": 11,
@@ -8094,12 +8094,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1564,
                   "_lessonId": 5948,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6a682fae-b178-4be9-a228-36e348618025",
                   "_index": 1,
-                  "name": "Glenna Burks",
+                  "_name": "Glenna Burks",
                   "_type": "Syllubus",
                   "_iconX": 146,
                   "_iconY": 387,
@@ -8110,12 +8110,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2078,
                   "_lessonId": 2268,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-770c2efa-8bf6-4721-bb1c-7498041c029a",
                   "_index": 2,
-                  "name": "Haney Cook",
+                  "_name": "Haney Cook",
                   "_type": "Syllubus",
                   "_iconX": 329,
                   "_iconY": 570,
@@ -8126,12 +8126,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3502,
                   "_lessonId": 4121,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-05bcaf0e-d503-4fa9-9fad-53a5edb7f5fb",
                   "_index": 3,
-                  "name": "Dionne Chan",
+                  "_name": "Dionne Chan",
                   "_type": "Syllubus",
                   "_iconX": 916,
                   "_iconY": 209,
@@ -8142,12 +8142,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4695,
                   "_lessonId": 5334,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1b3290c7-898e-4285-aa61-e5fd2fe6134b",
                   "_index": 4,
-                  "name": "Marva Mccarty",
+                  "_name": "Marva Mccarty",
                   "_type": "Syllubus",
                   "_iconX": 77,
                   "_iconY": 244,
@@ -8158,12 +8158,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4074,
                   "_lessonId": 1168,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a0c2dbb1-dc09-41bb-87de-53d6e05ea2e0",
                   "_index": 5,
-                  "name": "Gertrude Alston",
+                  "_name": "Gertrude Alston",
                   "_type": "Syllubus",
                   "_iconX": 622,
                   "_iconY": 95,
@@ -8174,12 +8174,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2313,
                   "_lessonId": 1782,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-620ed9a2-abe5-4e50-820e-0faeaad8644d",
                   "_index": 6,
-                  "name": "Watkins Jones",
+                  "_name": "Watkins Jones",
                   "_type": "Syllubus",
                   "_iconX": 725,
                   "_iconY": 543,
@@ -8190,7 +8190,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4314,
                   "_lessonId": 3682,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8202,7 +8202,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a15ca700-c5e0-4a5d-a6b6-811e063b59e8",
                   "_index": 0,
-                  "name": "Schwartz Meyer",
+                  "_name": "Schwartz Meyer",
                   "_type": "Syllubus",
                   "_iconX": 683,
                   "_iconY": 269,
@@ -8213,12 +8213,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3750,
                   "_lessonId": 1745,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3757d257-9c18-4147-aa3e-5dfa4c69a1b0",
                   "_index": 1,
-                  "name": "Gabrielle Ray",
+                  "_name": "Gabrielle Ray",
                   "_type": "Syllubus",
                   "_iconX": 550,
                   "_iconY": 324,
@@ -8229,12 +8229,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4047,
                   "_lessonId": 2472,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-17bf6200-1280-418b-a688-996407641d98",
                   "_index": 2,
-                  "name": "Preston Chavez",
+                  "_name": "Preston Chavez",
                   "_type": "Syllubus",
                   "_iconX": 550,
                   "_iconY": 169,
@@ -8245,12 +8245,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5877,
                   "_lessonId": 2623,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a0d0300b-201b-4883-868b-5bf12e5e183a",
                   "_index": 3,
-                  "name": "Lessie Spence",
+                  "_name": "Lessie Spence",
                   "_type": "Syllubus",
                   "_iconX": 948,
                   "_iconY": 576,
@@ -8261,12 +8261,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4213,
                   "_lessonId": 5966,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-254d3e63-f84d-4385-b351-acbb8aed92b4",
                   "_index": 4,
-                  "name": "Courtney Farley",
+                  "_name": "Courtney Farley",
                   "_type": "Syllubus",
                   "_iconX": 8,
                   "_iconY": 188,
@@ -8277,7 +8277,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4479,
                   "_lessonId": 5760,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8289,7 +8289,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a6818572-2eac-43ce-8497-e6f7e56c2c6f",
                   "_index": 0,
-                  "name": "Gentry Donovan",
+                  "_name": "Gentry Donovan",
                   "_type": "Syllubus",
                   "_iconX": 529,
                   "_iconY": 343,
@@ -8300,12 +8300,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5628,
                   "_lessonId": 1328,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e228c024-c639-4ce8-83a9-01254e8064ae",
                   "_index": 1,
-                  "name": "Frieda Hurst",
+                  "_name": "Frieda Hurst",
                   "_type": "Syllubus",
                   "_iconX": 700,
                   "_iconY": 418,
@@ -8316,12 +8316,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1039,
                   "_lessonId": 4685,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-14377699-e6d3-4f8e-8050-21eb5571b269",
                   "_index": 2,
-                  "name": "Alyson Cotton",
+                  "_name": "Alyson Cotton",
                   "_type": "Syllubus",
                   "_iconX": 985,
                   "_iconY": 13,
@@ -8332,12 +8332,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4981,
                   "_lessonId": 1130,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c785572-7c86-4da9-8207-f8b1e4945f02",
                   "_index": 3,
-                  "name": "Deborah Allison",
+                  "_name": "Deborah Allison",
                   "_type": "Syllubus",
                   "_iconX": 646,
                   "_iconY": 440,
@@ -8348,12 +8348,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3181,
                   "_lessonId": 1445,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2c165003-34aa-426a-9f31-478d018e9e9d",
                   "_index": 4,
-                  "name": "Brittany Johnston",
+                  "_name": "Brittany Johnston",
                   "_type": "Syllubus",
                   "_iconX": 130,
                   "_iconY": 122,
@@ -8364,7 +8364,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5715,
                   "_lessonId": 4662,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8376,7 +8376,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e1d776e0-ea94-4950-afba-62a59d67f82e",
                   "_index": 0,
-                  "name": "Shawna Doyle",
+                  "_name": "Shawna Doyle",
                   "_type": "Syllubus",
                   "_iconX": 524,
                   "_iconY": 77,
@@ -8387,12 +8387,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2492,
                   "_lessonId": 1661,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e4d6d944-2b6f-4117-8fda-9fc95ae46401",
                   "_index": 1,
-                  "name": "Holman Rivas",
+                  "_name": "Holman Rivas",
                   "_type": "Syllubus",
                   "_iconX": 388,
                   "_iconY": 68,
@@ -8403,12 +8403,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4088,
                   "_lessonId": 1972,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-120aaa12-82a8-4553-873c-5f99a24e436b",
                   "_index": 2,
-                  "name": "Reyes Ramirez",
+                  "_name": "Reyes Ramirez",
                   "_type": "Syllubus",
                   "_iconX": 435,
                   "_iconY": 499,
@@ -8419,12 +8419,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2908,
                   "_lessonId": 3362,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b9a33542-6b89-4dc9-b92d-835dc3c1c7a4",
                   "_index": 3,
-                  "name": "Kemp Bartlett",
+                  "_name": "Kemp Bartlett",
                   "_type": "Syllubus",
                   "_iconX": 871,
                   "_iconY": 567,
@@ -8435,12 +8435,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4081,
                   "_lessonId": 4018,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4ad39bf2-4ceb-4471-83be-832ff031c4c7",
                   "_index": 4,
-                  "name": "Patel Torres",
+                  "_name": "Patel Torres",
                   "_type": "Syllubus",
                   "_iconX": 183,
                   "_iconY": 537,
@@ -8451,12 +8451,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5235,
                   "_lessonId": 4079,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-68826d7d-784c-4a13-bd29-4b8686e5daad",
                   "_index": 5,
-                  "name": "Lucille Mccall",
+                  "_name": "Lucille Mccall",
                   "_type": "Syllubus",
                   "_iconX": 99,
                   "_iconY": 340,
@@ -8467,12 +8467,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3315,
                   "_lessonId": 2865,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-55b12908-e4a4-4f37-ad9b-52a9ce2a1d62",
                   "_index": 6,
-                  "name": "Sosa Herrera",
+                  "_name": "Sosa Herrera",
                   "_type": "Syllubus",
                   "_iconX": 888,
                   "_iconY": 141,
@@ -8483,7 +8483,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3192,
                   "_lessonId": 1469,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8495,7 +8495,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9c7804b0-c1bd-413a-a761-51f4b96b263e",
                   "_index": 0,
-                  "name": "Norma Richmond",
+                  "_name": "Norma Richmond",
                   "_type": "Syllubus",
                   "_iconX": 582,
                   "_iconY": 60,
@@ -8506,12 +8506,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4107,
                   "_lessonId": 4067,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-26521683-e1e3-492b-939a-44ea4b407a7c",
                   "_index": 1,
-                  "name": "Dawson Salas",
+                  "_name": "Dawson Salas",
                   "_type": "Syllubus",
                   "_iconX": 742,
                   "_iconY": 550,
@@ -8522,12 +8522,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3155,
                   "_lessonId": 3724,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cd6e2eb1-e8e8-4fa5-96f2-0f00b92f81fd",
                   "_index": 2,
-                  "name": "Doyle Myers",
+                  "_name": "Doyle Myers",
                   "_type": "Syllubus",
                   "_iconX": 609,
                   "_iconY": 437,
@@ -8538,12 +8538,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5695,
                   "_lessonId": 5087,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d6bfada1-303e-4b52-b8c4-b8ef5a47d726",
                   "_index": 3,
-                  "name": "Daugherty Kim",
+                  "_name": "Daugherty Kim",
                   "_type": "Syllubus",
                   "_iconX": 12,
                   "_iconY": 418,
@@ -8554,12 +8554,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5203,
                   "_lessonId": 5782,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d79df579-bc41-4fdf-9960-00318c31ff4a",
                   "_index": 4,
-                  "name": "Avis Fulton",
+                  "_name": "Avis Fulton",
                   "_type": "Syllubus",
                   "_iconX": 766,
                   "_iconY": 138,
@@ -8570,12 +8570,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1444,
                   "_lessonId": 2429,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-db8b08bb-adcd-41d8-a564-c70cfa364e23",
                   "_index": 5,
-                  "name": "Ortega Klein",
+                  "_name": "Ortega Klein",
                   "_type": "Syllubus",
                   "_iconX": 311,
                   "_iconY": 62,
@@ -8586,12 +8586,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2940,
                   "_lessonId": 4800,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a3935db3-c437-40ad-a25a-3f3413588d46",
                   "_index": 6,
-                  "name": "Blackwell Foley",
+                  "_name": "Blackwell Foley",
                   "_type": "Syllubus",
                   "_iconX": 443,
                   "_iconY": 20,
@@ -8602,7 +8602,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1332,
                   "_lessonId": 2914,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8614,7 +8614,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e0dcea50-a2b0-4169-96cc-6f0273f525ab",
                   "_index": 0,
-                  "name": "Savage King",
+                  "_name": "Savage King",
                   "_type": "Syllubus",
                   "_iconX": 422,
                   "_iconY": 359,
@@ -8625,12 +8625,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3864,
                   "_lessonId": 4198,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f4df641-df14-41f0-9194-6118fe6ca788",
                   "_index": 1,
-                  "name": "Ursula Carey",
+                  "_name": "Ursula Carey",
                   "_type": "Syllubus",
                   "_iconX": 772,
                   "_iconY": 73,
@@ -8641,12 +8641,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2905,
                   "_lessonId": 1788,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3524ff8d-ca91-483d-b6ef-1da3a675d04a",
                   "_index": 2,
-                  "name": "Mcleod Osborne",
+                  "_name": "Mcleod Osborne",
                   "_type": "Syllubus",
                   "_iconX": 942,
                   "_iconY": 451,
@@ -8657,12 +8657,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1869,
                   "_lessonId": 3649,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3479c880-6583-414c-8819-e9e91bd4f4da",
                   "_index": 3,
-                  "name": "Juanita Owens",
+                  "_name": "Juanita Owens",
                   "_type": "Syllubus",
                   "_iconX": 857,
                   "_iconY": 155,
@@ -8673,12 +8673,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5574,
                   "_lessonId": 5225,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3ce09eda-f815-4385-8d6e-3502495c6c26",
                   "_index": 4,
-                  "name": "Catalina Mccray",
+                  "_name": "Catalina Mccray",
                   "_type": "Syllubus",
                   "_iconX": 388,
                   "_iconY": 15,
@@ -8689,7 +8689,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5266,
                   "_lessonId": 4261,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -8712,7 +8712,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-35d00188-8f78-418b-a2ff-93f71116361c",
                   "_index": 0,
-                  "name": "Montgomery Rowe",
+                  "_name": "Montgomery Rowe",
                   "_type": "Syllubus",
                   "_iconX": 782,
                   "_iconY": 514,
@@ -8723,12 +8723,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1839,
                   "_lessonId": 1163,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f3688ca5-5c5a-411d-9c8b-ae4f0854dced",
                   "_index": 1,
-                  "name": "Hewitt Reed",
+                  "_name": "Hewitt Reed",
                   "_type": "Syllubus",
                   "_iconX": 745,
                   "_iconY": 242,
@@ -8739,12 +8739,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5654,
                   "_lessonId": 5409,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7888ae82-e524-4b8f-95ef-ca2793c811bc",
                   "_index": 2,
-                  "name": "England Christian",
+                  "_name": "England Christian",
                   "_type": "Syllubus",
                   "_iconX": 937,
                   "_iconY": 56,
@@ -8755,12 +8755,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4933,
                   "_lessonId": 2564,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7080ae06-2486-4b93-a9a9-f2995e465773",
                   "_index": 3,
-                  "name": "Nola Burgess",
+                  "_name": "Nola Burgess",
                   "_type": "Syllubus",
                   "_iconX": 596,
                   "_iconY": 66,
@@ -8771,12 +8771,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3799,
                   "_lessonId": 3751,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8b42d1f9-9d8e-468b-b893-665b625d6907",
                   "_index": 4,
-                  "name": "Juliette Hyde",
+                  "_name": "Juliette Hyde",
                   "_type": "Syllubus",
                   "_iconX": 619,
                   "_iconY": 12,
@@ -8787,7 +8787,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1175,
                   "_lessonId": 2648,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8799,7 +8799,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ec255cb3-1191-4f76-8afc-337cc4b7f251",
                   "_index": 0,
-                  "name": "Esmeralda Grimes",
+                  "_name": "Esmeralda Grimes",
                   "_type": "Syllubus",
                   "_iconX": 639,
                   "_iconY": 362,
@@ -8810,12 +8810,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3096,
                   "_lessonId": 2580,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a4e4579-3fa2-4b08-afa0-13a5a1e73518",
                   "_index": 1,
-                  "name": "Lopez Herring",
+                  "_name": "Lopez Herring",
                   "_type": "Syllubus",
                   "_iconX": 396,
                   "_iconY": 454,
@@ -8826,12 +8826,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2818,
                   "_lessonId": 5060,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-391fc88c-d317-47e5-89f5-eb89304cae9f",
                   "_index": 2,
-                  "name": "Staci Dalton",
+                  "_name": "Staci Dalton",
                   "_type": "Syllubus",
                   "_iconX": 443,
                   "_iconY": 302,
@@ -8842,12 +8842,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5003,
                   "_lessonId": 2464,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1971e73d-65c1-44e5-a4ed-ff53e481502e",
                   "_index": 3,
-                  "name": "Marian Wilkerson",
+                  "_name": "Marian Wilkerson",
                   "_type": "Syllubus",
                   "_iconX": 5,
                   "_iconY": 328,
@@ -8858,12 +8858,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5796,
                   "_lessonId": 3064,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ef58de8f-1e24-4ee9-9026-b8adf704fd86",
                   "_index": 4,
-                  "name": "Kathleen Mcdaniel",
+                  "_name": "Kathleen Mcdaniel",
                   "_type": "Syllubus",
                   "_iconX": 529,
                   "_iconY": 384,
@@ -8874,12 +8874,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5549,
                   "_lessonId": 2828,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c760e74-0845-4775-9f19-c662f800ac9a",
                   "_index": 5,
-                  "name": "Barker Velasquez",
+                  "_name": "Barker Velasquez",
                   "_type": "Syllubus",
                   "_iconX": 240,
                   "_iconY": 591,
@@ -8890,12 +8890,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4218,
                   "_lessonId": 2063,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c917ede-0bb1-49f6-a84f-498994785825",
                   "_index": 6,
-                  "name": "Queen Lucas",
+                  "_name": "Queen Lucas",
                   "_type": "Syllubus",
                   "_iconX": 361,
                   "_iconY": 435,
@@ -8906,7 +8906,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2398,
                   "_lessonId": 2408,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -8918,7 +8918,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-888c4257-3cb8-488e-8f8c-0e7b53fee994",
                   "_index": 0,
-                  "name": "Tran Wallace",
+                  "_name": "Tran Wallace",
                   "_type": "Syllubus",
                   "_iconX": 438,
                   "_iconY": 576,
@@ -8929,12 +8929,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3947,
                   "_lessonId": 2571,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8df2ccb9-1087-48ee-8d81-12d0ddd09cda",
                   "_index": 1,
-                  "name": "Sophia Silva",
+                  "_name": "Sophia Silva",
                   "_type": "Syllubus",
                   "_iconX": 371,
                   "_iconY": 142,
@@ -8945,12 +8945,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5706,
                   "_lessonId": 3740,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1f184c4a-4e08-45b5-8acd-a9e778c274b0",
                   "_index": 2,
-                  "name": "Mcpherson Kane",
+                  "_name": "Mcpherson Kane",
                   "_type": "Syllubus",
                   "_iconX": 97,
                   "_iconY": 317,
@@ -8961,12 +8961,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4303,
                   "_lessonId": 3094,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d0644abb-2f33-4d8a-a307-f69b02d21395",
                   "_index": 3,
-                  "name": "Wyatt Potter",
+                  "_name": "Wyatt Potter",
                   "_type": "Syllubus",
                   "_iconX": 843,
                   "_iconY": 463,
@@ -8977,12 +8977,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4161,
                   "_lessonId": 5817,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-199bf302-a50a-426a-ab28-e48162699ca4",
                   "_index": 4,
-                  "name": "Briana Mejia",
+                  "_name": "Briana Mejia",
                   "_type": "Syllubus",
                   "_iconX": 307,
                   "_iconY": 201,
@@ -8993,12 +8993,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5572,
                   "_lessonId": 5175,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fc8abcc8-1c50-487d-ba45-36be3e48d419",
                   "_index": 5,
-                  "name": "Rodriguez Swanson",
+                  "_name": "Rodriguez Swanson",
                   "_type": "Syllubus",
                   "_iconX": 689,
                   "_iconY": 581,
@@ -9009,7 +9009,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2485,
                   "_lessonId": 2275,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9021,7 +9021,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ac53469c-976a-4697-af97-2d5bbfd4dab1",
                   "_index": 0,
-                  "name": "Willa Perry",
+                  "_name": "Willa Perry",
                   "_type": "Syllubus",
                   "_iconX": 635,
                   "_iconY": 561,
@@ -9032,12 +9032,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2298,
                   "_lessonId": 4280,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d2f7c988-d734-49af-89bc-80f38b5d4577",
                   "_index": 1,
-                  "name": "Davidson Oliver",
+                  "_name": "Davidson Oliver",
                   "_type": "Syllubus",
                   "_iconX": 168,
                   "_iconY": 498,
@@ -9048,12 +9048,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2320,
                   "_lessonId": 4570,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-edb72f17-b561-4082-9127-2e057f8db9c9",
                   "_index": 2,
-                  "name": "Myrna Morgan",
+                  "_name": "Myrna Morgan",
                   "_type": "Syllubus",
                   "_iconX": 60,
                   "_iconY": 567,
@@ -9064,12 +9064,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2179,
                   "_lessonId": 2497,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-404f7ba0-b855-46a7-b971-cfe64955b01c",
                   "_index": 3,
-                  "name": "Chasity Buckley",
+                  "_name": "Chasity Buckley",
                   "_type": "Syllubus",
                   "_iconX": 102,
                   "_iconY": 264,
@@ -9080,12 +9080,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3132,
                   "_lessonId": 1854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6bec01e7-9448-4bea-8958-c8fb2ca165eb",
                   "_index": 4,
-                  "name": "Reilly Hays",
+                  "_name": "Reilly Hays",
                   "_type": "Syllubus",
                   "_iconX": 344,
                   "_iconY": 305,
@@ -9096,7 +9096,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2906,
                   "_lessonId": 1356,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9108,7 +9108,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-f5b7dc66-40b8-4550-8b50-5b710b76a8e8",
                   "_index": 0,
-                  "name": "Yang Head",
+                  "_name": "Yang Head",
                   "_type": "Syllubus",
                   "_iconX": 694,
                   "_iconY": 271,
@@ -9119,12 +9119,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4211,
                   "_lessonId": 4364,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c5410aca-779a-4048-a8fc-f229a08a68d1",
                   "_index": 1,
-                  "name": "Jones Hardin",
+                  "_name": "Jones Hardin",
                   "_type": "Syllubus",
                   "_iconX": 327,
                   "_iconY": 324,
@@ -9135,12 +9135,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5939,
                   "_lessonId": 4495,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aaff3594-63f2-47bd-a115-07ff3ec6eec4",
                   "_index": 2,
-                  "name": "Freeman Rice",
+                  "_name": "Freeman Rice",
                   "_type": "Syllubus",
                   "_iconX": 908,
                   "_iconY": 552,
@@ -9151,12 +9151,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4395,
                   "_lessonId": 4115,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6abfd0f8-bbad-46a3-ae33-4eb87dd3bf16",
                   "_index": 3,
-                  "name": "Shelby Casey",
+                  "_name": "Shelby Casey",
                   "_type": "Syllubus",
                   "_iconX": 580,
                   "_iconY": 89,
@@ -9167,12 +9167,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1781,
                   "_lessonId": 3311,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f72e48f5-a019-4510-8e8d-40a1002f168b",
                   "_index": 4,
-                  "name": "Manuela Alexander",
+                  "_name": "Manuela Alexander",
                   "_type": "Syllubus",
                   "_iconX": 26,
                   "_iconY": 151,
@@ -9183,12 +9183,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4927,
                   "_lessonId": 2482,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-858dd19f-c054-4ba7-b508-bd5ccdc89493",
                   "_index": 5,
-                  "name": "Joseph Booth",
+                  "_name": "Joseph Booth",
                   "_type": "Syllubus",
                   "_iconX": 955,
                   "_iconY": 561,
@@ -9199,12 +9199,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1355,
                   "_lessonId": 1727,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5a5df9e2-261f-4bd0-994c-0577edc7a929",
                   "_index": 6,
-                  "name": "Michele Foreman",
+                  "_name": "Michele Foreman",
                   "_type": "Syllubus",
                   "_iconX": 135,
                   "_iconY": 169,
@@ -9215,7 +9215,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3720,
                   "_lessonId": 4218,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -9238,7 +9238,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d7d94dec-bfac-4859-88f7-fbc3bd67fcac",
                   "_index": 0,
-                  "name": "Dillon Ferguson",
+                  "_name": "Dillon Ferguson",
                   "_type": "Syllubus",
                   "_iconX": 385,
                   "_iconY": 336,
@@ -9249,12 +9249,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1165,
                   "_lessonId": 3931,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b245da7e-6e92-4033-a004-3dce3fdcd56c",
                   "_index": 1,
-                  "name": "Nichols Thomas",
+                  "_name": "Nichols Thomas",
                   "_type": "Syllubus",
                   "_iconX": 377,
                   "_iconY": 56,
@@ -9265,12 +9265,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3174,
                   "_lessonId": 2826,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-92a90f0d-dbdb-4a88-83f7-b310e0905040",
                   "_index": 2,
-                  "name": "Ford Short",
+                  "_name": "Ford Short",
                   "_type": "Syllubus",
                   "_iconX": 872,
                   "_iconY": 219,
@@ -9281,12 +9281,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1562,
                   "_lessonId": 1696,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-99e74d27-d1d8-47be-8613-7416906a946b",
                   "_index": 3,
-                  "name": "Duffy Everett",
+                  "_name": "Duffy Everett",
                   "_type": "Syllubus",
                   "_iconX": 454,
                   "_iconY": 28,
@@ -9297,12 +9297,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2463,
                   "_lessonId": 1311,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3ab95d70-2f54-494f-af61-8769a9b8013e",
                   "_index": 4,
-                  "name": "Wynn Fields",
+                  "_name": "Wynn Fields",
                   "_type": "Syllubus",
                   "_iconX": 592,
                   "_iconY": 134,
@@ -9313,12 +9313,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1810,
                   "_lessonId": 5764,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-48e59ffb-2f0a-42c6-9d80-67dd071c9e85",
                   "_index": 5,
-                  "name": "Salazar Skinner",
+                  "_name": "Salazar Skinner",
                   "_type": "Syllubus",
                   "_iconX": 341,
                   "_iconY": 471,
@@ -9329,12 +9329,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1184,
                   "_lessonId": 2357,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a80f6be4-de1b-45a2-b03e-2ca1380a9f3d",
                   "_index": 6,
-                  "name": "Finley Barr",
+                  "_name": "Finley Barr",
                   "_type": "Syllubus",
                   "_iconX": 437,
                   "_iconY": 483,
@@ -9345,7 +9345,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5832,
                   "_lessonId": 3104,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9357,7 +9357,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7e8b228f-8e32-455a-9623-e6bde47fc50a",
                   "_index": 0,
-                  "name": "Gomez Sanford",
+                  "_name": "Gomez Sanford",
                   "_type": "Syllubus",
                   "_iconX": 961,
                   "_iconY": 192,
@@ -9368,12 +9368,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1786,
                   "_lessonId": 5257,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c379ae8c-376d-484b-9bd1-d8fcc81f9718",
                   "_index": 1,
-                  "name": "Heather Berger",
+                  "_name": "Heather Berger",
                   "_type": "Syllubus",
                   "_iconX": 137,
                   "_iconY": 394,
@@ -9384,12 +9384,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2997,
                   "_lessonId": 1415,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0255b6fc-b0c7-494a-9fa3-05298316ed93",
                   "_index": 2,
-                  "name": "Mccarty Reyes",
+                  "_name": "Mccarty Reyes",
                   "_type": "Syllubus",
                   "_iconX": 401,
                   "_iconY": 388,
@@ -9400,12 +9400,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2252,
                   "_lessonId": 3282,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb36573a-2563-47d2-8572-92728f67e8a5",
                   "_index": 3,
-                  "name": "Burt Robinson",
+                  "_name": "Burt Robinson",
                   "_type": "Syllubus",
                   "_iconX": 386,
                   "_iconY": 184,
@@ -9416,12 +9416,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5712,
                   "_lessonId": 5671,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-24ae9abd-a96b-48ff-a671-0591f4d611e1",
                   "_index": 4,
-                  "name": "Camille Fischer",
+                  "_name": "Camille Fischer",
                   "_type": "Syllubus",
                   "_iconX": 649,
                   "_iconY": 63,
@@ -9432,12 +9432,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4153,
                   "_lessonId": 2808,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6ce07d72-9c26-4b5c-ad49-74365715d3ff",
                   "_index": 5,
-                  "name": "Bush Talley",
+                  "_name": "Bush Talley",
                   "_type": "Syllubus",
                   "_iconX": 677,
                   "_iconY": 177,
@@ -9448,12 +9448,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4018,
                   "_lessonId": 3917,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-044a1e56-06e0-454a-ab1e-96e08be5f8ff",
                   "_index": 6,
-                  "name": "Woodward Underwood",
+                  "_name": "Woodward Underwood",
                   "_type": "Syllubus",
                   "_iconX": 860,
                   "_iconY": 509,
@@ -9464,7 +9464,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2455,
                   "_lessonId": 1337,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9476,7 +9476,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-68717dca-563a-4652-93b9-cc48cab174a2",
                   "_index": 0,
-                  "name": "Hester Cunningham",
+                  "_name": "Hester Cunningham",
                   "_type": "Syllubus",
                   "_iconX": 391,
                   "_iconY": 499,
@@ -9487,12 +9487,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1355,
                   "_lessonId": 5157,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3c1dc618-0c92-4b5d-893c-f4b9be93dd52",
                   "_index": 1,
-                  "name": "Johnnie Francis",
+                  "_name": "Johnnie Francis",
                   "_type": "Syllubus",
                   "_iconX": 606,
                   "_iconY": 587,
@@ -9503,12 +9503,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3684,
                   "_lessonId": 5630,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2cc31c11-eff1-4894-bbcc-f7d2a87c5ce8",
                   "_index": 2,
-                  "name": "French Shaw",
+                  "_name": "French Shaw",
                   "_type": "Syllubus",
                   "_iconX": 679,
                   "_iconY": 18,
@@ -9519,12 +9519,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5171,
                   "_lessonId": 5964,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bc669a5f-62f7-4690-81fc-f333a0c3acaf",
                   "_index": 3,
-                  "name": "Nina Summers",
+                  "_name": "Nina Summers",
                   "_type": "Syllubus",
                   "_iconX": 723,
                   "_iconY": 334,
@@ -9535,12 +9535,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1523,
                   "_lessonId": 1058,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-17061cff-5ba8-4414-afa3-ce72e7dad1ed",
                   "_index": 4,
-                  "name": "Jamie Bates",
+                  "_name": "Jamie Bates",
                   "_type": "Syllubus",
                   "_iconX": 141,
                   "_iconY": 321,
@@ -9551,12 +9551,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5931,
                   "_lessonId": 3076,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1a3a37b-6a5e-49f2-90a3-203536594f92",
                   "_index": 5,
-                  "name": "Erika Elliott",
+                  "_name": "Erika Elliott",
                   "_type": "Syllubus",
                   "_iconX": 532,
                   "_iconY": 16,
@@ -9567,12 +9567,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2718,
                   "_lessonId": 4549,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-acef34b3-d590-4738-8dc3-283e959a0740",
                   "_index": 6,
-                  "name": "Leta Joyner",
+                  "_name": "Leta Joyner",
                   "_type": "Syllubus",
                   "_iconX": 155,
                   "_iconY": 55,
@@ -9583,7 +9583,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2323,
                   "_lessonId": 4468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9595,7 +9595,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b23d6ae8-cea3-424d-83c3-4f9a97ebe581",
                   "_index": 0,
-                  "name": "Cain Gardner",
+                  "_name": "Cain Gardner",
                   "_type": "Syllubus",
                   "_iconX": 478,
                   "_iconY": 149,
@@ -9606,12 +9606,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1804,
                   "_lessonId": 5663,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1055e418-8109-4952-a0bb-703c08491ff4",
                   "_index": 1,
-                  "name": "Espinoza Wheeler",
+                  "_name": "Espinoza Wheeler",
                   "_type": "Syllubus",
                   "_iconX": 156,
                   "_iconY": 102,
@@ -9622,12 +9622,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4040,
                   "_lessonId": 5171,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6ca42fc0-3737-4958-8c7a-8942cdbe2530",
                   "_index": 2,
-                  "name": "Graves Mcconnell",
+                  "_name": "Graves Mcconnell",
                   "_type": "Syllubus",
                   "_iconX": 332,
                   "_iconY": 86,
@@ -9638,12 +9638,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5767,
                   "_lessonId": 1963,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ebf2cfe1-b927-412c-911f-d070a6eaaa62",
                   "_index": 3,
-                  "name": "Darcy Dickson",
+                  "_name": "Darcy Dickson",
                   "_type": "Syllubus",
                   "_iconX": 303,
                   "_iconY": 52,
@@ -9654,12 +9654,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1183,
                   "_lessonId": 1367,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-547db4c9-ae30-4635-b424-78a5e19cadda",
                   "_index": 4,
-                  "name": "Mcgowan Hoffman",
+                  "_name": "Mcgowan Hoffman",
                   "_type": "Syllubus",
                   "_iconX": 784,
                   "_iconY": 435,
@@ -9670,7 +9670,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5859,
                   "_lessonId": 4644,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9682,7 +9682,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b7892ebd-c1e0-4bea-aa03-81dea89c2491",
                   "_index": 0,
-                  "name": "Deanne Boone",
+                  "_name": "Deanne Boone",
                   "_type": "Syllubus",
                   "_iconX": 201,
                   "_iconY": 359,
@@ -9693,12 +9693,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5320,
                   "_lessonId": 1913,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-af746266-3a3b-4c60-982e-4f58216e2bf5",
                   "_index": 1,
-                  "name": "Cote Bryant",
+                  "_name": "Cote Bryant",
                   "_type": "Syllubus",
                   "_iconX": 867,
                   "_iconY": 381,
@@ -9709,12 +9709,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1945,
                   "_lessonId": 1404,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-43e17090-3659-4373-83d3-993369944b10",
                   "_index": 2,
-                  "name": "Fowler Padilla",
+                  "_name": "Fowler Padilla",
                   "_type": "Syllubus",
                   "_iconX": 668,
                   "_iconY": 147,
@@ -9725,12 +9725,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5972,
                   "_lessonId": 2680,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cee8d56b-ebe5-481d-a482-1c36aaa10c0f",
                   "_index": 3,
-                  "name": "Mallory Huber",
+                  "_name": "Mallory Huber",
                   "_type": "Syllubus",
                   "_iconX": 72,
                   "_iconY": 34,
@@ -9741,12 +9741,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5107,
                   "_lessonId": 1918,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bcfef07f-8c67-41c2-bcb2-78abfe098b12",
                   "_index": 4,
-                  "name": "Eliza Flynn",
+                  "_name": "Eliza Flynn",
                   "_type": "Syllubus",
                   "_iconX": 600,
                   "_iconY": 401,
@@ -9757,12 +9757,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4166,
                   "_lessonId": 3509,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0189c678-9030-456e-84d2-e6e770553de2",
                   "_index": 5,
-                  "name": "Sharlene Graham",
+                  "_name": "Sharlene Graham",
                   "_type": "Syllubus",
                   "_iconX": 352,
                   "_iconY": 15,
@@ -9773,7 +9773,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4600,
                   "_lessonId": 3972,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -9796,7 +9796,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7a056cd4-869d-4df8-a5af-e23061707416",
                   "_index": 0,
-                  "name": "Willis Kerr",
+                  "_name": "Willis Kerr",
                   "_type": "Syllubus",
                   "_iconX": 458,
                   "_iconY": 362,
@@ -9807,12 +9807,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3561,
                   "_lessonId": 4145,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c3e86fe0-715c-46d2-be43-f175d2c796a7",
                   "_index": 1,
-                  "name": "Atkins Sampson",
+                  "_name": "Atkins Sampson",
                   "_type": "Syllubus",
                   "_iconX": 821,
                   "_iconY": 290,
@@ -9823,12 +9823,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1553,
                   "_lessonId": 4867,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ee8d67ab-2c38-463d-bb6c-deaa84797960",
                   "_index": 2,
-                  "name": "Judy Blake",
+                  "_name": "Judy Blake",
                   "_type": "Syllubus",
                   "_iconX": 709,
                   "_iconY": 260,
@@ -9839,12 +9839,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5790,
                   "_lessonId": 4421,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-babc6310-ddba-4a7c-95d4-e71a4b395dc3",
                   "_index": 3,
-                  "name": "William Vance",
+                  "_name": "William Vance",
                   "_type": "Syllubus",
                   "_iconX": 494,
                   "_iconY": 255,
@@ -9855,12 +9855,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5940,
                   "_lessonId": 3420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4e49d3ea-45ba-41bd-ad04-1b83655ad165",
                   "_index": 4,
-                  "name": "Dixie Stokes",
+                  "_name": "Dixie Stokes",
                   "_type": "Syllubus",
                   "_iconX": 890,
                   "_iconY": 569,
@@ -9871,12 +9871,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4835,
                   "_lessonId": 5530,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-472e3868-30ef-4296-82bd-2da4dd61c457",
                   "_index": 5,
-                  "name": "Allyson Sawyer",
+                  "_name": "Allyson Sawyer",
                   "_type": "Syllubus",
                   "_iconX": 768,
                   "_iconY": 348,
@@ -9887,7 +9887,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3111,
                   "_lessonId": 1294,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -9899,7 +9899,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c47f6237-5046-40cb-b835-f8a3ff089f1e",
                   "_index": 0,
-                  "name": "Minerva Hopper",
+                  "_name": "Minerva Hopper",
                   "_type": "Syllubus",
                   "_iconX": 98,
                   "_iconY": 177,
@@ -9910,12 +9910,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1880,
                   "_lessonId": 5403,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-265b1376-c7a2-46a5-8408-376500527699",
                   "_index": 1,
-                  "name": "Marcy Mcpherson",
+                  "_name": "Marcy Mcpherson",
                   "_type": "Syllubus",
                   "_iconX": 120,
                   "_iconY": 14,
@@ -9926,12 +9926,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4609,
                   "_lessonId": 2880,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e83385f7-fe74-4708-aed1-81d2f333c7e8",
                   "_index": 2,
-                  "name": "Caitlin Lynch",
+                  "_name": "Caitlin Lynch",
                   "_type": "Syllubus",
                   "_iconX": 833,
                   "_iconY": 538,
@@ -9942,12 +9942,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2486,
                   "_lessonId": 1572,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-140b1447-4f74-4974-ae8a-43b8a5e74125",
                   "_index": 3,
-                  "name": "Hardin Bolton",
+                  "_name": "Hardin Bolton",
                   "_type": "Syllubus",
                   "_iconX": 29,
                   "_iconY": 551,
@@ -9958,12 +9958,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5112,
                   "_lessonId": 2259,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b9a300f3-5156-4ba8-a7a6-445ddd3e7983",
                   "_index": 4,
-                  "name": "Chaney Mcclure",
+                  "_name": "Chaney Mcclure",
                   "_type": "Syllubus",
                   "_iconX": 351,
                   "_iconY": 148,
@@ -9974,12 +9974,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3802,
                   "_lessonId": 1874,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-29f6f2bc-1303-418a-b44f-60bf0c7c4a2f",
                   "_index": 5,
-                  "name": "Fuller Duffy",
+                  "_name": "Fuller Duffy",
                   "_type": "Syllubus",
                   "_iconX": 524,
                   "_iconY": 470,
@@ -9990,12 +9990,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3367,
                   "_lessonId": 2464,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21657050-8b9f-4d5e-aaab-f214ac4dd1a5",
                   "_index": 6,
-                  "name": "Cecelia Pickett",
+                  "_name": "Cecelia Pickett",
                   "_type": "Syllubus",
                   "_iconX": 515,
                   "_iconY": 283,
@@ -10006,7 +10006,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4065,
                   "_lessonId": 5331,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10018,7 +10018,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-25f63c2e-6c58-48a7-875d-b2b7567a2725",
                   "_index": 0,
-                  "name": "Marquita Castro",
+                  "_name": "Marquita Castro",
                   "_type": "Syllubus",
                   "_iconX": 998,
                   "_iconY": 128,
@@ -10029,12 +10029,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2847,
                   "_lessonId": 2855,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e25402fe-ea4c-4098-af99-842558d943c0",
                   "_index": 1,
-                  "name": "Margaret Rivera",
+                  "_name": "Margaret Rivera",
                   "_type": "Syllubus",
                   "_iconX": 764,
                   "_iconY": 591,
@@ -10045,12 +10045,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4488,
                   "_lessonId": 2678,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7bfa7970-3e58-4270-8bc7-ba75c8c22dea",
                   "_index": 2,
-                  "name": "Wilma Rhodes",
+                  "_name": "Wilma Rhodes",
                   "_type": "Syllubus",
                   "_iconX": 758,
                   "_iconY": 477,
@@ -10061,12 +10061,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5099,
                   "_lessonId": 2519,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ba35f77a-9524-4b39-8c70-5d5dbe9bc116",
                   "_index": 3,
-                  "name": "Margie Baird",
+                  "_name": "Margie Baird",
                   "_type": "Syllubus",
                   "_iconX": 245,
                   "_iconY": 240,
@@ -10077,12 +10077,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1320,
                   "_lessonId": 5539,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0767d035-dcbc-43ad-b2e8-5cea332532dc",
                   "_index": 4,
-                  "name": "Elliott Finley",
+                  "_name": "Elliott Finley",
                   "_type": "Syllubus",
                   "_iconX": 72,
                   "_iconY": 359,
@@ -10093,7 +10093,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5381,
                   "_lessonId": 1468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10105,7 +10105,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a1157570-dcf6-46a4-9a0f-9818696a2e23",
                   "_index": 0,
-                  "name": "Rosalyn Hooper",
+                  "_name": "Rosalyn Hooper",
                   "_type": "Syllubus",
                   "_iconX": 194,
                   "_iconY": 556,
@@ -10116,12 +10116,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1390,
                   "_lessonId": 4039,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-185b3aa1-0ffa-4311-91e1-bca0932e5c0b",
                   "_index": 1,
-                  "name": "Tamara Simmons",
+                  "_name": "Tamara Simmons",
                   "_type": "Syllubus",
                   "_iconX": 728,
                   "_iconY": 268,
@@ -10132,12 +10132,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3478,
                   "_lessonId": 4764,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9c5bbb7a-3384-4ebe-9d7e-186238fa5fca",
                   "_index": 2,
-                  "name": "Chambers Walter",
+                  "_name": "Chambers Walter",
                   "_type": "Syllubus",
                   "_iconX": 173,
                   "_iconY": 34,
@@ -10148,12 +10148,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4482,
                   "_lessonId": 5196,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0d694db9-384a-473a-a99c-51a9630f5c82",
                   "_index": 3,
-                  "name": "Amelia Bond",
+                  "_name": "Amelia Bond",
                   "_type": "Syllubus",
                   "_iconX": 671,
                   "_iconY": 329,
@@ -10164,12 +10164,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1857,
                   "_lessonId": 5078,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-300e01b2-6aea-44f4-a481-93976c4086c0",
                   "_index": 4,
-                  "name": "Mclean Gates",
+                  "_name": "Mclean Gates",
                   "_type": "Syllubus",
                   "_iconX": 815,
                   "_iconY": 561,
@@ -10180,12 +10180,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5668,
                   "_lessonId": 4786,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-87eb1366-04c5-4c3c-b573-6b9bec3fd41b",
                   "_index": 5,
-                  "name": "Webster Rocha",
+                  "_name": "Webster Rocha",
                   "_type": "Syllubus",
                   "_iconX": 182,
                   "_iconY": 497,
@@ -10196,7 +10196,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5740,
                   "_lessonId": 3983,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10208,7 +10208,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0bb553d6-0198-498e-a2ca-bf35202ac058",
                   "_index": 0,
-                  "name": "Skinner Martin",
+                  "_name": "Skinner Martin",
                   "_type": "Syllubus",
                   "_iconX": 360,
                   "_iconY": 140,
@@ -10219,12 +10219,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4119,
                   "_lessonId": 2230,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-644d3dee-7f98-4c51-be44-a695e8bc60eb",
                   "_index": 1,
-                  "name": "Cash Sanders",
+                  "_name": "Cash Sanders",
                   "_type": "Syllubus",
                   "_iconX": 513,
                   "_iconY": 374,
@@ -10235,12 +10235,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4347,
                   "_lessonId": 2642,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6ea7ceb8-b892-4216-9327-a2883f6ed35d",
                   "_index": 2,
-                  "name": "Selena Martinez",
+                  "_name": "Selena Martinez",
                   "_type": "Syllubus",
                   "_iconX": 140,
                   "_iconY": 269,
@@ -10251,12 +10251,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4353,
                   "_lessonId": 4673,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f55a7ff9-823f-4fee-9eed-42c3e3676df7",
                   "_index": 3,
-                  "name": "Lydia Glenn",
+                  "_name": "Lydia Glenn",
                   "_type": "Syllubus",
                   "_iconX": 456,
                   "_iconY": 514,
@@ -10267,12 +10267,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3582,
                   "_lessonId": 1046,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1e2920bc-f19c-49ea-b593-80b1f225544b",
                   "_index": 4,
-                  "name": "Debora Phelps",
+                  "_name": "Debora Phelps",
                   "_type": "Syllubus",
                   "_iconX": 285,
                   "_iconY": 432,
@@ -10283,7 +10283,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1046,
                   "_lessonId": 3243,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10295,7 +10295,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b0bc8e9a-0532-42cb-9051-ce3bc0d1f952",
                   "_index": 0,
-                  "name": "Susana Allen",
+                  "_name": "Susana Allen",
                   "_type": "Syllubus",
                   "_iconX": 321,
                   "_iconY": 286,
@@ -10306,12 +10306,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2116,
                   "_lessonId": 1688,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ca0e734e-bb9e-4526-af19-d72f4a05352c",
                   "_index": 1,
-                  "name": "Jeannine Harrison",
+                  "_name": "Jeannine Harrison",
                   "_type": "Syllubus",
                   "_iconX": 58,
                   "_iconY": 15,
@@ -10322,12 +10322,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4990,
                   "_lessonId": 5758,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ec8646b9-94ad-4926-a755-a8c47b5a9cff",
                   "_index": 2,
-                  "name": "Randall Fox",
+                  "_name": "Randall Fox",
                   "_type": "Syllubus",
                   "_iconX": 288,
                   "_iconY": 10,
@@ -10338,12 +10338,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1808,
                   "_lessonId": 4293,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-00442abe-9e70-4e83-a048-0f873ffa3e6d",
                   "_index": 3,
-                  "name": "Patti Miles",
+                  "_name": "Patti Miles",
                   "_type": "Syllubus",
                   "_iconX": 309,
                   "_iconY": 593,
@@ -10354,12 +10354,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4201,
                   "_lessonId": 3150,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d7f3595f-7b23-4301-99d2-7ce19a1917ee",
                   "_index": 4,
-                  "name": "Gay Wood",
+                  "_name": "Gay Wood",
                   "_type": "Syllubus",
                   "_iconX": 16,
                   "_iconY": 492,
@@ -10370,12 +10370,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2946,
                   "_lessonId": 4800,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-19bfa646-82f2-4e37-8ced-6456c420ac8b",
                   "_index": 5,
-                  "name": "Peterson Harrington",
+                  "_name": "Peterson Harrington",
                   "_type": "Syllubus",
                   "_iconX": 978,
                   "_iconY": 409,
@@ -10386,12 +10386,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3987,
                   "_lessonId": 2473,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bdc9cae9-1064-4f75-8b0c-7f381db5ab87",
                   "_index": 6,
-                  "name": "Stephens Hayes",
+                  "_name": "Stephens Hayes",
                   "_type": "Syllubus",
                   "_iconX": 54,
                   "_iconY": 492,
@@ -10402,7 +10402,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4449,
                   "_lessonId": 1160,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -10425,7 +10425,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-84de609c-a60d-42d5-be13-2204657aaa3f",
                   "_index": 0,
-                  "name": "Liliana Walton",
+                  "_name": "Liliana Walton",
                   "_type": "Syllubus",
                   "_iconX": 584,
                   "_iconY": 549,
@@ -10436,12 +10436,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1294,
                   "_lessonId": 3758,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-43692d2a-4fd7-4b3d-8d93-f404322edbcc",
                   "_index": 1,
-                  "name": "Golden Mooney",
+                  "_name": "Golden Mooney",
                   "_type": "Syllubus",
                   "_iconX": 877,
                   "_iconY": 216,
@@ -10452,12 +10452,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3445,
                   "_lessonId": 5744,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-85d5b5c8-fc41-4631-b043-68a0f0c4c6d6",
                   "_index": 2,
-                  "name": "Carey Bernard",
+                  "_name": "Carey Bernard",
                   "_type": "Syllubus",
                   "_iconX": 921,
                   "_iconY": 436,
@@ -10468,12 +10468,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1982,
                   "_lessonId": 5871,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-416c9893-2025-4d24-838c-9a3ab3d549f7",
                   "_index": 3,
-                  "name": "Herman Hickman",
+                  "_name": "Herman Hickman",
                   "_type": "Syllubus",
                   "_iconX": 758,
                   "_iconY": 0,
@@ -10484,12 +10484,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2793,
                   "_lessonId": 1110,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bd468519-ecf9-4795-bca2-5d7f3e33c3e5",
                   "_index": 4,
-                  "name": "Valencia Mitchell",
+                  "_name": "Valencia Mitchell",
                   "_type": "Syllubus",
                   "_iconX": 337,
                   "_iconY": 320,
@@ -10500,12 +10500,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3529,
                   "_lessonId": 2221,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1d10966c-3f23-4c84-a484-ccf57301b4d9",
                   "_index": 5,
-                  "name": "Callahan Melendez",
+                  "_name": "Callahan Melendez",
                   "_type": "Syllubus",
                   "_iconX": 68,
                   "_iconY": 434,
@@ -10516,7 +10516,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1986,
                   "_lessonId": 4567,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10528,7 +10528,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4eec556a-6759-4eff-8ecd-0a3df001b418",
                   "_index": 0,
-                  "name": "Sutton Hart",
+                  "_name": "Sutton Hart",
                   "_type": "Syllubus",
                   "_iconX": 495,
                   "_iconY": 273,
@@ -10539,12 +10539,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3948,
                   "_lessonId": 4139,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fa610b31-d1a6-4f54-874a-06b0df140f07",
                   "_index": 1,
-                  "name": "Marci Kramer",
+                  "_name": "Marci Kramer",
                   "_type": "Syllubus",
                   "_iconX": 467,
                   "_iconY": 176,
@@ -10555,12 +10555,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5462,
                   "_lessonId": 5045,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d1291966-5b64-4112-803c-67ff5c4c503d",
                   "_index": 2,
-                  "name": "Macias York",
+                  "_name": "Macias York",
                   "_type": "Syllubus",
                   "_iconX": 241,
                   "_iconY": 94,
@@ -10571,12 +10571,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2328,
                   "_lessonId": 4565,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0acfd9bb-05db-406c-8142-e32746653cc3",
                   "_index": 3,
-                  "name": "Pat Travis",
+                  "_name": "Pat Travis",
                   "_type": "Syllubus",
                   "_iconX": 272,
                   "_iconY": 347,
@@ -10587,12 +10587,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4526,
                   "_lessonId": 2974,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e049231c-63d0-4864-a5b7-bfa83f71fb28",
                   "_index": 4,
-                  "name": "Angie Davenport",
+                  "_name": "Angie Davenport",
                   "_type": "Syllubus",
                   "_iconX": 35,
                   "_iconY": 252,
@@ -10603,7 +10603,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3498,
                   "_lessonId": 5037,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10615,7 +10615,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-050b784a-b344-4d61-989a-0e4383728a62",
                   "_index": 0,
-                  "name": "Marks Williams",
+                  "_name": "Marks Williams",
                   "_type": "Syllubus",
                   "_iconX": 925,
                   "_iconY": 121,
@@ -10626,12 +10626,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1022,
                   "_lessonId": 3593,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-347c53b3-7564-40a9-b25a-292843aaa1a6",
                   "_index": 1,
-                  "name": "Bonnie Hester",
+                  "_name": "Bonnie Hester",
                   "_type": "Syllubus",
                   "_iconX": 643,
                   "_iconY": 311,
@@ -10642,12 +10642,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3654,
                   "_lessonId": 3109,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-db5caa90-b3d4-4f92-96c2-715beb6005fe",
                   "_index": 2,
-                  "name": "Lara Poole",
+                  "_name": "Lara Poole",
                   "_type": "Syllubus",
                   "_iconX": 4,
                   "_iconY": 148,
@@ -10658,12 +10658,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1800,
                   "_lessonId": 2420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5d6df396-722a-4656-97b8-5227a4bc858f",
                   "_index": 3,
-                  "name": "Josefa Huffman",
+                  "_name": "Josefa Huffman",
                   "_type": "Syllubus",
                   "_iconX": 761,
                   "_iconY": 283,
@@ -10674,12 +10674,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2798,
                   "_lessonId": 3931,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-da35000c-43e2-433c-9070-85136394cace",
                   "_index": 4,
-                  "name": "Theresa Lane",
+                  "_name": "Theresa Lane",
                   "_type": "Syllubus",
                   "_iconX": 690,
                   "_iconY": 554,
@@ -10690,7 +10690,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3130,
                   "_lessonId": 1080,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10702,7 +10702,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-10401bac-b20c-4fcc-9e21-59d879a499e1",
                   "_index": 0,
-                  "name": "Jayne Mckinney",
+                  "_name": "Jayne Mckinney",
                   "_type": "Syllubus",
                   "_iconX": 206,
                   "_iconY": 89,
@@ -10713,12 +10713,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3005,
                   "_lessonId": 5492,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a9d7fffc-1d77-47aa-8647-df8de00be867",
                   "_index": 1,
-                  "name": "Susan Daniels",
+                  "_name": "Susan Daniels",
                   "_type": "Syllubus",
                   "_iconX": 933,
                   "_iconY": 507,
@@ -10729,12 +10729,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2328,
                   "_lessonId": 2535,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-808b8d8a-7c70-4c5d-b2ac-2b7fe82439ce",
                   "_index": 2,
-                  "name": "Noemi Frederick",
+                  "_name": "Noemi Frederick",
                   "_type": "Syllubus",
                   "_iconX": 739,
                   "_iconY": 304,
@@ -10745,12 +10745,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3516,
                   "_lessonId": 1352,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-576ba7df-90e7-4826-8c8f-114383dfd171",
                   "_index": 3,
-                  "name": "Erin Garner",
+                  "_name": "Erin Garner",
                   "_type": "Syllubus",
                   "_iconX": 205,
                   "_iconY": 149,
@@ -10761,12 +10761,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5611,
                   "_lessonId": 3446,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ad61acf9-3a05-4ec9-b016-15bfcf9ef398",
                   "_index": 4,
-                  "name": "Raymond Woodard",
+                  "_name": "Raymond Woodard",
                   "_type": "Syllubus",
                   "_iconX": 51,
                   "_iconY": 34,
@@ -10777,12 +10777,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1245,
                   "_lessonId": 1568,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb470dd0-fc12-4888-bdec-b70df0bf5f5e",
                   "_index": 5,
-                  "name": "Lorene Peck",
+                  "_name": "Lorene Peck",
                   "_type": "Syllubus",
                   "_iconX": 811,
                   "_iconY": 439,
@@ -10793,7 +10793,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1993,
                   "_lessonId": 2600,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10805,7 +10805,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d7f2b451-9d46-4c46-9932-32a3c3524771",
                   "_index": 0,
-                  "name": "Eileen Butler",
+                  "_name": "Eileen Butler",
                   "_type": "Syllubus",
                   "_iconX": 594,
                   "_iconY": 260,
@@ -10816,12 +10816,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1985,
                   "_lessonId": 3406,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-11a545b6-017a-4144-b7be-583536d3f320",
                   "_index": 1,
-                  "name": "Marcella Fowler",
+                  "_name": "Marcella Fowler",
                   "_type": "Syllubus",
                   "_iconX": 741,
                   "_iconY": 479,
@@ -10832,12 +10832,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2589,
                   "_lessonId": 1752,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1c537884-41c2-41d6-9ff0-3b315c7da016",
                   "_index": 2,
-                  "name": "Huff Ayala",
+                  "_name": "Huff Ayala",
                   "_type": "Syllubus",
                   "_iconX": 798,
                   "_iconY": 304,
@@ -10848,12 +10848,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4165,
                   "_lessonId": 1763,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b2e790a1-600b-4df7-a4db-ec764ccac407",
                   "_index": 3,
-                  "name": "Conway Mendoza",
+                  "_name": "Conway Mendoza",
                   "_type": "Syllubus",
                   "_iconX": 279,
                   "_iconY": 90,
@@ -10864,12 +10864,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1397,
                   "_lessonId": 6000,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3cae8d10-ee32-4565-807a-2112f4118e44",
                   "_index": 4,
-                  "name": "Molina Bean",
+                  "_name": "Molina Bean",
                   "_type": "Syllubus",
                   "_iconX": 703,
                   "_iconY": 364,
@@ -10880,7 +10880,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1441,
                   "_lessonId": 3725,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -10892,7 +10892,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b330e61c-db83-456b-84a2-07b9d58de7a2",
                   "_index": 0,
-                  "name": "Brandi Petty",
+                  "_name": "Brandi Petty",
                   "_type": "Syllubus",
                   "_iconX": 382,
                   "_iconY": 321,
@@ -10903,12 +10903,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4351,
                   "_lessonId": 2352,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-77aef9a6-4fd5-4140-91d3-511a5d270d9e",
                   "_index": 1,
-                  "name": "Belinda Harding",
+                  "_name": "Belinda Harding",
                   "_type": "Syllubus",
                   "_iconX": 839,
                   "_iconY": 262,
@@ -10919,12 +10919,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1064,
                   "_lessonId": 5178,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-eafa4971-393f-42db-97df-48acf5874240",
                   "_index": 2,
-                  "name": "Leblanc Cooley",
+                  "_name": "Leblanc Cooley",
                   "_type": "Syllubus",
                   "_iconX": 259,
                   "_iconY": 280,
@@ -10935,12 +10935,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5351,
                   "_lessonId": 5332,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c447ce93-e164-46ca-8f39-c065e2e708fe",
                   "_index": 3,
-                  "name": "Velez Bridges",
+                  "_name": "Velez Bridges",
                   "_type": "Syllubus",
                   "_iconX": 369,
                   "_iconY": 576,
@@ -10951,12 +10951,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2760,
                   "_lessonId": 2568,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3ea1fec6-b9ae-4528-962a-bc502441a766",
                   "_index": 4,
-                  "name": "Heidi Green",
+                  "_name": "Heidi Green",
                   "_type": "Syllubus",
                   "_iconX": 789,
                   "_iconY": 238,
@@ -10967,12 +10967,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1597,
                   "_lessonId": 1972,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c610e8f-1636-4bda-8d7f-4bb2dae5424b",
                   "_index": 5,
-                  "name": "Brenda Gay",
+                  "_name": "Brenda Gay",
                   "_type": "Syllubus",
                   "_iconX": 612,
                   "_iconY": 494,
@@ -10983,12 +10983,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4795,
                   "_lessonId": 2115,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a71c0d66-4791-4576-b104-9c8843d17f60",
                   "_index": 6,
-                  "name": "Delores Suarez",
+                  "_name": "Delores Suarez",
                   "_type": "Syllubus",
                   "_iconX": 933,
                   "_iconY": 591,
@@ -10999,7 +10999,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4369,
                   "_lessonId": 4960,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -11022,7 +11022,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-646d0d2c-0b26-4a8c-8577-0b1ee520d766",
                   "_index": 0,
-                  "name": "Willie William",
+                  "_name": "Willie William",
                   "_type": "Syllubus",
                   "_iconX": 652,
                   "_iconY": 171,
@@ -11033,12 +11033,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5894,
                   "_lessonId": 1380,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-20009e1a-cb59-4a8d-90fc-30655e4f24f4",
                   "_index": 1,
-                  "name": "Tamera Cross",
+                  "_name": "Tamera Cross",
                   "_type": "Syllubus",
                   "_iconX": 439,
                   "_iconY": 249,
@@ -11049,12 +11049,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5946,
                   "_lessonId": 1936,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f8321483-a34f-43d2-a5dc-9c21a544cd2d",
                   "_index": 2,
-                  "name": "Day Jefferson",
+                  "_name": "Day Jefferson",
                   "_type": "Syllubus",
                   "_iconX": 46,
                   "_iconY": 341,
@@ -11065,12 +11065,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3369,
                   "_lessonId": 2327,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d62a83d7-8c9c-443f-93e8-fec6bd49e902",
                   "_index": 3,
-                  "name": "Kathie Cochran",
+                  "_name": "Kathie Cochran",
                   "_type": "Syllubus",
                   "_iconX": 842,
                   "_iconY": 6,
@@ -11081,12 +11081,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2057,
                   "_lessonId": 2826,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c2cdc755-68c3-409f-9285-bde4e1a79cd8",
                   "_index": 4,
-                  "name": "Kaufman Tillman",
+                  "_name": "Kaufman Tillman",
                   "_type": "Syllubus",
                   "_iconX": 76,
                   "_iconY": 489,
@@ -11097,12 +11097,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4335,
                   "_lessonId": 5299,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e80153a-ed78-4b4d-9588-320eea0d8fd3",
                   "_index": 5,
-                  "name": "Joni Boyle",
+                  "_name": "Joni Boyle",
                   "_type": "Syllubus",
                   "_iconX": 531,
                   "_iconY": 465,
@@ -11113,12 +11113,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1789,
                   "_lessonId": 3854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d7d3518f-1152-4fa7-b24c-ca465f0e6776",
                   "_index": 6,
-                  "name": "Jensen Brown",
+                  "_name": "Jensen Brown",
                   "_type": "Syllubus",
                   "_iconX": 430,
                   "_iconY": 230,
@@ -11129,7 +11129,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4938,
                   "_lessonId": 1204,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11141,7 +11141,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-35f0b5b2-2cdd-4928-bdec-35cb13d0a2c3",
                   "_index": 0,
-                  "name": "Selma Sloan",
+                  "_name": "Selma Sloan",
                   "_type": "Syllubus",
                   "_iconX": 608,
                   "_iconY": 353,
@@ -11152,12 +11152,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1115,
                   "_lessonId": 3105,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-141ee6c6-b171-40be-9d47-94b59359c9d3",
                   "_index": 1,
-                  "name": "Adrian Schroeder",
+                  "_name": "Adrian Schroeder",
                   "_type": "Syllubus",
                   "_iconX": 471,
                   "_iconY": 179,
@@ -11168,12 +11168,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1313,
                   "_lessonId": 3421,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aef1c113-4d4d-40f4-93e1-da262d4a0d9b",
                   "_index": 2,
-                  "name": "Lyons Franco",
+                  "_name": "Lyons Franco",
                   "_type": "Syllubus",
                   "_iconX": 126,
                   "_iconY": 585,
@@ -11184,12 +11184,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5238,
                   "_lessonId": 2690,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0eeb3b61-0697-4f1d-84ac-a003b26edd0b",
                   "_index": 3,
-                  "name": "Juarez Vang",
+                  "_name": "Juarez Vang",
                   "_type": "Syllubus",
                   "_iconX": 706,
                   "_iconY": 411,
@@ -11200,12 +11200,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3946,
                   "_lessonId": 4023,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a9a35216-97ce-4d7d-8638-153be776cd7c",
                   "_index": 4,
-                  "name": "Leann Gordon",
+                  "_name": "Leann Gordon",
                   "_type": "Syllubus",
                   "_iconX": 990,
                   "_iconY": 549,
@@ -11216,12 +11216,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1594,
                   "_lessonId": 4259,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2eb70ab3-4a42-40a6-bd1d-930e5d850bbf",
                   "_index": 5,
-                  "name": "Hood Vega",
+                  "_name": "Hood Vega",
                   "_type": "Syllubus",
                   "_iconX": 621,
                   "_iconY": 384,
@@ -11232,7 +11232,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1730,
                   "_lessonId": 3596,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11244,7 +11244,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-92d4b470-db43-477b-91ea-776598400dbd",
                   "_index": 0,
-                  "name": "Vance Browning",
+                  "_name": "Vance Browning",
                   "_type": "Syllubus",
                   "_iconX": 934,
                   "_iconY": 6,
@@ -11255,12 +11255,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4803,
                   "_lessonId": 1437,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-897823f1-2fe5-4588-bb1b-c63d2739f31f",
                   "_index": 1,
-                  "name": "Britney Jackson",
+                  "_name": "Britney Jackson",
                   "_type": "Syllubus",
                   "_iconX": 472,
                   "_iconY": 96,
@@ -11271,12 +11271,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4118,
                   "_lessonId": 4021,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-befedb6a-5778-4974-a0c2-71642322d420",
                   "_index": 2,
-                  "name": "Howe Duncan",
+                  "_name": "Howe Duncan",
                   "_type": "Syllubus",
                   "_iconX": 973,
                   "_iconY": 518,
@@ -11287,12 +11287,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1753,
                   "_lessonId": 5445,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-313e8e69-eeba-42f4-9971-a174564046c1",
                   "_index": 3,
-                  "name": "Marisa Sharp",
+                  "_name": "Marisa Sharp",
                   "_type": "Syllubus",
                   "_iconX": 480,
                   "_iconY": 10,
@@ -11303,12 +11303,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3979,
                   "_lessonId": 4718,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-abf8f0fd-bb04-4f23-8a57-50cee69059df",
                   "_index": 4,
-                  "name": "Gwen Howard",
+                  "_name": "Gwen Howard",
                   "_type": "Syllubus",
                   "_iconX": 910,
                   "_iconY": 295,
@@ -11319,12 +11319,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4142,
                   "_lessonId": 3697,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2a2bd20f-ebe0-4cd1-8306-4e95ccbb9e00",
                   "_index": 5,
-                  "name": "Blankenship Kaufman",
+                  "_name": "Blankenship Kaufman",
                   "_type": "Syllubus",
                   "_iconX": 161,
                   "_iconY": 512,
@@ -11335,7 +11335,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4273,
                   "_lessonId": 2777,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11347,7 +11347,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-99dc0eea-e3d1-4713-b140-9abb16f5c737",
                   "_index": 0,
-                  "name": "Weeks Hicks",
+                  "_name": "Weeks Hicks",
                   "_type": "Syllubus",
                   "_iconX": 630,
                   "_iconY": 401,
@@ -11358,12 +11358,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5807,
                   "_lessonId": 4107,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2da2fe52-08e7-4d46-986a-8c44dc4153be",
                   "_index": 1,
-                  "name": "Tillman Raymond",
+                  "_name": "Tillman Raymond",
                   "_type": "Syllubus",
                   "_iconX": 725,
                   "_iconY": 148,
@@ -11374,12 +11374,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2372,
                   "_lessonId": 1129,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-01b54e62-1e86-4eca-938a-8d6d52555ed6",
                   "_index": 2,
-                  "name": "Veronica Pena",
+                  "_name": "Veronica Pena",
                   "_type": "Syllubus",
                   "_iconX": 433,
                   "_iconY": 160,
@@ -11390,12 +11390,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2535,
                   "_lessonId": 1030,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2a0983d7-46da-4574-8354-030191a221a2",
                   "_index": 3,
-                  "name": "Juana Calderon",
+                  "_name": "Juana Calderon",
                   "_type": "Syllubus",
                   "_iconX": 373,
                   "_iconY": 281,
@@ -11406,12 +11406,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5546,
                   "_lessonId": 2827,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-24c52f3c-e452-4795-bb9c-4c50134dd8cd",
                   "_index": 4,
-                  "name": "Rosa White",
+                  "_name": "Rosa White",
                   "_type": "Syllubus",
                   "_iconX": 849,
                   "_iconY": 523,
@@ -11422,12 +11422,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2736,
                   "_lessonId": 5944,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a3abe21d-663a-40bf-ba6b-3ac8e87880fa",
                   "_index": 5,
-                  "name": "Bettie Ware",
+                  "_name": "Bettie Ware",
                   "_type": "Syllubus",
                   "_iconX": 890,
                   "_iconY": 494,
@@ -11438,12 +11438,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2983,
                   "_lessonId": 4103,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cd757ee8-c09a-4bb6-84ce-dcc0c32ce252",
                   "_index": 6,
-                  "name": "Eddie Stevens",
+                  "_name": "Eddie Stevens",
                   "_type": "Syllubus",
                   "_iconX": 314,
                   "_iconY": 561,
@@ -11454,7 +11454,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1500,
                   "_lessonId": 2806,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11466,7 +11466,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c9556fa8-83ac-4733-a5d6-c484d837c098",
                   "_index": 0,
-                  "name": "Kayla Bennett",
+                  "_name": "Kayla Bennett",
                   "_type": "Syllubus",
                   "_iconX": 671,
                   "_iconY": 281,
@@ -11477,12 +11477,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2162,
                   "_lessonId": 1880,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b6c68c54-0882-45cf-9b47-48bd9196d036",
                   "_index": 1,
-                  "name": "Medina Bowers",
+                  "_name": "Medina Bowers",
                   "_type": "Syllubus",
                   "_iconX": 331,
                   "_iconY": 561,
@@ -11493,12 +11493,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1608,
                   "_lessonId": 2578,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c840ebc4-179a-44fd-884a-f045651e4feb",
                   "_index": 2,
-                  "name": "Deanna Lancaster",
+                  "_name": "Deanna Lancaster",
                   "_type": "Syllubus",
                   "_iconX": 268,
                   "_iconY": 192,
@@ -11509,12 +11509,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1146,
                   "_lessonId": 3725,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-567c5cf7-7b77-4ce8-9d6a-908c68e50020",
                   "_index": 3,
-                  "name": "Johnson Welch",
+                  "_name": "Johnson Welch",
                   "_type": "Syllubus",
                   "_iconX": 769,
                   "_iconY": 74,
@@ -11525,12 +11525,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4965,
                   "_lessonId": 1015,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f71b6fe4-3726-4bf7-9e30-91d78695af5f",
                   "_index": 4,
-                  "name": "Bradshaw Contreras",
+                  "_name": "Bradshaw Contreras",
                   "_type": "Syllubus",
                   "_iconX": 347,
                   "_iconY": 232,
@@ -11541,12 +11541,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3280,
                   "_lessonId": 1881,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a55c7415-6c77-42a5-afc9-205e2edb5787",
                   "_index": 5,
-                  "name": "Stark Vazquez",
+                  "_name": "Stark Vazquez",
                   "_type": "Syllubus",
                   "_iconX": 525,
                   "_iconY": 229,
@@ -11557,12 +11557,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4806,
                   "_lessonId": 5073,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7052989d-0096-4ce0-b340-1ae0e124e320",
                   "_index": 6,
-                  "name": "Stacy Farrell",
+                  "_name": "Stacy Farrell",
                   "_type": "Syllubus",
                   "_iconX": 549,
                   "_iconY": 431,
@@ -11573,7 +11573,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4739,
                   "_lessonId": 1497,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11585,7 +11585,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1e3a907c-4927-4800-bd37-2be813d734e1",
                   "_index": 0,
-                  "name": "Little Bruce",
+                  "_name": "Little Bruce",
                   "_type": "Syllubus",
                   "_iconX": 741,
                   "_iconY": 141,
@@ -11596,12 +11596,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4195,
                   "_lessonId": 2155,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bf952ca5-e0a0-44f8-bd4f-18e1554c7e81",
                   "_index": 1,
-                  "name": "Victoria Snider",
+                  "_name": "Victoria Snider",
                   "_type": "Syllubus",
                   "_iconX": 597,
                   "_iconY": 93,
@@ -11612,12 +11612,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4565,
                   "_lessonId": 5501,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b33ee2ca-74ed-4684-90fa-8f5f96f92d37",
                   "_index": 2,
-                  "name": "Potter Hewitt",
+                  "_name": "Potter Hewitt",
                   "_type": "Syllubus",
                   "_iconX": 864,
                   "_iconY": 229,
@@ -11628,12 +11628,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2099,
                   "_lessonId": 2221,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a22bf032-512c-43c6-876f-e29f40d9b8d7",
                   "_index": 3,
-                  "name": "Chase Dale",
+                  "_name": "Chase Dale",
                   "_type": "Syllubus",
                   "_iconX": 935,
                   "_iconY": 15,
@@ -11644,12 +11644,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1410,
                   "_lessonId": 1886,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6399b9cc-78a7-49cb-a9df-cfe992ee19de",
                   "_index": 4,
-                  "name": "Adams Gross",
+                  "_name": "Adams Gross",
                   "_type": "Syllubus",
                   "_iconX": 230,
                   "_iconY": 255,
@@ -11660,7 +11660,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1722,
                   "_lessonId": 5677,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -11687,7 +11687,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0108ed93-3489-4145-94c2-e52216160829",
                   "_index": 0,
-                  "name": "Higgins Quinn",
+                  "_name": "Higgins Quinn",
                   "_type": "Syllubus",
                   "_iconX": 930,
                   "_iconY": 562,
@@ -11698,12 +11698,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2908,
                   "_lessonId": 2936,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1b34af9e-203e-4712-b2c9-6a662456ee80",
                   "_index": 1,
-                  "name": "Ballard Hunt",
+                  "_name": "Ballard Hunt",
                   "_type": "Syllubus",
                   "_iconX": 726,
                   "_iconY": 160,
@@ -11714,12 +11714,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1328,
                   "_lessonId": 4175,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0cff94d2-7028-45f7-bfe7-1c23465c4cc4",
                   "_index": 2,
-                  "name": "Simon Webb",
+                  "_name": "Simon Webb",
                   "_type": "Syllubus",
                   "_iconX": 598,
                   "_iconY": 370,
@@ -11730,12 +11730,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3847,
                   "_lessonId": 3192,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3fda7bec-6649-4464-865e-df003c05968f",
                   "_index": 3,
-                  "name": "Bonita Moon",
+                  "_name": "Bonita Moon",
                   "_type": "Syllubus",
                   "_iconX": 912,
                   "_iconY": 153,
@@ -11746,12 +11746,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2002,
                   "_lessonId": 1097,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d2749400-126c-458d-b64c-12c3f5d368f1",
                   "_index": 4,
-                  "name": "Sara Hoover",
+                  "_name": "Sara Hoover",
                   "_type": "Syllubus",
                   "_iconX": 941,
                   "_iconY": 360,
@@ -11762,12 +11762,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1647,
                   "_lessonId": 5808,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-105bf55c-8ec1-4335-8bcb-61c0ff47b9e9",
                   "_index": 5,
-                  "name": "Mcneil Knowles",
+                  "_name": "Mcneil Knowles",
                   "_type": "Syllubus",
                   "_iconX": 45,
                   "_iconY": 2,
@@ -11778,7 +11778,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4799,
                   "_lessonId": 3160,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11790,7 +11790,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-047536d9-70c9-419a-90d1-dd504ebefb50",
                   "_index": 0,
-                  "name": "Noel Wall",
+                  "_name": "Noel Wall",
                   "_type": "Syllubus",
                   "_iconX": 859,
                   "_iconY": 419,
@@ -11801,12 +11801,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2360,
                   "_lessonId": 2035,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-98c5fa91-3278-40f0-9e70-136eed42a677",
                   "_index": 1,
-                  "name": "Mathews Pennington",
+                  "_name": "Mathews Pennington",
                   "_type": "Syllubus",
                   "_iconX": 668,
                   "_iconY": 213,
@@ -11817,12 +11817,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1504,
                   "_lessonId": 1032,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f9218245-cc49-44fc-a6b3-22738677f1c0",
                   "_index": 2,
-                  "name": "Cantu Potts",
+                  "_name": "Cantu Potts",
                   "_type": "Syllubus",
                   "_iconX": 550,
                   "_iconY": 371,
@@ -11833,12 +11833,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1428,
                   "_lessonId": 2292,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-09cc33c6-8408-4c37-9a87-b50b018b40dd",
                   "_index": 3,
-                  "name": "Connie Dejesus",
+                  "_name": "Connie Dejesus",
                   "_type": "Syllubus",
                   "_iconX": 308,
                   "_iconY": 490,
@@ -11849,12 +11849,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2580,
                   "_lessonId": 5193,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6adb477d-0f41-498d-ad8c-d34a6b1470a0",
                   "_index": 4,
-                  "name": "Morales Mills",
+                  "_name": "Morales Mills",
                   "_type": "Syllubus",
                   "_iconX": 317,
                   "_iconY": 45,
@@ -11865,12 +11865,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2360,
                   "_lessonId": 5189,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-103196b6-8893-4f51-94e9-ed20db010db2",
                   "_index": 5,
-                  "name": "Rutledge Marsh",
+                  "_name": "Rutledge Marsh",
                   "_type": "Syllubus",
                   "_iconX": 218,
                   "_iconY": 149,
@@ -11881,7 +11881,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4541,
                   "_lessonId": 3518,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11893,7 +11893,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7e85bcf2-e130-42ed-ac53-ff2f314ca31b",
                   "_index": 0,
-                  "name": "Freida Ball",
+                  "_name": "Freida Ball",
                   "_type": "Syllubus",
                   "_iconX": 186,
                   "_iconY": 182,
@@ -11904,12 +11904,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2019,
                   "_lessonId": 2250,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b5a4008c-9fa1-4c08-b2fb-2fbff85ef9e0",
                   "_index": 1,
-                  "name": "Maxine Yang",
+                  "_name": "Maxine Yang",
                   "_type": "Syllubus",
                   "_iconX": 409,
                   "_iconY": 33,
@@ -11920,12 +11920,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3040,
                   "_lessonId": 1360,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-616ee05a-1f6c-49b8-a2e4-408a456bfd91",
                   "_index": 2,
-                  "name": "Dollie Bonner",
+                  "_name": "Dollie Bonner",
                   "_type": "Syllubus",
                   "_iconX": 274,
                   "_iconY": 56,
@@ -11936,12 +11936,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2632,
                   "_lessonId": 5005,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dc1b222b-1eba-4b9e-8811-e0d46ce87993",
                   "_index": 3,
-                  "name": "Levy Riddle",
+                  "_name": "Levy Riddle",
                   "_type": "Syllubus",
                   "_iconX": 486,
                   "_iconY": 570,
@@ -11952,12 +11952,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4873,
                   "_lessonId": 1932,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4d82ca75-8b6e-438e-ae0c-f1af484a9f49",
                   "_index": 4,
-                  "name": "Celia Ochoa",
+                  "_name": "Celia Ochoa",
                   "_type": "Syllubus",
                   "_iconX": 158,
                   "_iconY": 17,
@@ -11968,12 +11968,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4590,
                   "_lessonId": 5972,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9f5445ba-56ff-4cbf-a582-73890cbdcd4e",
                   "_index": 5,
-                  "name": "Bridgette Carver",
+                  "_name": "Bridgette Carver",
                   "_type": "Syllubus",
                   "_iconX": 771,
                   "_iconY": 390,
@@ -11984,7 +11984,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2127,
                   "_lessonId": 4372,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -11996,7 +11996,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-fc68948a-5d10-4e4b-aa5e-2b51754444e6",
                   "_index": 0,
-                  "name": "Bertha Mathis",
+                  "_name": "Bertha Mathis",
                   "_type": "Syllubus",
                   "_iconX": 811,
                   "_iconY": 330,
@@ -12007,12 +12007,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5337,
                   "_lessonId": 5468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-44ec907b-faa3-4ab8-86fc-e209bd795784",
                   "_index": 1,
-                  "name": "Regina Calhoun",
+                  "_name": "Regina Calhoun",
                   "_type": "Syllubus",
                   "_iconX": 818,
                   "_iconY": 81,
@@ -12023,12 +12023,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4568,
                   "_lessonId": 5077,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dd0ddd87-9a90-424c-8301-6b2f29993a87",
                   "_index": 2,
-                  "name": "Kathy Fry",
+                  "_name": "Kathy Fry",
                   "_type": "Syllubus",
                   "_iconX": 293,
                   "_iconY": 513,
@@ -12039,12 +12039,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5884,
                   "_lessonId": 2269,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-39f96677-ae47-461e-b530-57b3c15164ba",
                   "_index": 3,
-                  "name": "Benita Frost",
+                  "_name": "Benita Frost",
                   "_type": "Syllubus",
                   "_iconX": 227,
                   "_iconY": 547,
@@ -12055,12 +12055,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1666,
                   "_lessonId": 5922,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3f7e653f-e1d1-4378-92d8-ce7d86712192",
                   "_index": 4,
-                  "name": "Johnston Rivers",
+                  "_name": "Johnston Rivers",
                   "_type": "Syllubus",
                   "_iconX": 639,
                   "_iconY": 591,
@@ -12071,12 +12071,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1020,
                   "_lessonId": 4553,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-67b6f472-526f-41d0-91e8-665ed7626c22",
                   "_index": 5,
-                  "name": "Duran Rose",
+                  "_name": "Duran Rose",
                   "_type": "Syllubus",
                   "_iconX": 698,
                   "_iconY": 235,
@@ -12087,7 +12087,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4862,
                   "_lessonId": 4356,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12099,7 +12099,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-71dff680-765c-48fc-a454-77fa3a0dd86c",
                   "_index": 0,
-                  "name": "Francine Santana",
+                  "_name": "Francine Santana",
                   "_type": "Syllubus",
                   "_iconX": 994,
                   "_iconY": 487,
@@ -12110,12 +12110,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1077,
                   "_lessonId": 5842,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dc5d2ca0-7072-4574-932a-02537d4aeecc",
                   "_index": 1,
-                  "name": "Kelley Santos",
+                  "_name": "Kelley Santos",
                   "_type": "Syllubus",
                   "_iconX": 579,
                   "_iconY": 60,
@@ -12126,12 +12126,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1665,
                   "_lessonId": 5981,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-560e1c10-9457-4a73-9e29-a9a0a02d9e40",
                   "_index": 2,
-                  "name": "Alba Whitaker",
+                  "_name": "Alba Whitaker",
                   "_type": "Syllubus",
                   "_iconX": 612,
                   "_iconY": 286,
@@ -12142,12 +12142,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4646,
                   "_lessonId": 3838,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-10d4e3d2-1d8c-40a1-b796-94d72d8a785b",
                   "_index": 3,
-                  "name": "Beach Mckenzie",
+                  "_name": "Beach Mckenzie",
                   "_type": "Syllubus",
                   "_iconX": 236,
                   "_iconY": 46,
@@ -12158,12 +12158,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5532,
                   "_lessonId": 1095,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32094341-300a-4a9a-8b47-920dc0d9fb7b",
                   "_index": 4,
-                  "name": "Sonya Best",
+                  "_name": "Sonya Best",
                   "_type": "Syllubus",
                   "_iconX": 814,
                   "_iconY": 383,
@@ -12174,12 +12174,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2613,
                   "_lessonId": 4390,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f78b270c-a6cc-4ae3-be87-31f06ec81271",
                   "_index": 5,
-                  "name": "Corine Beck",
+                  "_name": "Corine Beck",
                   "_type": "Syllubus",
                   "_iconX": 453,
                   "_iconY": 381,
@@ -12190,7 +12190,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2888,
                   "_lessonId": 4379,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12202,7 +12202,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-820d9b11-abc6-4e07-98e5-10fa04baa56c",
                   "_index": 0,
-                  "name": "Lillie Winters",
+                  "_name": "Lillie Winters",
                   "_type": "Syllubus",
                   "_iconX": 658,
                   "_iconY": 461,
@@ -12213,12 +12213,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5945,
                   "_lessonId": 5013,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-59941771-d800-4ed8-a079-672758f0fb7d",
                   "_index": 1,
-                  "name": "Eugenia Nieves",
+                  "_name": "Eugenia Nieves",
                   "_type": "Syllubus",
                   "_iconX": 845,
                   "_iconY": 240,
@@ -12229,12 +12229,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2696,
                   "_lessonId": 5811,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9383abf6-6cd5-4d53-9e4c-4332cf653b80",
                   "_index": 2,
-                  "name": "Mckay Sears",
+                  "_name": "Mckay Sears",
                   "_type": "Syllubus",
                   "_iconX": 93,
                   "_iconY": 513,
@@ -12245,12 +12245,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2906,
                   "_lessonId": 4087,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bbe09113-6d45-4f73-b1bb-088b622f449d",
                   "_index": 3,
-                  "name": "Eleanor Santiago",
+                  "_name": "Eleanor Santiago",
                   "_type": "Syllubus",
                   "_iconX": 39,
                   "_iconY": 94,
@@ -12261,12 +12261,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3728,
                   "_lessonId": 5735,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-55624a04-353e-433b-8276-268df62360d8",
                   "_index": 4,
-                  "name": "Florence Harvey",
+                  "_name": "Florence Harvey",
                   "_type": "Syllubus",
                   "_iconX": 714,
                   "_iconY": 447,
@@ -12277,12 +12277,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4687,
                   "_lessonId": 2619,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f29e7e7-974d-488d-a0f1-9616dfb63762",
                   "_index": 5,
-                  "name": "Shannon Whitehead",
+                  "_name": "Shannon Whitehead",
                   "_type": "Syllubus",
                   "_iconX": 758,
                   "_iconY": 83,
@@ -12293,12 +12293,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3916,
                   "_lessonId": 1436,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3b5e0adb-cca9-4cd8-8c0a-1b702ac44de2",
                   "_index": 6,
-                  "name": "Owen Wynn",
+                  "_name": "Owen Wynn",
                   "_type": "Syllubus",
                   "_iconX": 713,
                   "_iconY": 261,
@@ -12309,7 +12309,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2789,
                   "_lessonId": 4882,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12321,7 +12321,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7b79179b-86ff-4cfd-817b-8b3871d7eed2",
                   "_index": 0,
-                  "name": "Estes Vaughan",
+                  "_name": "Estes Vaughan",
                   "_type": "Syllubus",
                   "_iconX": 579,
                   "_iconY": 49,
@@ -12332,12 +12332,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1367,
                   "_lessonId": 1429,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-547d2a9b-5d64-484c-9753-a9e60446c8ad",
                   "_index": 1,
-                  "name": "Diaz Berry",
+                  "_name": "Diaz Berry",
                   "_type": "Syllubus",
                   "_iconX": 489,
                   "_iconY": 455,
@@ -12348,12 +12348,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2087,
                   "_lessonId": 1563,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e4b050c7-0f7b-4e87-85f4-a2ee980fcb02",
                   "_index": 2,
-                  "name": "Moran Emerson",
+                  "_name": "Moran Emerson",
                   "_type": "Syllubus",
                   "_iconX": 89,
                   "_iconY": 521,
@@ -12364,12 +12364,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1843,
                   "_lessonId": 3566,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a63ded43-4833-4af9-8344-6f394926d02c",
                   "_index": 3,
-                  "name": "Karla Gamble",
+                  "_name": "Karla Gamble",
                   "_type": "Syllubus",
                   "_iconX": 222,
                   "_iconY": 394,
@@ -12380,12 +12380,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3602,
                   "_lessonId": 4235,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0f5763ad-9d95-43d6-be01-a97613e00ea9",
                   "_index": 4,
-                  "name": "Merritt Merritt",
+                  "_name": "Merritt Merritt",
                   "_type": "Syllubus",
                   "_iconX": 58,
                   "_iconY": 591,
@@ -12396,7 +12396,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1430,
                   "_lessonId": 5405,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -12419,7 +12419,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e452a21b-ff97-4991-8b1f-647aadc00c54",
                   "_index": 0,
-                  "name": "Armstrong Ellison",
+                  "_name": "Armstrong Ellison",
                   "_type": "Syllubus",
                   "_iconX": 749,
                   "_iconY": 76,
@@ -12430,12 +12430,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3454,
                   "_lessonId": 3416,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ae7990d7-7fda-447f-9c60-4845fb29f63f",
                   "_index": 1,
-                  "name": "Barr Estrada",
+                  "_name": "Barr Estrada",
                   "_type": "Syllubus",
                   "_iconX": 897,
                   "_iconY": 75,
@@ -12446,12 +12446,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3024,
                   "_lessonId": 1790,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c3e843ac-45a5-4b0f-ac5d-456c196c52e1",
                   "_index": 2,
-                  "name": "Jewell Jennings",
+                  "_name": "Jewell Jennings",
                   "_type": "Syllubus",
                   "_iconX": 733,
                   "_iconY": 377,
@@ -12462,12 +12462,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5030,
                   "_lessonId": 2231,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-28992c63-04c0-48ea-b393-fb676e0cb83a",
                   "_index": 3,
-                  "name": "Vang Cline",
+                  "_name": "Vang Cline",
                   "_type": "Syllubus",
                   "_iconX": 958,
                   "_iconY": 185,
@@ -12478,12 +12478,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1285,
                   "_lessonId": 2988,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d54b822f-a2ec-4ef0-850f-7808499e14b7",
                   "_index": 4,
-                  "name": "Luz Walls",
+                  "_name": "Luz Walls",
                   "_type": "Syllubus",
                   "_iconX": 283,
                   "_iconY": 417,
@@ -12494,12 +12494,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2815,
                   "_lessonId": 1434,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2d8b1612-51d3-4d35-be84-589ba8c3d27b",
                   "_index": 5,
-                  "name": "Shaffer Beasley",
+                  "_name": "Shaffer Beasley",
                   "_type": "Syllubus",
                   "_iconX": 185,
                   "_iconY": 354,
@@ -12510,12 +12510,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1856,
                   "_lessonId": 1799,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e58dcee7-301b-4d66-af21-38d102006bf6",
                   "_index": 6,
-                  "name": "Alyce Robertson",
+                  "_name": "Alyce Robertson",
                   "_type": "Syllubus",
                   "_iconX": 422,
                   "_iconY": 474,
@@ -12526,7 +12526,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2074,
                   "_lessonId": 1561,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12538,7 +12538,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7ad7266e-4cf3-4024-983b-704ce71f2daa",
                   "_index": 0,
-                  "name": "Adeline Hebert",
+                  "_name": "Adeline Hebert",
                   "_type": "Syllubus",
                   "_iconX": 397,
                   "_iconY": 348,
@@ -12549,12 +12549,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2623,
                   "_lessonId": 3567,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-46f30998-1dea-462d-b4b0-644681ca9b36",
                   "_index": 1,
-                  "name": "Neal Burton",
+                  "_name": "Neal Burton",
                   "_type": "Syllubus",
                   "_iconX": 449,
                   "_iconY": 145,
@@ -12565,12 +12565,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2742,
                   "_lessonId": 4170,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2c7de970-f656-40c8-941b-8a440a99bd89",
                   "_index": 2,
-                  "name": "Langley Reeves",
+                  "_name": "Langley Reeves",
                   "_type": "Syllubus",
                   "_iconX": 567,
                   "_iconY": 489,
@@ -12581,12 +12581,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1369,
                   "_lessonId": 2755,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8d70b6d3-ca38-488a-8b38-4897661cacaf",
                   "_index": 3,
-                  "name": "Gail Lewis",
+                  "_name": "Gail Lewis",
                   "_type": "Syllubus",
                   "_iconX": 39,
                   "_iconY": 231,
@@ -12597,12 +12597,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3650,
                   "_lessonId": 5580,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9f04490b-d604-4df2-83a3-649d0a2135b6",
                   "_index": 4,
-                  "name": "Aguirre Willis",
+                  "_name": "Aguirre Willis",
                   "_type": "Syllubus",
                   "_iconX": 675,
                   "_iconY": 268,
@@ -12613,12 +12613,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2941,
                   "_lessonId": 3875,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-462ceead-fe97-43a4-b984-063cdccc3a1c",
                   "_index": 5,
-                  "name": "Sylvia Randolph",
+                  "_name": "Sylvia Randolph",
                   "_type": "Syllubus",
                   "_iconX": 408,
                   "_iconY": 458,
@@ -12629,7 +12629,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2897,
                   "_lessonId": 4056,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12641,7 +12641,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ac3c8f93-f3f1-477d-b1bf-252697212667",
                   "_index": 0,
-                  "name": "Tania Owen",
+                  "_name": "Tania Owen",
                   "_type": "Syllubus",
                   "_iconX": 411,
                   "_iconY": 90,
@@ -12652,12 +12652,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1492,
                   "_lessonId": 1050,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-86b518f7-a973-4a8a-ad4c-01a94bbcc7e0",
                   "_index": 1,
-                  "name": "Roberson Bass",
+                  "_name": "Roberson Bass",
                   "_type": "Syllubus",
                   "_iconX": 722,
                   "_iconY": 274,
@@ -12668,12 +12668,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5272,
                   "_lessonId": 4042,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a186ee36-b37b-4d3f-9a26-31f80b9cf426",
                   "_index": 2,
-                  "name": "Barron Nguyen",
+                  "_name": "Barron Nguyen",
                   "_type": "Syllubus",
                   "_iconX": 797,
                   "_iconY": 304,
@@ -12684,12 +12684,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5858,
                   "_lessonId": 4760,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bbaed16a-fa5e-4259-a250-d915efeab9fc",
                   "_index": 3,
-                  "name": "Clemons Hendricks",
+                  "_name": "Clemons Hendricks",
                   "_type": "Syllubus",
                   "_iconX": 121,
                   "_iconY": 392,
@@ -12700,12 +12700,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3217,
                   "_lessonId": 4559,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-74205a08-3fd2-47df-911f-e74ee84dc6b4",
                   "_index": 4,
-                  "name": "Stewart Lott",
+                  "_name": "Stewart Lott",
                   "_type": "Syllubus",
                   "_iconX": 676,
                   "_iconY": 123,
@@ -12716,12 +12716,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4859,
                   "_lessonId": 2820,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-73b9ff52-02b4-48fc-9511-eea53aff03ff",
                   "_index": 5,
-                  "name": "Brooks Carpenter",
+                  "_name": "Brooks Carpenter",
                   "_type": "Syllubus",
                   "_iconX": 831,
                   "_iconY": 26,
@@ -12732,7 +12732,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3096,
                   "_lessonId": 3726,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12744,7 +12744,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-25dbde1c-9bef-408a-975a-82a986086750",
                   "_index": 0,
-                  "name": "Pearlie Cooke",
+                  "_name": "Pearlie Cooke",
                   "_type": "Syllubus",
                   "_iconX": 376,
                   "_iconY": 261,
@@ -12755,12 +12755,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4172,
                   "_lessonId": 1803,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fce68cd0-4cda-4b0e-8084-47aa812dfc48",
                   "_index": 1,
-                  "name": "Penelope Mccormick",
+                  "_name": "Penelope Mccormick",
                   "_type": "Syllubus",
                   "_iconX": 302,
                   "_iconY": 55,
@@ -12771,12 +12771,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4083,
                   "_lessonId": 5297,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-63b01e82-22a1-4694-a3cf-983e96ba5d7b",
                   "_index": 2,
-                  "name": "Suzette Witt",
+                  "_name": "Suzette Witt",
                   "_type": "Syllubus",
                   "_iconX": 345,
                   "_iconY": 325,
@@ -12787,12 +12787,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5264,
                   "_lessonId": 1064,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8f3dc6a1-de39-40c2-a5c7-cf99a5bb8d54",
                   "_index": 3,
-                  "name": "Bennett Flores",
+                  "_name": "Bennett Flores",
                   "_type": "Syllubus",
                   "_iconX": 172,
                   "_iconY": 529,
@@ -12803,12 +12803,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1977,
                   "_lessonId": 4423,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ee34ce9d-d233-4f26-a479-d86f125ac9c1",
                   "_index": 4,
-                  "name": "Jacquelyn Leon",
+                  "_name": "Jacquelyn Leon",
                   "_type": "Syllubus",
                   "_iconX": 101,
                   "_iconY": 31,
@@ -12819,12 +12819,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5382,
                   "_lessonId": 1420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-04c914ae-a9ed-4988-b8fe-f94aa203b259",
                   "_index": 5,
-                  "name": "Diana Bowman",
+                  "_name": "Diana Bowman",
                   "_type": "Syllubus",
                   "_iconX": 459,
                   "_iconY": 220,
@@ -12835,12 +12835,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5209,
                   "_lessonId": 2139,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-44c30db1-a130-4f09-88cd-b800303f2cbc",
                   "_index": 6,
-                  "name": "Miles Spencer",
+                  "_name": "Miles Spencer",
                   "_type": "Syllubus",
                   "_iconX": 74,
                   "_iconY": 184,
@@ -12851,7 +12851,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2701,
                   "_lessonId": 1881,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -12863,7 +12863,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-16b7a2eb-0635-42ec-953a-012bb4ec6b4b",
                   "_index": 0,
-                  "name": "Terrie Forbes",
+                  "_name": "Terrie Forbes",
                   "_type": "Syllubus",
                   "_iconX": 626,
                   "_iconY": 402,
@@ -12874,12 +12874,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4639,
                   "_lessonId": 3415,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5c1141d3-4816-4d1c-a6cf-5b047615b24e",
                   "_index": 1,
-                  "name": "Morton Odom",
+                  "_name": "Morton Odom",
                   "_type": "Syllubus",
                   "_iconX": 261,
                   "_iconY": 513,
@@ -12890,12 +12890,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5183,
                   "_lessonId": 3889,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-da5b156c-57de-48e3-8822-c3ec51a4e24d",
                   "_index": 2,
-                  "name": "Liza Mercer",
+                  "_name": "Liza Mercer",
                   "_type": "Syllubus",
                   "_iconX": 694,
                   "_iconY": 479,
@@ -12906,12 +12906,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4756,
                   "_lessonId": 5072,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0903f333-d5b1-4aa9-94e9-11256b34109b",
                   "_index": 3,
-                  "name": "Mary Sexton",
+                  "_name": "Mary Sexton",
                   "_type": "Syllubus",
                   "_iconX": 89,
                   "_iconY": 215,
@@ -12922,12 +12922,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2674,
                   "_lessonId": 1427,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a7007985-8a6c-4981-9436-6f4c2ca29eae",
                   "_index": 4,
-                  "name": "Charmaine Diaz",
+                  "_name": "Charmaine Diaz",
                   "_type": "Syllubus",
                   "_iconX": 205,
                   "_iconY": 199,
@@ -12938,7 +12938,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2638,
                   "_lessonId": 4986,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -12961,7 +12961,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e5163b1d-3307-47e0-98e0-26e35ff757ef",
                   "_index": 0,
-                  "name": "Solis Bailey",
+                  "_name": "Solis Bailey",
                   "_type": "Syllubus",
                   "_iconX": 449,
                   "_iconY": 193,
@@ -12972,12 +12972,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3291,
                   "_lessonId": 1810,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cdcdd22b-8dca-4e81-b94f-7d4cf9ef0280",
                   "_index": 1,
-                  "name": "Kristie Graves",
+                  "_name": "Kristie Graves",
                   "_type": "Syllubus",
                   "_iconX": 887,
                   "_iconY": 596,
@@ -12988,12 +12988,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2444,
                   "_lessonId": 4378,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6ac30496-aecb-497c-b323-f762b4f4d347",
                   "_index": 2,
-                  "name": "Alford Carlson",
+                  "_name": "Alford Carlson",
                   "_type": "Syllubus",
                   "_iconX": 58,
                   "_iconY": 327,
@@ -13004,12 +13004,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5254,
                   "_lessonId": 1559,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3aa68314-ee8a-4104-a60d-166ca67795fd",
                   "_index": 3,
-                  "name": "Monica Fitzgerald",
+                  "_name": "Monica Fitzgerald",
                   "_type": "Syllubus",
                   "_iconX": 641,
                   "_iconY": 424,
@@ -13020,12 +13020,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2480,
                   "_lessonId": 1541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aa793ae5-002d-4590-8b5a-c4eef69580bb",
                   "_index": 4,
-                  "name": "Miller Larson",
+                  "_name": "Miller Larson",
                   "_type": "Syllubus",
                   "_iconX": 491,
                   "_iconY": 292,
@@ -13036,12 +13036,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4698,
                   "_lessonId": 2610,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6646b263-73e1-4caa-95ff-f60edb362d85",
                   "_index": 5,
-                  "name": "Workman Murray",
+                  "_name": "Workman Murray",
                   "_type": "Syllubus",
                   "_iconX": 405,
                   "_iconY": 572,
@@ -13052,7 +13052,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1340,
                   "_lessonId": 5814,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13064,7 +13064,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-26de99f0-8178-44b8-8388-a819d2e87368",
                   "_index": 0,
-                  "name": "Mcdaniel Wyatt",
+                  "_name": "Mcdaniel Wyatt",
                   "_type": "Syllubus",
                   "_iconX": 481,
                   "_iconY": 263,
@@ -13075,12 +13075,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1020,
                   "_lessonId": 1829,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2cae4a29-3f01-4940-bdf7-12aa72dfc0a7",
                   "_index": 1,
-                  "name": "Stephenson Velez",
+                  "_name": "Stephenson Velez",
                   "_type": "Syllubus",
                   "_iconX": 212,
                   "_iconY": 79,
@@ -13091,12 +13091,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5550,
                   "_lessonId": 1235,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c7b11f3d-79c5-4b9c-8cc6-9ad0daa8c459",
                   "_index": 2,
-                  "name": "Rojas Snyder",
+                  "_name": "Rojas Snyder",
                   "_type": "Syllubus",
                   "_iconX": 701,
                   "_iconY": 99,
@@ -13107,12 +13107,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4550,
                   "_lessonId": 3161,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-306238f6-653f-4ae6-a698-ab8c8028b9c0",
                   "_index": 3,
-                  "name": "Finch Clements",
+                  "_name": "Finch Clements",
                   "_type": "Syllubus",
                   "_iconX": 239,
                   "_iconY": 351,
@@ -13123,12 +13123,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4640,
                   "_lessonId": 3320,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-18170656-d888-4fd5-b389-e81caf5284a4",
                   "_index": 4,
-                  "name": "Martin Leonard",
+                  "_name": "Martin Leonard",
                   "_type": "Syllubus",
                   "_iconX": 267,
                   "_iconY": 461,
@@ -13139,7 +13139,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2579,
                   "_lessonId": 1531,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13151,7 +13151,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-5ec4ce4f-8672-458d-9098-606546152abb",
                   "_index": 0,
-                  "name": "Wise Greene",
+                  "_name": "Wise Greene",
                   "_type": "Syllubus",
                   "_iconX": 299,
                   "_iconY": 223,
@@ -13162,12 +13162,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2921,
                   "_lessonId": 4559,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cb6c9d24-bf6b-4a26-b4f5-0068390a8c3d",
                   "_index": 1,
-                  "name": "Lakisha Kelly",
+                  "_name": "Lakisha Kelly",
                   "_type": "Syllubus",
                   "_iconX": 180,
                   "_iconY": 327,
@@ -13178,12 +13178,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4257,
                   "_lessonId": 5575,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-93e9ab10-2c72-441b-ada1-686938909250",
                   "_index": 2,
-                  "name": "Holder Montoya",
+                  "_name": "Holder Montoya",
                   "_type": "Syllubus",
                   "_iconX": 440,
                   "_iconY": 214,
@@ -13194,12 +13194,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4138,
                   "_lessonId": 2954,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cefa8604-ad0c-4d63-af23-aa9b54e3e433",
                   "_index": 3,
-                  "name": "Jefferson Acosta",
+                  "_name": "Jefferson Acosta",
                   "_type": "Syllubus",
                   "_iconX": 247,
                   "_iconY": 479,
@@ -13210,12 +13210,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2730,
                   "_lessonId": 1016,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c28d71ff-26a5-4b26-af66-2ea626e7287e",
                   "_index": 4,
-                  "name": "Wilson Madden",
+                  "_name": "Wilson Madden",
                   "_type": "Syllubus",
                   "_iconX": 189,
                   "_iconY": 324,
@@ -13226,12 +13226,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2897,
                   "_lessonId": 5686,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4230f19-0025-4672-8036-01296b39f4c8",
                   "_index": 5,
-                  "name": "Lenore Palmer",
+                  "_name": "Lenore Palmer",
                   "_type": "Syllubus",
                   "_iconX": 279,
                   "_iconY": 317,
@@ -13242,12 +13242,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1326,
                   "_lessonId": 3018,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dfd42c40-401f-4c69-ba9c-f595ae4c73e6",
                   "_index": 6,
-                  "name": "Stevens Anthony",
+                  "_name": "Stevens Anthony",
                   "_type": "Syllubus",
                   "_iconX": 938,
                   "_iconY": 121,
@@ -13258,7 +13258,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3221,
                   "_lessonId": 1608,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13270,7 +13270,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-47860c75-ee4c-4aea-b599-8b16eb3ebd93",
                   "_index": 0,
-                  "name": "Wagner Gray",
+                  "_name": "Wagner Gray",
                   "_type": "Syllubus",
                   "_iconX": 704,
                   "_iconY": 267,
@@ -13281,12 +13281,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1490,
                   "_lessonId": 5084,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-45822c6d-d004-4075-973c-bc0b46d3b2de",
                   "_index": 1,
-                  "name": "Hanson Castillo",
+                  "_name": "Hanson Castillo",
                   "_type": "Syllubus",
                   "_iconX": 773,
                   "_iconY": 570,
@@ -13297,12 +13297,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5672,
                   "_lessonId": 1455,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1168ad14-27d5-42f9-bad2-b05ec7f4da6e",
                   "_index": 2,
-                  "name": "Keri Adkins",
+                  "_name": "Keri Adkins",
                   "_type": "Syllubus",
                   "_iconX": 561,
                   "_iconY": 150,
@@ -13313,12 +13313,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1424,
                   "_lessonId": 2738,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f9b519d2-773a-42f9-8529-03213637c276",
                   "_index": 3,
-                  "name": "Laurel Horn",
+                  "_name": "Laurel Horn",
                   "_type": "Syllubus",
                   "_iconX": 8,
                   "_iconY": 75,
@@ -13329,12 +13329,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3925,
                   "_lessonId": 5982,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-71b4d899-cae3-4917-ad0d-9eafb6ef6d09",
                   "_index": 4,
-                  "name": "Lloyd Justice",
+                  "_name": "Lloyd Justice",
                   "_type": "Syllubus",
                   "_iconX": 277,
                   "_iconY": 456,
@@ -13345,12 +13345,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1448,
                   "_lessonId": 1473,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9644442f-52a4-4433-b581-e72d1935f2bb",
                   "_index": 5,
-                  "name": "Villarreal Long",
+                  "_name": "Villarreal Long",
                   "_type": "Syllubus",
                   "_iconX": 267,
                   "_iconY": 312,
@@ -13361,12 +13361,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3293,
                   "_lessonId": 3217,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dd256233-6335-4492-9722-36bb87ae64fd",
                   "_index": 6,
-                  "name": "Forbes Lester",
+                  "_name": "Forbes Lester",
                   "_type": "Syllubus",
                   "_iconX": 995,
                   "_iconY": 467,
@@ -13377,7 +13377,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3802,
                   "_lessonId": 2885,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13389,7 +13389,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d3b649c5-0d5b-45a6-9be6-afbe7d24bae3",
                   "_index": 0,
-                  "name": "Terry Morales",
+                  "_name": "Terry Morales",
                   "_type": "Syllubus",
                   "_iconX": 384,
                   "_iconY": 420,
@@ -13400,12 +13400,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5046,
                   "_lessonId": 5818,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2b7d9717-b605-42d3-931d-e322849d384d",
                   "_index": 1,
-                  "name": "Landry Clay",
+                  "_name": "Landry Clay",
                   "_type": "Syllubus",
                   "_iconX": 586,
                   "_iconY": 301,
@@ -13416,12 +13416,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5781,
                   "_lessonId": 1222,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ebea9ac4-e973-4d1a-95b0-72a3c4fb540c",
                   "_index": 2,
-                  "name": "Fisher Deleon",
+                  "_name": "Fisher Deleon",
                   "_type": "Syllubus",
                   "_iconX": 758,
                   "_iconY": 279,
@@ -13432,12 +13432,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3340,
                   "_lessonId": 5241,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5e035f6c-6d17-4b07-9f3f-b0dbc49aef5d",
                   "_index": 3,
-                  "name": "Orr Webster",
+                  "_name": "Orr Webster",
                   "_type": "Syllubus",
                   "_iconX": 849,
                   "_iconY": 527,
@@ -13448,12 +13448,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4125,
                   "_lessonId": 3729,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fdcb638d-bf1f-448e-b438-269e91a284bb",
                   "_index": 4,
-                  "name": "Gracie Zamora",
+                  "_name": "Gracie Zamora",
                   "_type": "Syllubus",
                   "_iconX": 505,
                   "_iconY": 112,
@@ -13464,12 +13464,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4342,
                   "_lessonId": 2603,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3f23c83-ed4e-4b1f-b293-0264e7788c18",
                   "_index": 5,
-                  "name": "Ramona Austin",
+                  "_name": "Ramona Austin",
                   "_type": "Syllubus",
                   "_iconX": 91,
                   "_iconY": 494,
@@ -13480,12 +13480,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2797,
                   "_lessonId": 2339,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aa3022ce-88cf-476c-bb46-b60cde2ef239",
                   "_index": 6,
-                  "name": "Darla Grant",
+                  "_name": "Darla Grant",
                   "_type": "Syllubus",
                   "_iconX": 400,
                   "_iconY": 414,
@@ -13496,7 +13496,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2565,
                   "_lessonId": 4176,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13508,7 +13508,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-241dfa6b-7cb7-4b1f-81a9-c163657da38b",
                   "_index": 0,
-                  "name": "Molly Bowen",
+                  "_name": "Molly Bowen",
                   "_type": "Syllubus",
                   "_iconX": 955,
                   "_iconY": 410,
@@ -13519,12 +13519,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2220,
                   "_lessonId": 5166,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-05fe023c-a487-40dd-bd09-5b88dca00111",
                   "_index": 1,
-                  "name": "Kasey Garza",
+                  "_name": "Kasey Garza",
                   "_type": "Syllubus",
                   "_iconX": 313,
                   "_iconY": 498,
@@ -13535,12 +13535,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2163,
                   "_lessonId": 3282,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c2e863b-c795-4133-a32d-5083dd545bfd",
                   "_index": 2,
-                  "name": "Reva Vincent",
+                  "_name": "Reva Vincent",
                   "_type": "Syllubus",
                   "_iconX": 699,
                   "_iconY": 549,
@@ -13551,12 +13551,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1098,
                   "_lessonId": 2163,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5b66ae5d-97a9-40c4-8c57-27eebf1d75ed",
                   "_index": 3,
-                  "name": "Terri Miranda",
+                  "_name": "Terri Miranda",
                   "_type": "Syllubus",
                   "_iconX": 352,
                   "_iconY": 245,
@@ -13567,12 +13567,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5982,
                   "_lessonId": 4659,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-623e000f-1065-4f92-b4de-421353d6d15c",
                   "_index": 4,
-                  "name": "Lott Manning",
+                  "_name": "Lott Manning",
                   "_type": "Syllubus",
                   "_iconX": 372,
                   "_iconY": 539,
@@ -13583,12 +13583,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3321,
                   "_lessonId": 1913,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2382b891-277b-47a7-b28a-dbdfbca9fc2d",
                   "_index": 5,
-                  "name": "Reyna Byrd",
+                  "_name": "Reyna Byrd",
                   "_type": "Syllubus",
                   "_iconX": 487,
                   "_iconY": 207,
@@ -13599,12 +13599,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5335,
                   "_lessonId": 3689,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f73a516f-89eb-4026-af31-acd6bc586650",
                   "_index": 6,
-                  "name": "Sarah Kirby",
+                  "_name": "Sarah Kirby",
                   "_type": "Syllubus",
                   "_iconX": 430,
                   "_iconY": 233,
@@ -13615,7 +13615,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3567,
                   "_lessonId": 2741,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13627,7 +13627,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a0915aeb-591d-4480-9b40-fd888fa5026c",
                   "_index": 0,
-                  "name": "Lambert Woodward",
+                  "_name": "Lambert Woodward",
                   "_type": "Syllubus",
                   "_iconX": 54,
                   "_iconY": 88,
@@ -13638,12 +13638,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3751,
                   "_lessonId": 3707,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e8a190d0-02d3-47ba-bc3f-4c1dfdbc2374",
                   "_index": 1,
-                  "name": "Kris Melton",
+                  "_name": "Kris Melton",
                   "_type": "Syllubus",
                   "_iconX": 752,
                   "_iconY": 240,
@@ -13654,12 +13654,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4315,
                   "_lessonId": 4003,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d563bd84-d23b-4388-a60f-5905d1754b7e",
                   "_index": 2,
-                  "name": "Donovan Baker",
+                  "_name": "Donovan Baker",
                   "_type": "Syllubus",
                   "_iconX": 558,
                   "_iconY": 372,
@@ -13670,12 +13670,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4472,
                   "_lessonId": 3536,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f936079a-3954-43b4-8208-3b8aec78fd2c",
                   "_index": 3,
-                  "name": "Christian Dominguez",
+                  "_name": "Christian Dominguez",
                   "_type": "Syllubus",
                   "_iconX": 244,
                   "_iconY": 150,
@@ -13686,12 +13686,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5620,
                   "_lessonId": 3070,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b338b837-2d90-41a8-9268-069e929f2bb7",
                   "_index": 4,
-                  "name": "Thornton Cole",
+                  "_name": "Thornton Cole",
                   "_type": "Syllubus",
                   "_iconX": 351,
                   "_iconY": 260,
@@ -13702,12 +13702,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3975,
                   "_lessonId": 1591,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-91058676-6550-4234-ba75-1ea1278fb333",
                   "_index": 5,
-                  "name": "Dee Barrera",
+                  "_name": "Dee Barrera",
                   "_type": "Syllubus",
                   "_iconX": 664,
                   "_iconY": 47,
@@ -13718,12 +13718,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5882,
                   "_lessonId": 2714,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b2df2ac1-1bd5-445a-a77d-2627be79284e",
                   "_index": 6,
-                  "name": "Garrett Alford",
+                  "_name": "Garrett Alford",
                   "_type": "Syllubus",
                   "_iconX": 159,
                   "_iconY": 498,
@@ -13734,7 +13734,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3736,
                   "_lessonId": 2948,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -13757,7 +13757,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ef498c9c-2bc1-4bc6-8ba8-282815b3cff2",
                   "_index": 0,
-                  "name": "Pittman Hubbard",
+                  "_name": "Pittman Hubbard",
                   "_type": "Syllubus",
                   "_iconX": 945,
                   "_iconY": 563,
@@ -13768,12 +13768,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3167,
                   "_lessonId": 1345,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1a33ca51-28a4-4aa0-9031-b2f918da8409",
                   "_index": 1,
-                  "name": "Lesley Benjamin",
+                  "_name": "Lesley Benjamin",
                   "_type": "Syllubus",
                   "_iconX": 786,
                   "_iconY": 413,
@@ -13784,12 +13784,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5259,
                   "_lessonId": 2926,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-513a7387-5e2b-4355-a9f8-9a4c32352c70",
                   "_index": 2,
-                  "name": "Elva Sims",
+                  "_name": "Elva Sims",
                   "_type": "Syllubus",
                   "_iconX": 345,
                   "_iconY": 291,
@@ -13800,12 +13800,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5078,
                   "_lessonId": 3817,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-07b5d779-8576-47d8-9909-c6863ccd562e",
                   "_index": 3,
-                  "name": "Gretchen Sweeney",
+                  "_name": "Gretchen Sweeney",
                   "_type": "Syllubus",
                   "_iconX": 386,
                   "_iconY": 97,
@@ -13816,12 +13816,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1022,
                   "_lessonId": 1172,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-34a7b5ad-f774-4f33-8617-d1106cc64b44",
                   "_index": 4,
-                  "name": "Anita Dunlap",
+                  "_name": "Anita Dunlap",
                   "_type": "Syllubus",
                   "_iconX": 617,
                   "_iconY": 22,
@@ -13832,12 +13832,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2722,
                   "_lessonId": 4829,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-87ddc59b-b0d1-45ad-b820-5dae8bc89e01",
                   "_index": 5,
-                  "name": "Mcclain Clemons",
+                  "_name": "Mcclain Clemons",
                   "_type": "Syllubus",
                   "_iconX": 988,
                   "_iconY": 481,
@@ -13848,12 +13848,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2113,
                   "_lessonId": 1964,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b1fbfbbe-4476-4396-93ff-bd38b11c698d",
                   "_index": 6,
-                  "name": "Irene Tran",
+                  "_name": "Irene Tran",
                   "_type": "Syllubus",
                   "_iconX": 744,
                   "_iconY": 200,
@@ -13864,7 +13864,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5244,
                   "_lessonId": 5274,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13876,7 +13876,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e6ea8981-8d11-4a3e-ae20-b374a56683c1",
                   "_index": 0,
-                  "name": "Mccray Huff",
+                  "_name": "Mccray Huff",
                   "_type": "Syllubus",
                   "_iconX": 102,
                   "_iconY": 423,
@@ -13887,12 +13887,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5819,
                   "_lessonId": 3270,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-279c279d-66a6-4488-ab7e-ef3064f8cab1",
                   "_index": 1,
-                  "name": "Beryl Gomez",
+                  "_name": "Beryl Gomez",
                   "_type": "Syllubus",
                   "_iconX": 371,
                   "_iconY": 284,
@@ -13903,12 +13903,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5518,
                   "_lessonId": 3220,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-16e84dc6-0979-4591-bd9c-aaae2e797989",
                   "_index": 2,
-                  "name": "Ashley Ferrell",
+                  "_name": "Ashley Ferrell",
                   "_type": "Syllubus",
                   "_iconX": 912,
                   "_iconY": 192,
@@ -13919,12 +13919,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5553,
                   "_lessonId": 4198,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21120779-b4f2-45b0-820d-b31db4fd609a",
                   "_index": 3,
-                  "name": "Marquez Roman",
+                  "_name": "Marquez Roman",
                   "_type": "Syllubus",
                   "_iconX": 499,
                   "_iconY": 389,
@@ -13935,12 +13935,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2677,
                   "_lessonId": 1315,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c4a5d095-3e42-4798-a856-72e1e2a3c30c",
                   "_index": 4,
-                  "name": "Cervantes Henderson",
+                  "_name": "Cervantes Henderson",
                   "_type": "Syllubus",
                   "_iconX": 976,
                   "_iconY": 599,
@@ -13951,12 +13951,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1835,
                   "_lessonId": 4934,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-70568324-252d-420b-b4a8-19ee3a831a13",
                   "_index": 5,
-                  "name": "Suzanne Stout",
+                  "_name": "Suzanne Stout",
                   "_type": "Syllubus",
                   "_iconX": 558,
                   "_iconY": 53,
@@ -13967,12 +13967,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1377,
                   "_lessonId": 5442,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d75b3e56-b531-4087-8085-aa0f7cbb3c7f",
                   "_index": 6,
-                  "name": "Renee Townsend",
+                  "_name": "Renee Townsend",
                   "_type": "Syllubus",
                   "_iconX": 395,
                   "_iconY": 58,
@@ -13983,7 +13983,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2516,
                   "_lessonId": 5264,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -13995,7 +13995,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c277e6e1-1d85-4cf2-b918-2f87f0fdb3c1",
                   "_index": 0,
-                  "name": "Beverley Bradley",
+                  "_name": "Beverley Bradley",
                   "_type": "Syllubus",
                   "_iconX": 518,
                   "_iconY": 188,
@@ -14006,12 +14006,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5405,
                   "_lessonId": 2559,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5354525-38a8-4fd9-8760-084bb584130e",
                   "_index": 1,
-                  "name": "Lindsay Atkins",
+                  "_name": "Lindsay Atkins",
                   "_type": "Syllubus",
                   "_iconX": 511,
                   "_iconY": 314,
@@ -14022,12 +14022,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5761,
                   "_lessonId": 2595,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-399bed4b-5e0a-49c6-8ca1-d32800298276",
                   "_index": 2,
-                  "name": "Slater Fernandez",
+                  "_name": "Slater Fernandez",
                   "_type": "Syllubus",
                   "_iconX": 951,
                   "_iconY": 428,
@@ -14038,12 +14038,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1353,
                   "_lessonId": 6000,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4d431f65-e948-4dec-b620-819f1ebe7fc7",
                   "_index": 3,
-                  "name": "Hendricks Valencia",
+                  "_name": "Hendricks Valencia",
                   "_type": "Syllubus",
                   "_iconX": 388,
                   "_iconY": 399,
@@ -14054,12 +14054,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1499,
                   "_lessonId": 5267,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-37202c3f-153c-4350-8530-8cb626678679",
                   "_index": 4,
-                  "name": "Wanda Gregory",
+                  "_name": "Wanda Gregory",
                   "_type": "Syllubus",
                   "_iconX": 51,
                   "_iconY": 160,
@@ -14070,7 +14070,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3802,
                   "_lessonId": 4496,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14082,7 +14082,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4585df24-938c-4d05-a1be-a8abc4e92b7f",
                   "_index": 0,
-                  "name": "Montoya Stone",
+                  "_name": "Montoya Stone",
                   "_type": "Syllubus",
                   "_iconX": 50,
                   "_iconY": 50,
@@ -14093,12 +14093,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2219,
                   "_lessonId": 4203,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c0ca1949-db06-4eca-a433-585f6ccace95",
                   "_index": 1,
-                  "name": "Snider Mcmahon",
+                  "_name": "Snider Mcmahon",
                   "_type": "Syllubus",
                   "_iconX": 281,
                   "_iconY": 233,
@@ -14109,12 +14109,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3791,
                   "_lessonId": 2728,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aea5c834-107d-49e1-af7c-44609aa6ca54",
                   "_index": 2,
-                  "name": "Moss Terrell",
+                  "_name": "Moss Terrell",
                   "_type": "Syllubus",
                   "_iconX": 54,
                   "_iconY": 397,
@@ -14125,12 +14125,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4983,
                   "_lessonId": 1333,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1219868f-69d5-4a3a-9f60-6efe0bec2014",
                   "_index": 3,
-                  "name": "Greta Cervantes",
+                  "_name": "Greta Cervantes",
                   "_type": "Syllubus",
                   "_iconX": 881,
                   "_iconY": 449,
@@ -14141,12 +14141,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3032,
                   "_lessonId": 4305,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-09e3189e-ceb8-4089-b8f0-65e0526fa6bc",
                   "_index": 4,
-                  "name": "Betsy Baldwin",
+                  "_name": "Betsy Baldwin",
                   "_type": "Syllubus",
                   "_iconX": 279,
                   "_iconY": 480,
@@ -14157,7 +14157,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1901,
                   "_lessonId": 5793,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14169,7 +14169,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-92ddbf77-4a98-497c-8055-194bc4330871",
                   "_index": 0,
-                  "name": "Lacey Fletcher",
+                  "_name": "Lacey Fletcher",
                   "_type": "Syllubus",
                   "_iconX": 348,
                   "_iconY": 352,
@@ -14180,12 +14180,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4363,
                   "_lessonId": 2789,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6c894d26-5e22-40fb-a9a2-064756c01915",
                   "_index": 1,
-                  "name": "Combs Lowe",
+                  "_name": "Combs Lowe",
                   "_type": "Syllubus",
                   "_iconX": 570,
                   "_iconY": 0,
@@ -14196,12 +14196,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2084,
                   "_lessonId": 3998,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5884f6e5-48b0-4265-9e4f-60acbde6f29e",
                   "_index": 2,
-                  "name": "Kitty Taylor",
+                  "_name": "Kitty Taylor",
                   "_type": "Syllubus",
                   "_iconX": 283,
                   "_iconY": 416,
@@ -14212,12 +14212,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4428,
                   "_lessonId": 5775,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-982630d6-677d-4944-b369-cdafc38653c7",
                   "_index": 3,
-                  "name": "Campbell Dorsey",
+                  "_name": "Campbell Dorsey",
                   "_type": "Syllubus",
                   "_iconX": 361,
                   "_iconY": 255,
@@ -14228,12 +14228,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2999,
                   "_lessonId": 3510,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21615be6-c85d-4720-aae9-c6df0cf199ca",
                   "_index": 4,
-                  "name": "Hopper Britt",
+                  "_name": "Hopper Britt",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 256,
@@ -14244,12 +14244,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5121,
                   "_lessonId": 4663,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8917a092-11fa-4066-a329-70fc572c969a",
                   "_index": 5,
-                  "name": "Dale Daugherty",
+                  "_name": "Dale Daugherty",
                   "_type": "Syllubus",
                   "_iconX": 277,
                   "_iconY": 577,
@@ -14260,7 +14260,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4597,
                   "_lessonId": 4948,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14272,7 +14272,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-cdfccd34-94ee-4b58-aaa3-33e7b309b8b9",
                   "_index": 0,
-                  "name": "Beard Conner",
+                  "_name": "Beard Conner",
                   "_type": "Syllubus",
                   "_iconX": 590,
                   "_iconY": 120,
@@ -14283,12 +14283,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5303,
                   "_lessonId": 5502,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ac5e4b17-ce37-45fe-bf7e-5ac0135b0872",
                   "_index": 1,
-                  "name": "Zimmerman Wade",
+                  "_name": "Zimmerman Wade",
                   "_type": "Syllubus",
                   "_iconX": 803,
                   "_iconY": 38,
@@ -14299,12 +14299,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2668,
                   "_lessonId": 2274,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bde71249-e3b8-4cf8-a2ec-eacee019f922",
                   "_index": 2,
-                  "name": "Mccarthy Oconnor",
+                  "_name": "Mccarthy Oconnor",
                   "_type": "Syllubus",
                   "_iconX": 430,
                   "_iconY": 185,
@@ -14315,12 +14315,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5050,
                   "_lessonId": 3541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-057624ec-4699-4889-85f3-c4516ea3d0d5",
                   "_index": 3,
-                  "name": "Mable Henson",
+                  "_name": "Mable Henson",
                   "_type": "Syllubus",
                   "_iconX": 487,
                   "_iconY": 239,
@@ -14331,12 +14331,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2079,
                   "_lessonId": 5038,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-736a9a9d-5dd0-4107-9750-650c276b33ed",
                   "_index": 4,
-                  "name": "Anastasia Aguilar",
+                  "_name": "Anastasia Aguilar",
                   "_type": "Syllubus",
                   "_iconX": 137,
                   "_iconY": 544,
@@ -14347,7 +14347,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3922,
                   "_lessonId": 2019,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -14370,7 +14370,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-02f182b6-78a5-4d87-aa97-46f7478338f3",
                   "_index": 0,
-                  "name": "West Mayer",
+                  "_name": "West Mayer",
                   "_type": "Syllubus",
                   "_iconX": 360,
                   "_iconY": 65,
@@ -14381,12 +14381,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4840,
                   "_lessonId": 4488,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f415e460-0511-4f89-8531-e8447c666a53",
                   "_index": 1,
-                  "name": "Florine Lloyd",
+                  "_name": "Florine Lloyd",
                   "_type": "Syllubus",
                   "_iconX": 424,
                   "_iconY": 80,
@@ -14397,12 +14397,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3265,
                   "_lessonId": 4495,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ec62a0fb-984c-4174-b694-f967eb3255e6",
                   "_index": 2,
-                  "name": "Vonda Goodwin",
+                  "_name": "Vonda Goodwin",
                   "_type": "Syllubus",
                   "_iconX": 146,
                   "_iconY": 541,
@@ -14413,12 +14413,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5787,
                   "_lessonId": 5769,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-430905df-ff67-4121-93c3-c9a978ead347",
                   "_index": 3,
-                  "name": "Tammy Hardy",
+                  "_name": "Tammy Hardy",
                   "_type": "Syllubus",
                   "_iconX": 575,
                   "_iconY": 383,
@@ -14429,12 +14429,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5931,
                   "_lessonId": 5489,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-13f2b6cd-6165-4996-aa95-a4890b4e777b",
                   "_index": 4,
-                  "name": "Natalia Stein",
+                  "_name": "Natalia Stein",
                   "_type": "Syllubus",
                   "_iconX": 805,
                   "_iconY": 87,
@@ -14445,12 +14445,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1599,
                   "_lessonId": 3269,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ed2a3b13-2f2b-434b-a9c6-788d60486d00",
                   "_index": 5,
-                  "name": "Blanchard Charles",
+                  "_name": "Blanchard Charles",
                   "_type": "Syllubus",
                   "_iconX": 105,
                   "_iconY": 561,
@@ -14461,12 +14461,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4563,
                   "_lessonId": 5112,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7cc555a8-1e35-42d5-8056-8b9c570765cc",
                   "_index": 6,
-                  "name": "Charity Castaneda",
+                  "_name": "Charity Castaneda",
                   "_type": "Syllubus",
                   "_iconX": 231,
                   "_iconY": 36,
@@ -14477,7 +14477,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2127,
                   "_lessonId": 3639,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14489,7 +14489,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b7739492-d14d-48cf-9ca0-597dbd211602",
                   "_index": 0,
-                  "name": "Buck Chen",
+                  "_name": "Buck Chen",
                   "_type": "Syllubus",
                   "_iconX": 259,
                   "_iconY": 179,
@@ -14500,12 +14500,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4949,
                   "_lessonId": 4063,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b8db4ff0-98ec-457c-8a70-6ff2903f672a",
                   "_index": 1,
-                  "name": "Porter Estes",
+                  "_name": "Porter Estes",
                   "_type": "Syllubus",
                   "_iconX": 476,
                   "_iconY": 495,
@@ -14516,12 +14516,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3790,
                   "_lessonId": 1546,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21c26698-5df7-4a57-9171-d2918980f034",
                   "_index": 2,
-                  "name": "Wright Mccoy",
+                  "_name": "Wright Mccoy",
                   "_type": "Syllubus",
                   "_iconX": 343,
                   "_iconY": 524,
@@ -14532,12 +14532,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3341,
                   "_lessonId": 3562,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5cdeffaf-5021-41aa-9bbb-450310ee9329",
                   "_index": 3,
-                  "name": "Ramsey Leblanc",
+                  "_name": "Ramsey Leblanc",
                   "_type": "Syllubus",
                   "_iconX": 466,
                   "_iconY": 142,
@@ -14548,12 +14548,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3665,
                   "_lessonId": 2441,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5c710f56-d1ea-40af-8eb2-cf464cc92cce",
                   "_index": 4,
-                  "name": "Gregory Nelson",
+                  "_name": "Gregory Nelson",
                   "_type": "Syllubus",
                   "_iconX": 872,
                   "_iconY": 183,
@@ -14564,12 +14564,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5221,
                   "_lessonId": 5104,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7eb6b227-8fce-4a4a-8699-85012e03559e",
                   "_index": 5,
-                  "name": "Dean Strickland",
+                  "_name": "Dean Strickland",
                   "_type": "Syllubus",
                   "_iconX": 469,
                   "_iconY": 114,
@@ -14580,7 +14580,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5455,
                   "_lessonId": 4212,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14592,7 +14592,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1c1e1b26-5550-4bc4-8317-3dcbce2b33aa",
                   "_index": 0,
-                  "name": "Melanie Wilder",
+                  "_name": "Melanie Wilder",
                   "_type": "Syllubus",
                   "_iconX": 667,
                   "_iconY": 512,
@@ -14603,12 +14603,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3547,
                   "_lessonId": 1976,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6fc58ac5-8edc-4bf2-83c5-4391b2a61d36",
                   "_index": 1,
-                  "name": "Miriam Hahn",
+                  "_name": "Miriam Hahn",
                   "_type": "Syllubus",
                   "_iconX": 789,
                   "_iconY": 443,
@@ -14619,12 +14619,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5260,
                   "_lessonId": 3934,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-49b7d9d2-d0e6-446e-baea-c7e8a33ef7fe",
                   "_index": 2,
-                  "name": "Deann Maddox",
+                  "_name": "Deann Maddox",
                   "_type": "Syllubus",
                   "_iconX": 602,
                   "_iconY": 84,
@@ -14635,12 +14635,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4397,
                   "_lessonId": 4859,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-565ab2e3-727f-4667-95b4-1f7524a40bda",
                   "_index": 3,
-                  "name": "Carly Dennis",
+                  "_name": "Carly Dennis",
                   "_type": "Syllubus",
                   "_iconX": 681,
                   "_iconY": 236,
@@ -14651,12 +14651,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2953,
                   "_lessonId": 2991,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2e3abc1f-7e70-4837-945c-48092b4605e8",
                   "_index": 4,
-                  "name": "Meyer Juarez",
+                  "_name": "Meyer Juarez",
                   "_type": "Syllubus",
                   "_iconX": 726,
                   "_iconY": 467,
@@ -14667,12 +14667,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4068,
                   "_lessonId": 2365,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b780a64e-c7dc-4a20-bbec-9e3548720cf0",
                   "_index": 5,
-                  "name": "Newton Woods",
+                  "_name": "Newton Woods",
                   "_type": "Syllubus",
                   "_iconX": 513,
                   "_iconY": 292,
@@ -14683,12 +14683,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4498,
                   "_lessonId": 4265,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8542f30f-af4a-4cc7-8e74-964f7cbec71f",
                   "_index": 6,
-                  "name": "Antoinette Rutledge",
+                  "_name": "Antoinette Rutledge",
                   "_type": "Syllubus",
                   "_iconX": 15,
                   "_iconY": 134,
@@ -14699,7 +14699,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3481,
                   "_lessonId": 2052,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14711,7 +14711,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-cec9d1fc-fc90-40f7-bee2-6abe7b998ae0",
                   "_index": 0,
-                  "name": "Marshall Roy",
+                  "_name": "Marshall Roy",
                   "_type": "Syllubus",
                   "_iconX": 726,
                   "_iconY": 258,
@@ -14722,12 +14722,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5585,
                   "_lessonId": 3669,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f1e7763c-2eda-4591-8ee7-b199779d513d",
                   "_index": 1,
-                  "name": "Kathrine Compton",
+                  "_name": "Kathrine Compton",
                   "_type": "Syllubus",
                   "_iconX": 248,
                   "_iconY": 271,
@@ -14738,12 +14738,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3545,
                   "_lessonId": 2794,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-da1fb8f5-bb23-4a54-b4b1-3785438184f8",
                   "_index": 2,
-                  "name": "Macdonald Cooper",
+                  "_name": "Macdonald Cooper",
                   "_type": "Syllubus",
                   "_iconX": 584,
                   "_iconY": 266,
@@ -14754,12 +14754,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2740,
                   "_lessonId": 2146,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-065bb1a8-c48d-4b52-ba24-72a389ff2b30",
                   "_index": 3,
-                  "name": "Sharron Young",
+                  "_name": "Sharron Young",
                   "_type": "Syllubus",
                   "_iconX": 719,
                   "_iconY": 119,
@@ -14770,12 +14770,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5864,
                   "_lessonId": 1927,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-64d8d63a-0294-47c6-9f98-1356de4e5e50",
                   "_index": 4,
-                  "name": "Bird James",
+                  "_name": "Bird James",
                   "_type": "Syllubus",
                   "_iconX": 229,
                   "_iconY": 318,
@@ -14786,12 +14786,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5120,
                   "_lessonId": 2301,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b5605579-660a-4b3d-b193-1ec7beaca863",
                   "_index": 5,
-                  "name": "Crystal Griffin",
+                  "_name": "Crystal Griffin",
                   "_type": "Syllubus",
                   "_iconX": 135,
                   "_iconY": 538,
@@ -14802,12 +14802,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2738,
                   "_lessonId": 3153,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-da662bdd-a372-43af-995a-6c8dd451baf3",
                   "_index": 6,
-                  "name": "Angel Carson",
+                  "_name": "Angel Carson",
                   "_type": "Syllubus",
                   "_iconX": 376,
                   "_iconY": 173,
@@ -14818,7 +14818,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3397,
                   "_lessonId": 1014,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14830,7 +14830,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9d410071-c259-4315-9966-56e9a88fbadc",
                   "_index": 0,
-                  "name": "Betty Wilkins",
+                  "_name": "Betty Wilkins",
                   "_type": "Syllubus",
                   "_iconX": 484,
                   "_iconY": 172,
@@ -14841,12 +14841,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4985,
                   "_lessonId": 1346,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9738ca4f-f028-427b-889e-d5705acb3b07",
                   "_index": 1,
-                  "name": "Maryanne Valentine",
+                  "_name": "Maryanne Valentine",
                   "_type": "Syllubus",
                   "_iconX": 221,
                   "_iconY": 112,
@@ -14857,12 +14857,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1886,
                   "_lessonId": 3566,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-341e1861-1325-4637-bfdb-108c40bee422",
                   "_index": 2,
-                  "name": "Nelson Jimenez",
+                  "_name": "Nelson Jimenez",
                   "_type": "Syllubus",
                   "_iconX": 629,
                   "_iconY": 340,
@@ -14873,12 +14873,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2840,
                   "_lessonId": 2982,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8f83ffc7-228d-481c-aca1-10c44196473d",
                   "_index": 3,
-                  "name": "Rosalie Levy",
+                  "_name": "Rosalie Levy",
                   "_type": "Syllubus",
                   "_iconX": 597,
                   "_iconY": 482,
@@ -14889,12 +14889,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1966,
                   "_lessonId": 1430,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5665e626-35b9-4d46-96ca-b033c6916b89",
                   "_index": 4,
-                  "name": "Walter Hall",
+                  "_name": "Walter Hall",
                   "_type": "Syllubus",
                   "_iconX": 530,
                   "_iconY": 3,
@@ -14905,7 +14905,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1459,
                   "_lessonId": 4061,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -14917,7 +14917,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4d6b460a-2a14-4a75-8b35-cc2ae166a752",
                   "_index": 0,
-                  "name": "Trisha Gentry",
+                  "_name": "Trisha Gentry",
                   "_type": "Syllubus",
                   "_iconX": 342,
                   "_iconY": 298,
@@ -14928,12 +14928,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4531,
                   "_lessonId": 3443,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e5df563-ce89-4c1c-ab3d-792090925a53",
                   "_index": 1,
-                  "name": "Alisa Richardson",
+                  "_name": "Alisa Richardson",
                   "_type": "Syllubus",
                   "_iconX": 241,
                   "_iconY": 385,
@@ -14944,12 +14944,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4282,
                   "_lessonId": 2707,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b0786798-c446-41e4-b90d-436986476a97",
                   "_index": 2,
-                  "name": "Harriett Reese",
+                  "_name": "Harriett Reese",
                   "_type": "Syllubus",
                   "_iconX": 705,
                   "_iconY": 216,
@@ -14960,12 +14960,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1474,
                   "_lessonId": 2020,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5a321b5f-953a-490e-a217-67e8e3bae457",
                   "_index": 3,
-                  "name": "Jana Goff",
+                  "_name": "Jana Goff",
                   "_type": "Syllubus",
                   "_iconX": 135,
                   "_iconY": 562,
@@ -14976,12 +14976,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2250,
                   "_lessonId": 1034,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7a650afd-5991-40dc-a39b-9bcb00c5475e",
                   "_index": 4,
-                  "name": "Horn Holder",
+                  "_name": "Horn Holder",
                   "_type": "Syllubus",
                   "_iconX": 113,
                   "_iconY": 10,
@@ -14992,7 +14992,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5411,
                   "_lessonId": 5387,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15004,7 +15004,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7413d7f4-d8cb-47a4-a03e-ba7a75d1c140",
                   "_index": 0,
-                  "name": "Jillian Kirkland",
+                  "_name": "Jillian Kirkland",
                   "_type": "Syllubus",
                   "_iconX": 284,
                   "_iconY": 593,
@@ -15015,12 +15015,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5716,
                   "_lessonId": 3394,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a270e141-4733-4bd9-9db4-abe3bbacd5b5",
                   "_index": 1,
-                  "name": "Mcconnell Guerrero",
+                  "_name": "Mcconnell Guerrero",
                   "_type": "Syllubus",
                   "_iconX": 429,
                   "_iconY": 219,
@@ -15031,12 +15031,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4870,
                   "_lessonId": 1929,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9fa90f35-12a3-40e9-adb8-6b987b9aab8e",
                   "_index": 2,
-                  "name": "Olivia Beard",
+                  "_name": "Olivia Beard",
                   "_type": "Syllubus",
                   "_iconX": 549,
                   "_iconY": 256,
@@ -15047,12 +15047,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2279,
                   "_lessonId": 1697,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f0aacfe5-fe07-42b8-b0d7-fa4b91c5870d",
                   "_index": 3,
-                  "name": "Kidd Hansen",
+                  "_name": "Kidd Hansen",
                   "_type": "Syllubus",
                   "_iconX": 367,
                   "_iconY": 507,
@@ -15063,12 +15063,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3939,
                   "_lessonId": 3701,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-21773e4e-a3ce-46a3-a25a-8ea2aa977930",
                   "_index": 4,
-                  "name": "James Olson",
+                  "_name": "James Olson",
                   "_type": "Syllubus",
                   "_iconX": 330,
                   "_iconY": 92,
@@ -15079,7 +15079,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5449,
                   "_lessonId": 3346,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -15106,7 +15106,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e5e628a8-b6a5-4145-8f01-098aa81f1f10",
                   "_index": 0,
-                  "name": "Maggie Crosby",
+                  "_name": "Maggie Crosby",
                   "_type": "Syllubus",
                   "_iconX": 442,
                   "_iconY": 216,
@@ -15117,12 +15117,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1923,
                   "_lessonId": 3633,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3d1a04d-065e-47fa-919b-e439353525a1",
                   "_index": 1,
-                  "name": "Jordan Walters",
+                  "_name": "Jordan Walters",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 255,
@@ -15133,12 +15133,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5270,
                   "_lessonId": 4357,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-519ea1cd-9c60-425a-b309-6ce907455b61",
                   "_index": 2,
-                  "name": "Mercedes Schwartz",
+                  "_name": "Mercedes Schwartz",
                   "_type": "Syllubus",
                   "_iconX": 661,
                   "_iconY": 12,
@@ -15149,12 +15149,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1103,
                   "_lessonId": 4743,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d39645e5-40b3-482c-a521-281e68c6b1a4",
                   "_index": 3,
-                  "name": "Lea Lawson",
+                  "_name": "Lea Lawson",
                   "_type": "Syllubus",
                   "_iconX": 472,
                   "_iconY": 207,
@@ -15165,12 +15165,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2173,
                   "_lessonId": 2990,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d6dcc649-6b9d-4157-80ad-92de120509e0",
                   "_index": 4,
-                  "name": "Ingram Ballard",
+                  "_name": "Ingram Ballard",
                   "_type": "Syllubus",
                   "_iconX": 558,
                   "_iconY": 42,
@@ -15181,12 +15181,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4744,
                   "_lessonId": 3191,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6a924730-f2b9-40e1-b90b-928d45cc729c",
                   "_index": 5,
-                  "name": "Melendez Rogers",
+                  "_name": "Melendez Rogers",
                   "_type": "Syllubus",
                   "_iconX": 981,
                   "_iconY": 275,
@@ -15197,12 +15197,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2131,
                   "_lessonId": 4859,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5f5707f-474f-49d8-9966-effbbc78d72c",
                   "_index": 6,
-                  "name": "Ann Craig",
+                  "_name": "Ann Craig",
                   "_type": "Syllubus",
                   "_iconX": 397,
                   "_iconY": 545,
@@ -15213,7 +15213,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3602,
                   "_lessonId": 1316,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15225,7 +15225,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9e2c07dd-8838-465d-a5b3-66568b2ff966",
                   "_index": 0,
-                  "name": "Harrison Vaughn",
+                  "_name": "Harrison Vaughn",
                   "_type": "Syllubus",
                   "_iconX": 636,
                   "_iconY": 559,
@@ -15236,12 +15236,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1926,
                   "_lessonId": 4731,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-92e1e389-949f-4496-b495-e1c89f479fac",
                   "_index": 1,
-                  "name": "Trudy Hood",
+                  "_name": "Trudy Hood",
                   "_type": "Syllubus",
                   "_iconX": 730,
                   "_iconY": 408,
@@ -15252,12 +15252,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2300,
                   "_lessonId": 2054,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5805ddd-7b6c-4844-b7de-8b708d5301bd",
                   "_index": 2,
-                  "name": "Daisy Arnold",
+                  "_name": "Daisy Arnold",
                   "_type": "Syllubus",
                   "_iconX": 381,
                   "_iconY": 496,
@@ -15268,12 +15268,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4490,
                   "_lessonId": 3397,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-09c59d5d-3b70-4de5-939c-b535bd34401f",
                   "_index": 3,
-                  "name": "Amparo Barrett",
+                  "_name": "Amparo Barrett",
                   "_type": "Syllubus",
                   "_iconX": 780,
                   "_iconY": 214,
@@ -15284,12 +15284,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5262,
                   "_lessonId": 1461,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2e6e69b0-9d6d-4d7a-80fa-4aa07596bf71",
                   "_index": 4,
-                  "name": "Dina Pittman",
+                  "_name": "Dina Pittman",
                   "_type": "Syllubus",
                   "_iconX": 168,
                   "_iconY": 204,
@@ -15300,7 +15300,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2262,
                   "_lessonId": 3934,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15312,7 +15312,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e6e7d544-e34c-4f0f-b470-5e24cb3ebfbb",
                   "_index": 0,
-                  "name": "Carmella Washington",
+                  "_name": "Carmella Washington",
                   "_type": "Syllubus",
                   "_iconX": 848,
                   "_iconY": 3,
@@ -15323,12 +15323,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3551,
                   "_lessonId": 2915,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31147b41-7da6-4e0d-82cd-85de6751a6dd",
                   "_index": 1,
-                  "name": "Shelton Carrillo",
+                  "_name": "Shelton Carrillo",
                   "_type": "Syllubus",
                   "_iconX": 283,
                   "_iconY": 112,
@@ -15339,12 +15339,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4594,
                   "_lessonId": 4944,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-92952417-8faf-44d2-a87f-dccadfa481ef",
                   "_index": 2,
-                  "name": "Beatriz Kirk",
+                  "_name": "Beatriz Kirk",
                   "_type": "Syllubus",
                   "_iconX": 437,
                   "_iconY": 553,
@@ -15355,12 +15355,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5336,
                   "_lessonId": 5476,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8fffcdb7-7fc1-4eb3-8087-43694ac4c1d2",
                   "_index": 3,
-                  "name": "Tracey Wolfe",
+                  "_name": "Tracey Wolfe",
                   "_type": "Syllubus",
                   "_iconX": 692,
                   "_iconY": 464,
@@ -15371,12 +15371,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5907,
                   "_lessonId": 4475,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b98e368e-5d3e-4e1e-bb6a-d3fde109b69a",
                   "_index": 4,
-                  "name": "Ester Avila",
+                  "_name": "Ester Avila",
                   "_type": "Syllubus",
                   "_iconX": 236,
                   "_iconY": 126,
@@ -15387,12 +15387,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5812,
                   "_lessonId": 2644,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1a7017e-d36c-4893-baab-4ae1dbe34e1e",
                   "_index": 5,
-                  "name": "Washington Spears",
+                  "_name": "Washington Spears",
                   "_type": "Syllubus",
                   "_iconX": 71,
                   "_iconY": 94,
@@ -15403,7 +15403,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5766,
                   "_lessonId": 5355,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15415,7 +15415,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b10b1331-b82f-4209-b74c-65ab7fec7028",
                   "_index": 0,
-                  "name": "Morgan Chapman",
+                  "_name": "Morgan Chapman",
                   "_type": "Syllubus",
                   "_iconX": 500,
                   "_iconY": 331,
@@ -15426,12 +15426,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2466,
                   "_lessonId": 3914,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2ec835fa-9a5a-40db-a6d4-5e387263a870",
                   "_index": 1,
-                  "name": "Teri Kemp",
+                  "_name": "Teri Kemp",
                   "_type": "Syllubus",
                   "_iconX": 238,
                   "_iconY": 130,
@@ -15442,12 +15442,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2978,
                   "_lessonId": 4514,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3e764f7b-1384-46bc-a77a-997dd0acbb1e",
                   "_index": 2,
-                  "name": "Diane Powers",
+                  "_name": "Diane Powers",
                   "_type": "Syllubus",
                   "_iconX": 544,
                   "_iconY": 12,
@@ -15458,12 +15458,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3862,
                   "_lessonId": 3497,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c4f3eba6-bafe-47d2-bae8-c137d59dcb67",
                   "_index": 3,
-                  "name": "Esperanza Middleton",
+                  "_name": "Esperanza Middleton",
                   "_type": "Syllubus",
                   "_iconX": 166,
                   "_iconY": 568,
@@ -15474,12 +15474,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2459,
                   "_lessonId": 2508,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0ee24489-7479-4915-9a0c-0daa24e082f5",
                   "_index": 4,
-                  "name": "Nikki Gutierrez",
+                  "_name": "Nikki Gutierrez",
                   "_type": "Syllubus",
                   "_iconX": 265,
                   "_iconY": 98,
@@ -15490,7 +15490,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4630,
                   "_lessonId": 3288,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15502,7 +15502,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-5ac48ced-b73e-45d3-aa4b-248a039b1cec",
                   "_index": 0,
-                  "name": "Lucas Russell",
+                  "_name": "Lucas Russell",
                   "_type": "Syllubus",
                   "_iconX": 188,
                   "_iconY": 257,
@@ -15513,12 +15513,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4795,
                   "_lessonId": 5708,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dc1b6705-6daf-490d-a9a1-d130910fe546",
                   "_index": 1,
-                  "name": "Benjamin Simpson",
+                  "_name": "Benjamin Simpson",
                   "_type": "Syllubus",
                   "_iconX": 606,
                   "_iconY": 265,
@@ -15529,12 +15529,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3561,
                   "_lessonId": 2324,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-82372e65-59e5-454a-8991-6de1bd01ed6c",
                   "_index": 2,
-                  "name": "Lynne Knapp",
+                  "_name": "Lynne Knapp",
                   "_type": "Syllubus",
                   "_iconX": 181,
                   "_iconY": 502,
@@ -15545,12 +15545,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5734,
                   "_lessonId": 4007,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f300cf4f-63d5-4ad4-8bc3-3a9ae0680c3b",
                   "_index": 3,
-                  "name": "Mcdowell George",
+                  "_name": "Mcdowell George",
                   "_type": "Syllubus",
                   "_iconX": 1,
                   "_iconY": 231,
@@ -15561,12 +15561,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1411,
                   "_lessonId": 4307,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3b664624-c81a-42b9-aa14-6e8009484b64",
                   "_index": 4,
-                  "name": "Fernandez Rosales",
+                  "_name": "Fernandez Rosales",
                   "_type": "Syllubus",
                   "_iconX": 891,
                   "_iconY": 121,
@@ -15577,12 +15577,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2628,
                   "_lessonId": 5584,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-94387308-ef26-4290-8398-66be37a983cb",
                   "_index": 5,
-                  "name": "Lane Shields",
+                  "_name": "Lane Shields",
                   "_type": "Syllubus",
                   "_iconX": 632,
                   "_iconY": 399,
@@ -15593,12 +15593,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3421,
                   "_lessonId": 2117,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-30aab5a8-fe4d-489b-a553-f9c090edcee3",
                   "_index": 6,
-                  "name": "Della Durham",
+                  "_name": "Della Durham",
                   "_type": "Syllubus",
                   "_iconX": 518,
                   "_iconY": 552,
@@ -15609,7 +15609,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4075,
                   "_lessonId": 3678,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -15632,7 +15632,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b23cd445-aee5-454b-a436-b7e27a2caeff",
                   "_index": 0,
-                  "name": "Salas Alvarado",
+                  "_name": "Salas Alvarado",
                   "_type": "Syllubus",
                   "_iconX": 726,
                   "_iconY": 367,
@@ -15643,12 +15643,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4885,
                   "_lessonId": 2673,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0dfbd536-25ad-4870-a69c-2d282b17e0ad",
                   "_index": 1,
-                  "name": "Erickson Benton",
+                  "_name": "Erickson Benton",
                   "_type": "Syllubus",
                   "_iconX": 871,
                   "_iconY": 260,
@@ -15659,12 +15659,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3991,
                   "_lessonId": 3056,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-281a3de6-15cc-4aef-a011-c47f5a56e3a8",
                   "_index": 2,
-                  "name": "Shirley Walker",
+                  "_name": "Shirley Walker",
                   "_type": "Syllubus",
                   "_iconX": 741,
                   "_iconY": 191,
@@ -15675,12 +15675,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2637,
                   "_lessonId": 1420,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-69b6c8fc-b62e-47b8-979a-3c5eb54d045b",
                   "_index": 3,
-                  "name": "Eva Cohen",
+                  "_name": "Eva Cohen",
                   "_type": "Syllubus",
                   "_iconX": 9,
                   "_iconY": 260,
@@ -15691,12 +15691,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4626,
                   "_lessonId": 5202,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0ea9f37e-62d1-4405-8489-7f8b4e55aade",
                   "_index": 4,
-                  "name": "Glenda Burke",
+                  "_name": "Glenda Burke",
                   "_type": "Syllubus",
                   "_iconX": 854,
                   "_iconY": 65,
@@ -15707,12 +15707,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1806,
                   "_lessonId": 3578,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6806103c-c890-4daa-9602-00d8007cf3d9",
                   "_index": 5,
-                  "name": "Cooper Vasquez",
+                  "_name": "Cooper Vasquez",
                   "_type": "Syllubus",
                   "_iconX": 751,
                   "_iconY": 583,
@@ -15723,12 +15723,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5518,
                   "_lessonId": 1726,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e401b534-7163-419d-9b18-edeb09945cb0",
                   "_index": 6,
-                  "name": "Jackson Solomon",
+                  "_name": "Jackson Solomon",
                   "_type": "Syllubus",
                   "_iconX": 926,
                   "_iconY": 374,
@@ -15739,7 +15739,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3923,
                   "_lessonId": 3778,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15751,7 +15751,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-527b03c4-ffa2-4c8c-8ead-2654199468a7",
                   "_index": 0,
-                  "name": "Meghan Pollard",
+                  "_name": "Meghan Pollard",
                   "_type": "Syllubus",
                   "_iconX": 101,
                   "_iconY": 468,
@@ -15762,12 +15762,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5895,
                   "_lessonId": 5090,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-24f882d3-8d7c-4acf-8804-6e320d2d27e8",
                   "_index": 1,
-                  "name": "Jeanette Trevino",
+                  "_name": "Jeanette Trevino",
                   "_type": "Syllubus",
                   "_iconX": 446,
                   "_iconY": 113,
@@ -15778,12 +15778,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4381,
                   "_lessonId": 4015,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-412eb248-fdc2-467e-972c-0c525e24f8c3",
                   "_index": 2,
-                  "name": "Baird Herman",
+                  "_name": "Baird Herman",
                   "_type": "Syllubus",
                   "_iconX": 659,
                   "_iconY": 351,
@@ -15794,12 +15794,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1251,
                   "_lessonId": 4880,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-96717967-1bf7-4beb-964f-fd23604a03f0",
                   "_index": 3,
-                  "name": "Maritza Norris",
+                  "_name": "Maritza Norris",
                   "_type": "Syllubus",
                   "_iconX": 238,
                   "_iconY": 572,
@@ -15810,12 +15810,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5754,
                   "_lessonId": 1836,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8dbdc8bf-5bbb-4974-bd49-0eaf5515c987",
                   "_index": 4,
-                  "name": "Ramirez Mosley",
+                  "_name": "Ramirez Mosley",
                   "_type": "Syllubus",
                   "_iconX": 597,
                   "_iconY": 67,
@@ -15826,12 +15826,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4673,
                   "_lessonId": 4173,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0739c9be-e0ed-44a5-9a5c-c38ec76d2303",
                   "_index": 5,
-                  "name": "Hyde Albert",
+                  "_name": "Hyde Albert",
                   "_type": "Syllubus",
                   "_iconX": 654,
                   "_iconY": 332,
@@ -15842,12 +15842,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3523,
                   "_lessonId": 5343,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d01dfb6d-2f59-48bb-adab-35cfc2a031a3",
                   "_index": 6,
-                  "name": "Bullock Black",
+                  "_name": "Bullock Black",
                   "_type": "Syllubus",
                   "_iconX": 109,
                   "_iconY": 74,
@@ -15858,7 +15858,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4517,
                   "_lessonId": 2783,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15870,7 +15870,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-3d9f13a8-9cfb-4f2a-94dc-52d40150bd02",
                   "_index": 0,
-                  "name": "Tabitha Erickson",
+                  "_name": "Tabitha Erickson",
                   "_type": "Syllubus",
                   "_iconX": 84,
                   "_iconY": 207,
@@ -15881,12 +15881,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3072,
                   "_lessonId": 3818,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb64567d-7324-4e38-91a0-edc011c5d1cb",
                   "_index": 1,
-                  "name": "Frazier Newman",
+                  "_name": "Frazier Newman",
                   "_type": "Syllubus",
                   "_iconX": 448,
                   "_iconY": 486,
@@ -15897,12 +15897,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1509,
                   "_lessonId": 1836,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-02a74223-a03a-4424-b546-a7693531bf91",
                   "_index": 2,
-                  "name": "Agnes Williamson",
+                  "_name": "Agnes Williamson",
                   "_type": "Syllubus",
                   "_iconX": 196,
                   "_iconY": 369,
@@ -15913,12 +15913,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3018,
                   "_lessonId": 3661,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8cdd0097-87e1-4943-9b60-5a148733ad90",
                   "_index": 3,
-                  "name": "David Zimmerman",
+                  "_name": "David Zimmerman",
                   "_type": "Syllubus",
                   "_iconX": 480,
                   "_iconY": 47,
@@ -15929,12 +15929,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4783,
                   "_lessonId": 5733,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-10506d17-dcdc-4e5b-9368-cabef98b08e7",
                   "_index": 4,
-                  "name": "Melva Hunter",
+                  "_name": "Melva Hunter",
                   "_type": "Syllubus",
                   "_iconX": 827,
                   "_iconY": 547,
@@ -15945,12 +15945,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4481,
                   "_lessonId": 5610,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-03829ee1-ffcd-4d90-aa99-58a725fc1b9a",
                   "_index": 5,
-                  "name": "Francisca Velazquez",
+                  "_name": "Francisca Velazquez",
                   "_type": "Syllubus",
                   "_iconX": 172,
                   "_iconY": 506,
@@ -15961,12 +15961,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1496,
                   "_lessonId": 1220,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-08b94660-3474-497a-b7ef-4fc0fe57bc79",
                   "_index": 6,
-                  "name": "Reba Scott",
+                  "_name": "Reba Scott",
                   "_type": "Syllubus",
                   "_iconX": 786,
                   "_iconY": 236,
@@ -15977,7 +15977,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3324,
                   "_lessonId": 2636,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -15989,7 +15989,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-fc8aba12-119e-459c-b895-93ba63e831a1",
                   "_index": 0,
-                  "name": "Burris Blankenship",
+                  "_name": "Burris Blankenship",
                   "_type": "Syllubus",
                   "_iconX": 954,
                   "_iconY": 216,
@@ -16000,12 +16000,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5934,
                   "_lessonId": 2538,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-230fb470-21e3-4edd-8814-2698b371efb5",
                   "_index": 1,
-                  "name": "Vincent Todd",
+                  "_name": "Vincent Todd",
                   "_type": "Syllubus",
                   "_iconX": 822,
                   "_iconY": 528,
@@ -16016,12 +16016,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3959,
                   "_lessonId": 2489,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-40f94ad8-f12b-4720-b09b-de3d5bda2050",
                   "_index": 2,
-                  "name": "Fitzpatrick Hughes",
+                  "_name": "Fitzpatrick Hughes",
                   "_type": "Syllubus",
                   "_iconX": 248,
                   "_iconY": 425,
@@ -16032,12 +16032,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1158,
                   "_lessonId": 2568,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1ee020c8-46f5-4425-bbf3-e0434655b55a",
                   "_index": 3,
-                  "name": "Gay Ingram",
+                  "_name": "Gay Ingram",
                   "_type": "Syllubus",
                   "_iconX": 930,
                   "_iconY": 406,
@@ -16048,12 +16048,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5373,
                   "_lessonId": 3210,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fc756963-b278-4f11-8e23-5b5ec9412564",
                   "_index": 4,
-                  "name": "Mathis Cardenas",
+                  "_name": "Mathis Cardenas",
                   "_type": "Syllubus",
                   "_iconX": 688,
                   "_iconY": 542,
@@ -16064,12 +16064,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4221,
                   "_lessonId": 4824,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-25dc755d-54e6-4563-b63f-79a40db0f7c0",
                   "_index": 5,
-                  "name": "Harriet Barry",
+                  "_name": "Harriet Barry",
                   "_type": "Syllubus",
                   "_iconX": 559,
                   "_iconY": 67,
@@ -16080,12 +16080,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1770,
                   "_lessonId": 5844,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fdeb4cf0-60f8-41c4-b9d8-63c1b3614b24",
                   "_index": 6,
-                  "name": "Viola Wilkinson",
+                  "_name": "Viola Wilkinson",
                   "_type": "Syllubus",
                   "_iconX": 905,
                   "_iconY": 251,
@@ -16096,7 +16096,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2692,
                   "_lessonId": 1451,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16108,7 +16108,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1ed14411-86c5-48cc-93b4-1b92f9012bb0",
                   "_index": 0,
-                  "name": "Melba Guthrie",
+                  "_name": "Melba Guthrie",
                   "_type": "Syllubus",
                   "_iconX": 776,
                   "_iconY": 600,
@@ -16119,12 +16119,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4834,
                   "_lessonId": 5815,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9ccd78eb-d90c-47b1-bc36-2f7d6e57739c",
                   "_index": 1,
-                  "name": "Concetta Mcgee",
+                  "_name": "Concetta Mcgee",
                   "_type": "Syllubus",
                   "_iconX": 50,
                   "_iconY": 374,
@@ -16135,12 +16135,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1815,
                   "_lessonId": 4346,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c8c594c1-ff38-46f6-af9d-b41dd5307e12",
                   "_index": 2,
-                  "name": "Sherman Miller",
+                  "_name": "Sherman Miller",
                   "_type": "Syllubus",
                   "_iconX": 735,
                   "_iconY": 238,
@@ -16151,12 +16151,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5129,
                   "_lessonId": 1615,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-582bb2da-b9b4-4204-84a3-dd5ad111a638",
                   "_index": 3,
-                  "name": "Ware Tyler",
+                  "_name": "Ware Tyler",
                   "_type": "Syllubus",
                   "_iconX": 890,
                   "_iconY": 306,
@@ -16167,12 +16167,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5700,
                   "_lessonId": 5615,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-19e6e4cc-ccb1-48e0-a814-b33532b2fddf",
                   "_index": 4,
-                  "name": "Kirkland Beach",
+                  "_name": "Kirkland Beach",
                   "_type": "Syllubus",
                   "_iconX": 101,
                   "_iconY": 422,
@@ -16183,12 +16183,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5145,
                   "_lessonId": 4109,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3bcc860e-5600-4c4c-b83d-d76fa6afba55",
                   "_index": 5,
-                  "name": "Holden Weiss",
+                  "_name": "Holden Weiss",
                   "_type": "Syllubus",
                   "_iconX": 53,
                   "_iconY": 87,
@@ -16199,7 +16199,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1180,
                   "_lessonId": 3563,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16211,7 +16211,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-994af3bf-1bd0-4728-9e4c-1c5c752db0bd",
                   "_index": 0,
-                  "name": "Chavez Lamb",
+                  "_name": "Chavez Lamb",
                   "_type": "Syllubus",
                   "_iconX": 411,
                   "_iconY": 399,
@@ -16222,12 +16222,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4057,
                   "_lessonId": 2725,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2914afc0-d257-4de5-a307-c347c1ba81d3",
                   "_index": 1,
-                  "name": "Latonya Griffith",
+                  "_name": "Latonya Griffith",
                   "_type": "Syllubus",
                   "_iconX": 408,
                   "_iconY": 518,
@@ -16238,12 +16238,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1605,
                   "_lessonId": 5804,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e63c1e18-82ca-40dc-a513-280153c14a0f",
                   "_index": 2,
-                  "name": "Estelle Mcgowan",
+                  "_name": "Estelle Mcgowan",
                   "_type": "Syllubus",
                   "_iconX": 18,
                   "_iconY": 173,
@@ -16254,12 +16254,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5569,
                   "_lessonId": 5040,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-541f5008-4ff4-46da-a75d-d2913dbbce8b",
                   "_index": 3,
-                  "name": "Rita Mullen",
+                  "_name": "Rita Mullen",
                   "_type": "Syllubus",
                   "_iconX": 943,
                   "_iconY": 471,
@@ -16270,12 +16270,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3183,
                   "_lessonId": 1217,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6fdd6c30-b913-4b9a-a660-0674f6c08102",
                   "_index": 4,
-                  "name": "Downs Curry",
+                  "_name": "Downs Curry",
                   "_type": "Syllubus",
                   "_iconX": 661,
                   "_iconY": 307,
@@ -16286,7 +16286,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1171,
                   "_lessonId": 5869,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -16309,7 +16309,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-80ab1564-f67a-41a1-8c6f-63deec7f18ee",
                   "_index": 0,
-                  "name": "Browning Roberts",
+                  "_name": "Browning Roberts",
                   "_type": "Syllubus",
                   "_iconX": 56,
                   "_iconY": 455,
@@ -16320,12 +16320,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2379,
                   "_lessonId": 3240,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d88a36c5-3ec8-4bbf-833c-e4247459235b",
                   "_index": 1,
-                  "name": "Arline Mcmillan",
+                  "_name": "Arline Mcmillan",
                   "_type": "Syllubus",
                   "_iconX": 419,
                   "_iconY": 39,
@@ -16336,12 +16336,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1531,
                   "_lessonId": 5099,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1f46c8d5-ad96-489a-ac69-eccfc215bcc7",
                   "_index": 2,
-                  "name": "Fulton Meadows",
+                  "_name": "Fulton Meadows",
                   "_type": "Syllubus",
                   "_iconX": 412,
                   "_iconY": 514,
@@ -16352,12 +16352,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2072,
                   "_lessonId": 5554,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f588e0ea-e2c2-4ff0-b559-073f703ff44f",
                   "_index": 3,
-                  "name": "Harvey Jacobs",
+                  "_name": "Harvey Jacobs",
                   "_type": "Syllubus",
                   "_iconX": 696,
                   "_iconY": 6,
@@ -16368,12 +16368,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5670,
                   "_lessonId": 4643,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4875cc91-7d9c-422f-91a9-6e3f19798135",
                   "_index": 4,
-                  "name": "Benton Anderson",
+                  "_name": "Benton Anderson",
                   "_type": "Syllubus",
                   "_iconX": 642,
                   "_iconY": 307,
@@ -16384,12 +16384,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1881,
                   "_lessonId": 2056,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4775279b-1846-4e3d-b42c-9553e7953414",
                   "_index": 5,
-                  "name": "Gonzalez Tate",
+                  "_name": "Gonzalez Tate",
                   "_type": "Syllubus",
                   "_iconX": 845,
                   "_iconY": 21,
@@ -16400,7 +16400,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5450,
                   "_lessonId": 4930,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16412,7 +16412,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2fe08fe9-c3d2-44b5-bdcf-2c8a3ceb0807",
                   "_index": 0,
-                  "name": "Sanchez Battle",
+                  "_name": "Sanchez Battle",
                   "_type": "Syllubus",
                   "_iconX": 483,
                   "_iconY": 444,
@@ -16423,12 +16423,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2428,
                   "_lessonId": 5529,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c413d251-91ee-4394-b266-9f1a7f2675c8",
                   "_index": 1,
-                  "name": "Merle Hayden",
+                  "_name": "Merle Hayden",
                   "_type": "Syllubus",
                   "_iconX": 946,
                   "_iconY": 510,
@@ -16439,12 +16439,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1724,
                   "_lessonId": 1435,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-831f6bf1-cc79-459d-8ec2-e3f99b8a407a",
                   "_index": 2,
-                  "name": "Serrano Cleveland",
+                  "_name": "Serrano Cleveland",
                   "_type": "Syllubus",
                   "_iconX": 591,
                   "_iconY": 547,
@@ -16455,12 +16455,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5668,
                   "_lessonId": 5886,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-acd04e95-24ac-49ba-babe-d49cd3802539",
                   "_index": 3,
-                  "name": "Beverly Hodge",
+                  "_name": "Beverly Hodge",
                   "_type": "Syllubus",
                   "_iconX": 428,
                   "_iconY": 256,
@@ -16471,12 +16471,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1882,
                   "_lessonId": 2550,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dcb01002-ffcd-4a5a-9eac-341ed173eb8f",
                   "_index": 4,
-                  "name": "Torres Yates",
+                  "_name": "Torres Yates",
                   "_type": "Syllubus",
                   "_iconX": 108,
                   "_iconY": 30,
@@ -16487,12 +16487,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5444,
                   "_lessonId": 3910,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2d5202a2-8cfa-4c22-a803-cc2fea35220c",
                   "_index": 5,
-                  "name": "George Munoz",
+                  "_name": "George Munoz",
                   "_type": "Syllubus",
                   "_iconX": 831,
                   "_iconY": 256,
@@ -16503,12 +16503,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4946,
                   "_lessonId": 1936,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76a433ac-dfe4-4bf0-86fe-8e22aa42e272",
                   "_index": 6,
-                  "name": "Mayo Shelton",
+                  "_name": "Mayo Shelton",
                   "_type": "Syllubus",
                   "_iconX": 343,
                   "_iconY": 351,
@@ -16519,7 +16519,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2525,
                   "_lessonId": 1609,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16531,7 +16531,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b2c6145f-bc24-480e-a2d0-d3a47078fa76",
                   "_index": 0,
-                  "name": "Vazquez Reynolds",
+                  "_name": "Vazquez Reynolds",
                   "_type": "Syllubus",
                   "_iconX": 364,
                   "_iconY": 182,
@@ -16542,12 +16542,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1786,
                   "_lessonId": 2999,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2317d6d4-1885-4d73-bf6e-b653427c96a7",
                   "_index": 1,
-                  "name": "Oliver Ewing",
+                  "_name": "Oliver Ewing",
                   "_type": "Syllubus",
                   "_iconX": 440,
                   "_iconY": 437,
@@ -16558,12 +16558,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1447,
                   "_lessonId": 2928,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3a1110e4-1637-469e-b8d8-221f8f935360",
                   "_index": 2,
-                  "name": "Rosanna Roth",
+                  "_name": "Rosanna Roth",
                   "_type": "Syllubus",
                   "_iconX": 104,
                   "_iconY": 348,
@@ -16574,12 +16574,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4754,
                   "_lessonId": 4380,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-43720ebd-d17c-48f2-ae84-17383f4e3deb",
                   "_index": 3,
-                  "name": "Linda Cantrell",
+                  "_name": "Linda Cantrell",
                   "_type": "Syllubus",
                   "_iconX": 393,
                   "_iconY": 543,
@@ -16590,12 +16590,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4255,
                   "_lessonId": 1758,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2a3a96b2-753a-4c39-a1ed-e486e9b32afa",
                   "_index": 4,
-                  "name": "Ethel Nixon",
+                  "_name": "Ethel Nixon",
                   "_type": "Syllubus",
                   "_iconX": 978,
                   "_iconY": 469,
@@ -16606,12 +16606,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4956,
                   "_lessonId": 4418,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e0a1899-4217-4941-99e8-4de1f012bf90",
                   "_index": 5,
-                  "name": "Maldonado Kinney",
+                  "_name": "Maldonado Kinney",
                   "_type": "Syllubus",
                   "_iconX": 84,
                   "_iconY": 230,
@@ -16622,12 +16622,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2624,
                   "_lessonId": 4278,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e45f5943-d5cb-47a8-99d1-15c0e699ea36",
                   "_index": 6,
-                  "name": "Velazquez Matthews",
+                  "_name": "Velazquez Matthews",
                   "_type": "Syllubus",
                   "_iconX": 116,
                   "_iconY": 143,
@@ -16638,7 +16638,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5362,
                   "_lessonId": 1452,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16650,7 +16650,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1c098249-e72a-4919-a0d9-85fafdb6f25e",
                   "_index": 0,
-                  "name": "Chelsea Cannon",
+                  "_name": "Chelsea Cannon",
                   "_type": "Syllubus",
                   "_iconX": 165,
                   "_iconY": 203,
@@ -16661,12 +16661,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2590,
                   "_lessonId": 4666,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cb3b330a-5063-4aa5-89dd-261026329ed4",
                   "_index": 1,
-                  "name": "Foley Donaldson",
+                  "_name": "Foley Donaldson",
                   "_type": "Syllubus",
                   "_iconX": 871,
                   "_iconY": 308,
@@ -16677,12 +16677,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4263,
                   "_lessonId": 5870,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0eda86df-463e-4086-a7af-6de3c5b4ed11",
                   "_index": 2,
-                  "name": "Elizabeth Cherry",
+                  "_name": "Elizabeth Cherry",
                   "_type": "Syllubus",
                   "_iconX": 45,
                   "_iconY": 73,
@@ -16693,12 +16693,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3148,
                   "_lessonId": 1164,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5c36f250-4ba0-4810-ba4c-6dae00672cd0",
                   "_index": 3,
-                  "name": "Campos Malone",
+                  "_name": "Campos Malone",
                   "_type": "Syllubus",
                   "_iconX": 865,
                   "_iconY": 11,
@@ -16709,12 +16709,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2954,
                   "_lessonId": 4759,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c44fe68a-a0aa-41fb-930a-6e86043df361",
                   "_index": 4,
-                  "name": "Herrera Sharpe",
+                  "_name": "Herrera Sharpe",
                   "_type": "Syllubus",
                   "_iconX": 775,
                   "_iconY": 426,
@@ -16725,12 +16725,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2336,
                   "_lessonId": 1953,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4a00f6a3-a307-4e90-970f-6b5a6f09cde7",
                   "_index": 5,
-                  "name": "Gill Ramos",
+                  "_name": "Gill Ramos",
                   "_type": "Syllubus",
                   "_iconX": 399,
                   "_iconY": 113,
@@ -16741,7 +16741,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5937,
                   "_lessonId": 2441,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16753,7 +16753,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-aa729922-d515-4f42-a068-aa5fd76d3962",
                   "_index": 0,
-                  "name": "Hamilton Acevedo",
+                  "_name": "Hamilton Acevedo",
                   "_type": "Syllubus",
                   "_iconX": 953,
                   "_iconY": 451,
@@ -16764,12 +16764,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3495,
                   "_lessonId": 1144,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a2c03eb2-ab94-41a2-95c1-d8cbf1ac2d7d",
                   "_index": 1,
-                  "name": "Shana Lara",
+                  "_name": "Shana Lara",
                   "_type": "Syllubus",
                   "_iconX": 808,
                   "_iconY": 380,
@@ -16780,12 +16780,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1243,
                   "_lessonId": 4273,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a8caefd5-f0e8-4cf0-be75-74b9be4d963c",
                   "_index": 2,
-                  "name": "Pauline Barlow",
+                  "_name": "Pauline Barlow",
                   "_type": "Syllubus",
                   "_iconX": 329,
                   "_iconY": 365,
@@ -16796,12 +16796,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5470,
                   "_lessonId": 1570,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-00a2e739-b092-4014-90e6-14d8c0ba94ed",
                   "_index": 3,
-                  "name": "Elsa Clarke",
+                  "_name": "Elsa Clarke",
                   "_type": "Syllubus",
                   "_iconX": 586,
                   "_iconY": 301,
@@ -16812,12 +16812,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5353,
                   "_lessonId": 3205,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ed9ef93e-1c72-4347-886a-a7fb885dd93d",
                   "_index": 4,
-                  "name": "Garza Pierce",
+                  "_name": "Garza Pierce",
                   "_type": "Syllubus",
                   "_iconX": 557,
                   "_iconY": 457,
@@ -16828,12 +16828,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4271,
                   "_lessonId": 2208,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-357b5fe6-dee7-4993-94db-dc4e3bdaed3e",
                   "_index": 5,
-                  "name": "Letitia Wong",
+                  "_name": "Letitia Wong",
                   "_type": "Syllubus",
                   "_iconX": 898,
                   "_iconY": 185,
@@ -16844,12 +16844,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5804,
                   "_lessonId": 5622,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-620f18bf-d32b-4585-b946-738141087f2c",
                   "_index": 6,
-                  "name": "Bianca Delaney",
+                  "_name": "Bianca Delaney",
                   "_type": "Syllubus",
                   "_iconX": 632,
                   "_iconY": 390,
@@ -16860,7 +16860,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2705,
                   "_lessonId": 5039,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -16872,7 +16872,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ca738ebd-cc8d-4ed8-b68f-015f72fcedf7",
                   "_index": 0,
-                  "name": "Castillo Hinton",
+                  "_name": "Castillo Hinton",
                   "_type": "Syllubus",
                   "_iconX": 481,
                   "_iconY": 553,
@@ -16883,12 +16883,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3984,
                   "_lessonId": 1391,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-da26cc8e-c8d0-43ef-a05c-20a99a13034e",
                   "_index": 1,
-                  "name": "Richards Ross",
+                  "_name": "Richards Ross",
                   "_type": "Syllubus",
                   "_iconX": 144,
                   "_iconY": 506,
@@ -16899,12 +16899,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1410,
                   "_lessonId": 2065,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b099ce0d-bdc6-43b7-8bc3-556add1203b4",
                   "_index": 2,
-                  "name": "Jarvis Farmer",
+                  "_name": "Jarvis Farmer",
                   "_type": "Syllubus",
                   "_iconX": 818,
                   "_iconY": 230,
@@ -16915,12 +16915,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4723,
                   "_lessonId": 3567,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-99ce218e-0021-41ea-a889-52e86aab9300",
                   "_index": 3,
-                  "name": "Eve Hancock",
+                  "_name": "Eve Hancock",
                   "_type": "Syllubus",
                   "_iconX": 403,
                   "_iconY": 266,
@@ -16931,12 +16931,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4047,
                   "_lessonId": 2397,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5cadc53c-00f5-4748-8e2a-d355132be17d",
                   "_index": 4,
-                  "name": "Salinas Jensen",
+                  "_name": "Salinas Jensen",
                   "_type": "Syllubus",
                   "_iconX": 893,
                   "_iconY": 486,
@@ -16947,7 +16947,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2584,
                   "_lessonId": 5423,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -16970,7 +16970,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2d5ccfa2-8604-435b-97ae-c7ad27ab748a",
                   "_index": 0,
-                  "name": "Karyn Montgomery",
+                  "_name": "Karyn Montgomery",
                   "_type": "Syllubus",
                   "_iconX": 390,
                   "_iconY": 15,
@@ -16981,12 +16981,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1131,
                   "_lessonId": 3881,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4524f4d0-e1ba-4ee5-8c3a-9772ab454f8d",
                   "_index": 1,
-                  "name": "Allie Price",
+                  "_name": "Allie Price",
                   "_type": "Syllubus",
                   "_iconX": 314,
                   "_iconY": 0,
@@ -16997,12 +16997,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1214,
                   "_lessonId": 4148,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4544e5ec-929f-47fe-9757-53bbc10a7d0e",
                   "_index": 2,
-                  "name": "Carrie Orr",
+                  "_name": "Carrie Orr",
                   "_type": "Syllubus",
                   "_iconX": 600,
                   "_iconY": 440,
@@ -17013,12 +17013,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2279,
                   "_lessonId": 3081,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f2693082-4c10-414b-95b2-1d7bab4a0f0f",
                   "_index": 3,
-                  "name": "Lena Wolf",
+                  "_name": "Lena Wolf",
                   "_type": "Syllubus",
                   "_iconX": 923,
                   "_iconY": 98,
@@ -17029,12 +17029,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3864,
                   "_lessonId": 4040,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-828c57a1-e038-41f6-bf08-469781129153",
                   "_index": 4,
-                  "name": "Simone Henry",
+                  "_name": "Simone Henry",
                   "_type": "Syllubus",
                   "_iconX": 403,
                   "_iconY": 237,
@@ -17045,12 +17045,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4671,
                   "_lessonId": 1704,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-303a8e0e-c384-44f2-8690-b4c8113e6599",
                   "_index": 5,
-                  "name": "Jeannie England",
+                  "_name": "Jeannie England",
                   "_type": "Syllubus",
                   "_iconX": 147,
                   "_iconY": 236,
@@ -17061,12 +17061,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5384,
                   "_lessonId": 5720,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-54baaabc-f621-480a-b1eb-d16a63db0825",
                   "_index": 6,
-                  "name": "Etta Odonnell",
+                  "_name": "Etta Odonnell",
                   "_type": "Syllubus",
                   "_iconX": 60,
                   "_iconY": 4,
@@ -17077,7 +17077,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1359,
                   "_lessonId": 3549,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17089,7 +17089,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7432f821-f0f8-499d-9406-6dcc39e07b73",
                   "_index": 0,
-                  "name": "Herminia Hatfield",
+                  "_name": "Herminia Hatfield",
                   "_type": "Syllubus",
                   "_iconX": 218,
                   "_iconY": 464,
@@ -17100,12 +17100,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2535,
                   "_lessonId": 3590,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-16de41d2-9e87-4a91-a101-a45678680b6f",
                   "_index": 1,
-                  "name": "Gwendolyn Higgins",
+                  "_name": "Gwendolyn Higgins",
                   "_type": "Syllubus",
                   "_iconX": 196,
                   "_iconY": 180,
@@ -17116,12 +17116,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5102,
                   "_lessonId": 5650,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-832c8e49-73b5-43c7-aaed-9c51907bf47f",
                   "_index": 2,
-                  "name": "Dennis Love",
+                  "_name": "Dennis Love",
                   "_type": "Syllubus",
                   "_iconX": 50,
                   "_iconY": 510,
@@ -17132,12 +17132,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5015,
                   "_lessonId": 2645,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-187ddff7-6905-4ae1-bd52-06942d98b731",
                   "_index": 3,
-                  "name": "Hurst Shepherd",
+                  "_name": "Hurst Shepherd",
                   "_type": "Syllubus",
                   "_iconX": 700,
                   "_iconY": 242,
@@ -17148,12 +17148,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4450,
                   "_lessonId": 3602,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bbb00783-e9be-4f7e-bd89-2203e190610f",
                   "_index": 4,
-                  "name": "Rene Curtis",
+                  "_name": "Rene Curtis",
                   "_type": "Syllubus",
                   "_iconX": 187,
                   "_iconY": 458,
@@ -17164,7 +17164,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1985,
                   "_lessonId": 4614,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17176,7 +17176,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-877d518c-4a10-4442-a7fb-689520d2d5ae",
                   "_index": 0,
-                  "name": "Luna Stewart",
+                  "_name": "Luna Stewart",
                   "_type": "Syllubus",
                   "_iconX": 810,
                   "_iconY": 439,
@@ -17187,12 +17187,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3710,
                   "_lessonId": 2308,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f95927ba-1e18-4a23-b413-d19c09a0bd6d",
                   "_index": 1,
-                  "name": "Rivas Campbell",
+                  "_name": "Rivas Campbell",
                   "_type": "Syllubus",
                   "_iconX": 954,
                   "_iconY": 491,
@@ -17203,12 +17203,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2922,
                   "_lessonId": 3319,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-60860c77-3b2c-4c93-9f84-6d52282017f1",
                   "_index": 2,
-                  "name": "Callie Patterson",
+                  "_name": "Callie Patterson",
                   "_type": "Syllubus",
                   "_iconX": 134,
                   "_iconY": 45,
@@ -17219,12 +17219,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4830,
                   "_lessonId": 4148,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1d409215-4653-438c-b697-abf041a40a10",
                   "_index": 3,
-                  "name": "Stella Gonzalez",
+                  "_name": "Stella Gonzalez",
                   "_type": "Syllubus",
                   "_iconX": 228,
                   "_iconY": 208,
@@ -17235,12 +17235,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1820,
                   "_lessonId": 4227,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-feadb83b-2969-4abb-8fa2-6589e9e20086",
                   "_index": 4,
-                  "name": "Saunders Vinson",
+                  "_name": "Saunders Vinson",
                   "_type": "Syllubus",
                   "_iconX": 413,
                   "_iconY": 399,
@@ -17251,12 +17251,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3536,
                   "_lessonId": 3036,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-976737cc-7ee9-4840-b6ec-81ed09775a03",
                   "_index": 5,
-                  "name": "Rachael Mann",
+                  "_name": "Rachael Mann",
                   "_type": "Syllubus",
                   "_iconX": 170,
                   "_iconY": 170,
@@ -17267,7 +17267,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2146,
                   "_lessonId": 5889,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17279,7 +17279,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-c82058eb-6f17-4f5b-92c0-beee519a538d",
                   "_index": 0,
-                  "name": "Katheryn Patton",
+                  "_name": "Katheryn Patton",
                   "_type": "Syllubus",
                   "_iconX": 840,
                   "_iconY": 127,
@@ -17290,12 +17290,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3073,
                   "_lessonId": 5109,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-93804f58-0b31-4824-a226-dc490546c758",
                   "_index": 1,
-                  "name": "Elise Cruz",
+                  "_name": "Elise Cruz",
                   "_type": "Syllubus",
                   "_iconX": 620,
                   "_iconY": 326,
@@ -17306,12 +17306,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4678,
                   "_lessonId": 5897,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9f376589-0e50-44e7-84f3-f047e04eaa6a",
                   "_index": 2,
-                  "name": "Georgina Mayo",
+                  "_name": "Georgina Mayo",
                   "_type": "Syllubus",
                   "_iconX": 679,
                   "_iconY": 181,
@@ -17322,12 +17322,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2952,
                   "_lessonId": 5156,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fecf4520-4940-4968-b230-3f05789e0cee",
                   "_index": 3,
-                  "name": "Suarez Cox",
+                  "_name": "Suarez Cox",
                   "_type": "Syllubus",
                   "_iconX": 560,
                   "_iconY": 116,
@@ -17338,12 +17338,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2657,
                   "_lessonId": 2313,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b1a60d47-fd7b-4302-a784-25441daa5e85",
                   "_index": 4,
-                  "name": "Joann Bird",
+                  "_name": "Joann Bird",
                   "_type": "Syllubus",
                   "_iconX": 784,
                   "_iconY": 237,
@@ -17354,7 +17354,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4435,
                   "_lessonId": 1082,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17366,7 +17366,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-535c655e-3d06-47b1-9a26-f37b74700ade",
                   "_index": 0,
-                  "name": "Myra Patel",
+                  "_name": "Myra Patel",
                   "_type": "Syllubus",
                   "_iconX": 548,
                   "_iconY": 548,
@@ -17377,12 +17377,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5924,
                   "_lessonId": 4629,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-25fbdbde-7375-4a87-910f-97337fb34ef4",
                   "_index": 1,
-                  "name": "Marjorie Bradford",
+                  "_name": "Marjorie Bradford",
                   "_type": "Syllubus",
                   "_iconX": 322,
                   "_iconY": 385,
@@ -17393,12 +17393,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5430,
                   "_lessonId": 2239,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-30139548-4e86-4ba3-b807-4f6a42a130cd",
                   "_index": 2,
-                  "name": "Zamora Paul",
+                  "_name": "Zamora Paul",
                   "_type": "Syllubus",
                   "_iconX": 561,
                   "_iconY": 579,
@@ -17409,12 +17409,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4521,
                   "_lessonId": 2859,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c4bddab0-b039-4416-bdc0-a0e9749b87c0",
                   "_index": 3,
-                  "name": "Roberta Rodgers",
+                  "_name": "Roberta Rodgers",
                   "_type": "Syllubus",
                   "_iconX": 624,
                   "_iconY": 355,
@@ -17425,12 +17425,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3677,
                   "_lessonId": 2476,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b72f1960-e95f-43c6-af52-d48a6bfa02fb",
                   "_index": 4,
-                  "name": "Candice Cameron",
+                  "_name": "Candice Cameron",
                   "_type": "Syllubus",
                   "_iconX": 233,
                   "_iconY": 563,
@@ -17441,12 +17441,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4029,
                   "_lessonId": 4694,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-73c68d82-d802-4b71-8566-7a211408824a",
                   "_index": 5,
-                  "name": "Dolores Bush",
+                  "_name": "Dolores Bush",
                   "_type": "Syllubus",
                   "_iconX": 807,
                   "_iconY": 49,
@@ -17457,7 +17457,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5628,
                   "_lessonId": 2305,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -17480,7 +17480,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-57a54952-9332-4ba9-b572-d4f29cc16cd6",
                   "_index": 0,
-                  "name": "Hattie Knox",
+                  "_name": "Hattie Knox",
                   "_type": "Syllubus",
                   "_iconX": 886,
                   "_iconY": 268,
@@ -17491,12 +17491,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1345,
                   "_lessonId": 2496,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2aef5cf3-1c46-4eaa-954e-49218435e1e0",
                   "_index": 1,
-                  "name": "Maryellen Simon",
+                  "_name": "Maryellen Simon",
                   "_type": "Syllubus",
                   "_iconX": 672,
                   "_iconY": 297,
@@ -17507,12 +17507,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5433,
                   "_lessonId": 4653,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31a2b3b3-cd8c-4ddd-b15a-776056098a98",
                   "_index": 2,
-                  "name": "Bernadine Joseph",
+                  "_name": "Bernadine Joseph",
                   "_type": "Syllubus",
                   "_iconX": 43,
                   "_iconY": 474,
@@ -17523,12 +17523,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4744,
                   "_lessonId": 4758,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f706e308-6d11-4fad-84f3-91e1d368b422",
                   "_index": 3,
-                  "name": "Tonya Hogan",
+                  "_name": "Tonya Hogan",
                   "_type": "Syllubus",
                   "_iconX": 619,
                   "_iconY": 67,
@@ -17539,12 +17539,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1187,
                   "_lessonId": 3477,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-332f5a3f-8a22-4915-a012-72016e89b35d",
                   "_index": 4,
-                  "name": "Angelica Garcia",
+                  "_name": "Angelica Garcia",
                   "_type": "Syllubus",
                   "_iconX": 225,
                   "_iconY": 343,
@@ -17555,12 +17555,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3054,
                   "_lessonId": 5860,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-14f29c2d-49a4-44c1-8602-1aff06fbdddc",
                   "_index": 5,
-                  "name": "Bryant Lindsay",
+                  "_name": "Bryant Lindsay",
                   "_type": "Syllubus",
                   "_iconX": 841,
                   "_iconY": 393,
@@ -17571,7 +17571,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2702,
                   "_lessonId": 3883,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17583,7 +17583,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-edffed9a-3f3b-4a58-a819-134fff7e7617",
                   "_index": 0,
-                  "name": "Beth Mcdowell",
+                  "_name": "Beth Mcdowell",
                   "_type": "Syllubus",
                   "_iconX": 853,
                   "_iconY": 253,
@@ -17594,12 +17594,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4751,
                   "_lessonId": 5472,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cf14c2b8-a3d2-4b64-ac77-1bf882eebef9",
                   "_index": 1,
-                  "name": "Conley Meyers",
+                  "_name": "Conley Meyers",
                   "_type": "Syllubus",
                   "_iconX": 193,
                   "_iconY": 140,
@@ -17610,12 +17610,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2181,
                   "_lessonId": 4353,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e4b75059-f47c-4de9-9e48-11bca04c6b7e",
                   "_index": 2,
-                  "name": "Abigail Sykes",
+                  "_name": "Abigail Sykes",
                   "_type": "Syllubus",
                   "_iconX": 182,
                   "_iconY": 445,
@@ -17626,12 +17626,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3112,
                   "_lessonId": 1602,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-29cdd643-3050-42a8-850c-eeddc1af43c1",
                   "_index": 3,
-                  "name": "Kirsten Reid",
+                  "_name": "Kirsten Reid",
                   "_type": "Syllubus",
                   "_iconX": 686,
                   "_iconY": 574,
@@ -17642,12 +17642,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3197,
                   "_lessonId": 1338,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-263adcf9-6a46-4014-811e-92c2fd0ebf48",
                   "_index": 4,
-                  "name": "Deena Mckee",
+                  "_name": "Deena Mckee",
                   "_type": "Syllubus",
                   "_iconX": 742,
                   "_iconY": 479,
@@ -17658,12 +17658,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1737,
                   "_lessonId": 5517,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-808ab6e4-0216-406c-872e-64ed3cd56e6a",
                   "_index": 5,
-                  "name": "Ryan Ortiz",
+                  "_name": "Ryan Ortiz",
                   "_type": "Syllubus",
                   "_iconX": 280,
                   "_iconY": 490,
@@ -17674,12 +17674,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4427,
                   "_lessonId": 1413,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-28ffc8a1-41e5-414a-a162-44c5857f9994",
                   "_index": 6,
-                  "name": "Pierce Gilbert",
+                  "_name": "Pierce Gilbert",
                   "_type": "Syllubus",
                   "_iconX": 18,
                   "_iconY": 482,
@@ -17690,7 +17690,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2484,
                   "_lessonId": 5857,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17702,7 +17702,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2fd7f5ef-fc92-4660-bc86-e0775c4bbee6",
                   "_index": 0,
-                  "name": "Sheri Rios",
+                  "_name": "Sheri Rios",
                   "_type": "Syllubus",
                   "_iconX": 872,
                   "_iconY": 51,
@@ -17713,12 +17713,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1817,
                   "_lessonId": 1716,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-66974229-60f9-427f-a304-c099f127d11c",
                   "_index": 1,
-                  "name": "Morrison Moore",
+                  "_name": "Morrison Moore",
                   "_type": "Syllubus",
                   "_iconX": 933,
                   "_iconY": 300,
@@ -17729,12 +17729,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4674,
                   "_lessonId": 1436,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c31d2031-6bce-44b0-a094-3d1730264dd7",
                   "_index": 2,
-                  "name": "Cardenas Frank",
+                  "_name": "Cardenas Frank",
                   "_type": "Syllubus",
                   "_iconX": 277,
                   "_iconY": 129,
@@ -17745,12 +17745,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1739,
                   "_lessonId": 4013,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f0443a16-c201-4991-8471-acfb57dab6e2",
                   "_index": 3,
-                  "name": "Sanders Eaton",
+                  "_name": "Sanders Eaton",
                   "_type": "Syllubus",
                   "_iconX": 439,
                   "_iconY": 74,
@@ -17761,12 +17761,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1012,
                   "_lessonId": 2996,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-af0fcb21-6e62-4d61-9123-acba88aa5b10",
                   "_index": 4,
-                  "name": "Mendez Mcneil",
+                  "_name": "Mendez Mcneil",
                   "_type": "Syllubus",
                   "_iconX": 469,
                   "_iconY": 541,
@@ -17777,12 +17777,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4659,
                   "_lessonId": 5319,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0cad4736-b5ca-4d77-aaeb-25dbfe409b34",
                   "_index": 5,
-                  "name": "Estrada Gallagher",
+                  "_name": "Estrada Gallagher",
                   "_type": "Syllubus",
                   "_iconX": 884,
                   "_iconY": 426,
@@ -17793,7 +17793,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4482,
                   "_lessonId": 3975,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17805,7 +17805,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0e471c01-9611-45ee-bec5-415a3ffd20b9",
                   "_index": 0,
-                  "name": "Claire Cash",
+                  "_name": "Claire Cash",
                   "_type": "Syllubus",
                   "_iconX": 234,
                   "_iconY": 461,
@@ -17816,12 +17816,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4620,
                   "_lessonId": 4992,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b89673c8-c09b-48c5-ae75-63e4b012c87f",
                   "_index": 1,
-                  "name": "Nell Frye",
+                  "_name": "Nell Frye",
                   "_type": "Syllubus",
                   "_iconX": 177,
                   "_iconY": 209,
@@ -17832,12 +17832,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3397,
                   "_lessonId": 3063,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4ab417d4-2287-4ff7-aef5-55faa4d079ba",
                   "_index": 2,
-                  "name": "Hodges Moody",
+                  "_name": "Hodges Moody",
                   "_type": "Syllubus",
                   "_iconX": 628,
                   "_iconY": 94,
@@ -17848,12 +17848,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2430,
                   "_lessonId": 4645,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bd64c326-9ef2-4250-8c6f-95e4f680bd2d",
                   "_index": 3,
-                  "name": "Celina Morin",
+                  "_name": "Celina Morin",
                   "_type": "Syllubus",
                   "_iconX": 95,
                   "_iconY": 336,
@@ -17864,12 +17864,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3974,
                   "_lessonId": 3706,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c33f1ae-8c10-4fa1-8ff2-b7ae135c4b7f",
                   "_index": 4,
-                  "name": "Robinson Delgado",
+                  "_name": "Robinson Delgado",
                   "_type": "Syllubus",
                   "_iconX": 523,
                   "_iconY": 480,
@@ -17880,12 +17880,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2425,
                   "_lessonId": 5787,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-abedb52f-37b0-4005-935c-00c4917411fb",
                   "_index": 5,
-                  "name": "Franks Gibson",
+                  "_name": "Franks Gibson",
                   "_type": "Syllubus",
                   "_iconX": 267,
                   "_iconY": 519,
@@ -17896,7 +17896,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2587,
                   "_lessonId": 2073,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -17908,7 +17908,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-08038f4e-6ff0-47fe-b214-f9fce2aa8a47",
                   "_index": 0,
-                  "name": "Barry Chang",
+                  "_name": "Barry Chang",
                   "_type": "Syllubus",
                   "_iconX": 844,
                   "_iconY": 577,
@@ -17919,12 +17919,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2741,
                   "_lessonId": 5714,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-61473042-20b0-4aa9-a95e-1292f84565f1",
                   "_index": 1,
-                  "name": "Bessie Maynard",
+                  "_name": "Bessie Maynard",
                   "_type": "Syllubus",
                   "_iconX": 648,
                   "_iconY": 288,
@@ -17935,12 +17935,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4335,
                   "_lessonId": 4888,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a79ed7a4-0578-44fa-ae20-37ec5bc3a16c",
                   "_index": 2,
-                  "name": "Chang Blackburn",
+                  "_name": "Chang Blackburn",
                   "_type": "Syllubus",
                   "_iconX": 250,
                   "_iconY": 294,
@@ -17951,12 +17951,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2637,
                   "_lessonId": 4184,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9ce9509c-e903-418a-920f-74cae871cfef",
                   "_index": 3,
-                  "name": "Mara Greer",
+                  "_name": "Mara Greer",
                   "_type": "Syllubus",
                   "_iconX": 314,
                   "_iconY": 586,
@@ -17967,12 +17967,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3391,
                   "_lessonId": 5394,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-daa6fa99-d27d-4bf0-9f1c-7938a98e0769",
                   "_index": 4,
-                  "name": "Cobb Maldonado",
+                  "_name": "Cobb Maldonado",
                   "_type": "Syllubus",
                   "_iconX": 474,
                   "_iconY": 580,
@@ -17983,12 +17983,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3576,
                   "_lessonId": 2982,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4c0d5b8a-cf58-4553-8530-b9b342e4be40",
                   "_index": 5,
-                  "name": "Barrett Fleming",
+                  "_name": "Barrett Fleming",
                   "_type": "Syllubus",
                   "_iconX": 900,
                   "_iconY": 562,
@@ -17999,12 +17999,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1524,
                   "_lessonId": 2513,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9469294b-4afe-4a7b-ae2b-0bf8cbe02285",
                   "_index": 6,
-                  "name": "Sophie Noble",
+                  "_name": "Sophie Noble",
                   "_type": "Syllubus",
                   "_iconX": 247,
                   "_iconY": 106,
@@ -18015,7 +18015,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3547,
                   "_lessonId": 3176,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18027,7 +18027,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-fa3e6140-2703-4a93-8925-394b43cd0911",
                   "_index": 0,
-                  "name": "Williamson Dotson",
+                  "_name": "Williamson Dotson",
                   "_type": "Syllubus",
                   "_iconX": 438,
                   "_iconY": 22,
@@ -18038,12 +18038,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5993,
                   "_lessonId": 5154,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-221472b4-f2d5-4546-b5c9-6d2ecf9468e6",
                   "_index": 1,
-                  "name": "Dolly Moreno",
+                  "_name": "Dolly Moreno",
                   "_type": "Syllubus",
                   "_iconX": 134,
                   "_iconY": 120,
@@ -18054,12 +18054,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2866,
                   "_lessonId": 4950,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-057d3490-4699-4bdc-93c2-8536467682de",
                   "_index": 2,
-                  "name": "Marissa Horne",
+                  "_name": "Marissa Horne",
                   "_type": "Syllubus",
                   "_iconX": 43,
                   "_iconY": 12,
@@ -18070,12 +18070,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4571,
                   "_lessonId": 5149,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c004c281-1fe9-4b99-bcc3-a9f6511daf3e",
                   "_index": 3,
-                  "name": "Sharp Nielsen",
+                  "_name": "Sharp Nielsen",
                   "_type": "Syllubus",
                   "_iconX": 452,
                   "_iconY": 474,
@@ -18086,12 +18086,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4678,
                   "_lessonId": 5621,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f0b35fb3-0a3f-4cf1-8762-b78a238e6245",
                   "_index": 4,
-                  "name": "Winifred Armstrong",
+                  "_name": "Winifred Armstrong",
                   "_type": "Syllubus",
                   "_iconX": 365,
                   "_iconY": 293,
@@ -18102,12 +18102,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1005,
                   "_lessonId": 3305,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-27d79f90-589a-41de-a83c-11323ced85e2",
                   "_index": 5,
-                  "name": "Randolph Chambers",
+                  "_name": "Randolph Chambers",
                   "_type": "Syllubus",
                   "_iconX": 20,
                   "_iconY": 589,
@@ -18118,12 +18118,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1158,
                   "_lessonId": 4805,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dc86c413-ecd5-4b01-a973-3c1bcbe9d36b",
                   "_index": 6,
-                  "name": "Wolf Brooks",
+                  "_name": "Wolf Brooks",
                   "_type": "Syllubus",
                   "_iconX": 597,
                   "_iconY": 496,
@@ -18134,7 +18134,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1614,
                   "_lessonId": 3468,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18146,7 +18146,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-02efe14a-d796-454f-b6e8-3e6e558085af",
                   "_index": 0,
-                  "name": "Dotson Sanchez",
+                  "_name": "Dotson Sanchez",
                   "_type": "Syllubus",
                   "_iconX": 620,
                   "_iconY": 219,
@@ -18157,12 +18157,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2649,
                   "_lessonId": 4172,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6a297fac-26b9-45f9-a828-608e1d94f888",
                   "_index": 1,
-                  "name": "Wallace Stephenson",
+                  "_name": "Wallace Stephenson",
                   "_type": "Syllubus",
                   "_iconX": 860,
                   "_iconY": 472,
@@ -18173,12 +18173,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5996,
                   "_lessonId": 2161,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f4168ea-9d1c-46d2-90ec-35ed4694cb5c",
                   "_index": 2,
-                  "name": "Dominguez Olsen",
+                  "_name": "Dominguez Olsen",
                   "_type": "Syllubus",
                   "_iconX": 566,
                   "_iconY": 95,
@@ -18189,12 +18189,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5032,
                   "_lessonId": 5141,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76c4ead2-10b9-4d10-a413-b76c2ba58f32",
                   "_index": 3,
-                  "name": "Clay Harmon",
+                  "_name": "Clay Harmon",
                   "_type": "Syllubus",
                   "_iconX": 258,
                   "_iconY": 25,
@@ -18205,12 +18205,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1156,
                   "_lessonId": 5160,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ff261068-9dc4-4d11-adfe-b23f37b81f2f",
                   "_index": 4,
-                  "name": "Coleman Holmes",
+                  "_name": "Coleman Holmes",
                   "_type": "Syllubus",
                   "_iconX": 67,
                   "_iconY": 390,
@@ -18221,12 +18221,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1350,
                   "_lessonId": 1369,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-25850ddf-3c11-40f2-93d8-1581808cf87a",
                   "_index": 5,
-                  "name": "Gillespie Riley",
+                  "_name": "Gillespie Riley",
                   "_type": "Syllubus",
                   "_iconX": 849,
                   "_iconY": 403,
@@ -18237,12 +18237,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4992,
                   "_lessonId": 2182,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cc57091b-ccd8-42b3-92a2-545ca798e883",
                   "_index": 6,
-                  "name": "Carlson Hodges",
+                  "_name": "Carlson Hodges",
                   "_type": "Syllubus",
                   "_iconX": 722,
                   "_iconY": 73,
@@ -18253,7 +18253,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2124,
                   "_lessonId": 3978,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -18276,7 +18276,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0274b9b8-5a62-45b1-8d2f-107da7d24292",
                   "_index": 0,
-                  "name": "Lawson Branch",
+                  "_name": "Lawson Branch",
                   "_type": "Syllubus",
                   "_iconX": 417,
                   "_iconY": 62,
@@ -18287,12 +18287,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2730,
                   "_lessonId": 4138,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f8cf0998-6879-4012-9e72-a55c8c2249a6",
                   "_index": 1,
-                  "name": "Mueller Landry",
+                  "_name": "Mueller Landry",
                   "_type": "Syllubus",
                   "_iconX": 126,
                   "_iconY": 463,
@@ -18303,12 +18303,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3448,
                   "_lessonId": 3515,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e2e5a85a-453a-41df-9358-b44fdc821820",
                   "_index": 2,
-                  "name": "Atkinson Bauer",
+                  "_name": "Atkinson Bauer",
                   "_type": "Syllubus",
                   "_iconX": 218,
                   "_iconY": 388,
@@ -18319,12 +18319,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4131,
                   "_lessonId": 3350,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fc43cdec-d6bf-46ee-86e3-92b231933ece",
                   "_index": 3,
-                  "name": "Roxanne Good",
+                  "_name": "Roxanne Good",
                   "_type": "Syllubus",
                   "_iconX": 497,
                   "_iconY": 2,
@@ -18335,12 +18335,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5483,
                   "_lessonId": 5988,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5a53725-10be-45d6-9f67-4be80a0bc187",
                   "_index": 4,
-                  "name": "Knapp Mcfarland",
+                  "_name": "Knapp Mcfarland",
                   "_type": "Syllubus",
                   "_iconX": 475,
                   "_iconY": 538,
@@ -18351,12 +18351,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4962,
                   "_lessonId": 3728,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-170f6cf9-f568-4e3e-8283-854e560aa092",
                   "_index": 5,
-                  "name": "Nita Luna",
+                  "_name": "Nita Luna",
                   "_type": "Syllubus",
                   "_iconX": 260,
                   "_iconY": 200,
@@ -18367,7 +18367,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3183,
                   "_lessonId": 2845,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18379,7 +18379,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-6b46e95d-5d5a-4ead-b076-da6966927429",
                   "_index": 0,
-                  "name": "Mcintyre Becker",
+                  "_name": "Mcintyre Becker",
                   "_type": "Syllubus",
                   "_iconX": 628,
                   "_iconY": 175,
@@ -18390,12 +18390,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5072,
                   "_lessonId": 1492,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a5387f48-4d3c-4148-bb38-2a564cb67161",
                   "_index": 1,
-                  "name": "Underwood Wiggins",
+                  "_name": "Underwood Wiggins",
                   "_type": "Syllubus",
                   "_iconX": 460,
                   "_iconY": 337,
@@ -18406,12 +18406,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5796,
                   "_lessonId": 2150,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-85eccf74-a402-4afa-9fdb-25a3a33fd7ef",
                   "_index": 2,
-                  "name": "Roth Stephens",
+                  "_name": "Roth Stephens",
                   "_type": "Syllubus",
                   "_iconX": 528,
                   "_iconY": 529,
@@ -18422,12 +18422,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4294,
                   "_lessonId": 2421,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5e5141d1-6007-4850-b00e-feff66acb79b",
                   "_index": 3,
-                  "name": "Carroll Massey",
+                  "_name": "Carroll Massey",
                   "_type": "Syllubus",
                   "_iconX": 793,
                   "_iconY": 177,
@@ -18438,12 +18438,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2508,
                   "_lessonId": 5867,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-acef57c4-2a9c-4176-959c-b0b851ce05ed",
                   "_index": 4,
-                  "name": "Juliana Slater",
+                  "_name": "Juliana Slater",
                   "_type": "Syllubus",
                   "_iconX": 730,
                   "_iconY": 270,
@@ -18454,12 +18454,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3861,
                   "_lessonId": 4491,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e0c74f1d-658e-4647-a021-e8570a7365fe",
                   "_index": 5,
-                  "name": "Christensen Ortega",
+                  "_name": "Christensen Ortega",
                   "_type": "Syllubus",
                   "_iconX": 540,
                   "_iconY": 344,
@@ -18470,7 +18470,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2417,
                   "_lessonId": 1290,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18482,7 +18482,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-efde6660-5555-4c9e-ae08-9d6fc5f0e815",
                   "_index": 0,
-                  "name": "Jeanne Hurley",
+                  "_name": "Jeanne Hurley",
                   "_type": "Syllubus",
                   "_iconX": 282,
                   "_iconY": 169,
@@ -18493,12 +18493,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5423,
                   "_lessonId": 4674,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e7d0d3b4-42de-4973-b9fc-543f62c089a0",
                   "_index": 1,
-                  "name": "Watts Cantu",
+                  "_name": "Watts Cantu",
                   "_type": "Syllubus",
                   "_iconX": 672,
                   "_iconY": 458,
@@ -18509,12 +18509,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5664,
                   "_lessonId": 3220,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a82c2ede-1b9a-405d-aeac-331f81a8a803",
                   "_index": 2,
-                  "name": "Nona Coffey",
+                  "_name": "Nona Coffey",
                   "_type": "Syllubus",
                   "_iconX": 72,
                   "_iconY": 172,
@@ -18525,12 +18525,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4796,
                   "_lessonId": 4740,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d0a84d93-7be9-4f07-ab81-069698937264",
                   "_index": 3,
-                  "name": "Harding Stuart",
+                  "_name": "Harding Stuart",
                   "_type": "Syllubus",
                   "_iconX": 590,
                   "_iconY": 452,
@@ -18541,12 +18541,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4999,
                   "_lessonId": 5683,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-963e938c-f993-4e8d-8c33-421cff1cd7a8",
                   "_index": 4,
-                  "name": "Ruthie Schmidt",
+                  "_name": "Ruthie Schmidt",
                   "_type": "Syllubus",
                   "_iconX": 159,
                   "_iconY": 242,
@@ -18557,12 +18557,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2889,
                   "_lessonId": 2358,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b4cae194-5231-45b4-ae83-73211863570f",
                   "_index": 5,
-                  "name": "Melody Baxter",
+                  "_name": "Melody Baxter",
                   "_type": "Syllubus",
                   "_iconX": 960,
                   "_iconY": 146,
@@ -18573,12 +18573,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2680,
                   "_lessonId": 4203,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-86a99d2e-cf9a-4b1d-99a7-6b8c449f750b",
                   "_index": 6,
-                  "name": "Lawrence Johns",
+                  "_name": "Lawrence Johns",
                   "_type": "Syllubus",
                   "_iconX": 54,
                   "_iconY": 144,
@@ -18589,7 +18589,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2111,
                   "_lessonId": 2638,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18601,7 +18601,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2ac57864-3bde-4770-b32c-ae9444e1a07e",
                   "_index": 0,
-                  "name": "Berger Terry",
+                  "_name": "Berger Terry",
                   "_type": "Syllubus",
                   "_iconX": 672,
                   "_iconY": 6,
@@ -18612,12 +18612,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5653,
                   "_lessonId": 5727,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-99519939-c594-4bf7-a719-df1491ef642e",
                   "_index": 1,
-                  "name": "Malone Merrill",
+                  "_name": "Malone Merrill",
                   "_type": "Syllubus",
                   "_iconX": 929,
                   "_iconY": 390,
@@ -18628,12 +18628,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1368,
                   "_lessonId": 3732,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-17840aab-1c19-4f47-b4e5-7fa3d87241d4",
                   "_index": 2,
-                  "name": "Samantha Pratt",
+                  "_name": "Samantha Pratt",
                   "_type": "Syllubus",
                   "_iconX": 934,
                   "_iconY": 580,
@@ -18644,12 +18644,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4587,
                   "_lessonId": 3963,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-34f3258e-7e49-4a91-b22c-ccb180df37a4",
                   "_index": 3,
-                  "name": "Eaton Copeland",
+                  "_name": "Eaton Copeland",
                   "_type": "Syllubus",
                   "_iconX": 214,
                   "_iconY": 541,
@@ -18660,12 +18660,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4807,
                   "_lessonId": 5340,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-531dfeb8-cdf6-4d38-8ca1-fcce93c30667",
                   "_index": 4,
-                  "name": "Jaclyn Sandoval",
+                  "_name": "Jaclyn Sandoval",
                   "_type": "Syllubus",
                   "_iconX": 318,
                   "_iconY": 152,
@@ -18676,7 +18676,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4856,
                   "_lessonId": 5452,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18688,7 +18688,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-0804fe17-cb3b-431d-b9a5-0f70e591351a",
                   "_index": 0,
-                  "name": "Walton Steele",
+                  "_name": "Walton Steele",
                   "_type": "Syllubus",
                   "_iconX": 353,
                   "_iconY": 397,
@@ -18699,12 +18699,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1838,
                   "_lessonId": 5707,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-84e515bf-7539-481f-8210-6eb5701a3485",
                   "_index": 1,
-                  "name": "Bauer Caldwell",
+                  "_name": "Bauer Caldwell",
                   "_type": "Syllubus",
                   "_iconX": 21,
                   "_iconY": 249,
@@ -18715,12 +18715,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4725,
                   "_lessonId": 2095,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-07908629-b572-4643-b8f1-bd53b80af7fb",
                   "_index": 2,
-                  "name": "Moore Strong",
+                  "_name": "Moore Strong",
                   "_type": "Syllubus",
                   "_iconX": 238,
                   "_iconY": 483,
@@ -18731,12 +18731,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3798,
                   "_lessonId": 3398,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0ab9690f-f49c-4530-a9f4-cb81cc218f44",
                   "_index": 3,
-                  "name": "Inez Hawkins",
+                  "_name": "Inez Hawkins",
                   "_type": "Syllubus",
                   "_iconX": 824,
                   "_iconY": 376,
@@ -18747,12 +18747,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5212,
                   "_lessonId": 2536,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8a6b3425-5932-430d-a3f0-02c9645fc069",
                   "_index": 4,
-                  "name": "Potts Foster",
+                  "_name": "Potts Foster",
                   "_type": "Syllubus",
                   "_iconX": 33,
                   "_iconY": 89,
@@ -18763,12 +18763,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5054,
                   "_lessonId": 4232,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c4b19049-b312-49bd-8251-8e66773a0414",
                   "_index": 5,
-                  "name": "Lowery Boyd",
+                  "_name": "Lowery Boyd",
                   "_type": "Syllubus",
                   "_iconX": 661,
                   "_iconY": 96,
@@ -18779,7 +18779,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5581,
                   "_lessonId": 5454,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18791,7 +18791,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-36468849-3468-42f3-a824-6b76c621a2d6",
                   "_index": 0,
-                  "name": "Lula Gaines",
+                  "_name": "Lula Gaines",
                   "_type": "Syllubus",
                   "_iconX": 295,
                   "_iconY": 262,
@@ -18802,12 +18802,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5331,
                   "_lessonId": 3791,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9833fc75-2468-481a-b365-53d87e0814c8",
                   "_index": 1,
-                  "name": "Cora Kent",
+                  "_name": "Cora Kent",
                   "_type": "Syllubus",
                   "_iconX": 118,
                   "_iconY": 363,
@@ -18818,12 +18818,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5906,
                   "_lessonId": 3359,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a076ccb4-9913-4ebf-a675-76b58b104554",
                   "_index": 2,
-                  "name": "Deleon Crawford",
+                  "_name": "Deleon Crawford",
                   "_type": "Syllubus",
                   "_iconX": 824,
                   "_iconY": 326,
@@ -18834,12 +18834,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5431,
                   "_lessonId": 5439,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9938777c-62a9-4780-972a-b9269e6e2717",
                   "_index": 3,
-                  "name": "York Peterson",
+                  "_name": "York Peterson",
                   "_type": "Syllubus",
                   "_iconX": 585,
                   "_iconY": 236,
@@ -18850,12 +18850,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3985,
                   "_lessonId": 1855,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-577d0567-062d-49bb-94e5-5b5bf52adb0b",
                   "_index": 4,
-                  "name": "Claudia Pitts",
+                  "_name": "Claudia Pitts",
                   "_type": "Syllubus",
                   "_iconX": 44,
                   "_iconY": 465,
@@ -18866,12 +18866,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4229,
                   "_lessonId": 4072,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4a8f5a0-419e-4a8b-b52e-23bc853459d7",
                   "_index": 5,
-                  "name": "Edwina Sutton",
+                  "_name": "Edwina Sutton",
                   "_type": "Syllubus",
                   "_iconX": 355,
                   "_iconY": 379,
@@ -18882,7 +18882,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3418,
                   "_lessonId": 2392,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -18905,7 +18905,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-6f1a1141-c702-4632-bd4c-a09794cd34a8",
                   "_index": 0,
-                  "name": "Alston Church",
+                  "_name": "Alston Church",
                   "_type": "Syllubus",
                   "_iconX": 81,
                   "_iconY": 66,
@@ -18916,12 +18916,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3980,
                   "_lessonId": 4139,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-58faf746-af37-4217-b6d5-3dc255af414f",
                   "_index": 1,
-                  "name": "Elaine Lyons",
+                  "_name": "Elaine Lyons",
                   "_type": "Syllubus",
                   "_iconX": 438,
                   "_iconY": 567,
@@ -18932,12 +18932,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4538,
                   "_lessonId": 4643,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-caabecf3-1b85-40b2-b83d-5bd57091a61f",
                   "_index": 2,
-                  "name": "Nash Ratliff",
+                  "_name": "Nash Ratliff",
                   "_type": "Syllubus",
                   "_iconX": 786,
                   "_iconY": 431,
@@ -18948,12 +18948,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2457,
                   "_lessonId": 2493,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-af393585-5003-44b1-a1e7-e80f01782051",
                   "_index": 3,
-                  "name": "Douglas Nolan",
+                  "_name": "Douglas Nolan",
                   "_type": "Syllubus",
                   "_iconX": 921,
                   "_iconY": 505,
@@ -18964,12 +18964,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4824,
                   "_lessonId": 5854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a655e757-dd6a-4883-9fcd-f083f1e19e57",
                   "_index": 4,
-                  "name": "Enid Logan",
+                  "_name": "Enid Logan",
                   "_type": "Syllubus",
                   "_iconX": 464,
                   "_iconY": 125,
@@ -18980,7 +18980,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2136,
                   "_lessonId": 4162,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -18992,7 +18992,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2a2fca74-45c8-4f59-bd78-0fb1a16d48b9",
                   "_index": 0,
-                  "name": "King Navarro",
+                  "_name": "King Navarro",
                   "_type": "Syllubus",
                   "_iconX": 670,
                   "_iconY": 30,
@@ -19003,12 +19003,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2933,
                   "_lessonId": 4330,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a6438c9f-b5de-4c97-afe1-1ddc7144beda",
                   "_index": 1,
-                  "name": "Rollins Carney",
+                  "_name": "Rollins Carney",
                   "_type": "Syllubus",
                   "_iconX": 21,
                   "_iconY": 573,
@@ -19019,12 +19019,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4635,
                   "_lessonId": 2918,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b29fdb78-f0b1-4456-be48-50e30252f9ad",
                   "_index": 2,
-                  "name": "Brewer Blackwell",
+                  "_name": "Brewer Blackwell",
                   "_type": "Syllubus",
                   "_iconX": 328,
                   "_iconY": 58,
@@ -19035,12 +19035,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3233,
                   "_lessonId": 3215,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-113bcf32-5428-47eb-9539-70aa7c26ddc8",
                   "_index": 3,
-                  "name": "Lila Blanchard",
+                  "_name": "Lila Blanchard",
                   "_type": "Syllubus",
                   "_iconX": 672,
                   "_iconY": 412,
@@ -19051,12 +19051,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1990,
                   "_lessonId": 2044,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e5fac449-0eca-49b0-aa39-b85a70348574",
                   "_index": 4,
-                  "name": "Jan Holman",
+                  "_name": "Jan Holman",
                   "_type": "Syllubus",
                   "_iconX": 244,
                   "_iconY": 554,
@@ -19067,7 +19067,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5466,
                   "_lessonId": 4732,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19079,7 +19079,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e14bec07-5354-455c-a043-9dd2ae969f59",
                   "_index": 0,
-                  "name": "Robin Moses",
+                  "_name": "Robin Moses",
                   "_type": "Syllubus",
                   "_iconX": 887,
                   "_iconY": 306,
@@ -19090,12 +19090,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2365,
                   "_lessonId": 2565,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b64ef91c-c35e-45d2-ba41-f203791dc8b4",
                   "_index": 1,
-                  "name": "Kristen Brewer",
+                  "_name": "Kristen Brewer",
                   "_type": "Syllubus",
                   "_iconX": 373,
                   "_iconY": 9,
@@ -19106,12 +19106,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1867,
                   "_lessonId": 4586,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a94ae4cf-5889-4815-a95b-6361b0cf5965",
                   "_index": 2,
-                  "name": "Kelsey House",
+                  "_name": "Kelsey House",
                   "_type": "Syllubus",
                   "_iconX": 477,
                   "_iconY": 25,
@@ -19122,12 +19122,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1100,
                   "_lessonId": 1339,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7cae8344-28a3-4d42-8549-08061e2ae2a3",
                   "_index": 3,
-                  "name": "Dejesus Fisher",
+                  "_name": "Dejesus Fisher",
                   "_type": "Syllubus",
                   "_iconX": 723,
                   "_iconY": 402,
@@ -19138,12 +19138,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2508,
                   "_lessonId": 5579,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c1f26923-c820-4883-abb6-3611a85ebda2",
                   "_index": 4,
-                  "name": "Magdalena Finch",
+                  "_name": "Magdalena Finch",
                   "_type": "Syllubus",
                   "_iconX": 743,
                   "_iconY": 188,
@@ -19154,12 +19154,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3892,
                   "_lessonId": 3560,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b30c54b0-3757-4248-8ba1-24a524fa80db",
                   "_index": 5,
-                  "name": "Jane Guy",
+                  "_name": "Jane Guy",
                   "_type": "Syllubus",
                   "_iconX": 399,
                   "_iconY": 386,
@@ -19170,12 +19170,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5902,
                   "_lessonId": 1774,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-05a9789c-395a-4bc8-867c-86791d76196b",
                   "_index": 6,
-                  "name": "Denise Joyce",
+                  "_name": "Denise Joyce",
                   "_type": "Syllubus",
                   "_iconX": 620,
                   "_iconY": 116,
@@ -19186,7 +19186,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4790,
                   "_lessonId": 3059,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19198,7 +19198,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-5a9e2c5e-1d86-470a-9855-f630d8846a1a",
                   "_index": 0,
-                  "name": "Candy Perkins",
+                  "_name": "Candy Perkins",
                   "_type": "Syllubus",
                   "_iconX": 409,
                   "_iconY": 135,
@@ -19209,12 +19209,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4937,
                   "_lessonId": 4477,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5415f14-2b80-4341-8dce-a1185d7d3aa2",
                   "_index": 1,
-                  "name": "Scott Franklin",
+                  "_name": "Scott Franklin",
                   "_type": "Syllubus",
                   "_iconX": 848,
                   "_iconY": 33,
@@ -19225,12 +19225,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3563,
                   "_lessonId": 5324,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8b458c19-93cd-48ac-b280-d0ea4a0dc534",
                   "_index": 2,
-                  "name": "Marlene Gilliam",
+                  "_name": "Marlene Gilliam",
                   "_type": "Syllubus",
                   "_iconX": 158,
                   "_iconY": 476,
@@ -19241,12 +19241,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2474,
                   "_lessonId": 3603,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a1c9d352-bbdf-4f14-816f-2efa9e26726f",
                   "_index": 3,
-                  "name": "Hebert Perez",
+                  "_name": "Hebert Perez",
                   "_type": "Syllubus",
                   "_iconX": 830,
                   "_iconY": 342,
@@ -19257,12 +19257,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1187,
                   "_lessonId": 5270,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c491f930-f1d1-4527-9d2a-48f59fb85307",
                   "_index": 4,
-                  "name": "Stone Coleman",
+                  "_name": "Stone Coleman",
                   "_type": "Syllubus",
                   "_iconX": 809,
                   "_iconY": 200,
@@ -19273,12 +19273,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1993,
                   "_lessonId": 1529,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2ec7f930-3241-4cf8-876d-6abba2bc12fc",
                   "_index": 5,
-                  "name": "Andrea Pruitt",
+                  "_name": "Andrea Pruitt",
                   "_type": "Syllubus",
                   "_iconX": 242,
                   "_iconY": 142,
@@ -19289,7 +19289,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1823,
                   "_lessonId": 1035,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19301,7 +19301,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-6f8b6485-87be-49f8-a103-d92a5ae79ce3",
                   "_index": 0,
-                  "name": "Pratt Chandler",
+                  "_name": "Pratt Chandler",
                   "_type": "Syllubus",
                   "_iconX": 153,
                   "_iconY": 139,
@@ -19312,12 +19312,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2360,
                   "_lessonId": 2313,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ee8bcc15-69ab-4d9a-af12-af5d7702213c",
                   "_index": 1,
-                  "name": "Ochoa Banks",
+                  "_name": "Ochoa Banks",
                   "_type": "Syllubus",
                   "_iconX": 870,
                   "_iconY": 562,
@@ -19328,12 +19328,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3480,
                   "_lessonId": 4680,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-568833e1-625b-4db8-b5c0-643a76a45bc0",
                   "_index": 2,
-                  "name": "Leona Cote",
+                  "_name": "Leona Cote",
                   "_type": "Syllubus",
                   "_iconX": 61,
                   "_iconY": 226,
@@ -19344,12 +19344,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5119,
                   "_lessonId": 3583,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb3dede5-d112-4505-9e52-c3ac7e3edda6",
                   "_index": 3,
-                  "name": "Wiggins Rasmussen",
+                  "_name": "Wiggins Rasmussen",
                   "_type": "Syllubus",
                   "_iconX": 401,
                   "_iconY": 263,
@@ -19360,12 +19360,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2331,
                   "_lessonId": 5236,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32ea958b-8b82-48ce-af42-25795b480277",
                   "_index": 4,
-                  "name": "Byers Watson",
+                  "_name": "Byers Watson",
                   "_type": "Syllubus",
                   "_iconX": 722,
                   "_iconY": 297,
@@ -19376,12 +19376,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3185,
                   "_lessonId": 5286,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3ef8de04-46e7-4b61-b15c-3296ce269aa8",
                   "_index": 5,
-                  "name": "Ivy Hanson",
+                  "_name": "Ivy Hanson",
                   "_type": "Syllubus",
                   "_iconX": 57,
                   "_iconY": 480,
@@ -19392,12 +19392,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1691,
                   "_lessonId": 4395,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c23ff6c9-c247-40fd-bb30-425ccd0a8d9b",
                   "_index": 6,
-                  "name": "Shari Whitfield",
+                  "_name": "Shari Whitfield",
                   "_type": "Syllubus",
                   "_iconX": 836,
                   "_iconY": 113,
@@ -19408,7 +19408,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2572,
                   "_lessonId": 3059,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19420,7 +19420,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-44f8beb5-8804-4e76-9a6e-523a98fe614e",
                   "_index": 0,
-                  "name": "Greene Bradshaw",
+                  "_name": "Greene Bradshaw",
                   "_type": "Syllubus",
                   "_iconX": 772,
                   "_iconY": 268,
@@ -19431,12 +19431,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3290,
                   "_lessonId": 2016,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d375883e-a873-4f51-8637-2f1793e74ab2",
                   "_index": 1,
-                  "name": "Karen English",
+                  "_name": "Karen English",
                   "_type": "Syllubus",
                   "_iconX": 622,
                   "_iconY": 104,
@@ -19447,12 +19447,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1706,
                   "_lessonId": 1917,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7d84c090-5b60-4359-8a05-ec09acf2fcec",
                   "_index": 2,
-                  "name": "Marilyn Jacobson",
+                  "_name": "Marilyn Jacobson",
                   "_type": "Syllubus",
                   "_iconX": 244,
                   "_iconY": 317,
@@ -19463,12 +19463,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4477,
                   "_lessonId": 4947,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d086c83b-71ab-4e41-9d76-cb16399e28e6",
                   "_index": 3,
-                  "name": "Annabelle Salinas",
+                  "_name": "Annabelle Salinas",
                   "_type": "Syllubus",
                   "_iconX": 326,
                   "_iconY": 48,
@@ -19479,12 +19479,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4483,
                   "_lessonId": 2566,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-62f81102-916f-47a3-9284-3ac5ec1bc0d5",
                   "_index": 4,
-                  "name": "Loretta Bryan",
+                  "_name": "Loretta Bryan",
                   "_type": "Syllubus",
                   "_iconX": 354,
                   "_iconY": 222,
@@ -19495,7 +19495,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5888,
                   "_lessonId": 1450,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -19522,7 +19522,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-91e7509b-1818-4025-b00b-909202060464",
                   "_index": 0,
-                  "name": "Elma Morrison",
+                  "_name": "Elma Morrison",
                   "_type": "Syllubus",
                   "_iconX": 890,
                   "_iconY": 161,
@@ -19533,12 +19533,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2231,
                   "_lessonId": 4700,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-272d351c-194d-4a60-8015-9d49e4959158",
                   "_index": 1,
-                  "name": "Debbie Morse",
+                  "_name": "Debbie Morse",
                   "_type": "Syllubus",
                   "_iconX": 414,
                   "_iconY": 546,
@@ -19549,12 +19549,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4227,
                   "_lessonId": 3141,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-68b7d209-5a4c-430b-9f49-dae0477c6c7b",
                   "_index": 2,
-                  "name": "Carter Sargent",
+                  "_name": "Carter Sargent",
                   "_type": "Syllubus",
                   "_iconX": 943,
                   "_iconY": 382,
@@ -19565,12 +19565,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2019,
                   "_lessonId": 1470,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1b5d3656-d1d1-4830-a8e5-0584204250a9",
                   "_index": 3,
-                  "name": "Hays Barron",
+                  "_name": "Hays Barron",
                   "_type": "Syllubus",
                   "_iconX": 681,
                   "_iconY": 578,
@@ -19581,12 +19581,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4286,
                   "_lessonId": 5557,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4fcc177b-00e9-4da9-ab62-655708dcad38",
                   "_index": 4,
-                  "name": "Barber Haynes",
+                  "_name": "Barber Haynes",
                   "_type": "Syllubus",
                   "_iconX": 241,
                   "_iconY": 189,
@@ -19597,7 +19597,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2855,
                   "_lessonId": 2399,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19609,7 +19609,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d41b4454-41a3-46e1-9feb-97a03f38176c",
                   "_index": 0,
-                  "name": "Ilene Parks",
+                  "_name": "Ilene Parks",
                   "_type": "Syllubus",
                   "_iconX": 327,
                   "_iconY": 274,
@@ -19620,12 +19620,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4971,
                   "_lessonId": 5963,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3e960a29-b8ac-415d-857b-bb02dececf0c",
                   "_index": 1,
-                  "name": "Frank David",
+                  "_name": "Frank David",
                   "_type": "Syllubus",
                   "_iconX": 928,
                   "_iconY": 302,
@@ -19636,12 +19636,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3100,
                   "_lessonId": 4284,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ad281310-4828-4220-a26e-dbb5b6ae368b",
                   "_index": 2,
-                  "name": "Millicent Chaney",
+                  "_name": "Millicent Chaney",
                   "_type": "Syllubus",
                   "_iconX": 970,
                   "_iconY": 242,
@@ -19652,12 +19652,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1927,
                   "_lessonId": 4169,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-25fba539-9c66-4381-b6a4-6db8c3e13ff2",
                   "_index": 3,
-                  "name": "Perez Robbins",
+                  "_name": "Perez Robbins",
                   "_type": "Syllubus",
                   "_iconX": 160,
                   "_iconY": 301,
@@ -19668,12 +19668,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1728,
                   "_lessonId": 5874,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9acfb134-6e38-4b4d-a00d-32812f8c2b8e",
                   "_index": 4,
-                  "name": "Lolita Blair",
+                  "_name": "Lolita Blair",
                   "_type": "Syllubus",
                   "_iconX": 923,
                   "_iconY": 211,
@@ -19684,12 +19684,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1396,
                   "_lessonId": 3612,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f9b12686-9828-4416-ad80-09d5ca2ba0eb",
                   "_index": 5,
-                  "name": "Mooney Duke",
+                  "_name": "Mooney Duke",
                   "_type": "Syllubus",
                   "_iconX": 234,
                   "_iconY": 482,
@@ -19700,12 +19700,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2923,
                   "_lessonId": 1828,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32545454-019a-416e-928c-176b11872a25",
                   "_index": 6,
-                  "name": "Alison Mays",
+                  "_name": "Alison Mays",
                   "_type": "Syllubus",
                   "_iconX": 640,
                   "_iconY": 141,
@@ -19716,7 +19716,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4673,
                   "_lessonId": 5798,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19728,7 +19728,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e7fdb551-170f-4a71-b637-92130b724e12",
                   "_index": 0,
-                  "name": "Hilary Turner",
+                  "_name": "Hilary Turner",
                   "_type": "Syllubus",
                   "_iconX": 958,
                   "_iconY": 345,
@@ -19739,12 +19739,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3733,
                   "_lessonId": 5544,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ccc526dc-4c67-42e6-9f0a-7cb621d79570",
                   "_index": 1,
-                  "name": "Ray Hill",
+                  "_name": "Ray Hill",
                   "_type": "Syllubus",
                   "_iconX": 474,
                   "_iconY": 434,
@@ -19755,12 +19755,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5549,
                   "_lessonId": 4247,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ba4409d0-bd4e-49cd-855c-8497aa27b114",
                   "_index": 2,
-                  "name": "Marta Berg",
+                  "_name": "Marta Berg",
                   "_type": "Syllubus",
                   "_iconX": 935,
                   "_iconY": 548,
@@ -19771,12 +19771,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2581,
                   "_lessonId": 3656,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-545bbb61-e9a4-459b-bb12-27202636ca2f",
                   "_index": 3,
-                  "name": "Ferguson Burns",
+                  "_name": "Ferguson Burns",
                   "_type": "Syllubus",
                   "_iconX": 134,
                   "_iconY": 501,
@@ -19787,12 +19787,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1068,
                   "_lessonId": 3687,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-745ed1e4-3a50-4ca2-a6f6-054a5da63477",
                   "_index": 4,
-                  "name": "Ruby Golden",
+                  "_name": "Ruby Golden",
                   "_type": "Syllubus",
                   "_iconX": 33,
                   "_iconY": 127,
@@ -19803,12 +19803,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1348,
                   "_lessonId": 5920,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-93702a69-ebcc-4bfd-81d3-c0f3dcf7d9c6",
                   "_index": 5,
-                  "name": "Leticia Key",
+                  "_name": "Leticia Key",
                   "_type": "Syllubus",
                   "_iconX": 57,
                   "_iconY": 341,
@@ -19819,12 +19819,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5303,
                   "_lessonId": 3198,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f1141cd5-b454-4e12-b218-252421a0140e",
                   "_index": 6,
-                  "name": "Giles Sherman",
+                  "_name": "Giles Sherman",
                   "_type": "Syllubus",
                   "_iconX": 962,
                   "_iconY": 572,
@@ -19835,7 +19835,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5407,
                   "_lessonId": 4463,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19847,7 +19847,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-8bdc1b33-8033-416c-a990-cac04c1f205c",
                   "_index": 0,
-                  "name": "Burton Clayton",
+                  "_name": "Burton Clayton",
                   "_type": "Syllubus",
                   "_iconX": 132,
                   "_iconY": 415,
@@ -19858,12 +19858,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1507,
                   "_lessonId": 4654,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f39a57a0-bd25-42f8-a540-adb2ed8a40c6",
                   "_index": 1,
-                  "name": "Durham Dean",
+                  "_name": "Durham Dean",
                   "_type": "Syllubus",
                   "_iconX": 492,
                   "_iconY": 180,
@@ -19874,12 +19874,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3756,
                   "_lessonId": 3853,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f4e5f2fe-8421-49d7-87ab-189180118c52",
                   "_index": 2,
-                  "name": "Hogan Porter",
+                  "_name": "Hogan Porter",
                   "_type": "Syllubus",
                   "_iconX": 592,
                   "_iconY": 579,
@@ -19890,12 +19890,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1821,
                   "_lessonId": 4958,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-00bff711-7995-4d46-99f5-91e82d815f02",
                   "_index": 3,
-                  "name": "Adrienne Nash",
+                  "_name": "Adrienne Nash",
                   "_type": "Syllubus",
                   "_iconX": 991,
                   "_iconY": 482,
@@ -19906,12 +19906,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5884,
                   "_lessonId": 3854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-208875e5-644c-4f33-a1fe-82f1414572fc",
                   "_index": 4,
-                  "name": "Travis Kennedy",
+                  "_name": "Travis Kennedy",
                   "_type": "Syllubus",
                   "_iconX": 131,
                   "_iconY": 447,
@@ -19922,12 +19922,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5037,
                   "_lessonId": 3298,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4028ae26-6d50-4741-b6e5-a781867a4fa5",
                   "_index": 5,
-                  "name": "Barnett Stanley",
+                  "_name": "Barnett Stanley",
                   "_type": "Syllubus",
                   "_iconX": 237,
                   "_iconY": 453,
@@ -19938,7 +19938,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2483,
                   "_lessonId": 5491,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -19950,7 +19950,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-828509c2-6a5e-4c98-892f-d0c44201a2a9",
                   "_index": 0,
-                  "name": "Gibbs Holloway",
+                  "_name": "Gibbs Holloway",
                   "_type": "Syllubus",
                   "_iconX": 722,
                   "_iconY": 267,
@@ -19961,12 +19961,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1007,
                   "_lessonId": 4039,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8a09b7d0-fd6c-4056-b0e3-b132cf52014e",
                   "_index": 1,
-                  "name": "Calderon Lynn",
+                  "_name": "Calderon Lynn",
                   "_type": "Syllubus",
                   "_iconX": 909,
                   "_iconY": 119,
@@ -19977,12 +19977,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4752,
                   "_lessonId": 5580,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6180c9e8-e8de-4871-a0c3-3781927549c7",
                   "_index": 2,
-                  "name": "Hobbs Hopkins",
+                  "_name": "Hobbs Hopkins",
                   "_type": "Syllubus",
                   "_iconX": 952,
                   "_iconY": 427,
@@ -19993,12 +19993,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3565,
                   "_lessonId": 4276,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bc5f5fa9-6746-475b-a627-e89c0984ea98",
                   "_index": 3,
-                  "name": "Livingston Heath",
+                  "_name": "Livingston Heath",
                   "_type": "Syllubus",
                   "_iconX": 647,
                   "_iconY": 424,
@@ -20009,12 +20009,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4885,
                   "_lessonId": 1403,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d770ff54-2614-4cc8-bca1-7d3254f5d6bb",
                   "_index": 4,
-                  "name": "Mercado Floyd",
+                  "_name": "Mercado Floyd",
                   "_type": "Syllubus",
                   "_iconX": 157,
                   "_iconY": 345,
@@ -20025,12 +20025,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1837,
                   "_lessonId": 5361,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b3a2bb0f-8b5c-42d4-b275-a36b3f5dd1e9",
                   "_index": 5,
-                  "name": "Tanya Ruiz",
+                  "_name": "Tanya Ruiz",
                   "_type": "Syllubus",
                   "_iconX": 490,
                   "_iconY": 313,
@@ -20041,7 +20041,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5546,
                   "_lessonId": 5160,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20053,7 +20053,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-3b8a3d73-d8a2-46fc-886a-1bf1c8adbbce",
                   "_index": 0,
-                  "name": "Concepcion May",
+                  "_name": "Concepcion May",
                   "_type": "Syllubus",
                   "_iconX": 489,
                   "_iconY": 440,
@@ -20064,12 +20064,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2986,
                   "_lessonId": 5594,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4d9c71f7-5ee6-4c17-ae75-dbd39302ca41",
                   "_index": 1,
-                  "name": "Deidre Frazier",
+                  "_name": "Deidre Frazier",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 183,
@@ -20080,12 +20080,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3389,
                   "_lessonId": 4339,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6bacf50b-5c4e-44ed-a9f1-82e682ed8605",
                   "_index": 2,
-                  "name": "Valeria Barber",
+                  "_name": "Valeria Barber",
                   "_type": "Syllubus",
                   "_iconX": 677,
                   "_iconY": 74,
@@ -20096,12 +20096,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2319,
                   "_lessonId": 4008,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fe6a87f4-f74e-405b-881f-cbad0032c543",
                   "_index": 3,
-                  "name": "Marla Hess",
+                  "_name": "Marla Hess",
                   "_type": "Syllubus",
                   "_iconX": 616,
                   "_iconY": 115,
@@ -20112,12 +20112,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5469,
                   "_lessonId": 5303,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c9dfada-c45e-4af2-94c4-96f0f312b011",
                   "_index": 4,
-                  "name": "Dale Conway",
+                  "_name": "Dale Conway",
                   "_type": "Syllubus",
                   "_iconX": 425,
                   "_iconY": 543,
@@ -20128,12 +20128,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2938,
                   "_lessonId": 5973,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2b8e9a71-ec23-4851-8173-5970ccab48fe",
                   "_index": 5,
-                  "name": "Nanette Norman",
+                  "_name": "Nanette Norman",
                   "_type": "Syllubus",
                   "_iconX": 433,
                   "_iconY": 557,
@@ -20144,12 +20144,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4284,
                   "_lessonId": 4139,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-aa120c64-579a-45d8-8978-96d0bc43df2c",
                   "_index": 6,
-                  "name": "Lois Dawson",
+                  "_name": "Lois Dawson",
                   "_type": "Syllubus",
                   "_iconX": 584,
                   "_iconY": 221,
@@ -20160,7 +20160,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3716,
                   "_lessonId": 2822,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -20183,7 +20183,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-d4ebba5a-9da4-4d33-85dd-ea0757fc0e9a",
                   "_index": 0,
-                  "name": "Berg Byers",
+                  "_name": "Berg Byers",
                   "_type": "Syllubus",
                   "_iconX": 723,
                   "_iconY": 90,
@@ -20194,12 +20194,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3061,
                   "_lessonId": 5292,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e210df05-7f7b-409b-a741-ef0f1bb71ef0",
                   "_index": 1,
-                  "name": "Nadia Cabrera",
+                  "_name": "Nadia Cabrera",
                   "_type": "Syllubus",
                   "_iconX": 28,
                   "_iconY": 580,
@@ -20210,12 +20210,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3606,
                   "_lessonId": 2152,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c5961254-a749-43b1-90a3-741a0c6a8df4",
                   "_index": 2,
-                  "name": "Carolyn Shaffer",
+                  "_name": "Carolyn Shaffer",
                   "_type": "Syllubus",
                   "_iconX": 19,
                   "_iconY": 289,
@@ -20226,12 +20226,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4141,
                   "_lessonId": 1018,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-12c7f14f-07db-4be8-a3ca-5eb7edce348c",
                   "_index": 3,
-                  "name": "Luisa Stark",
+                  "_name": "Luisa Stark",
                   "_type": "Syllubus",
                   "_iconX": 62,
                   "_iconY": 572,
@@ -20242,12 +20242,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5374,
                   "_lessonId": 5172,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-634d53cd-8c4e-464b-bb09-8411e445053d",
                   "_index": 4,
-                  "name": "Anne Little",
+                  "_name": "Anne Little",
                   "_type": "Syllubus",
                   "_iconX": 708,
                   "_iconY": 213,
@@ -20258,7 +20258,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4349,
                   "_lessonId": 3411,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20270,7 +20270,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-232fdd00-8b26-49f9-9174-064ddcf8ae7b",
                   "_index": 0,
-                  "name": "Gilmore Morton",
+                  "_name": "Gilmore Morton",
                   "_type": "Syllubus",
                   "_iconX": 9,
                   "_iconY": 332,
@@ -20281,12 +20281,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3153,
                   "_lessonId": 3334,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7d151636-2c78-4e58-95d2-5e588a099743",
                   "_index": 1,
-                  "name": "Bettye Newton",
+                  "_name": "Bettye Newton",
                   "_type": "Syllubus",
                   "_iconX": 279,
                   "_iconY": 54,
@@ -20297,12 +20297,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5153,
                   "_lessonId": 4285,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2e0f7b4b-18e5-42ce-b5dd-6ba703546739",
                   "_index": 2,
-                  "name": "Lynette Buckner",
+                  "_name": "Lynette Buckner",
                   "_type": "Syllubus",
                   "_iconX": 73,
                   "_iconY": 69,
@@ -20313,12 +20313,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2099,
                   "_lessonId": 2574,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-25ac8e18-554b-4807-99ad-a5ce90301d60",
                   "_index": 3,
-                  "name": "Guerrero Peters",
+                  "_name": "Guerrero Peters",
                   "_type": "Syllubus",
                   "_iconX": 367,
                   "_iconY": 142,
@@ -20329,12 +20329,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2007,
                   "_lessonId": 1942,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dcf22171-43ef-48c4-8026-cdb51d1863f1",
                   "_index": 4,
-                  "name": "Rowena Glover",
+                  "_name": "Rowena Glover",
                   "_type": "Syllubus",
                   "_iconX": 201,
                   "_iconY": 408,
@@ -20345,7 +20345,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3422,
                   "_lessonId": 5757,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20357,7 +20357,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-2e62381d-16ff-44ce-a5e2-c52b92598f7f",
                   "_index": 0,
-                  "name": "Crawford Valdez",
+                  "_name": "Crawford Valdez",
                   "_type": "Syllubus",
                   "_iconX": 51,
                   "_iconY": 448,
@@ -20368,12 +20368,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1312,
                   "_lessonId": 4371,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a628f628-fde2-4d62-844d-26db5b5ca475",
                   "_index": 1,
-                  "name": "Sandy Mendez",
+                  "_name": "Sandy Mendez",
                   "_type": "Syllubus",
                   "_iconX": 115,
                   "_iconY": 304,
@@ -20384,12 +20384,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4613,
                   "_lessonId": 2616,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-447d6d60-86bb-44ff-bf69-aa8690e7516a",
                   "_index": 2,
-                  "name": "Gilda Colon",
+                  "_name": "Gilda Colon",
                   "_type": "Syllubus",
                   "_iconX": 397,
                   "_iconY": 576,
@@ -20400,12 +20400,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5329,
                   "_lessonId": 2834,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6923250c-feb4-4760-bcca-10e3b42f7495",
                   "_index": 3,
-                  "name": "Jackie Lowery",
+                  "_name": "Jackie Lowery",
                   "_type": "Syllubus",
                   "_iconX": 233,
                   "_iconY": 550,
@@ -20416,12 +20416,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3480,
                   "_lessonId": 3776,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6705a0db-6764-4b94-a95c-8c93a3735639",
                   "_index": 4,
-                  "name": "Clare Dudley",
+                  "_name": "Clare Dudley",
                   "_type": "Syllubus",
                   "_iconX": 456,
                   "_iconY": 409,
@@ -20432,12 +20432,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1497,
                   "_lessonId": 5854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2ce66f49-8faa-4522-9199-c68bdfd2de64",
                   "_index": 5,
-                  "name": "Foreman Pearson",
+                  "_name": "Foreman Pearson",
                   "_type": "Syllubus",
                   "_iconX": 704,
                   "_iconY": 389,
@@ -20448,12 +20448,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5041,
                   "_lessonId": 4732,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f23d2345-e95f-441e-8cbd-15108e9c68a9",
                   "_index": 6,
-                  "name": "Charles Mullins",
+                  "_name": "Charles Mullins",
                   "_type": "Syllubus",
                   "_iconX": 454,
                   "_iconY": 313,
@@ -20464,7 +20464,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1048,
                   "_lessonId": 4971,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20476,7 +20476,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-bdafa088-2638-4e46-9628-9e4c01cc58de",
                   "_index": 0,
-                  "name": "Cathy Villarreal",
+                  "_name": "Cathy Villarreal",
                   "_type": "Syllubus",
                   "_iconX": 223,
                   "_iconY": 62,
@@ -20487,12 +20487,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5240,
                   "_lessonId": 1641,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-83ca1b35-63bc-4f1f-8aeb-71131936a3bb",
                   "_index": 1,
-                  "name": "Yesenia Whitley",
+                  "_name": "Yesenia Whitley",
                   "_type": "Syllubus",
                   "_iconX": 438,
                   "_iconY": 20,
@@ -20503,12 +20503,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5885,
                   "_lessonId": 4674,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-443dc138-ebe3-4cf8-86c0-022b8b27c2fb",
                   "_index": 2,
-                  "name": "Bridges Osborn",
+                  "_name": "Bridges Osborn",
                   "_type": "Syllubus",
                   "_iconX": 624,
                   "_iconY": 78,
@@ -20519,12 +20519,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4381,
                   "_lessonId": 3584,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-78306645-0862-4805-a845-a85ddb6783d8",
                   "_index": 3,
-                  "name": "Erica Harrell",
+                  "_name": "Erica Harrell",
                   "_type": "Syllubus",
                   "_iconX": 683,
                   "_iconY": 238,
@@ -20535,12 +20535,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2164,
                   "_lessonId": 2485,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bac40de9-ca6e-43bf-b7f5-02314d2ebb71",
                   "_index": 4,
-                  "name": "Roy Dillard",
+                  "_name": "Roy Dillard",
                   "_type": "Syllubus",
                   "_iconX": 62,
                   "_iconY": 180,
@@ -20551,12 +20551,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3740,
                   "_lessonId": 4339,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f632fa99-b6f9-422b-b575-3760c0fda872",
                   "_index": 5,
-                  "name": "Alejandra Bright",
+                  "_name": "Alejandra Bright",
                   "_type": "Syllubus",
                   "_iconX": 496,
                   "_iconY": 470,
@@ -20567,12 +20567,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2061,
                   "_lessonId": 3214,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f27119e-377c-4597-b3b4-aead106a79b7",
                   "_index": 6,
-                  "name": "Dorsey Ramsey",
+                  "_name": "Dorsey Ramsey",
                   "_type": "Syllubus",
                   "_iconX": 306,
                   "_iconY": 47,
@@ -20583,7 +20583,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4971,
                   "_lessonId": 4322,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20595,7 +20595,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-19545f10-91c8-401e-b269-7f52df08f33c",
                   "_index": 0,
-                  "name": "Kerri Powell",
+                  "_name": "Kerri Powell",
                   "_type": "Syllubus",
                   "_iconX": 3,
                   "_iconY": 387,
@@ -20606,12 +20606,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1455,
                   "_lessonId": 5042,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3c685ab4-e84a-4806-90d8-40a5ca43a8e5",
                   "_index": 1,
-                  "name": "Williams Buck",
+                  "_name": "Williams Buck",
                   "_type": "Syllubus",
                   "_iconX": 825,
                   "_iconY": 245,
@@ -20622,12 +20622,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4922,
                   "_lessonId": 1708,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fe88e442-b94e-4771-9e79-993dd23ef565",
                   "_index": 2,
-                  "name": "Nicholson Marshall",
+                  "_name": "Nicholson Marshall",
                   "_type": "Syllubus",
                   "_iconX": 616,
                   "_iconY": 20,
@@ -20638,12 +20638,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1870,
                   "_lessonId": 4060,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3128dcf2-40fc-4664-8413-021da91bc5c1",
                   "_index": 3,
-                  "name": "Dorothea Nunez",
+                  "_name": "Dorothea Nunez",
                   "_type": "Syllubus",
                   "_iconX": 74,
                   "_iconY": 307,
@@ -20654,12 +20654,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5338,
                   "_lessonId": 4988,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-78d0e687-8bcf-4a8e-8c09-3bdc09da6301",
                   "_index": 4,
-                  "name": "Sparks Monroe",
+                  "_name": "Sparks Monroe",
                   "_type": "Syllubus",
                   "_iconX": 623,
                   "_iconY": 268,
@@ -20670,7 +20670,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3820,
                   "_lessonId": 3786,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20682,7 +20682,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a21eb1e8-10e2-4cc6-8e62-ff7a31a6f942",
                   "_index": 0,
-                  "name": "Weiss Boyer",
+                  "_name": "Weiss Boyer",
                   "_type": "Syllubus",
                   "_iconX": 294,
                   "_iconY": 243,
@@ -20693,12 +20693,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2594,
                   "_lessonId": 1059,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f95d86ba-88de-4a7f-b017-3edd73cf4b53",
                   "_index": 1,
-                  "name": "Doris Lambert",
+                  "_name": "Doris Lambert",
                   "_type": "Syllubus",
                   "_iconX": 691,
                   "_iconY": 189,
@@ -20709,12 +20709,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3385,
                   "_lessonId": 5755,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-28dc22f4-a059-4477-97f3-85a6b366aa9b",
                   "_index": 2,
-                  "name": "Trevino Hampton",
+                  "_name": "Trevino Hampton",
                   "_type": "Syllubus",
                   "_iconX": 184,
                   "_iconY": 83,
@@ -20725,12 +20725,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3469,
                   "_lessonId": 2970,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4552794a-786c-4c00-93ca-b24c7a9c3888",
                   "_index": 3,
-                  "name": "Weber Mcknight",
+                  "_name": "Weber Mcknight",
                   "_type": "Syllubus",
                   "_iconX": 815,
                   "_iconY": 446,
@@ -20741,12 +20741,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1811,
                   "_lessonId": 4752,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c688a24a-f360-4680-b44c-4a26ae0d0249",
                   "_index": 4,
-                  "name": "Cornelia Richards",
+                  "_name": "Cornelia Richards",
                   "_type": "Syllubus",
                   "_iconX": 155,
                   "_iconY": 298,
@@ -20757,12 +20757,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1662,
                   "_lessonId": 4330,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8f2a2e1a-6d4a-4096-b2d1-ca86faa6036b",
                   "_index": 5,
-                  "name": "Sloan Fitzpatrick",
+                  "_name": "Sloan Fitzpatrick",
                   "_type": "Syllubus",
                   "_iconX": 778,
                   "_iconY": 73,
@@ -20773,7 +20773,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3577,
                   "_lessonId": 1074,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -20785,7 +20785,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-da9bd58d-53ad-4c55-9255-22dc1f9cd73a",
                   "_index": 0,
-                  "name": "Ashley Downs",
+                  "_name": "Ashley Downs",
                   "_type": "Syllubus",
                   "_iconX": 628,
                   "_iconY": 534,
@@ -20796,12 +20796,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3596,
                   "_lessonId": 2802,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e71fbda1-971b-4a69-b656-4b887ca9a40d",
                   "_index": 1,
-                  "name": "Neva Prince",
+                  "_name": "Neva Prince",
                   "_type": "Syllubus",
                   "_iconX": 92,
                   "_iconY": 261,
@@ -20812,12 +20812,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1882,
                   "_lessonId": 3751,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-289f516a-2e38-4a19-b9d7-a1870b3ee1a0",
                   "_index": 2,
-                  "name": "Reynolds Mccullough",
+                  "_name": "Reynolds Mccullough",
                   "_type": "Syllubus",
                   "_iconX": 92,
                   "_iconY": 37,
@@ -20828,12 +20828,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5716,
                   "_lessonId": 2075,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-36db8c37-8edb-474e-a2bf-148bfb1c30c3",
                   "_index": 3,
-                  "name": "Nora Wiley",
+                  "_name": "Nora Wiley",
                   "_type": "Syllubus",
                   "_iconX": 864,
                   "_iconY": 205,
@@ -20844,12 +20844,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5995,
                   "_lessonId": 4541,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-afec02c5-0ce9-41a6-9fc1-f702c12339f3",
                   "_index": 4,
-                  "name": "Aida Buchanan",
+                  "_name": "Aida Buchanan",
                   "_type": "Syllubus",
                   "_iconX": 585,
                   "_iconY": 105,
@@ -20860,12 +20860,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5674,
                   "_lessonId": 2747,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4be22adb-0fb9-4c4d-91be-155a3245e7a8",
                   "_index": 5,
-                  "name": "Boyer Case",
+                  "_name": "Boyer Case",
                   "_type": "Syllubus",
                   "_iconX": 518,
                   "_iconY": 292,
@@ -20876,7 +20876,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4972,
                   "_lessonId": 4329,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -20899,7 +20899,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-57363211-7609-414f-9083-e3f15ae2f263",
                   "_index": 0,
-                  "name": "Wendy Riggs",
+                  "_name": "Wendy Riggs",
                   "_type": "Syllubus",
                   "_iconX": 632,
                   "_iconY": 354,
@@ -20910,12 +20910,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4968,
                   "_lessonId": 3647,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-88afeda8-0250-46a3-ba1d-2507939f090f",
                   "_index": 1,
-                  "name": "Lou Singleton",
+                  "_name": "Lou Singleton",
                   "_type": "Syllubus",
                   "_iconX": 208,
                   "_iconY": 309,
@@ -20926,12 +20926,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1049,
                   "_lessonId": 3361,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-46a75d76-58c1-4478-9e0b-d42fde4c6961",
                   "_index": 2,
-                  "name": "Dodson Brennan",
+                  "_name": "Dodson Brennan",
                   "_type": "Syllubus",
                   "_iconX": 357,
                   "_iconY": 377,
@@ -20942,12 +20942,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4102,
                   "_lessonId": 5160,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9133f33b-bee2-4f1f-b1eb-7ec178d2216f",
                   "_index": 3,
-                  "name": "Lester Le",
+                  "_name": "Lester Le",
                   "_type": "Syllubus",
                   "_iconX": 338,
                   "_iconY": 188,
@@ -20958,12 +20958,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5436,
                   "_lessonId": 3802,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-992107e9-68fb-4477-9049-3d3e675399f1",
                   "_index": 4,
-                  "name": "Ortiz Roach",
+                  "_name": "Ortiz Roach",
                   "_type": "Syllubus",
                   "_iconX": 267,
                   "_iconY": 497,
@@ -20974,12 +20974,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5008,
                   "_lessonId": 1028,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9c510cfc-8546-49c0-b0f5-87285f13f74c",
                   "_index": 5,
-                  "name": "Gallagher West",
+                  "_name": "Gallagher West",
                   "_type": "Syllubus",
                   "_iconX": 796,
                   "_iconY": 127,
@@ -20990,12 +20990,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5308,
                   "_lessonId": 5572,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ade242e9-f479-490f-abc8-c37b60b5d7a4",
                   "_index": 6,
-                  "name": "Kenya Warren",
+                  "_name": "Kenya Warren",
                   "_type": "Syllubus",
                   "_iconX": 404,
                   "_iconY": 351,
@@ -21006,7 +21006,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2150,
                   "_lessonId": 1014,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21018,7 +21018,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-8b5b6ff2-ab84-43b0-b7b8-4da57f414a0c",
                   "_index": 0,
-                  "name": "Craig Neal",
+                  "_name": "Craig Neal",
                   "_type": "Syllubus",
                   "_iconX": 828,
                   "_iconY": 496,
@@ -21029,12 +21029,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1363,
                   "_lessonId": 5609,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1b5ecb36-d9ca-4df4-8d25-be8409a3d01c",
                   "_index": 1,
-                  "name": "Nicole Marquez",
+                  "_name": "Nicole Marquez",
                   "_type": "Syllubus",
                   "_iconX": 759,
                   "_iconY": 593,
@@ -21045,12 +21045,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1324,
                   "_lessonId": 4379,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f5f6afa9-0632-48a1-bd7e-04effc233df4",
                   "_index": 2,
-                  "name": "Corrine Ashley",
+                  "_name": "Corrine Ashley",
                   "_type": "Syllubus",
                   "_iconX": 573,
                   "_iconY": 432,
@@ -21061,12 +21061,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1773,
                   "_lessonId": 4579,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ef12e4e1-e71b-4a45-9988-bf4e45645bca",
                   "_index": 3,
-                  "name": "Kellie Dillon",
+                  "_name": "Kellie Dillon",
                   "_type": "Syllubus",
                   "_iconX": 868,
                   "_iconY": 424,
@@ -21077,12 +21077,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3102,
                   "_lessonId": 1941,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fdccaa1f-3af5-49df-9c28-a92331611965",
                   "_index": 4,
-                  "name": "Hardy Pace",
+                  "_name": "Hardy Pace",
                   "_type": "Syllubus",
                   "_iconX": 668,
                   "_iconY": 402,
@@ -21093,12 +21093,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5920,
                   "_lessonId": 1024,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4533307d-37a8-4ee1-bf30-edc01e616346",
                   "_index": 5,
-                  "name": "Brady Wooten",
+                  "_name": "Brady Wooten",
                   "_type": "Syllubus",
                   "_iconX": 404,
                   "_iconY": 140,
@@ -21109,12 +21109,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1338,
                   "_lessonId": 4220,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3aeb0180-4a07-48e5-85b3-ba6d4e82dd42",
                   "_index": 6,
-                  "name": "Ewing Mcclain",
+                  "_name": "Ewing Mcclain",
                   "_type": "Syllubus",
                   "_iconX": 52,
                   "_iconY": 161,
@@ -21125,7 +21125,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4567,
                   "_lessonId": 2824,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21137,7 +21137,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1838030d-653a-4814-99b1-c203fbfeaa96",
                   "_index": 0,
-                  "name": "Goodman Mcdonald",
+                  "_name": "Goodman Mcdonald",
                   "_type": "Syllubus",
                   "_iconX": 886,
                   "_iconY": 467,
@@ -21148,12 +21148,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5183,
                   "_lessonId": 2632,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e4e052f-8535-4806-858e-d197cea7ddf9",
                   "_index": 1,
-                  "name": "Kay Sweet",
+                  "_name": "Kay Sweet",
                   "_type": "Syllubus",
                   "_iconX": 21,
                   "_iconY": 357,
@@ -21164,12 +21164,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5564,
                   "_lessonId": 5660,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0f0f15a2-dfff-4aef-a67f-3e4fa517bcef",
                   "_index": 2,
-                  "name": "Josephine Vargas",
+                  "_name": "Josephine Vargas",
                   "_type": "Syllubus",
                   "_iconX": 217,
                   "_iconY": 524,
@@ -21180,12 +21180,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1224,
                   "_lessonId": 2745,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a087cc8b-7968-4529-8588-f71c317e764b",
                   "_index": 3,
-                  "name": "Bender Figueroa",
+                  "_name": "Bender Figueroa",
                   "_type": "Syllubus",
                   "_iconX": 635,
                   "_iconY": 114,
@@ -21196,12 +21196,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2092,
                   "_lessonId": 4092,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-32e973b0-73fc-40df-b35f-3b7682cff7b8",
                   "_index": 4,
-                  "name": "Dona Pate",
+                  "_name": "Dona Pate",
                   "_type": "Syllubus",
                   "_iconX": 289,
                   "_iconY": 436,
@@ -21212,7 +21212,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5975,
                   "_lessonId": 4123,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21224,7 +21224,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-4ace2e7d-7eee-4380-966d-ece6bf38abde",
                   "_index": 0,
-                  "name": "Vivian Ryan",
+                  "_name": "Vivian Ryan",
                   "_type": "Syllubus",
                   "_iconX": 889,
                   "_iconY": 321,
@@ -21235,12 +21235,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5628,
                   "_lessonId": 4516,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2470328a-3ee5-4e34-8c7e-e7d8b3aa0991",
                   "_index": 1,
-                  "name": "Virgie Oneal",
+                  "_name": "Virgie Oneal",
                   "_type": "Syllubus",
                   "_iconX": 628,
                   "_iconY": 512,
@@ -21251,12 +21251,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2555,
                   "_lessonId": 1296,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-87438278-83c6-43d4-9147-a8a93b7aca9b",
                   "_index": 2,
-                  "name": "Fran Small",
+                  "_name": "Fran Small",
                   "_type": "Syllubus",
                   "_iconX": 13,
                   "_iconY": 101,
@@ -21267,12 +21267,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3487,
                   "_lessonId": 4539,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d442bb20-ccae-4a1c-b7cf-c9d091c758d1",
                   "_index": 3,
-                  "name": "Bowman Cobb",
+                  "_name": "Bowman Cobb",
                   "_type": "Syllubus",
                   "_iconX": 517,
                   "_iconY": 537,
@@ -21283,12 +21283,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4101,
                   "_lessonId": 3878,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7e1c1de4-9f8c-4ef7-b783-0e09a1275cdc",
                   "_index": 4,
-                  "name": "Jessie Mathews",
+                  "_name": "Jessie Mathews",
                   "_type": "Syllubus",
                   "_iconX": 559,
                   "_iconY": 451,
@@ -21299,7 +21299,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5157,
                   "_lessonId": 4931,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21311,7 +21311,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-9e732bed-a06d-4a39-ac9a-6cae1204212c",
                   "_index": 0,
-                  "name": "Blair Blevins",
+                  "_name": "Blair Blevins",
                   "_type": "Syllubus",
                   "_iconX": 398,
                   "_iconY": 424,
@@ -21322,12 +21322,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5290,
                   "_lessonId": 3450,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1328f18e-5baa-4470-8e6b-51c88bebf6ca",
                   "_index": 1,
-                  "name": "Tyson Harper",
+                  "_name": "Tyson Harper",
                   "_type": "Syllubus",
                   "_iconX": 372,
                   "_iconY": 358,
@@ -21338,12 +21338,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5653,
                   "_lessonId": 3479,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5a41909c-f7e5-45b9-95e7-9295dbb85b17",
                   "_index": 2,
-                  "name": "Tate Hale",
+                  "_name": "Tate Hale",
                   "_type": "Syllubus",
                   "_iconX": 412,
                   "_iconY": 551,
@@ -21354,12 +21354,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2745,
                   "_lessonId": 1282,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-efdb4a9f-6a04-4841-9349-2287a1ad512b",
                   "_index": 3,
-                  "name": "Harris Flowers",
+                  "_name": "Harris Flowers",
                   "_type": "Syllubus",
                   "_iconX": 49,
                   "_iconY": 316,
@@ -21370,12 +21370,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3741,
                   "_lessonId": 4159,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-eb3f068e-a025-4d60-889f-34383e54da14",
                   "_index": 4,
-                  "name": "Melissa Sullivan",
+                  "_name": "Melissa Sullivan",
                   "_type": "Syllubus",
                   "_iconX": 542,
                   "_iconY": 294,
@@ -21386,12 +21386,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4121,
                   "_lessonId": 1120,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-000e375a-d34f-4e8d-b102-207e3624b841",
                   "_index": 5,
-                  "name": "Wong Fuentes",
+                  "_name": "Wong Fuentes",
                   "_type": "Syllubus",
                   "_iconX": 537,
                   "_iconY": 492,
@@ -21402,7 +21402,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1574,
                   "_lessonId": 4918,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21414,7 +21414,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-13233cc4-9a69-4f2f-8c3d-d7c0ba56de24",
                   "_index": 0,
-                  "name": "Soto Payne",
+                  "_name": "Soto Payne",
                   "_type": "Syllubus",
                   "_iconX": 689,
                   "_iconY": 213,
@@ -21425,12 +21425,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1002,
                   "_lessonId": 1616,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-40dd6743-4a40-47e2-b724-695abcd4f9bf",
                   "_index": 1,
-                  "name": "Rose Noel",
+                  "_name": "Rose Noel",
                   "_type": "Syllubus",
                   "_iconX": 459,
                   "_iconY": 25,
@@ -21441,12 +21441,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1309,
                   "_lessonId": 4284,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1d0f32a0-90c6-45ce-ae86-d4ef7d28bd1d",
                   "_index": 2,
-                  "name": "Middleton Howe",
+                  "_name": "Middleton Howe",
                   "_type": "Syllubus",
                   "_iconX": 882,
                   "_iconY": 500,
@@ -21457,12 +21457,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2169,
                   "_lessonId": 5770,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-325460a3-18dd-419e-aad3-d01a51a7482e",
                   "_index": 3,
-                  "name": "Jami Page",
+                  "_name": "Jami Page",
                   "_type": "Syllubus",
                   "_iconX": 376,
                   "_iconY": 233,
@@ -21473,12 +21473,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5719,
                   "_lessonId": 3453,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2a5756c4-7fde-4337-97fc-237b5fea48bb",
                   "_index": 4,
-                  "name": "Twila Horton",
+                  "_name": "Twila Horton",
                   "_type": "Syllubus",
                   "_iconX": 972,
                   "_iconY": 135,
@@ -21489,7 +21489,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5544,
                   "_lessonId": 1129,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21501,7 +21501,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-10a64da0-1217-41dd-856b-ae78358ed18f",
                   "_index": 0,
-                  "name": "Rosalinda Keith",
+                  "_name": "Rosalinda Keith",
                   "_type": "Syllubus",
                   "_iconX": 242,
                   "_iconY": 465,
@@ -21512,12 +21512,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4797,
                   "_lessonId": 2851,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f686f4b-5760-4e18-8bec-e4034ba064ca",
                   "_index": 1,
-                  "name": "Misty Bender",
+                  "_name": "Misty Bender",
                   "_type": "Syllubus",
                   "_iconX": 311,
                   "_iconY": 418,
@@ -21528,12 +21528,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3143,
                   "_lessonId": 2948,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a6062015-ecee-477f-b29a-0aaf4f91da98",
                   "_index": 2,
-                  "name": "Cheryl Parker",
+                  "_name": "Cheryl Parker",
                   "_type": "Syllubus",
                   "_iconX": 792,
                   "_iconY": 484,
@@ -21544,12 +21544,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2335,
                   "_lessonId": 1277,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-73a2b621-3a35-4293-bd8d-96db9663ffd2",
                   "_index": 3,
-                  "name": "Autumn Pugh",
+                  "_name": "Autumn Pugh",
                   "_type": "Syllubus",
                   "_iconX": 234,
                   "_iconY": 147,
@@ -21560,12 +21560,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1951,
                   "_lessonId": 3126,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9b46cb23-b374-4632-b8f4-44b6cc1b244e",
                   "_index": 4,
-                  "name": "Horton Petersen",
+                  "_name": "Horton Petersen",
                   "_type": "Syllubus",
                   "_iconX": 656,
                   "_iconY": 12,
@@ -21576,12 +21576,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4970,
                   "_lessonId": 4793,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-dbb3cce7-d6ea-4c1e-aaba-8d2eb473a6f2",
                   "_index": 5,
-                  "name": "Guy Mclean",
+                  "_name": "Guy Mclean",
                   "_type": "Syllubus",
                   "_iconX": 74,
                   "_iconY": 200,
@@ -21592,12 +21592,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4365,
                   "_lessonId": 1024,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d68540f3-4eba-4855-9b27-1289a23eebe9",
                   "_index": 6,
-                  "name": "Whitaker Dodson",
+                  "_name": "Whitaker Dodson",
                   "_type": "Syllubus",
                   "_iconX": 525,
                   "_iconY": 568,
@@ -21608,7 +21608,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5974,
                   "_lessonId": 3267,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -21631,7 +21631,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-97565b60-0327-4aac-9932-8f964d50a792",
                   "_index": 0,
-                  "name": "Lourdes Bentley",
+                  "_name": "Lourdes Bentley",
                   "_type": "Syllubus",
                   "_iconX": 874,
                   "_iconY": 346,
@@ -21642,12 +21642,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5157,
                   "_lessonId": 5586,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-39bdbcc0-449c-4f52-8623-93aa4aa842e3",
                   "_index": 1,
-                  "name": "Flores Gibbs",
+                  "_name": "Flores Gibbs",
                   "_type": "Syllubus",
                   "_iconX": 813,
                   "_iconY": 10,
@@ -21658,12 +21658,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3896,
                   "_lessonId": 3961,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cc5d586c-1d72-49fa-8550-61f0bfcb280e",
                   "_index": 2,
-                  "name": "Annmarie Wells",
+                  "_name": "Annmarie Wells",
                   "_type": "Syllubus",
                   "_iconX": 217,
                   "_iconY": 405,
@@ -21674,12 +21674,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4666,
                   "_lessonId": 5397,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-76552a3f-8b30-4f77-91e0-3f5769eeb7fb",
                   "_index": 3,
-                  "name": "Swanson Salazar",
+                  "_name": "Swanson Salazar",
                   "_type": "Syllubus",
                   "_iconX": 811,
                   "_iconY": 71,
@@ -21690,12 +21690,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1429,
                   "_lessonId": 5654,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-79f04209-5d2d-471d-ab85-9206f290012f",
                   "_index": 4,
-                  "name": "Bernadette Murphy",
+                  "_name": "Bernadette Murphy",
                   "_type": "Syllubus",
                   "_iconX": 506,
                   "_iconY": 262,
@@ -21706,12 +21706,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1448,
                   "_lessonId": 3932,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c29ec7a5-2559-425d-939b-ee6a5d2bd812",
                   "_index": 5,
-                  "name": "Key Ellis",
+                  "_name": "Key Ellis",
                   "_type": "Syllubus",
                   "_iconX": 77,
                   "_iconY": 121,
@@ -21722,12 +21722,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2991,
                   "_lessonId": 3356,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-55eec0c7-53ab-49d8-bad8-d5f8047bdc29",
                   "_index": 6,
-                  "name": "Justice Sparks",
+                  "_name": "Justice Sparks",
                   "_type": "Syllubus",
                   "_iconX": 339,
                   "_iconY": 300,
@@ -21738,7 +21738,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4159,
                   "_lessonId": 3147,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21750,7 +21750,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-bf459539-3f68-40ee-828c-fbdba80f4e26",
                   "_index": 0,
-                  "name": "Bean Mcguire",
+                  "_name": "Bean Mcguire",
                   "_type": "Syllubus",
                   "_iconX": 832,
                   "_iconY": 64,
@@ -21761,12 +21761,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5587,
                   "_lessonId": 5434,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-85dc8638-1674-4a6d-8f53-a3d4a2b6e23f",
                   "_index": 1,
-                  "name": "Alexandria Callahan",
+                  "_name": "Alexandria Callahan",
                   "_type": "Syllubus",
                   "_iconX": 439,
                   "_iconY": 332,
@@ -21777,12 +21777,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1693,
                   "_lessonId": 5966,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a6aa92a9-3c5a-40f5-95ef-ebc238848e99",
                   "_index": 2,
-                  "name": "Cannon Andrews",
+                  "_name": "Cannon Andrews",
                   "_type": "Syllubus",
                   "_iconX": 485,
                   "_iconY": 300,
@@ -21793,12 +21793,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3274,
                   "_lessonId": 5512,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-8c9c68b4-0be8-4e46-9250-249189b40f06",
                   "_index": 3,
-                  "name": "Adele Barton",
+                  "_name": "Adele Barton",
                   "_type": "Syllubus",
                   "_iconX": 144,
                   "_iconY": 269,
@@ -21809,12 +21809,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5851,
                   "_lessonId": 5298,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2e757137-9ff5-4203-a2ea-55281d7315b4",
                   "_index": 4,
-                  "name": "Burke Macias",
+                  "_name": "Burke Macias",
                   "_type": "Syllubus",
                   "_iconX": 446,
                   "_iconY": 60,
@@ -21825,12 +21825,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4897,
                   "_lessonId": 1304,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e10ae6e6-fc24-4dd6-9b18-7ba9f774c820",
                   "_index": 5,
-                  "name": "Henderson Booker",
+                  "_name": "Henderson Booker",
                   "_type": "Syllubus",
                   "_iconX": 978,
                   "_iconY": 570,
@@ -21841,7 +21841,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3196,
                   "_lessonId": 2093,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21853,7 +21853,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-09e31949-760b-4e76-a289-96751a755f75",
                   "_index": 0,
-                  "name": "Patterson Campos",
+                  "_name": "Patterson Campos",
                   "_type": "Syllubus",
                   "_iconX": 80,
                   "_iconY": 278,
@@ -21864,12 +21864,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1708,
                   "_lessonId": 1880,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9d361162-0877-4871-93c1-99c1522f51ba",
                   "_index": 1,
-                  "name": "Bailey Davis",
+                  "_name": "Bailey Davis",
                   "_type": "Syllubus",
                   "_iconX": 581,
                   "_iconY": 579,
@@ -21880,12 +21880,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1292,
                   "_lessonId": 2782,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1012bda2-8229-4340-9a93-4e9d3a533dfa",
                   "_index": 2,
-                  "name": "Chrystal Goodman",
+                  "_name": "Chrystal Goodman",
                   "_type": "Syllubus",
                   "_iconX": 506,
                   "_iconY": 67,
@@ -21896,12 +21896,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1132,
                   "_lessonId": 1758,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-02243ea8-3feb-451b-83c6-203a1663430a",
                   "_index": 3,
-                  "name": "Michael Freeman",
+                  "_name": "Michael Freeman",
                   "_type": "Syllubus",
                   "_iconX": 909,
                   "_iconY": 445,
@@ -21912,12 +21912,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3012,
                   "_lessonId": 1520,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-68874f67-7c05-42fc-ba29-2290975f707d",
                   "_index": 4,
-                  "name": "Irma Cortez",
+                  "_name": "Irma Cortez",
                   "_type": "Syllubus",
                   "_iconX": 915,
                   "_iconY": 41,
@@ -21928,12 +21928,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4075,
                   "_lessonId": 1391,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-88a14f12-96a0-4a3f-bf74-b510c36bdffb",
                   "_index": 5,
-                  "name": "Hunt Evans",
+                  "_name": "Hunt Evans",
                   "_type": "Syllubus",
                   "_iconX": 344,
                   "_iconY": 598,
@@ -21944,7 +21944,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1879,
                   "_lessonId": 5703,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -21956,7 +21956,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-7bf7d9a2-2bd0-4a6a-a5b7-7c81f76368ee",
                   "_index": 0,
-                  "name": "Ingrid Hendrix",
+                  "_name": "Ingrid Hendrix",
                   "_type": "Syllubus",
                   "_iconX": 812,
                   "_iconY": 413,
@@ -21967,12 +21967,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5419,
                   "_lessonId": 2306,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-91ba77f8-7d1d-43f4-8c44-baa952b0fb2c",
                   "_index": 1,
-                  "name": "Kara Mueller",
+                  "_name": "Kara Mueller",
                   "_type": "Syllubus",
                   "_iconX": 548,
                   "_iconY": 370,
@@ -21983,12 +21983,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5775,
                   "_lessonId": 3116,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9d683d98-913b-4abf-97f1-1d2118ba9c72",
                   "_index": 2,
-                  "name": "Webb Preston",
+                  "_name": "Webb Preston",
                   "_type": "Syllubus",
                   "_iconX": 971,
                   "_iconY": 344,
@@ -21999,12 +21999,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3595,
                   "_lessonId": 5083,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c0b818c9-68ff-487c-ab9d-92cf09f7efa7",
                   "_index": 3,
-                  "name": "Steele Rich",
+                  "_name": "Steele Rich",
                   "_type": "Syllubus",
                   "_iconX": 835,
                   "_iconY": 356,
@@ -22015,12 +22015,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3667,
                   "_lessonId": 3594,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f8c0e1e6-61dd-4868-8ee5-e48943416a7b",
                   "_index": 4,
-                  "name": "Strickland Brady",
+                  "_name": "Strickland Brady",
                   "_type": "Syllubus",
                   "_iconX": 641,
                   "_iconY": 42,
@@ -22031,12 +22031,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4869,
                   "_lessonId": 1717,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c3be5a5c-438e-4d71-a515-c70cc4b223a3",
                   "_index": 5,
-                  "name": "Myrtle Adams",
+                  "_name": "Myrtle Adams",
                   "_type": "Syllubus",
                   "_iconX": 588,
                   "_iconY": 437,
@@ -22047,7 +22047,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5458,
                   "_lessonId": 2998,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22059,7 +22059,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-27aa79de-a39f-4e66-8a11-32edcdad9b48",
                   "_index": 0,
-                  "name": "Harper Wilson",
+                  "_name": "Harper Wilson",
                   "_type": "Syllubus",
                   "_iconX": 696,
                   "_iconY": 277,
@@ -22070,12 +22070,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4287,
                   "_lessonId": 3747,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-801ca253-c4a0-4bef-9430-a4d5bd258f9a",
                   "_index": 1,
-                  "name": "Walsh Edwards",
+                  "_name": "Walsh Edwards",
                   "_type": "Syllubus",
                   "_iconX": 724,
                   "_iconY": 214,
@@ -22086,12 +22086,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5232,
                   "_lessonId": 5987,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ea4343e3-7d83-4747-a631-fbefcdf78e3e",
                   "_index": 2,
-                  "name": "Susie Carr",
+                  "_name": "Susie Carr",
                   "_type": "Syllubus",
                   "_iconX": 564,
                   "_iconY": 18,
@@ -22102,12 +22102,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4079,
                   "_lessonId": 4854,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d664d3e3-097f-43cc-8ffe-f9453ea25a13",
                   "_index": 3,
-                  "name": "Lily Jarvis",
+                  "_name": "Lily Jarvis",
                   "_type": "Syllubus",
                   "_iconX": 910,
                   "_iconY": 322,
@@ -22118,12 +22118,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1569,
                   "_lessonId": 1374,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-31758acc-b9b0-4e5b-aa9d-1a8513af76a3",
                   "_index": 4,
-                  "name": "Holloway Koch",
+                  "_name": "Holloway Koch",
                   "_type": "Syllubus",
                   "_iconX": 102,
                   "_iconY": 135,
@@ -22134,12 +22134,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2873,
                   "_lessonId": 3073,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3b6024a4-7da2-4fb5-9783-e471daa2ad2a",
                   "_index": 5,
-                  "name": "Acevedo Molina",
+                  "_name": "Acevedo Molina",
                   "_type": "Syllubus",
                   "_iconX": 884,
                   "_iconY": 514,
@@ -22150,12 +22150,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3837,
                   "_lessonId": 3253,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b7815509-1f81-4c0e-8fa2-79f49b07e3c8",
                   "_index": 6,
-                  "name": "Blevins Norton",
+                  "_name": "Blevins Norton",
                   "_type": "Syllubus",
                   "_iconX": 879,
                   "_iconY": 568,
@@ -22166,7 +22166,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2464,
                   "_lessonId": 4225,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22178,7 +22178,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-6aed17b3-b40d-4136-97dd-f7c3cd959c98",
                   "_index": 0,
-                  "name": "Beasley Tanner",
+                  "_name": "Beasley Tanner",
                   "_type": "Syllubus",
                   "_iconX": 724,
                   "_iconY": 227,
@@ -22189,12 +22189,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2663,
                   "_lessonId": 5673,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ba8485dc-ac1b-4b99-9d70-50e351c25b83",
                   "_index": 1,
-                  "name": "Hines Watkins",
+                  "_name": "Hines Watkins",
                   "_type": "Syllubus",
                   "_iconX": 874,
                   "_iconY": 578,
@@ -22205,12 +22205,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5373,
                   "_lessonId": 1262,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3c1ae828-5b1d-485a-b247-5f60ae8d5e47",
                   "_index": 2,
-                  "name": "Glenn Gill",
+                  "_name": "Glenn Gill",
                   "_type": "Syllubus",
                   "_iconX": 532,
                   "_iconY": 506,
@@ -22221,12 +22221,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2694,
                   "_lessonId": 1409,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d3fbabef-6bda-4f74-aef8-29acbec8baed",
                   "_index": 3,
-                  "name": "Ebony Pacheco",
+                  "_name": "Ebony Pacheco",
                   "_type": "Syllubus",
                   "_iconX": 447,
                   "_iconY": 520,
@@ -22237,12 +22237,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2160,
                   "_lessonId": 2955,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-50ef0df6-8819-44b4-9cb0-594445c7673e",
                   "_index": 4,
-                  "name": "Parker Bray",
+                  "_name": "Parker Bray",
                   "_type": "Syllubus",
                   "_iconX": 807,
                   "_iconY": 569,
@@ -22253,7 +22253,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5576,
                   "_lessonId": 3995,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -22276,7 +22276,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-a728ab7c-de1d-4329-bb03-178d3c8fe6ef",
                   "_index": 0,
-                  "name": "Fanny Rojas",
+                  "_name": "Fanny Rojas",
                   "_type": "Syllubus",
                   "_iconX": 160,
                   "_iconY": 109,
@@ -22287,12 +22287,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2374,
                   "_lessonId": 5061,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0bb8c7f1-6ba4-4d38-8c71-94a2b8ff8699",
                   "_index": 1,
-                  "name": "Colleen Tucker",
+                  "_name": "Colleen Tucker",
                   "_type": "Syllubus",
                   "_iconX": 734,
                   "_iconY": 468,
@@ -22303,12 +22303,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4831,
                   "_lessonId": 3893,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0db83d16-840f-4545-ba48-2c4934646ead",
                   "_index": 2,
-                  "name": "Vasquez Saunders",
+                  "_name": "Vasquez Saunders",
                   "_type": "Syllubus",
                   "_iconX": 434,
                   "_iconY": 105,
@@ -22319,12 +22319,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5447,
                   "_lessonId": 1989,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-51f0bf2c-52b2-442a-8814-c07f262c7bca",
                   "_index": 3,
-                  "name": "Moses Haney",
+                  "_name": "Moses Haney",
                   "_type": "Syllubus",
                   "_iconX": 24,
                   "_iconY": 153,
@@ -22335,12 +22335,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1704,
                   "_lessonId": 4712,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f6b16e8-2829-4544-b816-1528cf43c775",
                   "_index": 4,
-                  "name": "Chapman Chase",
+                  "_name": "Chapman Chase",
                   "_type": "Syllubus",
                   "_iconX": 621,
                   "_iconY": 21,
@@ -22351,7 +22351,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4964,
                   "_lessonId": 4284,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22363,7 +22363,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-89980e78-faf4-43aa-a3cf-527857948e4d",
                   "_index": 0,
-                  "name": "Baker Moss",
+                  "_name": "Baker Moss",
                   "_type": "Syllubus",
                   "_iconX": 988,
                   "_iconY": 221,
@@ -22374,12 +22374,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1973,
                   "_lessonId": 1319,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-cfa364ca-cbd0-4346-80c9-b26bdff9d880",
                   "_index": 1,
-                  "name": "Jacobson Lindsey",
+                  "_name": "Jacobson Lindsey",
                   "_type": "Syllubus",
                   "_iconX": 292,
                   "_iconY": 594,
@@ -22390,12 +22390,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2631,
                   "_lessonId": 2228,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4cc1a658-f285-458e-8d07-69a523412ca9",
                   "_index": 2,
-                  "name": "Shaw Duran",
+                  "_name": "Shaw Duran",
                   "_type": "Syllubus",
                   "_iconX": 568,
                   "_iconY": 356,
@@ -22406,12 +22406,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2816,
                   "_lessonId": 4250,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f1ecdcfc-942d-42cb-ab42-a5929ed84666",
                   "_index": 3,
-                  "name": "Heath Stanton",
+                  "_name": "Heath Stanton",
                   "_type": "Syllubus",
                   "_iconX": 893,
                   "_iconY": 175,
@@ -22422,12 +22422,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3460,
                   "_lessonId": 1171,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-65dc01ae-4abe-4d26-8e0c-40e80ed508f7",
                   "_index": 4,
-                  "name": "Susanna Whitney",
+                  "_name": "Susanna Whitney",
                   "_type": "Syllubus",
                   "_iconX": 533,
                   "_iconY": 351,
@@ -22438,12 +22438,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2218,
                   "_lessonId": 1613,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-589f5247-55f9-414b-ae3d-2d6a7d369fcc",
                   "_index": 5,
-                  "name": "Anthony Combs",
+                  "_name": "Anthony Combs",
                   "_type": "Syllubus",
                   "_iconX": 550,
                   "_iconY": 374,
@@ -22454,12 +22454,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1721,
                   "_lessonId": 3276,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0c78a048-9574-4d0b-b290-50f61f5f65ba",
                   "_index": 6,
-                  "name": "Curtis Hull",
+                  "_name": "Curtis Hull",
                   "_type": "Syllubus",
                   "_iconX": 449,
                   "_iconY": 478,
@@ -22470,7 +22470,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5047,
                   "_lessonId": 3868,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22482,7 +22482,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b3bcf36b-1277-465b-86ce-ab92d2ed9f0c",
                   "_index": 0,
-                  "name": "Petra French",
+                  "_name": "Petra French",
                   "_type": "Syllubus",
                   "_iconX": 904,
                   "_iconY": 133,
@@ -22493,12 +22493,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2164,
                   "_lessonId": 3561,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-2c53d421-e330-4387-a9f4-833c8c928e4a",
                   "_index": 1,
-                  "name": "Marianne Christensen",
+                  "_name": "Marianne Christensen",
                   "_type": "Syllubus",
                   "_iconX": 141,
                   "_iconY": 463,
@@ -22509,12 +22509,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4237,
                   "_lessonId": 5198,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-916a3bf6-2a8d-4731-afc6-82c3fd1eed91",
                   "_index": 2,
-                  "name": "Morgan Kidd",
+                  "_name": "Morgan Kidd",
                   "_type": "Syllubus",
                   "_iconX": 879,
                   "_iconY": 471,
@@ -22525,12 +22525,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4312,
                   "_lessonId": 3948,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e642288-e60d-4111-bdfb-d7138962f7e7",
                   "_index": 3,
-                  "name": "Bradley Carter",
+                  "_name": "Bradley Carter",
                   "_type": "Syllubus",
                   "_iconX": 272,
                   "_iconY": 290,
@@ -22541,12 +22541,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4887,
                   "_lessonId": 1849,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-41bc8eae-142d-4daf-ab9a-0c3f9f19bb73",
                   "_index": 4,
-                  "name": "Joanna Rosario",
+                  "_name": "Joanna Rosario",
                   "_type": "Syllubus",
                   "_iconX": 56,
                   "_iconY": 238,
@@ -22557,12 +22557,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5633,
                   "_lessonId": 3544,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-fe0a1814-eab2-4071-b508-ed8d6338dbbd",
                   "_index": 5,
-                  "name": "Mai Soto",
+                  "_name": "Mai Soto",
                   "_type": "Syllubus",
                   "_iconX": 742,
                   "_iconY": 241,
@@ -22573,7 +22573,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4813,
                   "_lessonId": 4114,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22585,7 +22585,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-3af45a6f-514b-404d-a657-5c86b27e00a6",
                   "_index": 0,
-                  "name": "Blanche Trujillo",
+                  "_name": "Blanche Trujillo",
                   "_type": "Syllubus",
                   "_iconX": 295,
                   "_iconY": 14,
@@ -22596,12 +22596,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5118,
                   "_lessonId": 1623,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-05884aa2-7116-421d-972a-9a10218d71ad",
                   "_index": 1,
-                  "name": "Tabatha Bishop",
+                  "_name": "Tabatha Bishop",
                   "_type": "Syllubus",
                   "_iconX": 967,
                   "_iconY": 41,
@@ -22612,12 +22612,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2802,
                   "_lessonId": 5665,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5379bbc1-671d-49f3-be19-c35df14d3cc0",
                   "_index": 2,
-                  "name": "Contreras Robles",
+                  "_name": "Contreras Robles",
                   "_type": "Syllubus",
                   "_iconX": 811,
                   "_iconY": 570,
@@ -22628,12 +22628,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4301,
                   "_lessonId": 2594,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a9dbfe4f-edf4-4c0c-9a69-d0cb5168356c",
                   "_index": 3,
-                  "name": "Maureen Humphrey",
+                  "_name": "Maureen Humphrey",
                   "_type": "Syllubus",
                   "_iconX": 318,
                   "_iconY": 311,
@@ -22644,12 +22644,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2211,
                   "_lessonId": 5321,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-81587822-abf6-4adc-92d0-38b6d3313dc1",
                   "_index": 4,
-                  "name": "Lynn Conrad",
+                  "_name": "Lynn Conrad",
                   "_type": "Syllubus",
                   "_iconX": 748,
                   "_iconY": 235,
@@ -22660,12 +22660,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5653,
                   "_lessonId": 1196,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6051f821-4490-4fef-8ee8-5c327f6368da",
                   "_index": 5,
-                  "name": "Lancaster Hutchinson",
+                  "_name": "Lancaster Hutchinson",
                   "_type": "Syllubus",
                   "_iconX": 423,
                   "_iconY": 421,
@@ -22676,12 +22676,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5309,
                   "_lessonId": 2075,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e238e7fb-fc68-4ae6-be42-0ca5e2fc0339",
                   "_index": 6,
-                  "name": "Mollie Delacruz",
+                  "_name": "Mollie Delacruz",
                   "_type": "Syllubus",
                   "_iconX": 601,
                   "_iconY": 406,
@@ -22692,7 +22692,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1444,
                   "_lessonId": 4511,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22704,7 +22704,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-1d5ba071-dacc-467e-929d-887acf880fac",
                   "_index": 0,
-                  "name": "Lindsey Richard",
+                  "_name": "Lindsey Richard",
                   "_type": "Syllubus",
                   "_iconX": 253,
                   "_iconY": 563,
@@ -22715,12 +22715,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3117,
                   "_lessonId": 5187,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-40f0d695-7216-41e7-89a5-ee7f35c48bbd",
                   "_index": 1,
-                  "name": "Hollie Smith",
+                  "_name": "Hollie Smith",
                   "_type": "Syllubus",
                   "_iconX": 326,
                   "_iconY": 154,
@@ -22731,12 +22731,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2706,
                   "_lessonId": 5792,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-18bc4ea0-b114-4a4d-b38b-a4a4755ed79d",
                   "_index": 2,
-                  "name": "Lee Oneil",
+                  "_name": "Lee Oneil",
                   "_type": "Syllubus",
                   "_iconX": 76,
                   "_iconY": 230,
@@ -22747,12 +22747,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2834,
                   "_lessonId": 1702,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-19d196d1-9256-402d-be65-8594e2ab9226",
                   "_index": 3,
-                  "name": "Beatrice Mercado",
+                  "_name": "Beatrice Mercado",
                   "_type": "Syllubus",
                   "_iconX": 320,
                   "_iconY": 183,
@@ -22763,12 +22763,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4637,
                   "_lessonId": 4043,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7e3dccc9-1c07-4939-8dee-211c628a7151",
                   "_index": 4,
-                  "name": "Kinney Guzman",
+                  "_name": "Kinney Guzman",
                   "_type": "Syllubus",
                   "_iconX": 223,
                   "_iconY": 8,
@@ -22779,12 +22779,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1055,
                   "_lessonId": 3410,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-0358fea1-ab8a-4f7c-b92a-4ba1aaf3ce72",
                   "_index": 5,
-                  "name": "Carissa Jenkins",
+                  "_name": "Carissa Jenkins",
                   "_type": "Syllubus",
                   "_iconX": 893,
                   "_iconY": 10,
@@ -22795,7 +22795,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3965,
                   "_lessonId": 4485,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22807,7 +22807,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-ac2b1e52-1670-4a5f-8adc-a0b53a5424aa",
                   "_index": 0,
-                  "name": "Sharpe Burnett",
+                  "_name": "Sharpe Burnett",
                   "_type": "Syllubus",
                   "_iconX": 721,
                   "_iconY": 237,
@@ -22818,12 +22818,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4332,
                   "_lessonId": 4110,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7b0c424d-7aef-4ee5-944f-b5f736bf6833",
                   "_index": 1,
-                  "name": "Nannie Mcintosh",
+                  "_name": "Nannie Mcintosh",
                   "_type": "Syllubus",
                   "_iconX": 771,
                   "_iconY": 212,
@@ -22834,12 +22834,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3071,
                   "_lessonId": 4549,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-37071594-9129-4dca-ae3e-1271064540b6",
                   "_index": 2,
-                  "name": "Mckenzie Rosa",
+                  "_name": "Mckenzie Rosa",
                   "_type": "Syllubus",
                   "_iconX": 512,
                   "_iconY": 334,
@@ -22850,12 +22850,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3086,
                   "_lessonId": 1695,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-69956929-e6f1-44f2-8cc7-f64d8c89946a",
                   "_index": 3,
-                  "name": "Jocelyn Mcintyre",
+                  "_name": "Jocelyn Mcintyre",
                   "_type": "Syllubus",
                   "_iconX": 810,
                   "_iconY": 253,
@@ -22866,12 +22866,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4013,
                   "_lessonId": 2203,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7dd2493f-0c28-4e05-adde-ce382539358d",
                   "_index": 4,
-                  "name": "Mercer Workman",
+                  "_name": "Mercer Workman",
                   "_type": "Syllubus",
                   "_iconX": 408,
                   "_iconY": 407,
@@ -22882,12 +22882,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1055,
                   "_lessonId": 4657,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e394670e-5532-4cc1-9ed2-ee5f04850922",
                   "_index": 5,
-                  "name": "Valentine Pope",
+                  "_name": "Valentine Pope",
                   "_type": "Syllubus",
                   "_iconX": 198,
                   "_iconY": 279,
@@ -22898,12 +22898,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5517,
                   "_lessonId": 5770,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-44344532-7ed6-48d1-841f-7a2b0a86bbd8",
                   "_index": 6,
-                  "name": "Cohen Mclaughlin",
+                  "_name": "Cohen Mclaughlin",
                   "_type": "Syllubus",
                   "_iconX": 794,
                   "_iconY": 143,
@@ -22914,7 +22914,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2138,
                   "_lessonId": 4686,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -22926,7 +22926,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-b0b8291c-cb04-4198-b5a0-da88647d242b",
                   "_index": 0,
-                  "name": "Delgado Mcfadden",
+                  "_name": "Delgado Mcfadden",
                   "_type": "Syllubus",
                   "_iconX": 222,
                   "_iconY": 541,
@@ -22937,12 +22937,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2067,
                   "_lessonId": 3403,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-839500af-3c09-4d3d-9cd3-df3c04c0466a",
                   "_index": 1,
-                  "name": "Franklin Benson",
+                  "_name": "Franklin Benson",
                   "_type": "Syllubus",
                   "_iconX": 248,
                   "_iconY": 576,
@@ -22953,12 +22953,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3014,
                   "_lessonId": 4412,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b90ecb82-c165-43b0-8f11-a1b7687202d0",
                   "_index": 2,
-                  "name": "Reed Rush",
+                  "_name": "Reed Rush",
                   "_type": "Syllubus",
                   "_iconX": 736,
                   "_iconY": 232,
@@ -22969,12 +22969,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4840,
                   "_lessonId": 3993,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-569b6ce3-3ab0-4e12-8f1b-d34cd4fe9891",
                   "_index": 3,
-                  "name": "Hartman Jordan",
+                  "_name": "Hartman Jordan",
                   "_type": "Syllubus",
                   "_iconX": 1000,
                   "_iconY": 365,
@@ -22985,12 +22985,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3721,
                   "_lessonId": 1316,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-b9101ad1-4b36-438b-8646-d6ab751d0fe2",
                   "_index": 4,
-                  "name": "Mejia Dixon",
+                  "_name": "Mejia Dixon",
                   "_type": "Syllubus",
                   "_iconX": 178,
                   "_iconY": 511,
@@ -23001,12 +23001,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2420,
                   "_lessonId": 5372,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-1852915a-1ac7-4b81-91d5-86bd0c51933e",
                   "_index": 5,
-                  "name": "Elisabeth Morris",
+                  "_name": "Elisabeth Morris",
                   "_type": "Syllubus",
                   "_iconX": 710,
                   "_iconY": 138,
@@ -23017,12 +23017,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5377,
                   "_lessonId": 2118,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7868a72f-ca50-4c31-9ee6-09f41c765f79",
                   "_index": 6,
-                  "name": "Bowen Weeks",
+                  "_name": "Bowen Weeks",
                   "_type": "Syllubus",
                   "_iconX": 796,
                   "_iconY": 140,
@@ -23033,7 +23033,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1913,
                   "_lessonId": 2771,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }
@@ -23056,7 +23056,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-69743c11-8116-48df-94c2-e3d990fb2476",
                   "_index": 0,
-                  "name": "Small Douglas",
+                  "_name": "Small Douglas",
                   "_type": "Syllubus",
                   "_iconX": 43,
                   "_iconY": 406,
@@ -23067,12 +23067,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 3908,
                   "_lessonId": 4910,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-498e50e3-528b-4999-bc3e-40ada136eff6",
                   "_index": 1,
-                  "name": "Keith Wagner",
+                  "_name": "Keith Wagner",
                   "_type": "Syllubus",
                   "_iconX": 213,
                   "_iconY": 217,
@@ -23083,12 +23083,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4703,
                   "_lessonId": 2020,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-3aeeab5d-55b4-40b2-8a22-d3e38ddfd3ec",
                   "_index": 2,
-                  "name": "Leon Clark",
+                  "_name": "Leon Clark",
                   "_type": "Syllubus",
                   "_iconX": 801,
                   "_iconY": 86,
@@ -23099,12 +23099,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5771,
                   "_lessonId": 3043,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a0c88239-0d66-4217-93ad-9d11394b2dd7",
                   "_index": 3,
-                  "name": "Candace Moran",
+                  "_name": "Candace Moran",
                   "_type": "Syllubus",
                   "_iconX": 142,
                   "_iconY": 378,
@@ -23115,12 +23115,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4224,
                   "_lessonId": 4064,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-14bc716a-5390-4fa2-8ec1-a0323e6e3d03",
                   "_index": 4,
-                  "name": "Olga Medina",
+                  "_name": "Olga Medina",
                   "_type": "Syllubus",
                   "_iconX": 6,
                   "_iconY": 512,
@@ -23131,12 +23131,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4156,
                   "_lessonId": 5025,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-75a6269e-ef4b-4eff-8e95-0bf8234dc407",
                   "_index": 5,
-                  "name": "Cecilia Alvarez",
+                  "_name": "Cecilia Alvarez",
                   "_type": "Syllubus",
                   "_iconX": 366,
                   "_iconY": 294,
@@ -23147,12 +23147,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1655,
                   "_lessonId": 5756,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e2c3ac4d-40fa-42d5-bd49-9d79d937d4d5",
                   "_index": 6,
-                  "name": "Brigitte Burris",
+                  "_name": "Brigitte Burris",
                   "_type": "Syllubus",
                   "_iconX": 49,
                   "_iconY": 261,
@@ -23163,7 +23163,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5838,
                   "_lessonId": 3721,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23175,7 +23175,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e3382cb6-37e5-405b-8f4e-29d4abb6b387",
                   "_index": 0,
-                  "name": "Janette Irwin",
+                  "_name": "Janette Irwin",
                   "_type": "Syllubus",
                   "_iconX": 57,
                   "_iconY": 284,
@@ -23186,12 +23186,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1023,
                   "_lessonId": 5577,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-6857753a-59be-496b-bad4-177e9f6420cd",
                   "_index": 1,
-                  "name": "Phoebe Tyson",
+                  "_name": "Phoebe Tyson",
                   "_type": "Syllubus",
                   "_iconX": 851,
                   "_iconY": 1,
@@ -23202,12 +23202,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3811,
                   "_lessonId": 2465,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7a2334a7-bd93-409a-961f-882ce65a95c1",
                   "_index": 2,
-                  "name": "Roxie Crane",
+                  "_name": "Roxie Crane",
                   "_type": "Syllubus",
                   "_iconX": 835,
                   "_iconY": 418,
@@ -23218,12 +23218,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5084,
                   "_lessonId": 4981,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-a64be35f-2528-4a56-b739-0902bee5e00f",
                   "_index": 3,
-                  "name": "Briggs Ayers",
+                  "_name": "Briggs Ayers",
                   "_type": "Syllubus",
                   "_iconX": 485,
                   "_iconY": 38,
@@ -23234,12 +23234,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5379,
                   "_lessonId": 3752,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-19252bc3-d1b2-4133-a58c-08a369886141",
                   "_index": 4,
-                  "name": "Becky Garrison",
+                  "_name": "Becky Garrison",
                   "_type": "Syllubus",
                   "_iconX": 274,
                   "_iconY": 582,
@@ -23250,12 +23250,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2824,
                   "_lessonId": 4122,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-77669e95-4cdc-4631-b4e1-baf3bd62524b",
                   "_index": 5,
-                  "name": "Mason Sellers",
+                  "_name": "Mason Sellers",
                   "_type": "Syllubus",
                   "_iconX": 541,
                   "_iconY": 181,
@@ -23266,12 +23266,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5722,
                   "_lessonId": 1484,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-047896ba-538b-4aef-92e2-bd17d5c7dfc6",
                   "_index": 6,
-                  "name": "Sanford Gilmore",
+                  "_name": "Sanford Gilmore",
                   "_type": "Syllubus",
                   "_iconX": 527,
                   "_iconY": 297,
@@ -23282,7 +23282,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5460,
                   "_lessonId": 4194,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23294,7 +23294,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-03ee0f1e-ef5c-4bd3-86a1-5daa595ecadf",
                   "_index": 0,
-                  "name": "Cunningham Puckett",
+                  "_name": "Cunningham Puckett",
                   "_type": "Syllubus",
                   "_iconX": 73,
                   "_iconY": 423,
@@ -23305,12 +23305,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5985,
                   "_lessonId": 2563,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d4527641-68e3-4886-8fa2-1237fac2f645",
                   "_index": 1,
-                  "name": "Rosario Franks",
+                  "_name": "Rosario Franks",
                   "_type": "Syllubus",
                   "_iconX": 988,
                   "_iconY": 483,
@@ -23321,12 +23321,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2603,
                   "_lessonId": 4119,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e20be0ef-373c-4339-adfe-1a39dc9b6560",
                   "_index": 2,
-                  "name": "Kaye Camacho",
+                  "_name": "Kaye Camacho",
                   "_type": "Syllubus",
                   "_iconX": 233,
                   "_iconY": 13,
@@ -23337,12 +23337,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2598,
                   "_lessonId": 3979,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-121ae4cc-2cf9-4ebb-b542-a35591e74ee2",
                   "_index": 3,
-                  "name": "Beck Waters",
+                  "_name": "Beck Waters",
                   "_type": "Syllubus",
                   "_iconX": 294,
                   "_iconY": 86,
@@ -23353,12 +23353,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1594,
                   "_lessonId": 5315,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-7200b283-e2fa-4963-977e-60726a6fee65",
                   "_index": 4,
-                  "name": "Watson Park",
+                  "_name": "Watson Park",
                   "_type": "Syllubus",
                   "_iconX": 850,
                   "_iconY": 63,
@@ -23369,12 +23369,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2145,
                   "_lessonId": 3340,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-09c999c5-7c5d-4681-a507-d6ebf546951b",
                   "_index": 5,
-                  "name": "Sampson Day",
+                  "_name": "Sampson Day",
                   "_type": "Syllubus",
                   "_iconX": 517,
                   "_iconY": 343,
@@ -23385,12 +23385,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2109,
                   "_lessonId": 1480,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-919805db-4abf-4bde-9bf2-6946e29ea1ad",
                   "_index": 6,
-                  "name": "Jodi Lang",
+                  "_name": "Jodi Lang",
                   "_type": "Syllubus",
                   "_iconX": 427,
                   "_iconY": 392,
@@ -23401,7 +23401,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 1414,
                   "_lessonId": 3750,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23413,7 +23413,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-74f2c06a-7769-443b-a553-edfec09070a5",
                   "_index": 0,
-                  "name": "Ramos Avery",
+                  "_name": "Ramos Avery",
                   "_type": "Syllubus",
                   "_iconX": 226,
                   "_iconY": 462,
@@ -23424,12 +23424,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4132,
                   "_lessonId": 1543,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-be737af4-4459-42ba-8292-5f4dcbddae9a",
                   "_index": 1,
-                  "name": "Claudette Rodriquez",
+                  "_name": "Claudette Rodriquez",
                   "_type": "Syllubus",
                   "_iconX": 774,
                   "_iconY": 129,
@@ -23440,12 +23440,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 3677,
                   "_lessonId": 5256,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-65716ff6-f11a-4e56-9ddb-54550cde5893",
                   "_index": 2,
-                  "name": "Priscilla Schneider",
+                  "_name": "Priscilla Schneider",
                   "_type": "Syllubus",
                   "_iconX": 346,
                   "_iconY": 154,
@@ -23456,12 +23456,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1408,
                   "_lessonId": 5957,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-9e7d0f68-b6b1-4ac9-8f88-afc99cdf313a",
                   "_index": 3,
-                  "name": "Rosie Romero",
+                  "_name": "Rosie Romero",
                   "_type": "Syllubus",
                   "_iconX": 883,
                   "_iconY": 49,
@@ -23472,12 +23472,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5834,
                   "_lessonId": 1176,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-67a51cae-d187-4d4b-ada9-a790a899ac41",
                   "_index": 4,
-                  "name": "Fern Sheppard",
+                  "_name": "Fern Sheppard",
                   "_type": "Syllubus",
                   "_iconX": 95,
                   "_iconY": 323,
@@ -23488,7 +23488,7 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5283,
                   "_lessonId": 4731,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23500,7 +23500,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-48fb5ee5-ce10-47d0-a912-1f58cdf2e0a7",
                   "_index": 0,
-                  "name": "Tricia Hamilton",
+                  "_name": "Tricia Hamilton",
                   "_type": "Syllubus",
                   "_iconX": 496,
                   "_iconY": 503,
@@ -23511,12 +23511,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 2359,
                   "_lessonId": 1228,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-095b41c1-dae0-41e5-bead-1206a24a1094",
                   "_index": 1,
-                  "name": "Hooper Keller",
+                  "_name": "Hooper Keller",
                   "_type": "Syllubus",
                   "_iconX": 279,
                   "_iconY": 10,
@@ -23527,12 +23527,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5804,
                   "_lessonId": 3793,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-e6101c48-4d56-451e-b1bd-060f39fa88ca",
                   "_index": 2,
-                  "name": "Violet Galloway",
+                  "_name": "Violet Galloway",
                   "_type": "Syllubus",
                   "_iconX": 996,
                   "_iconY": 500,
@@ -23543,12 +23543,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5221,
                   "_lessonId": 2598,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-869de1d2-d1fe-4332-acb0-820a21cbb77d",
                   "_index": 3,
-                  "name": "Barbra Larsen",
+                  "_name": "Barbra Larsen",
                   "_type": "Syllubus",
                   "_iconX": 693,
                   "_iconY": 510,
@@ -23559,12 +23559,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4235,
                   "_lessonId": 4518,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-52d5015b-2fa8-46ce-9ce1-80125427bce1",
                   "_index": 4,
-                  "name": "Garner Langley",
+                  "_name": "Garner Langley",
                   "_type": "Syllubus",
                   "_iconX": 36,
                   "_iconY": 34,
@@ -23575,12 +23575,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 4055,
                   "_lessonId": 1302,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-ee4a1f5b-4286-4ae0-99d5-5f43080df1d3",
                   "_index": 5,
-                  "name": "Terra Macdonald",
+                  "_name": "Terra Macdonald",
                   "_type": "Syllubus",
                   "_iconX": 72,
                   "_iconY": 524,
@@ -23591,7 +23591,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1365,
                   "_lessonId": 1238,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23603,7 +23603,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-e52dbf0d-b8aa-4f8b-ad12-5b79106ef28f",
                   "_index": 0,
-                  "name": "Petty Shannon",
+                  "_name": "Petty Shannon",
                   "_type": "Syllubus",
                   "_iconX": 626,
                   "_iconY": 577,
@@ -23614,12 +23614,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1292,
                   "_lessonId": 3789,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-81686852-2808-40b4-b5bb-ef38b5654031",
                   "_index": 1,
-                  "name": "Dunlap Gould",
+                  "_name": "Dunlap Gould",
                   "_type": "Syllubus",
                   "_iconX": 278,
                   "_iconY": 412,
@@ -23630,12 +23630,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4675,
                   "_lessonId": 1391,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-f94e50ae-8760-410d-a5d7-32ab29307322",
                   "_index": 2,
-                  "name": "Sally Thompson",
+                  "_name": "Sally Thompson",
                   "_type": "Syllubus",
                   "_iconX": 863,
                   "_iconY": 109,
@@ -23646,12 +23646,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1248,
                   "_lessonId": 4776,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-5f6735f6-d9a2-487c-be3b-c8fcf87b9f91",
                   "_index": 3,
-                  "name": "Pugh Levine",
+                  "_name": "Pugh Levine",
                   "_type": "Syllubus",
                   "_iconX": 494,
                   "_iconY": 398,
@@ -23662,12 +23662,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4467,
                   "_lessonId": 3381,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-24211aac-dc53-4fdf-b72b-308df91deb45",
                   "_index": 4,
-                  "name": "Solomon Gonzales",
+                  "_name": "Solomon Gonzales",
                   "_type": "Syllubus",
                   "_iconX": 498,
                   "_iconY": 135,
@@ -23678,12 +23678,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5916,
                   "_lessonId": 4163,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-d96752dd-b4bc-42cd-9514-1718b625c5f8",
                   "_index": 5,
-                  "name": "Trujillo Maxwell",
+                  "_name": "Trujillo Maxwell",
                   "_type": "Syllubus",
                   "_iconX": 432,
                   "_iconY": 174,
@@ -23694,12 +23694,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 4173,
                   "_lessonId": 3817,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-4196c85f-1025-49c1-af92-66fe5de28a4d",
                   "_index": 6,
-                  "name": "Snyder Atkinson",
+                  "_name": "Snyder Atkinson",
                   "_type": "Syllubus",
                   "_iconX": 571,
                   "_iconY": 586,
@@ -23710,7 +23710,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1985,
                   "_lessonId": 3845,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             },
@@ -23722,7 +23722,7 @@ window.sampleData={
                 {
                   "_id": "Note_N-03078409-745e-41b7-9d14-9f7d4dcf8840",
                   "_index": 0,
-                  "name": "Lucinda Daniel",
+                  "_name": "Lucinda Daniel",
                   "_type": "Syllubus",
                   "_iconX": 780,
                   "_iconY": 78,
@@ -23733,12 +23733,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5072,
                   "_lessonId": 5376,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-47f5bada-1f14-48df-a301-06826053982c",
                   "_index": 1,
-                  "name": "Rosario Mason",
+                  "_name": "Rosario Mason",
                   "_type": "Syllubus",
                   "_iconX": 555,
                   "_iconY": 240,
@@ -23749,12 +23749,12 @@ window.sampleData={
                   "_isWindowExpanded": false,
                   "_slideId": 5236,
                   "_lessonId": 2729,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-bb292d4a-2f77-4703-b71a-f45f0f4c5a9d",
                   "_index": 2,
-                  "name": "Hurley Aguirre",
+                  "_name": "Hurley Aguirre",
                   "_type": "Syllubus",
                   "_iconX": 834,
                   "_iconY": 38,
@@ -23765,12 +23765,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 2232,
                   "_lessonId": 4681,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-56b88de0-c13b-44b4-8274-27d3998fab6b",
                   "_index": 3,
-                  "name": "Lacy Abbott",
+                  "_name": "Lacy Abbott",
                   "_type": "Syllubus",
                   "_iconX": 992,
                   "_iconY": 65,
@@ -23781,12 +23781,12 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 5107,
                   "_lessonId": 2672,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 },
                 {
                   "_id": "Note_N-c207ecf3-28d7-41bc-8cfe-a57c8fa0b99f",
                   "_index": 4,
-                  "name": "Butler Howell",
+                  "_name": "Butler Howell",
                   "_type": "Syllubus",
                   "_iconX": 829,
                   "_iconY": 13,
@@ -23797,7 +23797,7 @@ window.sampleData={
                   "_isWindowExpanded": true,
                   "_slideId": 1729,
                   "_lessonId": 2759,
-                  "data": "{__cdata:\"<p>something</p>\"}"
+                  "data": {__cdata:"<p>something</p>"}
                 }
               ]
             }

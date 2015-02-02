@@ -6,11 +6,9 @@
 }
 html{
   height: 100%;
-  overflow: hidden;
 }
 body{
   height: 100%;
-  overflow: hidden;
 }
 .container{
   height:100%;
@@ -182,6 +180,9 @@ div[ng-view]{
   transition:all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 .allNotes{
+  .container{
+    overflow: scroll;
+  }
   .notes-wrapper{
     .notes-widget{
       position: relative;

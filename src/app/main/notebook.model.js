@@ -57,7 +57,8 @@ function copy(source, destination) {
 }
 var data;
 angular.module('notes')
-  .factory("Notes", function ($http, alertMesssages, $timeout, x2js) {
+  .factory("Notes", function ($http, alertMesssages, $timeout, x2js,$q,$http) {
+    var baseUrl="http://192.168.11.82:8080/";
     var alerts = [];
 
     function Notes() {
@@ -93,6 +94,31 @@ angular.module('notes')
       //var k=x2js.xml_str2json(j);
       console.log("saving...", j);
     };
+    Notes.prototype.create = function () {
+      /*config:{
+        data:
+      }*/
+
+      var deferred= $q.defer();
+      var ob = {
+        note: {}
+      };
+      angular.copy(this, ob.note);
+      //   delete  ob.$$hashKey;
+      //ob.note.data={__cdata:this.data};
+      //  var k=JSON.stringify(ob);
+      var j = x2js.json2xml_str(ob);
+      //var k=x2js.xml_str2json(j);
+      console.log("saving...", j);
+      $http.post(baseUrl + "NextERP/nerp/data/44624/note/0.app",{data:j}).then(function (resp) {
+        console.log(resp);
+      }, function (resp) {
+        console.log("error", resp);
+      });
+      console.log("...saving page");
+      deferred.resolve();
+      return deferred.promise;
+    };
     Notes.prototype.delete = function () {
       console.log("delete...")
     };
@@ -106,10 +132,10 @@ angular.module('notes')
       alerts.splice(this.alerts.indexOf(this), 1);
     };
     Notes.prototype.increaseIndex = function () {
-      console.log("in increase index....");
+    /*  console.log("in increase index....");
       this.zIndex = window.maxIndex + 1;
       window.maxIndex = this.zIndex;
-      console.log(window.maxIndex);
+      console.log(window.maxIndex);*/
     };
     Notes.prototype.autoClose = function () {
       var k = this;
@@ -119,7 +145,7 @@ angular.module('notes')
     };
     return Notes;
   })
-  .factory('Page', function () {
+  .factory('Page', function (Notes,$q) {
     function Page() {
       this._id = "";
         this._index = "";
@@ -134,8 +160,18 @@ angular.module('notes')
         console.log("...delete page");
       };
       Page.prototype.getAllNotes = function () {
-       console.log("1");
-         //  return this.note;
+        var formattedData=[],sampleData=[];
+
+        angular.copy(this.note,sampleData);
+        console.log(sampleData);
+
+        for(var i= 0;i<sampleData.length;i++){
+          var page=new Notes();
+          copy(sampleData[i],page);
+          formattedData.push(page);
+        }
+        console.log(formattedData);
+        this.note=formattedData;
       };
       Page.prototype.deleteAllNotes = function () {
 
@@ -143,10 +179,27 @@ angular.module('notes')
       Page.prototype.createNewNote = function () {
 
       };
+    Page.prototype.create = function () {
+      var deferred= $q.defer();
+      var ob = {
+        page: {}
+      };
+      angular.copy(this, ob.page);
+      //   delete  ob.$$hashKey;
+      //ob.note.data={__cdata:this.data};
+      //  var k=JSON.stringify(ob);
+      var j = x2js.json2xml_str(ob);
+      //var k=x2js.xml_str2json(j);
+      console.log("saving...", j);
+      console.log("...saving page");
+      deferred.resolve();
+      return deferred.promise;
+    };
     return Page;
 
   })
-  .factory('Notebook', function (Page) {
+  .factory('Notebook', function (Page,$q) {
+    var baseUrl="http://192.168.11.82:8080/";
     function Notebook() {
       this._id = "";
       this._syllabusName = "";
@@ -159,8 +212,33 @@ angular.module('notes')
 
     };
 
-    Notebook.prototype.save = function () {
+    Notebook.prototype.create = function ($http) {
+      var deferred= $q.defer();
+      var ob = {
+        notebook: {}
+      };
+      angular.copy(this, ob.notebook);
+      //   delete  ob.$$hashKey;
+      //ob.note.data={__cdata:this.data};
+      //  var k=JSON.stringify(ob);
+      var j = x2js.json2xml_str(ob);
+      //var k=x2js.xml_str2json(j);
+      console.log("saving...", j);
       console.log("...saving page");
+      $http.post(baseUrl + "NextERP/nerp/data/44624/note/0.app",j).then(function (resp) {
+        console.log(resp);
+      }, function (resp) {
+        console.log("error", resp);
+      });
+      deferred.resolve();
+      return deferred.promise;
+    };
+    Notebook.prototype.save = function () {
+      var deferred= $q.defer();
+
+      console.log("...saving page");
+      deferred.resolve();
+      return deferred.promise;
     };
       Notebook.prototype.delete = function () {
         console.log("...delete page");
@@ -170,12 +248,11 @@ angular.module('notes')
 
         angular.copy(this.page,sampleData);
         console.log(sampleData);
-        //this.page=[];
-        for(var i= 0;i<=sampleData.length;i++){
+
+        for(var i= 0;i<sampleData.length;i++){
           var page=new Page();
           copy(sampleData[i],page);
           formattedData.push(page);
-
         }
         console.log(formattedData);
         this.page=formattedData;
@@ -190,7 +267,6 @@ angular.module('notes')
   })
   .service("x2js", function () {
     x2js = new X2JS({});
-    ;
     return x2js;
   })
   .factory("notesService", function (Notes, x2js,Notebook) {

@@ -1,13 +1,13 @@
 <div class="notes-wrapper" transclude-element ng-transclude>
-   <div  draggable resizable class="notes-widget inl-blk"  posx="notes.windowX" posy="notes.windowY" ng-mouseover='notes.increaseIndex()'
-         ng-style="{'z-index':notes.zIndex}"  ng-class="{'in-active':!notes.isWindowExpanded,'active':notes.isWindowExpanded}">
+   <div  draggable resizable class="notes-widget inl-blk"  posx="notes._windowX" posy="notes._windowY" ng-mouseover='notes.increaseIndex()'
+         ng-style="{'z-index':notes.zIndex}"  ng-class="{'in-active':!notes._isWindowExpanded,'active':notes._isWindowExpanded}">
 
     <div class="crud-commands inl-blk"></div>
     <div text-angular ng-model="notes.data.__cdata" ta-toolbar="[['bold','italics','underline','ul','color','fontsize']]"
     class="richtext-editor"></div>
    <!-- <alert ng-repeat="alert in notes.alerts" close="notes.closeAlert()">Saved SuccessFully</alert>-->
   </div>
-  <notes-icon draggable title="{{notes.name}}"  ng-dblclick="notes.toggle()" posx="notes.windowX" posy="notes.windowY" ng-mouseover='notes.increaseIndex()'
+  <notes-icon ng-if="!isAccordianPage" draggable title="{{notes._name}}"  ng-dblclick="notes.toggle()" posx="notes.windowX" posy="notes.windowY" ng-mouseover='notes.increaseIndex()'
               ng-style="{'z-index':notes.zIndex}"></notes-icon>
 
 </div>
