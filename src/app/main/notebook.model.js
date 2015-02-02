@@ -170,7 +170,7 @@ angular.module('notes')
 
         angular.copy(this.page,sampleData);
         console.log(sampleData);
-        this.page=[];
+        //this.page=[];
         for(var i= 0;i<=sampleData.length;i++){
           var page=new Page();
           copy(sampleData[i],page);
@@ -178,7 +178,7 @@ angular.module('notes')
 
         }
         console.log(formattedData);
-        return formattedData;
+        this.page=formattedData;
       };
       Notebook.prototype.deleteAllPages = function () {
 
@@ -187,7 +187,6 @@ angular.module('notes')
 
       };
     return Notebook;
-
   })
   .service("x2js", function () {
     x2js = new X2JS({});

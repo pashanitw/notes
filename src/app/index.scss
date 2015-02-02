@@ -181,3 +181,12 @@ div[ng-view]{
 .notes-wrapper{
   transition:all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
+.allNotes{
+  .notes-wrapper{
+    .notes-widget{
+      position: relative;
+      width: 100%;
+      transform: scale(1);
+    }
+  }
+}

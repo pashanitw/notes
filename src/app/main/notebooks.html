@@ -1,5 +1,5 @@
 <div>
-  <div class="container">
+  <div class="allNotes">
     <div>
       <div class="container">
         <div class="row">
@@ -17,11 +17,11 @@
                  ng-show="notebook._id==currentNotebook._id">
             <accordion>
 
-              <accordion-group ng-repeat="page in notebook.getAllPages()" is-open="page.open">
+              <accordion-group ng-repeat="page in notebook.page" is-open="page.open">
                 <accordion-heading>
                   {{page._name}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': page.open, 'glyphicon-chevron-right': !page.open}"></i>
                 </accordion-heading>
-
+                <notes-widget ng-repeat="notes in page.note"></notes-widget>
               </accordion-group>
             </accordion>
             </div>

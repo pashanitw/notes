@@ -9,6 +9,8 @@ angular.module('notes')
   //  console.log($scope.notebooks);
     $scope.changeCurrentNotebook=function(notebook){
       $scope.currentNotebook=notebook;
+      notebook.getAllPages();
+      console.log(notebook);
     }
 
   })
@@ -16,7 +18,7 @@ angular.module('notes')
 
     $scope.pages=[];
     $scope.getPages=function(id){
-      $scope.pages=notesService.getPages(id);
+     // $scope.pages=notesService.getPages(id);
     }
 
   });
