@@ -3,6 +3,7 @@
          ng-style="{'z-index':notes.zIndex}"  ng-class="{'in-active':!notes._isWindowExpanded,'active':notes._isWindowExpanded}">
 
     <div class="crud-commands inl-blk"></div>
+     <input type="text" placeholder="Enter ur title here" class="title-text" ng-focus="callFromTitle($event)" ng-model="notes._name"/>
     <div text-angular ng-model="notes.data.__cdata" ta-toolbar="[['bold','italics','underline','ul','color','fontsize']]"
     class="richtext-editor"></div>
    <!-- <alert ng-repeat="alert in notes.alerts" close="notes.closeAlert()">Saved SuccessFully</alert>-->

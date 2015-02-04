@@ -401,7 +401,7 @@
     // "intended" dx and dy to all the moving elements:
     var rp = $(this).data("jquery-ui-draggable-collision-recent-position");
 
-    if( DEBUG ) { console.log( "handleCollision ******************************************************************" ); }
+    if( DEBUG ) { void 0; }
 
     if( VISUAL_DEBUG ) $(".testdebug").remove();
 
@@ -536,7 +536,7 @@
         var $c = ilist[i].collider;
         var $o = ilist[i].obstacle;
         var $r = ilist[i].restraint;
-        if( DEBUG ) console.log( "trying inter,c,o,r=",ilist[i],$c,$o,$r)
+        if( DEBUG ) void 0
 
         // Add offset to coordinates before figuring out collisions, because we're basing it on "where its about to go", not "where it is":
         // (Don't do this for anything but colliders! Applying to obstacles or restrictions or containment screws things up!!)
@@ -547,7 +547,7 @@
         {
           // Calculate collisions separately from protrusions, as we might only prevent one or the other:
           var oc = $($c[ci]).collision( $o, { mode: "collision",  as: "<div />", colliderData: d1, obstacleData: d2, directionData: d3, relative: "body" } );
-          if( DEBUG ) { console.log( "collisions", oc ); }
+          if( DEBUG ) { void 0; }
 
           // Add the interaction settings to their data, so we can pick it apart later:
           oc.data( di, ilist[i] );
@@ -566,7 +566,7 @@
 
           // Calculate protrusions likewise:
           oc     = $($c[ci]).collision( $r, { mode: "protrusion", as: "<div />", colliderData: d1, obstacleData: d2, directionData: d3, relative: "body" } );
-          if( DEBUG ) { console.log( "protrusions", oc ); }
+          if( DEBUG ) { void 0; }
 
           // Add the interaction settings to their data, so we can pick it apart later:
           oc.data( di, ilist[i] );
@@ -605,7 +605,7 @@
         $(this).each( function(){ $(this).removeData( "jquery-collision-coordinates" ); } );
       }
 
-      if( DEBUG ) console.log("checking if we have any collisions at all...");
+      if( DEBUG ) void 0;
       // If there's no collisions, INCLUDING the container, stop now, don't keep doing stuff
       if( ( cocl.length <= 0 ) && ( pocl.length <= 0 ) && ( ccl.length <= 0 ) ) break;
 
@@ -614,18 +614,17 @@
       // Go through each interaction -- if any of them break the prevention rule, we aren't done adjusting yet
       for( var i=0; i<ilist.length; i++ )
       {
-        if( DEBUG ) console.log("checking adjustments for",ilist[i],"ccl=",ccl,
-          "pc,cl,pp,pl=",ilist[i].preventCollision, ilist[i].collisions.length, ilist[i].preventProtrusion, ilist[i].protrusions.length);
+        if( DEBUG ) void 0;
 
-        if( DEBUG ) console.log("checking if we overstepped our containment...");
+        if( DEBUG ) void 0;
         // If we aren't trying to prevent anything yet we SOMEHOW jumped our containment, stop - this shouldn't ever happen, DANGER, WILL ROBINSON!
         if( ( ! ilist[i].preventCollision ) && ( ! ilist[i].preventProtrusion ) && ( ccl.length > 0 ) )
         {
-          if( DEBUG ) { console.log( "not trying to prevent anything, but jumped our containment", ilist[i] ); }
+          if( DEBUG ) { void 0; }
           doneAdjusting = false;
         }
 
-        if( DEBUG ) console.log("checking if we want to block something we have collided with...");
+        if( DEBUG ) void 0;
         // More specifically, if aren't any collisions that we actually want to prevent, stop -- though we have to think of this in the opposite sense:
         // if we DO either
         //   want to prevent collisions yet have a collision or containment failure, OR
@@ -634,22 +633,22 @@
         if( ( ilist[i].preventCollision  && ( ( ilist[i].collisions .length > 0 ) || ( ccl.length > 0 ) ) ) ||
           ( ilist[i].preventProtrusion && ( ( ilist[i].protrusions.length > 0 ) || ( ccl.length > 0 ) ) )    )
         {
-          if( DEBUG ) { console.log( "trying to prevent something that we're still hitting", ilist[i] ); }
+          if( DEBUG ) { void 0; }
           doneAdjusting = false;
         }
       }
 
       if( doneAdjusting )
       {
-        if( DEBUG ) { console.log( "done adjusting" ); }
+        if( DEBUG ) { void 0; }
         break;
       }
 
-      if( DEBUG ) console.log("calculating delta with ocl,ccl=",ocl,ccl);
+      if( DEBUG ) void 0;
       // Calculate a delta to move, based on collisions+protrusions and containment
       var d = delta( ocl.concat(), ccl, deltaCache );
 
-      if( DEBUG ) console.log("dx=",d.dx,"dy=",d.dy);
+      if( DEBUG ) void 0;
       // If there's nothing to do, stop -- it shouldn't happen if we had collisions, but...
       if( d.dx == 0 && d.dy == 0 ) break;
 
@@ -673,10 +672,7 @@
       ( o.preventProtrusion && ( pocl.length > 0 ) ) || // if we have a protrusion and are trying to prevent protrusions, revert
       ( o.preventCollision  && ( cocl.length > 0 ) ) )  // if we have a collision and are trying to prevent collisions, revert
     {
-      if( DEBUG ) console.log("reverting, i=",iter,"maxiter=",maxiter,"cocl=",cocl,"cocl.len=",cocl.length,"pocl=",
-        pocl,"pocl.len=",pocl.length,"ccl=",ccl,"ccl.len=",ccl.length,
-        //"newd=",newd,"origd=",origd,
-        "origdx=",origdx,"origdy=",origdy,"dx=",dx,"dy=",dy);
+      if( DEBUG ) void 0;
       ui.position.left = origleft;
       ui.position.top  = origtop;
     }
@@ -785,7 +781,7 @@
   {
     var c = collisions.concat(containments).sort( collisionComparison );
     if( VISUAL_DEBUG ) { if(!cache.deltanum){ cache.deltanum = 1; } };
-    if( DEBUG ) { console.log( "collisions, in order: ", c.map(function(e,i,a){return e.collisionCoords.hash();}).join(",") ); }
+    if( DEBUG ) { void 0; }
     while( c.length > 0 )
     {
       // note _pop_ not _shift_. we want to grab furthest collision from center of mass first...
@@ -804,12 +800,11 @@
         : ( cc.centery() > co.centery() ? +1 : -1 ) );
       var dx = thisc.embedx( dirx );
       var dy = thisc.embedy( diry );
-      if( DEBUG ) console.log("cv,cc,co,ct,dx,dy,thisc.dx,thisc.dy,dirx,diry,co.centerx,co.centery,cc.centerx,cc.centery,key=",
-        cv.hash(),cc.hash(),co.hash(),ct,dx,dy,thisc.dx,thisc.dy,dirx,diry,co.centerx(),co.centery(),cc.centerx(),cc.centery(),key);
+      if( DEBUG ) void 0;
       var tryToAdjustDX = ( dx < dy );
-      if(      key in cache && cache[key] == "tried reverse" ) { if( DEBUG ) console.log("but already tried reverse too...");
+      if(      key in cache && cache[key] == "tried reverse" ) { if( DEBUG ) void 0;
         continue; }
-      else if( key in cache && cache[key] == "tried normal"  ) { if( DEBUG ) console.log("but already tried this...");
+      else if( key in cache && cache[key] == "tried normal"  ) { if( DEBUG ) void 0;
         tryToAdjustDX=!tryToAdjustDX; cache[key]="tried reverse";
       }
       else                                                     { cache[key]="tried normal"; }

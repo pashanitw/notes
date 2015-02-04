@@ -35,7 +35,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
          }
 
          scope.$watch('color.color', function (oldval,newVal) {
-           console.log(scope.color,newVal);
+           void 0;
            return scope.$editor().wrapSelection('foreColor',scope.color.color)
          });
           // return this.$editor().wrapSelection('foreColor', this.$editor().color);
@@ -100,7 +100,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
          }
 
          scope.$watch('fontsize.model', function (oldval,newVal) {
-           console.log(scope.fontsize);
+           void 0;
            return scope.$editor().wrapSelection('fontSize',scope.fontsize.model)
          });
        }
@@ -244,6 +244,17 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       }
     }
   })
+  .directive('pretag', function () {
+    return {
+      restrict: 'E',
+      replace:true,
+      template: '<pre>' +
+      '</pre>',
+      link: function (scope, elem, attr,ctrl) {
+           console.log("in pre element");
+      }
+    }
+  })
   .directive('textEditor', function () {
     return {
       restrict: 'A',
@@ -252,7 +263,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
         posy:"="
       },
       link: function (scope, elem, attr,ctrl) {
-        debugger;
+
        elem.css({"left":scope.posx,"top":scope.posy});
 
       }
@@ -265,25 +276,29 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     this.alert[2]="Succcessfully Deleted";
     this.alert[3]="Save Failed";
   })
-  .directive('notesWidget', function () {
+  .directive('notesWidget', function ($compile) {
     return {
       restrict: 'E',
       scope:{},
       replace:true,
       controller: function () {
         this.makeAnnouncement = function (message) {
-          console.log("Country says: " + message);
+          void 0;
         };
       },
       templateUrl:'components/templates/noteswidget.html' ,
       link: function (scope, elem, attr) {
-
-        scope.minimize=function(){
+        elem.find('.ta-scroll-window > .ta-bind').keydown(function(event){
+          debugger;
+          console.log("clicking")
+        });
+               scope.minimize=function(){
           elem.find('.notes-widget').removeClass('active');
         }
       }
     }
   })
+
   .directive('transcludeElement', function() {
   return {
     restrict: 'A',

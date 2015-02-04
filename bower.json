@@ -19,7 +19,8 @@
     "angular-dragdrop": "~1.0.11",
     "angularjs-toaster": "~0.4.10",
     "angular-bootstrap-colorpicker": "~3.0.11",
-    "rangy": "~1.2.3"
+    "rangy": "~1.2.3",
+    "ng-scrollbar": "~0.0.7"
   },
   "resolutions": {
     "jquery": "~1.11.1",

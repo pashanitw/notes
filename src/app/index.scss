@@ -30,6 +30,11 @@ body{
 .inl-blk{
   display: inline-block;
 }
+.canvas{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
 .notes-widget{
   min-width:378px;
   height: 200px;
@@ -37,6 +42,20 @@ body{
  // transform: scale(0);
   transform-origin: 0% 0%;
   position: absolute;
+  .title-text{
+    position: absolute;
+    z-index: 100;
+    top: 36px;
+    width: 40%;
+    background-color: #FFD801;
+    border:0;
+    margin: 0 auto;
+    margin-left: 20px;
+    &:focus {
+      outline-width: 0;
+    }
+
+  }
   .fontsize{
     .visible{
       display: block !important;
@@ -157,6 +176,7 @@ body{
     background-color:#FFD801;
   }
   .ta-scroll-window > .ta-bind{
+    padding-top: 30px;
     min-height: 100%;
   }
   .ta-toolbar{
@@ -181,7 +201,6 @@ div[ng-view]{
 }
 .allNotes{
   .container{
-    overflow: scroll;
   }
   .notes-wrapper{
     .notes-widget{

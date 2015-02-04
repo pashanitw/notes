@@ -1,52 +1,38 @@
-/*
- [
- '{{repeat(5, 7)}}',{
- "list":[
- '{{repeat(5, 7)}}',{
- "notebook": [
- '{{repeat(5, 7)}}',
- {
- "_id": "{{integer(1000, 6000)}}",
+function DeleteUnnecessaryKeys(ob, type) {
+  var duplicate = {}, data;
+  copy(ob, duplicate);
+  switch (type) {
+    case "Notebook":
+      data = {
+        "notebook": deleteKeys(duplicate, "page")
+      };
+      break;
+    case "Page":
+      data = {
+        "page": deleteKeys(duplicate, "note")
+      };
+      break;
+    case "Note":
+      data = {
+        "note": deleteKeys(duplicate, "data")
+      };
+      break;
+  }
+  return x2js.json2xml_str(data);
+}
+function deleteKeys(ob,escape){
+ for(var key in ob){
+   if(ob.hasOwnProperty(key)){
+     if(!key.match(/^_.+/)){
+       if(key!=escape){
+         delete ob[key];
+       }
+     }
+   }
+ }
+  return ob;
+}
 
- "_syllabusName": "CBSE-XII-{{firstName()}}",
- "_syllabusId": "{{integer(10, 100)}}",
- "_type": "Syllabus",
- "_status": "Active",
- "_index":"{{index()}}",
- "_name":"Notebook_{{index()}}",
- "page": {
- "_id": "Page_{{guid()}}",
- "_index": "{{index()}}",
- "_name": "LearnNext-Page-{{index()}}",
- note:[
- '{{repeat(5, 7)}}',
- {
- _id: 'Note_N-{{guid()}}',
- _index:'{{index()}}',
- name: '{{firstName()}} {{surname()}}',
- _type:"Syllubus",
- _iconX:'{{integer(0, 1000)}}',
- _iconY:'{{integer(0, 600)}}',
- _windowX:'{{integer(0, 1000)}}',
- _windowY:'{{integer(0, 600)}}',
- _windowWidth:'{{integer(300, 600)}}',
- _windowHeight:'{{integer(200, 600)}}',
- _isWindowExpanded: '{{bool()}}',
- _slideId:'{{integer(1000, 6000)}}',
- _lessonId:'{{integer(1000, 6000)}}',
- data:'{__cdata:"<p>something</p>"}'
-
- }
- ]
- }
- }
- ]
- }
-
- ]
- }
- ]
- * */
 
 function copy(source, destination) {
   for (var key in source) {
@@ -57,6 +43,14 @@ function copy(source, destination) {
 }
 var data;
 angular.module('notes')
+  .factory("sendRequest",function($q,$http){
+    return function(url,methodType,config,data){
+      if(methodType=="POST"){
+        debugger;
+       return $http.post(url,data,config)
+      }
+    }
+  })
   .factory("Notes", function ($http, alertMesssages, $timeout, x2js,$q,$http) {
     var baseUrl="http://192.168.11.82:8080/";
     var alerts = [];
@@ -78,7 +72,7 @@ angular.module('notes')
       this._lessonId = "";
       this.data = {__cdata: ""}
       this.zIndex = 0;
-    };
+    }
     Notes.prototype.minimize = function () {
       this.isWindowExpanded = false;
     };
@@ -88,39 +82,21 @@ angular.module('notes')
       };
       angular.copy(this, ob.note);
       delete  ob.$$hashKey;
-      //ob.note.data={__cdata:this.data};
-      //  var k=JSON.stringify(ob);
       var j = x2js.json2xml_str(ob);
-      //var k=x2js.xml_str2json(j);
-      console.log("saving...", j);
+      void 0;
     };
     Notes.prototype.create = function () {
-      /*config:{
-        data:
-      }*/
-
-      var deferred= $q.defer();
-      var ob = {
-        note: {}
-      };
-      angular.copy(this, ob.note);
-      //   delete  ob.$$hashKey;
-      //ob.note.data={__cdata:this.data};
-      //  var k=JSON.stringify(ob);
-      var j = x2js.json2xml_str(ob);
-      //var k=x2js.xml_str2json(j);
-      console.log("saving...", j);
-      $http.post(baseUrl + "NextERP/nerp/data/44624/note/0.app",{data:j}).then(function (resp) {
-        console.log(resp);
-      }, function (resp) {
-        console.log("error", resp);
-      });
-      console.log("...saving page");
-      deferred.resolve();
-      return deferred.promise;
+      var url="data/44624/noteBook/Syllabus/0.app";
+      var data=DeleteUnnecessaryKeys(this,this.type);
+      var config={
+        params :{
+          data:data
+        }
+      }
+      sendRequest(url,"POST",config,data);
     };
     Notes.prototype.delete = function () {
-      console.log("delete...")
+      void 0
     };
     Notes.prototype.minimize = function () {
       this.isWindowExpanded = false;
@@ -154,23 +130,23 @@ angular.module('notes')
     }
 
     Page.prototype.save = function () {
-      console.log("...saving page");
+      void 0;
     };
       Page.prototype.delete = function () {
-        console.log("...delete page");
+        void 0;
       };
       Page.prototype.getAllNotes = function () {
         var formattedData=[],sampleData=[];
 
         angular.copy(this.note,sampleData);
-        console.log(sampleData);
+        void 0;
 
         for(var i= 0;i<sampleData.length;i++){
           var page=new Notes();
           copy(sampleData[i],page);
           formattedData.push(page);
         }
-        console.log(formattedData);
+        void 0;
         this.note=formattedData;
       };
       Page.prototype.deleteAllNotes = function () {
@@ -180,81 +156,68 @@ angular.module('notes')
 
       };
     Page.prototype.create = function () {
-      var deferred= $q.defer();
-      var ob = {
-        page: {}
+      var url="data/44624/noteBook/Syllabus/0.app";
+      this._id=0;
+      var data=DeleteUnnecessaryKeys(this,this.type);
+      var config={
+        params :{
+          data:data
+        }
       };
-      angular.copy(this, ob.page);
-      //   delete  ob.$$hashKey;
-      //ob.note.data={__cdata:this.data};
-      //  var k=JSON.stringify(ob);
-      var j = x2js.json2xml_str(ob);
-      //var k=x2js.xml_str2json(j);
-      console.log("saving...", j);
-      console.log("...saving page");
-      deferred.resolve();
-      return deferred.promise;
+     return  sendRequest(url,"POST",config,data).then(function(){
+      });
     };
     return Page;
 
   })
-  .factory('Notebook', function (Page,$q) {
-    var baseUrl="http://192.168.11.82:8080/";
+  .factory('Notebook', function (Page,$q,$http,sendRequest) {
     function Notebook() {
       this._id = "";
       this._syllabusName = "";
       this._syllabusId = "";
-      this.type = "";
-      this.status = "";
+      this._type = "";
+      this._status = "";
       this._index = "";
         this._name = "";
       this.page = [];
+      this.type="Notebook"
+    }
 
-    };
-
-    Notebook.prototype.create = function ($http) {
-      var deferred= $q.defer();
-      var ob = {
-        notebook: {}
+    Notebook.prototype.create = function () {
+      this._id=0;
+      var url="data/44624/noteBook/Syllabus/0.app";
+      var data=DeleteUnnecessaryKeys(this,this.type);
+      var config={
+        params :{
+          data:data
+        }
       };
-      angular.copy(this, ob.notebook);
-      //   delete  ob.$$hashKey;
-      //ob.note.data={__cdata:this.data};
-      //  var k=JSON.stringify(ob);
-      var j = x2js.json2xml_str(ob);
-      //var k=x2js.xml_str2json(j);
-      console.log("saving...", j);
-      console.log("...saving page");
-      $http.post(baseUrl + "NextERP/nerp/data/44624/note/0.app",j).then(function (resp) {
-        console.log(resp);
-      }, function (resp) {
-        console.log("error", resp);
+      return sendRequest(url,"POST",config,data).then(function(){
+
       });
-      deferred.resolve();
-      return deferred.promise;
     };
     Notebook.prototype.save = function () {
       var deferred= $q.defer();
 
-      console.log("...saving page");
+      void 0;
       deferred.resolve();
       return deferred.promise;
     };
       Notebook.prototype.delete = function () {
-        console.log("...delete page");
+        void 0;
       };
       Notebook.prototype.getAllPages = function () {
         var formattedData=[],sampleData=[];
 
         angular.copy(this.page,sampleData);
-        console.log(sampleData);
+        void 0;
 
         for(var i= 0;i<sampleData.length;i++){
           var page=new Page();
           copy(sampleData[i],page);
           formattedData.push(page);
         }
-        console.log(formattedData);
+        void 0;
         this.page=formattedData;
       };
       Notebook.prototype.deleteAllPages = function () {
@@ -298,14 +261,7 @@ angular.module('notes')
       return formattedData;
     }
     function getData() {
-      var formattedData = [];
-      data.forEach(function (item) {
-        var dest = new Notebook();
-        copy(item, dest);
-        console.log(dest);
-        formattedData.push(dest);
-      });
-      return formattedData;
+
     }
     return {
       getData: getData,

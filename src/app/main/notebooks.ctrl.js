@@ -10,7 +10,7 @@ angular.module('notes')
     $scope.changeCurrentNotebook=function(notebook){
       $scope.currentNotebook=notebook;
       notebook.getAllPages();
-      console.log(notebook);
+      void 0;
     }
     $scope.noteBook={
       name:''
@@ -19,10 +19,10 @@ angular.module('notes')
       var notebook=new Notebook();
       notebook._name=$scope.noteBook.name;
       notebook.create().then(function(){
-        console.log("new book is",notebook);
+        void 0;
         $scope.notebooks.push(notebook);
       },function(){
-        console.log("error in creating notebook");
+        void 0;
       });
     };
 
@@ -43,7 +43,7 @@ angular.module('notes')
       page.create().then(function(){
         $scope.currentNotebook.page.push(page);
       },function(){
-        console.log("error in creating notebook");
+        void 0;
       });
     };
     $scope.noteCreate =function(noteCollection){
@@ -52,14 +52,14 @@ angular.module('notes')
       notes.create().then(function(){
         noteCollection.push(notes);
       },function(){
-        console.log("error in creating notebook");
+        void 0;
       });
     };
     $scope.getPages=function(id){
      // $scope.pages=notesService.getPages(id);
     };
     $scope.pageClicked=function(page){
-      console.log("page clicked");
+      void 0;
       page.getAllNotes();
     };
       $scope.createPage=function(){

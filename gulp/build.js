@@ -46,7 +46,6 @@ gulp.task('html', ['inject', 'partials'], function () {
     .pipe(jsFilter.restore())
     .pipe(cssFilter)
     .pipe($.replace('../bootstrap-sass-official/assets/fonts/bootstrap', 'fonts'))
-    .pipe($.csso())
     .pipe(cssFilter.restore())
     .pipe(assets.restore())
     .pipe($.useref())
@@ -83,4 +82,11 @@ gulp.task('clean', function (done) {
   $.del([paths.dist + '/', paths.tmp + '/'], done);
 });
 
+var stripDebug = require('gulp-strip-debug');
+
+gulp.task('rmconsole', function () {
+  return gulp.src(paths.src+"/**/*.js")
+    .pipe(stripDebug())
+    .pipe(gulp.dest(paths.src));
+});
 gulp.task('build', ['html', 'images', 'fonts', 'misc']);

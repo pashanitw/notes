@@ -3,13 +3,15 @@
 angular.module('notes')
   .controller('MainCtrl', function ($scope,alertMesssages,$timeout,notesService,Notes) {
 
-
-    $scope.items=notesService.getData();
-    console.log($scope.items);
+var note=new Notes();
+    //note.data.__cdata="<p><input value='something' contenteditable='false'></p>";
+    $scope.items=[new Notes(),note];
+    void 0;
     window.maxIndex=200;
-
-    $scope.addItem=function(){
-      var note=new Notes();
-      $scope.items.push(note);
+    $scope.callFromTitle=function($event){
+      $event.preventDefault();
+      $event.stopPropagation();
+      console.log("focus event");
     }
+
   });
