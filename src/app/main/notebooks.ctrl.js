@@ -1,11 +1,10 @@
 'use strict';
 
 angular.module('notes')
-  .controller('NotebooksCtrl', function ($scope,alertMesssages,$timeout,notesService,Notes,Notebook) {
+  .controller('NotebooksCtrl', function ($scope,alertMesssages,$timeout,notesService,Notes,Notebook,$modal) {
 
 
     $scope.notebooks=notesService.getNoteBooks();
-    $scope.currentNotebook=$scope.notebooks[0];
   //  console.log($scope.notebooks);
     $scope.changeCurrentNotebook=function(notebook){
       $scope.currentNotebook=notebook;
@@ -15,7 +14,7 @@ angular.module('notes')
     $scope.noteBook={
       name:''
     };
-    $scope.createNotebook=function(){
+/*    $scope.createNotebook=function(){
       var notebook=new Notebook();
       notebook._name=$scope.noteBook.name;
       notebook.create().then(function(){
@@ -24,9 +23,42 @@ angular.module('notes')
       },function(){
         void 0;
       });
+    };*/
+    $scope.createNotebook = function (size) {
+
+      var modalInstance = $modal.open({
+        templateUrl: 'myModalContent.html',
+        controller: 'ModalInstanceCtrl',
+        size: size,
+        resolve: {
+          items: function () {
+            return $scope.items;
+          }
+        }
+      });
+
+      modalInstance.result.then(function (selectedItem) {
+        console.log(selectedItem);
+      }, function () {
+        $log.info('Modal dismissed at: ' + new Date());
+      });
     };
 
+
   })
+  .controller('ModalInstanceCtrl', function ($scope, $modalInstance, items) {
+
+    $scope.noteBook={
+      name:''
+    };
+  $scope.ok = function () {
+    $modalInstance.close($scope.noteBook);
+  };
+
+  $scope.cancel = function () {
+    $modalInstance.dismiss('cancel');
+  };
+})
   .controller('PageCtrl', function ($scope,alertMesssages,$timeout,notesService,Notes,Page) {
 
     $scope.pages=[];

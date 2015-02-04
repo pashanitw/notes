@@ -54,22 +54,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '</div>',
        disabled: function() {
 
-         // runs as an init function
-
-         // hack to get around the errors thrown by textAngular
-         // because it didn't get to store a pointer to the editor,
-         // because it's not focused.
-
-
          var self = this;
-
-         // insert all qtMethods into the scope
-
-/*
-          Object.keys(qtMethods).forEach(function(key) {
-          self[key] = qtMethods[key];
-          });
-*/
 
 
          this.isDisabled = function() {
@@ -114,7 +99,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       restrict: 'AC',
       replace:true,
       template: "<div class='btn-group'>" +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.save()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
+      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.create()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
       '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
       '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.minimize()"><i class="fa fa-minus-square"></i></button>' +
       "</div>",
@@ -153,43 +138,39 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       }
     }
   })
-  .directive('draggable', function (positionService) {
+  .directive('draggable', function (positionService,$parse) {
     return {
       restrict: 'A',
       compile: function(tElement, tAttrs, transcludeFn) {
 
         return function (scope, el, tAttrs) {
-          el.draggable({
-            revert:'invalid',
-            obstacle: ".notes-icon",
-            preventCollision: true,
-            containment: ".container",
-            drag:function(){
-              /*            var offset = $(this).offset();
-               var xPos = offset.left;
-               var yPos = offset.top;*/
-              //console.log(xPos,yPos,$(this).parent().offset().left,$(this).parent().offset().top);
-            },
-            stop:function(){
-              /*if($(this).hasClass("notes-icon")){
-               var offset = $(this).offset();
+         var isDraggable=$parse(tAttrs.draggable)(scope);
+          var isolateScope=el.isolateScope();
+          if(isDraggable){
+            el.draggable({
+              revert: 'invalid',
+              obstacle: ".notes-icon",
+              preventCollision: true,
+              containment: ".container",
+              drag: function () {
+
+              },
+              stop:function(){
+             if(isolateScope){
+               var offset = el.offset();
                var xPos = offset.left;
                var yPos = offset.top;
-               var pos=positionService.returnPosition(xPos,yPos,$('.container').offset().left,$('.container').offset().top,
-               $('.container').width(),$('.container').height(),elem.siblings().width(),elem.siblings().height());
-               if(pos){
-               elem.siblings().css("left",(pos.a-elem.siblings().width())+"px")
-               elem.siblings().css("top",pos.b+"px");
-               if(pos.pos=="br"){
-               elem.siblings().css("transform-origin","100% 0%");
+               isolateScope.posx = xPos;
+               isolateScope.posy = yPos;
+               if(tAttrs.hasOwnProperty("windowWidth")&&tAttrs.hasOwnProperty("windowHeight")){
+                 isolateScope.windowWidth=el.width();
+                 isolateScope.windowHeight=el.height();
                }
-               }else{
-               console.log("cannotfit");
-               }
-               }*/
+             }
 
-            }
-          });
+              }
+            });
+          }
         };
       }
       /*,
@@ -222,6 +203,19 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       returnPosition:returnPosition
     }
   })
+  .directive('position', function () {
+    return {
+      restrict: 'A',
+      scope:{
+        posx:"=",
+        posy:"=",
+        windowWidth:"=",
+        windowHeight:"="
+      },
+      link: function (scope, elem, attr,ctrl) {
+      }
+    }
+  })
   .directive('notesIcon', function () {
     return {
       restrict: 'E',
@@ -238,20 +232,6 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '</div>' +
       '</div>',
       link: function (scope, elem, attr,ctrl) {
-       elem.css({"left":scope.posx,"top":scope.posy});
-        elem.siblings().css({"left":scope.posx,"top":scope.posy});
-
-      }
-    }
-  })
-  .directive('pretag', function () {
-    return {
-      restrict: 'E',
-      replace:true,
-      template: '<pre>' +
-      '</pre>',
-      link: function (scope, elem, attr,ctrl) {
-           console.log("in pre element");
       }
     }
   })
@@ -263,8 +243,6 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
         posy:"="
       },
       link: function (scope, elem, attr,ctrl) {
-
-       elem.css({"left":scope.posx,"top":scope.posy});
 
       }
     }
@@ -288,10 +266,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       },
       templateUrl:'components/templates/noteswidget.html' ,
       link: function (scope, elem, attr) {
-        elem.find('.ta-scroll-window > .ta-bind').keydown(function(event){
-          debugger;
-          console.log("clicking")
-        });
+
                scope.minimize=function(){
           elem.find('.notes-widget').removeClass('active');
         }

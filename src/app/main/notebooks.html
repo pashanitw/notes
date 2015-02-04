@@ -20,6 +20,26 @@
             </div>
           </div>
           <div class="col-sm-9 col-md-9">
+
+              <div class="panel-group panel panel-default notebook-head">
+                <div class="btn-group" dropdown is-open="status.isopen">
+                  <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">
+                    select Notebook<span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu" role="menu">
+                   <li ng-repeat="notebook in notebooks"
+                     ng-click="changeCurrentNotebook(notebook)">
+                     <a >{{notebook._name}}</a>
+                   </li>
+                    <li><a ng-click="createNotebook()">create Notebook</a></li>
+                  </ul>
+                </div>
+                <div ng-if="currentNotebook._name" class="current-head">
+                  <h4>{{currentNotebook._name}}</h4>
+                  <button type="button" class="btn btn-default"  tabindex="-1" ng-click="currentNotebook.delete()"><i class="fa fa-times"></i></button>
+                </div>
+              </div>
+
             <div ng-controller="PageCtrl" ng-repeat="notebook in notebooks"
                  ng-if="notebook._id==currentNotebook._id">
               <div>
@@ -30,18 +50,27 @@
             <accordion>
 
               <accordion-group ng-repeat="page in currentNotebook.page" is-open="page.open" >
-                <but class="btn btn-delete" ng-click="page.delete()">delete</but>
+                <button class="btn btn-delete" ng-click="page.delete()">delete</button>
                 <accordion-heading>
                   <a href="" ng-click="pageClicked(page)">
                     {{page._name}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': page.open, 'glyphicon-chevron-right': !page.open}"></i>
-                  </a></accordion-heading>
+                  </a>
+                  <button type="button" class="btn btn-default"  tabindex="-1" ng-click="page.delete()"><i class="fa fa-times"></i></button>
+                </accordion-heading>
                 <div>
                   <input type="text" ng-model="notesModel.name"/>
                   <button class="btn btn-default btn-primary" ng-click="noteCreate(page.note)">
                     Create Note</button>
                 </div>
-                <accordion>
-                <notes-widget ng-repeat="notes in page.note" ng-if="page.open" ></notes-widget>
+                <accordion class="child-note-panel">
+                  <accordion-group ng-repeat="notes in page.note" is-open="notes._isWindowExpanded" >
+                    <accordion-heading>
+                      <a href="">
+                        {{notes._name}} <i class="pull-right glyphicon"></i>
+                      </a></accordion-heading>
+                    <notes-widget></notes-widget>
+                  </accordion-group>
+                </accordion>
               </accordion-group>
             </accordion>
             </div>
@@ -50,5 +79,21 @@
         </div>
       </div>
     </div>
+  </div>
+  <div ng-controller="NotebooksCtrl">
+    <script type="text/ng-template" id="myModalContent.html">
+      <div class="modal-header">
+        <h3 class="modal-title">I'm a modal!</h3>
+      </div>
+      <div class="modal-body">
+
+       Name: <b><input type="text" ng-model="noteBook.name"/></b>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="ok()">OK</button>
+        <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+      </div>
+    </script>
+
   </div>
 </div>

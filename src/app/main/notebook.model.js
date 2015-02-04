@@ -72,37 +72,39 @@ angular.module('notes')
       this._lessonId = "";
       this.data = {__cdata: ""}
       this.zIndex = 0;
+      this.type="Note";
     }
     Notes.prototype.minimize = function () {
-      this.isWindowExpanded = false;
+      this._isWindowExpanded = false;
     };
     Notes.prototype.save = function () {
       var ob = {
         note: {}
       };
       angular.copy(this, ob.note);
-      delete  ob.$$hashKey;
+      /*delete  ob.$$hashKey;
       var j = x2js.json2xml_str(ob);
-      void 0;
+      void 0;*/
     };
     Notes.prototype.create = function () {
-      var url="data/44624/noteBook/Syllabus/0.app";
       var data=DeleteUnnecessaryKeys(this,this.type);
       var config={
         params :{
           data:data
         }
       }
-      sendRequest(url,"POST",config,data);
+      this.get();
     };
     Notes.prototype.delete = function () {
       void 0
     };
-    Notes.prototype.minimize = function () {
-      this.isWindowExpanded = false;
-    };
+    Notes.prototype.get=function(){
+      var xml="<note id='' name='sadfasdfsdf' lastUpdatedDate='' type='' iconX='1120' iconY='278' windowX='628' windowY='163' windowWidth='378' windowHeight='' isWindowExpanded='true' slideId='' index='' lessonId=''><data><![CDATA[<p>sdfasdfsdfsadf asdfsadf asdfasdf asdfasdfasdf</p>]]></data></note>"
+         var ob=x2js.xml_str2json(xml);
+
+    }
     Notes.prototype.toggle = function () {
-      this.isWindowExpanded = !this.isWindowExpanded;
+      this._isWindowExpanded = !this._isWindowExpanded;
     };
     Notes.prototype.closeAlert = function () {
       alerts.splice(this.alerts.indexOf(this), 1);
@@ -184,7 +186,7 @@ angular.module('notes')
     }
 
     Notebook.prototype.create = function () {
-      this._id=0;
+
       var url="data/44624/noteBook/Syllabus/0.app";
       var data=DeleteUnnecessaryKeys(this,this.type);
       var config={

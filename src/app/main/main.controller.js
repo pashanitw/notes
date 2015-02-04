@@ -13,5 +13,6 @@ var note=new Notes();
       $event.stopPropagation();
       console.log("focus event");
     }
+    $scope.isDraggableMode=true;
 
   });
