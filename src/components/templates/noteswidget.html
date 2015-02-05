@@ -1,13 +1,13 @@
 <div class="notes-wrapper" transclude-element ng-transclude>
-   <div  draggable="isDraggableMode" position class="notes-widget inl-blk"  posx="notes._windowX" posy="notes._windowY"
-         window-width="notes._windowWidth" window-height="_windowHeight" ng-mouseover='notes.increaseIndex()'
+   <div  draggable="isDraggableMode" resizable="isDraggableMode" position class="notes-widget inl-blk"  posx="notes._windowX" posy="notes._windowY"
+         window-width="notes._windowWidth" window-height="notes._windowHeight" ng-mouseover='notes.increaseIndex()'
          ng-style="{'z-index':notes.zIndex}"  ng-class="{'in-active':!notes._isWindowExpanded,'active':notes._isWindowExpanded}">
 
     <div class="crud-commands inl-blk"></div>
-     <input type="text" placeholder="Enter ur title here" class="title-text" ng-focus="callFromTitle($event)" ng-model="notes._name"/>
+     <input type="text" placeholder="#Title" class="title-text" ng-focus="callFromTitle($event)" ng-model="notes._name"/>
     <div text-angular ng-model="notes.data.__cdata" ta-toolbar="[['bold','italics','underline','ul','color','fontsize']]"
     class="richtext-editor"></div>
-   <!-- <alert ng-repeat="alert in notes.alerts" close="notes.closeAlert()">Saved SuccessFully</alert>-->
+    <alert ng-repeat="alert in notes.alerts" close="notes.closeAlert()" class="repeat-item">{{alert}}</alert>
   </div>
   <notes-icon draggable="isDraggableMode" ng-if="!isAccordianPage" draggable title="{{notes._name}}"  ng-dblclick="notes.toggle()"  ng-mouseover='notes.increaseIndex()'
               ng-style="{'z-index':notes.zIndex}" posx="notes._iconX" posy="notes._iconY"></notes-icon>

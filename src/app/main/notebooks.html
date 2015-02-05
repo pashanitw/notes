@@ -10,21 +10,51 @@
                 <li ng-repeat="notebook in notebooks" ng-click="changeCurrentNotebook(notebook);"><a class='elem'>{{notebook._name}}</a>
                   <a href="" style="display: inline-block;position: absolute;top: 2px;left: 144px;" ng-click="notebook.delete()"><i class="fa fa-times" style="float: right"></i></a>
                 </li>
-                <li>
-                  <input type="text" ng-model="noteBook.name"/>
-                  <button class="btn btn-default btn-primary" ng-click="createNotebook()">
-                    Create Notebook</button>
-                </li>
 
               </ul>
             </div>
           </div>
           <div class="col-sm-9 col-md-9">
+               <div>
+                 <div class="navbar navbar-default" style="margin-top:10px;min-height: 0;overflow: hidden">
+                   <div ng-show="!viewModel.isPageView">
+                     <button class="btn btn-success" data-title="Save" style="float: left" ng-click="createNotebook()">
+                       <span class="glyphicon glyphicon-trash"></span>
+                       Create New Note
+                     </button>
+                     <button class="btn btn-danger" data-title="Delete" style="float: right">
+                       <span class="glyphicon glyphicon-trash"></span>
+                       Delete
+                     </button>
+                   </div>
+                   <div ng-show="viewModel.isPageView">
+                     <button class="btn btn-default btn-primary" ng-click="pageCreate()" style="float: left;">
+                       Create Page</button>
+                     <button class="btn btn-danger" data-title="Delete" style="float: left;margin-left: 10px;">
+                       <span class="glyphicon glyphicon-trash"></span>
+                       Delete
+                     </button>
+                     <button class="btn btn-danger" data-title="Back" style="float: right" ng-click="goBack()">
+                       <span class="glyphicon glyphicon-trash"></span>
+                       Back To Notes
+                     </button>
+                   </div>
 
-              <div class="panel-group panel panel-default notebook-head">
+                 </div>
+                 <div class="panel-group panel panel-default notebook-head" ng-show="!viewModel.isPageView" style="overflow: hidden" ng-repeat="notebook in notebooks"
+                      >
+                   <h4 style="width:500px;float: left;" ng-click="changeCurrentNotebook(notebook)">{{notebook._name}}
+                   </h4>
+                   <span class="checkbox" style="float: right">
+                       <input type="checkbox"/>
+                     </span>
+
+                 </div>
+               </div>
+              <!--<div  class="panel-group panel panel-default notebook-head">
                 <div class="btn-group" dropdown is-open="status.isopen">
                   <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">
-                    select Notebook<span class="caret"></span>
+                    Select Notebook<span class="caret"></span>
                   </button>
                   <ul class="dropdown-menu" role="menu">
                    <li ng-repeat="notebook in notebooks"
@@ -38,39 +68,30 @@
                   <h4>{{currentNotebook._name}}</h4>
                   <button type="button" class="btn btn-default"  tabindex="-1" ng-click="currentNotebook.delete()"><i class="fa fa-times"></i></button>
                 </div>
-              </div>
+              </div>-->
 
             <div ng-controller="PageCtrl" ng-repeat="notebook in notebooks"
-                 ng-if="notebook._id==currentNotebook._id">
-              <div>
-                <input type="text" ng-model="pageModel.name"/>
-                <button class="btn btn-default btn-primary" ng-click="pageCreate()">
-                  Create Page</button>
-              </div>
+                 ng-if="notebook._id==currentNotebook._id && viewModel.isPageView">
+
             <accordion>
 
               <accordion-group ng-repeat="page in currentNotebook.page" is-open="page.open" >
-                <button class="btn btn-delete" ng-click="page.delete()">delete</button>
-                <accordion-heading>
+                <accordion-heading style="position: relative">
                   <a href="" ng-click="pageClicked(page)">
-                    {{page._name}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': page.open, 'glyphicon-chevron-right': !page.open}"></i>
+                    {{page._name}} <i class="pull-right glyphicon"></i>
                   </a>
-                  <button type="button" class="btn btn-default"  tabindex="-1" ng-click="page.delete()"><i class="fa fa-times"></i></button>
-                </accordion-heading>
-                <div>
-                  <input type="text" ng-model="notesModel.name"/>
-                  <button class="btn btn-default btn-primary" ng-click="noteCreate(page.note)">
+
+                       <input type="checkbox" style="position: absolute;right: 10px;top:6px" ng-click="handelAccordionCheckBox($event)"/>
+
+                  <button ng-show="page.open" class="btn btn-default btn-primary" ng-click="noteCreate(page.note)" style="position: absolute;right: 160px;top:1px">
                     Create Note</button>
-                </div>
-                <accordion class="child-note-panel">
-                  <accordion-group ng-repeat="notes in page.note" is-open="notes._isWindowExpanded" >
-                    <accordion-heading>
-                      <a href="">
-                        {{notes._name}} <i class="pull-right glyphicon"></i>
-                      </a></accordion-heading>
-                    <notes-widget></notes-widget>
-                  </accordion-group>
-                </accordion>
+                  <button ng-show="page.open" class="btn btn-danger" ng-click="noteCreate(page.note)" style="position: absolute;right: 60px;top:1px">
+                    Delete</button>
+
+                </accordion-heading>
+<div class="child-note-panel">
+  <notes-widget ng-repeat="notes in page.note" ng-class="{'minimize':!notes._isWindowExpanded,'maximize':notes._isWindowExpanded}"> </notes-widget>
+</div>
               </accordion-group>
             </accordion>
             </div>

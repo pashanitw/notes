@@ -99,9 +99,10 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       restrict: 'AC',
       replace:true,
       template: "<div class='btn-group'>" +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.create()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
-      '<button type="button" class="btn btn-default"  tabindex="-1" ng-click="notes.minimize()"><i class="fa fa-minus-square"></i></button>' +
+      '<button type="button" class="btn btn-default save"  tabindex="-1" ng-click="notes.create()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
+      '<button type="button" class="btn btn-default delete"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
+      '<button type="button" class="btn btn-default minus"  tabindex="-1" ng-click="notes.minimize()" class="minus"><i class="fa fa-minus-square"></i></button>' +
+      '<button type="button" class="btn btn-default plus"  tabindex="-1"  ng-click="notes.maximize()"><i class="fa fa-plus"></i></button>' +
       "</div>",
       link: function (scope, elem, attr) {
 
@@ -130,11 +131,29 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     });
   };
 })
-  .directive('resizable', function () {
+  .directive('resizable', function ($parse) {
     return {
       restrict: 'A',
       link: function (scope, elem, attr) {
-        elem.resizable();
+        var isResizable=$parse(attr.resizable)(scope);
+        var isolateScope=elem.isolateScope();
+        if(isResizable){
+          elem.resizable({
+            start: function () {
+
+            },
+            stop:function(){
+              if(isolateScope){
+                if(attr.hasOwnProperty("windowWidth")&&attr.hasOwnProperty("windowHeight")){
+                  isolateScope.windowWidth=elem.width();
+                  isolateScope.windowHeight=elem.height();
+                }
+              }
+
+            }
+          });
+        }
+
       }
     }
   })
@@ -146,6 +165,20 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
         return function (scope, el, tAttrs) {
          var isDraggable=$parse(tAttrs.draggable)(scope);
           var isolateScope=el.isolateScope();
+          var setPositions=function(isolateScope){
+            if(isolateScope){
+              var offset = el.offset();
+              var xPos = offset.left;
+              var yPos = offset.top;
+              isolateScope.posx = xPos;
+              isolateScope.posy = yPos;
+              if(tAttrs.hasOwnProperty("windowWidth")&&tAttrs.hasOwnProperty("windowHeight")){
+                isolateScope.windowWidth=el.width();
+                isolateScope.windowHeight=el.height();
+              }
+            }
+          };
+          setPositions(isolateScope);
           if(isDraggable){
             el.draggable({
               revert: 'invalid',
@@ -156,17 +189,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
 
               },
               stop:function(){
-             if(isolateScope){
-               var offset = el.offset();
-               var xPos = offset.left;
-               var yPos = offset.top;
-               isolateScope.posx = xPos;
-               isolateScope.posy = yPos;
-               if(tAttrs.hasOwnProperty("windowWidth")&&tAttrs.hasOwnProperty("windowHeight")){
-                 isolateScope.windowWidth=el.width();
-                 isolateScope.windowHeight=el.height();
-               }
-             }
+                setPositions(isolateScope);
 
               }
             });
@@ -248,11 +271,10 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     }
   })
   .service("alertMesssages",function(){
-    this.alert=[];
-    this.alert[0]="Succcessfully Saved";
-    this.alert[1]="Save Failed";
-    this.alert[2]="Succcessfully Deleted";
-    this.alert[3]="Save Failed";
+    this.saveSuccess="Succcessfully Saved";
+    this.saveFail="Save Failed";
+    this.deleteSuccess="Succcessfully Deleted";
+    this.deleteFail="Save Failed";
   })
   .directive('notesWidget', function ($compile) {
     return {

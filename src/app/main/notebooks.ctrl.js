@@ -6,10 +6,18 @@ angular.module('notes')
 
     $scope.notebooks=notesService.getNoteBooks();
   //  console.log($scope.notebooks);
+    $scope.viewModel={
+      isPageView:false
+    }
     $scope.changeCurrentNotebook=function(notebook){
+      
       $scope.currentNotebook=notebook;
+      $scope.viewModel.isPageView=true;
       notebook.getAllPages();
       void 0;
+    }
+    $scope.goBack=function(){
+      $scope.viewModel.isPageView=false;
     }
     $scope.noteBook={
       name:''
@@ -24,6 +32,9 @@ angular.module('notes')
         void 0;
       });
     };*/
+    $scope.handelAccordionCheckBox=function($event){
+      $event.stopPropagation();
+    }
     $scope.createNotebook = function (size) {
 
       var modalInstance = $modal.open({
@@ -38,7 +49,7 @@ angular.module('notes')
       });
 
       modalInstance.result.then(function (selectedItem) {
-        console.log(selectedItem);
+        void 0;
       }, function () {
         $log.info('Modal dismissed at: ' + new Date());
       });
@@ -58,6 +69,16 @@ angular.module('notes')
   $scope.cancel = function () {
     $modalInstance.dismiss('cancel');
   };
+
+    $scope.pageCreate =function(){
+      var page=new Page();
+      page._name=$scope.pageModel.name;
+      page.create().then(function(){
+        $scope.currentNotebook.page.push(page);
+      },function(){
+        void 0;
+      });
+    };
 })
   .controller('PageCtrl', function ($scope,alertMesssages,$timeout,notesService,Notes,Page) {
 
@@ -68,15 +89,6 @@ angular.module('notes')
     };
     $scope.notesModel={
       name:''
-    };
-    $scope.pageCreate =function(){
-      var page=new Page();
-      page._name=$scope.pageModel.name;
-      page.create().then(function(){
-        $scope.currentNotebook.page.push(page);
-      },function(){
-        void 0;
-      });
     };
     $scope.noteCreate =function(noteCollection){
       var notes=new Notes();

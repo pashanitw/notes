@@ -11,7 +11,7 @@ var note=new Notes();
     $scope.callFromTitle=function($event){
       $event.preventDefault();
       $event.stopPropagation();
-      console.log("focus event");
+      void 0;
     }
     $scope.isDraggableMode=true;
 

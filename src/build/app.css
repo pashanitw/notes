@@ -1,0 +1,252 @@
+/*styles from himanshu system*/
+.notes-page .btn-toolbar{
+  margin:0
+}
+.navbar.navbar-inverse{
+  z-index:-1;
+}
+
+/*--------------------------------------------*/
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0; }
+
+html {
+  height: 100%; }
+
+body {
+  height: 100%; }
+
+.container {
+  height: 100%;
+  position: relative; }
+
+.thumbnail {
+  height: 200px; }
+.thumbnail img.pull-right {
+  width: 50px; }
+
+.inl-blk {
+  display: inline-block; }
+
+.canvas {
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.notes-widget {
+  min-width: 378px;
+  height: 200px;
+  min-height: 200px;
+  -webkit-transform-origin: 0% 0%;
+  -ms-transform-origin: 0% 0%;
+  transform-origin: 0% 0%;
+  position: absolute;
+  transition: -webkit-transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out; }
+  .notes-widget .title-text {
+    position: absolute;
+    z-index: 100;
+    top: 36px;
+    width: 40%;
+    border: 0;
+    background-color: #FFD801;
+    margin: 0 auto;
+    margin-left: 20px; }
+    .notes-widget .title-text:focus {
+      outline-width: 0; }
+  .notes-widget .fontsize .visible {
+    display: block !important; }
+  .notes-widget .fontsize .no-visible {
+    display: none !important; }
+  .notes-widget .fontsize .dropdown {
+    left: -2px;
+    bottom: -1px;
+    position: absolute;
+    z-index: 999; }
+  .notes-widget .fontsize .dropdown-menu {
+    height: 100px;
+    overflow: scroll;
+    min-width: 0;
+    border: 0; }
+  .notes-widget .crud-commands {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2; }
+    .notes-widget .crud-commands .plus {
+      display: none; }
+  .notes-widget .alert {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+    width: 100%;
+    font-size: 0.9em; }
+
+.notes-widget.active {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1); }
+
+.notes-widget.in-active {
+  -webkit-transform: scale(0);
+      -ms-transform: scale(0);
+          transform: scale(0); }
+
+.fa-floppy-o {
+  color: #54C571; }
+
+.fa-times {
+  color: #C34A2C; }
+
+/* Styles go here */
+.bubble {
+  cursor: pointer;
+  width: 35px;
+  height: 30px;
+  border: 2px solid #666;
+  border-radius: 5px;
+  background-color: #FFD801;
+  text-align: center;
+  box-shadow: 2px 2px 2px #888; }
+  .bubble hr {
+    line-height: 1px;
+    padding: 0;
+    margin: 0 auto;
+    height: 2px;
+    background: #000;
+    margin-top: 5px; }
+
+.bubble:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border: 9px solid;
+  position: absolute;
+  top: 28px;
+  left: 8px;
+  border-color: #666 transparent transparent #666; }
+
+.bubble:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border: 6px solid;
+  position: absolute;
+  top: 28px;
+  border-color: #FFD801 transparent transparent #FFD801;
+  left: 10px; }
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important; }
+
+.richtext-editor {
+  height: 100%;
+  background-color: #FFD801;
+  box-shadow: 0px 3px 9px 1px #888; }
+  .richtext-editor .btn-toolbar {
+    cursor: pointer; }
+  .richtext-editor .ta-scroll-window > .ta-bind {
+    min-height: 200px;
+    background-color: #FFD801; }
+  .richtext-editor [type="hidden"] {
+    height: 0; }
+  .richtext-editor .ta-editor.ta-html, .richtext-editor .ta-scroll-window.form-control {
+    min-height: 0;
+    background-color: #FFD801; }
+  .richtext-editor .ta-scroll-window > .ta-bind {
+    padding-top: 30px;
+    min-height: 100%; }
+  .richtext-editor .ta-toolbar {
+    height: 35px; }
+  .richtext-editor .ta-scroll-window {
+    height: calc(100% - 35px); }
+
+.notes-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000; }
+
+div[ng-view] {
+  height: 100%; }
+
+.notes-wrapper {
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1); }
+
+.allNotes .notes-wrapper.minimize {
+  min-height: 0;
+  height: 35px;
+  transition: height 0.3s ease-out; }
+  .allNotes .notes-wrapper.minimize .ta-scroll-window {
+    height: 0; }
+  .allNotes .notes-wrapper.minimize .crud-commands .minus, .allNotes .notes-wrapper.minimize .crud-commands .save, .allNotes .notes-wrapper.minimize .crud-commands .delete {
+    display: none; }
+  .allNotes .notes-wrapper.minimize .crud-commands .plus {
+    display: block; }
+.allNotes .notes-wrapper.maximize {
+  height: 200px;
+  transition: height 0.3s ease-out; }
+  .allNotes .notes-wrapper.maximize .ta-scroll-window {
+    height: calc(100% - 35px); }
+  .allNotes .notes-wrapper.maximize .ta-toolbar .btn-group {
+    display: block; }
+  .allNotes .notes-wrapper.maximize .crud-commands .minus, .allNotes .notes-wrapper.maximize .crud-commands .save, .allNotes .notes-wrapper.maximize .crud-commands .delete {
+    display: block; }
+  .allNotes .notes-wrapper.maximize .crud-commands .plus {
+    display: none; }
+.allNotes .notes-wrapper .ta-toolbar .btn-group {
+  display: none; }
+.allNotes .notes-wrapper .notes-widget {
+  position: relative;
+  width: 100%;
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
+  height: 0; }
+.allNotes .notes-wrapper .title-text {
+  top: 7px;
+  left: 256px;
+  background-color: inherit; }
+.allNotes .richtext-editor {
+  background-color: inherit;
+  box-shadow: none; }
+  .allNotes .richtext-editor .ta-scroll-window > .ta-bind {
+    padding-top: 0;
+    background-color: inherit; }
+  .allNotes .richtext-editor .ta-editor.ta-html, .allNotes .richtext-editor .ta-scroll-window.form-control {
+    background-color: inherit; }
+.allNotes .panel-body {
+  padding-left: 215px; }
+.allNotes .child-note-panel {
+  display: block; }
+  .allNotes .child-note-panel .panel-group {
+    padding-left: 212px; }
+.allNotes .panel-heading {
+  position: relative; }
+.allNotes .notebook-head.panel-default {
+  color: #333333;
+  background-color: #f5f5f5;
+  border-color: #ddd; }
+  .allNotes .notebook-head.panel-default .dropdown-menu li {
+    cursor: pointer; }
+  .allNotes .notebook-head.panel-default .current-head {
+    float: right;
+    display: inline-block;
+    width: 500px; }
+    .allNotes .notebook-head.panel-default .current-head h4 {
+      display: inline-block; }
+    .allNotes .notebook-head.panel-default .current-head .btn-default {
+      float: right; }
+
+.repeat-item.ng-enter, .repeat-item.ng-leave {
+  transition: 0.5s linear all; }
+
+.repeat-item.ng-enter, .repeat-item.ng-leave.ng-leave-active {
+  opacity: 0; }
+
+.repeat-item.ng-leave, .repeat-item.ng-enter.ng-enter-active {
+  opacity: 1; }
+

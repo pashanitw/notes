@@ -48,6 +48,7 @@ body{
     top: 36px;
     width: 40%;
     border:0;
+    background-color:#FFD801;
     margin: 0 auto;
     margin-left: 20px;
     &:focus {
@@ -83,6 +84,9 @@ body{
     top:0;
     right: 0;
     z-index: 2;
+    .plus{
+      display: none;
+    }
   }
   .alert{
     position: absolute;
@@ -201,42 +205,104 @@ div[ng-view]{
 .allNotes{
   .container{
   }
+  .notes-wrapper.minimize{
+    .ta-scroll-window{
+      height: 0;
+    }
+    min-height: 0;
+    height: 35px;
+    transition: height 0.30s ease-out;
+    .crud-commands{
+      .minus,.save,.delete{
+        display: none;
+      }
+      .plus{
+        display: block;
+      }
+    }
+  }
+  .notes-wrapper.maximize{
+    .ta-scroll-window{
+      height: calc(100% - 35px);
+    }
+    .ta-toolbar{
+      .btn-group{
+        display: block;
+      }
+    }
+    height: 200px;
+    transition: height 0.30s ease-out;
+    .crud-commands{
+      .minus,.save,.delete{
+        display: block;
+      }
+      .plus{
+        display: none;
+      }
+    }
+  }
   .notes-wrapper{
+
+    .ta-toolbar{
+      .btn-group{
+        display: none;
+      }
+    }
     .notes-widget{
       position: relative;
       width: 100%;
       transform: scale(1);
+      height: 0;
+    .maximize{
     }
+      .minimize{
+
+      }
+
+    }
+    .title-text{
+     top:7px;
+      left: 256px;
+      background-color: inherit;
+    }
+  }
+  .richtext-editor{
+    background-color:inherit;
+    .ta-scroll-window > .ta-bind{
+      padding-top: 0;
+      background-color:inherit;
+
+    }
+    .ta-editor.ta-html, .ta-scroll-window.form-control{
+      background-color:inherit;
+    }
+
+    box-shadow: none;
+  }
+  .panel-body{
+ padding-left: 215px;
   }
   .child-note-panel{
     .panel-group{
       padding-left: 212px;
-      .panel-body{
-        .richtext-editor{
-          background-color:inherit;
-          .ta-scroll-window > .ta-bind{
 
-            background-color:inherit;
-
-          }
-          .ta-editor.ta-html, .ta-scroll-window.form-control{
-            background-color:inherit;
-          }
-
-          box-shadow: none;
-        }
-        padding: 1px;
-        [ng-click="notes.minimize()"]{
-          display: none;
-        }
-      }
     }
 
-  }
+      display: block;
+    }
+
+.panel-heading{
+  position: relative;
+}
 .notebook-head.panel-default{
   color: #333333;
   background-color: #f5f5f5;
   border-color: #ddd;
+  .dropdown-menu{
+    li{
+      cursor: pointer;
+    }
+  }
   .current-head{
     float: right;
     h4{
@@ -250,4 +316,25 @@ div[ng-view]{
   }
 
 }
+}
+//styles for ng-repeat
+.repeat-item.ng-enter,
+.repeat-item.ng-leave {
+  -webkit-transition:0.5s linear all;
+  transition:0.5s linear all;
+}
+
+.repeat-item.ng-enter,
+.repeat-item.ng-leave.ng-leave-active {
+  opacity:0;
+
+}
+.repeat-item.ng-leave,
+.repeat-item.ng-enter.ng-enter-active {
+  opacity:1;
+
+}
+//styles for accordion
+.maximize{
+
 }
