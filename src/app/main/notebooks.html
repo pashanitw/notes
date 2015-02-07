@@ -3,97 +3,110 @@
     <div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-3 col-md-3">
-            <div class="well">
-              <ul class="pages nav nav-pills nav-stacked">
-
-                <li ng-repeat="notebook in notebooks" ng-click="changeCurrentNotebook(notebook);"><a class='elem'>{{notebook._name}}</a>
-                  <a href="" style="display: inline-block;position: absolute;top: 2px;left: 144px;" ng-click="notebook.delete()"><i class="fa fa-times" style="float: right"></i></a>
-                </li>
-
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-9 col-md-9">
-               <div>
-                 <div class="navbar navbar-default" style="margin-top:10px;min-height: 0;overflow: hidden">
-                   <div ng-show="!viewModel.isPageView">
-                     <button class="btn btn-success" data-title="Save" style="float: left" ng-click="createNotebook()">
-                       <span class="glyphicon glyphicon-trash"></span>
-                       Create New Note
-                     </button>
-                     <button class="btn btn-danger" data-title="Delete" style="float: right">
-                       <span class="glyphicon glyphicon-trash"></span>
-                       Delete
-                     </button>
-                   </div>
-                   <div ng-show="viewModel.isPageView">
-                     <button class="btn btn-default btn-primary" ng-click="pageCreate()" style="float: left;">
-                       Create Page</button>
-                     <button class="btn btn-danger" data-title="Delete" style="float: left;margin-left: 10px;">
-                       <span class="glyphicon glyphicon-trash"></span>
-                       Delete
-                     </button>
-                     <button class="btn btn-danger" data-title="Back" style="float: right" ng-click="goBack()">
-                       <span class="glyphicon glyphicon-trash"></span>
-                       Back To Notes
-                     </button>
-                   </div>
-
-                 </div>
-                 <div class="panel-group panel panel-default notebook-head" ng-show="!viewModel.isPageView" style="overflow: hidden" ng-repeat="notebook in notebooks"
-                      >
-                   <h4 style="width:500px;float: left;" ng-click="changeCurrentNotebook(notebook)">{{notebook._name}}
-                   </h4>
-                   <span class="checkbox" style="float: right">
-                       <input type="checkbox"/>
-                     </span>
-
-                 </div>
-               </div>
-              <!--<div  class="panel-group panel panel-default notebook-head">
-                <div class="btn-group" dropdown is-open="status.isopen">
-                  <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">
-                    Select Notebook<span class="caret"></span>
+          <div>
+            <div>
+              <div class="navbar navbar-default" style="margin-top:10px;min-height: 0;overflow: hidden">
+                <div ng-show="!viewModel.isPageView">
+                  <button class="btn btn-success" data-title="Save" style="float: left" ng-click="createNotebook()">
+                    <span class="glyphicon glyphicon-trash"></span>
+                    Create New Note
                   </button>
-                  <ul class="dropdown-menu" role="menu">
-                   <li ng-repeat="notebook in notebooks"
-                     ng-click="changeCurrentNotebook(notebook)">
-                     <a >{{notebook._name}}</a>
-                   </li>
-                    <li><a ng-click="createNotebook()">create Notebook</a></li>
-                  </ul>
+                  <button class="btn btn-danger" data-title="Delete" style="float: right" ng-disabled="!notebookList.list.length">
+                    <span class="glyphicon glyphicon-trash"></span>
+                    Delete
+                  </button>
                 </div>
-                <div ng-if="currentNotebook._name" class="current-head">
-                  <h4>{{currentNotebook._name}}</h4>
-                  <button type="button" class="btn btn-default"  tabindex="-1" ng-click="currentNotebook.delete()"><i class="fa fa-times"></i></button>
+                <div ng-show="viewModel.isPageView">
+                  <button class="btn btn-default btn-primary" ng-click="pageCreate()" style="float: left;">
+                    Create Page
+                  </button>
+                  <button class="btn btn-danger" data-title="Delete" style="float: left;margin-left: 10px;" ng-disabled="!pageList.list.length">
+                    <span class="glyphicon glyphicon-trash"></span>
+                    Delete
+                  </button>
+                  <button class="btn btn-danger" data-title="Back" style="float: right" ng-click="goBack()">
+                    <span class="glyphicon glyphicon-trash"></span>
+                    Back To Notes
+                  </button>
                 </div>
-              </div>-->
+
+              </div>
+              <div class="notbook-list">
+                <ol>
+                  <li ng-show="!viewModel.isPageView" ng-repeat="notebook in notebooks">
+                    <a ng-click="changeCurrentNotebook(notebook)">
+                      <div class="main-image material" ng-click="handelAccordionCheckBox($event)">
+                        <input type="checkbox" class="box checkbox" checklist-model="notebookList.list" checklist-value="notebook._id">
+
+                      </div>
+                      <span class="link-title">{{notebook._name}}</span>
+                      <span class="link-excerpt"><time class="date" datetime="November 12 2012">Nov 12, 2012</time> / No Comments</span>
+                    </a>
+                  </li>
+                  </ol>
+              </div>
+            </div>
+            <!--<div  class="panel-group panel panel-default notebook-head">
+              <div class="btn-group" dropdown is-open="status.isopen">
+                <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled">
+                  Select Notebook<span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                 <li ng-repeat="notebook in notebooks"
+                   ng-click="changeCurrentNotebook(notebook)">
+                   <a >{{notebook._name}}</a>
+                 </li>
+                  <li><a ng-click="createNotebook()">create Notebook</a></li>
+                </ul>
+              </div>
+              <div ng-if="currentNotebook._name" class="current-head">
+                <h4>{{currentNotebook._name}}</h4>
+                <button type="button" class="btn btn-default"  tabindex="-1" ng-click="currentNotebook.delete()"><i class="fa fa-times"></i></button>
+              </div>
+            </div>-->
 
             <div ng-controller="PageCtrl" ng-repeat="notebook in notebooks"
-                 ng-if="notebook._id==currentNotebook._id && viewModel.isPageView">
+                 ng-if="notebook._id==currentNotebook._id && viewModel.isPageView" class="notbook-list">
+              <!--
+              <ol>
+                  <li ng-show="!viewModel.isPageView" ng-repeat="notebook in notebooks">
+                    <a ng-click="changeCurrentNotebook(notebook)">
+                      <div class="main-image" ng-click="handelAccordionCheckBox($event)">
+                        <input type="checkbox" class="box" checklist-model="notebookList.list" checklist-value="notebook._id">
 
-            <accordion>
+                      </div>
+                      <span class="link-title">{{notebook._name}}</span>
+                      <span class="link-excerpt"><time class="date" datetime="November 12 2012">Nov 12, 2012</time> / No Comments</span>
+                    </a>
+                  </li>
+                  </ol>-->
 
-              <accordion-group ng-repeat="page in currentNotebook.page" is-open="page.open" >
-                <accordion-heading style="position: relative">
-                  <a href="" ng-click="pageClicked(page)">
-                    {{page._name}} <i class="pull-right glyphicon"></i>
-                  </a>
+              <accordion class="parent-panel">
 
-                       <input type="checkbox" style="position: absolute;right: 10px;top:6px" ng-click="handelAccordionCheckBox($event)"/>
-
-                  <button ng-show="page.open" class="btn btn-default btn-primary" ng-click="noteCreate(page.note)" style="position: absolute;right: 160px;top:1px">
-                    Create Note</button>
-                  <button ng-show="page.open" class="btn btn-danger" ng-click="noteCreate(page.note)" style="position: absolute;right: 60px;top:1px">
-                    Delete</button>
-
-                </accordion-heading>
-<div class="child-note-panel">
-  <notes-widget ng-repeat="notes in page.note" ng-class="{'minimize':!notes._isWindowExpanded,'maximize':notes._isWindowExpanded}"> </notes-widget>
-</div>
-              </accordion-group>
-            </accordion>
+                <accordion-group ng-repeat="page in currentNotebook.page" is-open="page.open" >
+                  <accordion-heading style="position: relative" class="child-panel">
+                    <a ng-click="pageClicked(page)">
+                      <div class="main-image material" ng-click="handelAccordionCheckBox($event)">
+                        <input type="checkbox" class="box checkbox" checklist-model="pageList.list" checklist-value="page._id" ng-click="handelAccordionCheckBox($event)">
+                      </div>
+                      <span class="link-title">{{page._name}}</span>
+                      <span class="link-excerpt"><time class="date" datetime="November 12 2012">Nov 12, 2012</time> / No Comments</span>
+                    </a>
+                    <button ng-show="page.open" class="btn btn-default btn-primary" ng-click="noteCreate(page.note)"
+                            style="position: absolute;right: 160px;top:1px">
+                      Create Note
+                    </button>
+                    <button ng-show="page.open" class="btn btn-danger" ng-click="noteCreate(page.note)"
+                            style="position: absolute;right: 60px;top:1px">
+                      Delete
+                    </button>
+                  </accordion-heading>
+                  <div class="child-note-panel">
+                    <notes-widget ng-repeat="notes in page.note"
+                                  ng-class="{'minimize':!notes._isWindowExpanded,'maximize':notes._isWindowExpanded}"></notes-widget>
+                  </div>
+                </accordion-group>
+              </accordion>
             </div>
           </div>
 
@@ -108,7 +121,7 @@
       </div>
       <div class="modal-body">
 
-       Name: <b><input type="text" ng-model="noteBook.name"/></b>
+        Name: <b><input type="text" ng-model="noteBook.name"/></b>
       </div>
       <div class="modal-footer">
         <button class="btn btn-primary" ng-click="ok()">OK</button>

@@ -9,8 +9,14 @@ angular.module('notes')
     $scope.viewModel={
       isPageView:false
     }
+    $scope.notebookList={
+      list:[]
+    }
+    $scope.pageList={
+      list:[]
+    }
     $scope.changeCurrentNotebook=function(notebook){
-      
+
       $scope.currentNotebook=notebook;
       $scope.viewModel.isPageView=true;
       notebook.getAllPages();

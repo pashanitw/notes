@@ -1,5 +1,5 @@
 
-angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngResource', 'ngRoute', 'ui.bootstrap', 'textAngular','colorpicker.module'])
+angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngResource', 'ngRoute', 'ui.bootstrap', 'textAngular','colorpicker.module','checklist-model'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
@@ -98,11 +98,14 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
     return {
       restrict: 'AC',
       replace:true,
-      template: "<div class='btn-group'>" +
+      template: "<div class='btn-group material'>" +
       '<button type="button" class="btn btn-default save"  tabindex="-1" ng-click="notes.create()" title="{{notes.name}}"><i class="fa fa-floppy-o"></i></button>' +
-      '<button type="button" class="btn btn-default delete"  tabindex="-1" ng-click="notes.delete()"><i class="fa fa-times"></i></button>' +
+      '<button type="button" class="btn btn-default delete"  tabindex="-1" ng-click="notes.delete($index,items)"><i class="fa fa-times"></i></button>' +
       '<button type="button" class="btn btn-default minus"  tabindex="-1" ng-click="notes.minimize()" class="minus"><i class="fa fa-minus-square"></i></button>' +
       '<button type="button" class="btn btn-default plus"  tabindex="-1"  ng-click="notes.maximize()"><i class="fa fa-plus"></i></button>' +
+
+    '<span class="checkbox-wrapper"><input type="checkbox" class="checkbox"/></span>'+
+
       "</div>",
       link: function (scope, elem, attr) {
 

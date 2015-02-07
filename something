@@ -1,0 +1,114 @@
+/* variables */
+$vgrid: 30px;
+$gutter: 30px;
+$pgcolor: #FFF;
+$textcolor: #777;
+$hovercolor: #2690d8;
+$basefontsize: 16px;
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, serif;
+  background: darken($pgcolor, 3%);
+  padding: $vgrid $gutter;
+}
+
+nav.archive-links {
+
+  background-color: $pgcolor;
+  box-sizing: content-box;
+  padding: 0;
+  margin: auto;
+  max-width: 50%;
+
+  /* Ordered list with custom counter */
+  ol {
+    counter-reset: li;
+    overflow: hidden;
+    border: 1px solid darken($pgcolor, 15%);
+    margin: 0;
+    padding: 0px;
+  }
+
+  ol li {
+    float: left;
+    clear: left;
+    width: 100%;
+    margin: 0;
+    list-style: none;
+  }
+
+  ol,
+  ol li,
+  ol li a { display: block; }
+
+  ol li a {
+    font-size: ($basefontsize * 0.6875);
+    height: ($vgrid * 2 - 1);
+    position: relative;
+    text-decoration: none;
+  }
+
+  ol li .main-image:after,
+  ol li .no-main-image:after {
+    color: lighten($textcolor, 25%);
+    content: counter(li, decimal-leading-zero);
+    counter-increment: li;
+    font-size: $vgrid;
+    line-height: ($vgrid * 2 - 1);
+    height: ($vgrid * 2 - 1);
+    width: ($gutter * 2);
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 1px;
+  }
+
+  li .main-image,
+  li .no-main-image {
+    float: left;
+    margin-right: 1.5em;
+    width: ($vgrid * 2);
+    height: ($vgrid * 2);
+    background: darken($pgcolor, 10%);
+  }
+
+  li .main-image {
+    /*background-image: url('http://placekitten.com/g/200/200');*/
+    background-size: cover;
+    background-position: center center;
+  }
+
+  a:link,
+  a:visited,
+  a:hover,
+  a:active { color: darken($textcolor, 50%); }
+
+  ol li a:hover .main-image:after,
+  ol li a:hover .no-main-image:after { color: $hovercolor; }
+
+  ol li a:active .main-image:after,
+  ol li a:active .no-main-image:after,
+  ol li.active a .main-image:after,
+  ol li.active a .no-main-image:after { color: $textcolor; }
+
+
+  li + li { border-top: 1px solid darken($pgcolor, 15%); }
+
+  li span {
+    display: block;
+    line-height: 1.5em;
+  }
+
+  /* Style the title, date & comments of each entry */
+  span.link-title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 0.6875em;
+    font-size: 1.5em;
+  }
+
+  span.link-excerpt { color: lighten($textcolor, 30%); }
+
+}

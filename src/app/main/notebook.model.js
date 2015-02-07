@@ -115,8 +115,8 @@ angular.module('notes')
        this.setAlert(alertMesssages.saveSuccess);
 
       };
-      Notes.prototype.delete = function () {
-        void 0
+      Notes.prototype.delete = function (index,items) {
+       debugger;
       };
       Notes.prototype.get=function(){
         var xml="<note id='' name='sadfasdfsdf' lastUpdatedDate='' type='' iconX='1120' iconY='278' windowX='628' windowY='163' windowWidth='378' windowHeight='' isWindowExpanded='true' slideId='' index='' lessonId=''><data><![CDATA[<p>sdfasdfsdfsadf asdfsadf asdfasdf asdfasdfasdf</p>]]></data></note>"
