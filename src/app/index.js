@@ -1,6 +1,6 @@
 
-angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngResource', 'ngRoute', 'ui.bootstrap', 'textAngular','colorpicker.module','checklist-model'])
-  .config(function ($routeProvider) {
+angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngResource', 'ngRoute', 'ui.bootstrap', 'textAngular','colorpicker.module','checklist-model','angularSpinner','toaster'])
+  .config(function ($routeProvider ) {
     $routeProvider
       .when('/', {
         templateUrl: 'app/main/notebooks.html',
@@ -104,7 +104,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '<button type="button" class="btn btn-default minus"  tabindex="-1" ng-click="notes.minimize()" class="minus"><i class="fa fa-minus-square"></i></button>' +
       '<button type="button" class="btn btn-default plus"  tabindex="-1"  ng-click="notes.maximize()"><i class="fa fa-plus"></i></button>' +
 
-    '<span class="checkbox-wrapper"><input type="checkbox" class="checkbox"/></span>'+
+    '<input type="checkbox" class="checkbox note-selector" ng-init="notes.index=$index" checklist-model="page.selectedList" checklist-value="notes"/>'+
 
       "</div>",
       link: function (scope, elem, attr) {
@@ -128,9 +128,9 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
 .directive('zIndex', function(){
   return function(scope, element, attrs){
     attrs.$observe('zIndex', function(value) {
-      element.css({
+     /* element.css({
         'z-index': value
-      });
+      });*/
     });
   };
 })
@@ -175,19 +175,20 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
               var yPos = offset.top;
               isolateScope.posx = xPos;
               isolateScope.posy = yPos;
+              console.log("setting position")
               if(tAttrs.hasOwnProperty("windowWidth")&&tAttrs.hasOwnProperty("windowHeight")){
                 isolateScope.windowWidth=el.width();
                 isolateScope.windowHeight=el.height();
               }
             }
           };
-          setPositions(isolateScope);
+        //  setPositions(isolateScope);
           if(isDraggable){
             el.draggable({
               revert: 'invalid',
               obstacle: ".notes-icon",
               preventCollision: true,
-              containment: ".container",
+              containment: "document",
               drag: function () {
 
               },
@@ -239,6 +240,30 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
         windowHeight:"="
       },
       link: function (scope, elem, attr,ctrl) {
+       // elem.css({"top":scope.posy+"px","left":scope.posx+"px"})
+      }
+    }
+  })
+  .directive('svgLine', function () {
+    return {
+      restrict: 'E',
+      scope:{
+        line:"="
+      },
+      replace:true,
+      template:'<svg height="600" width="100%" style="position: absolute" ng-show="line.visible" >'+
+     '<line  style="stroke:rgb(255,0,0);stroke-width:2" />'+
+     '</svg>',
+      link: function (scope, elem, attr,ctrl) {
+        scope.$watch('line',function(val){
+          var line=elem.find('line')[0];
+          line.setAttribute("x1",scope.line.x1);
+          line.setAttribute("y1",scope.line.y1);
+          line.setAttribute("x2",scope.line.x2);
+          line.setAttribute("y2",scope.line.y2);
+
+        })
+
       }
     }
   })
@@ -258,6 +283,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       '</div>' +
       '</div>',
       link: function (scope, elem, attr,ctrl) {
+        //elem.css({"top":scope.posy+"px","left":scope.posx+"px"})
       }
     }
   })
@@ -292,9 +318,7 @@ angular.module('notes', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngR
       templateUrl:'components/templates/noteswidget.html' ,
       link: function (scope, elem, attr) {
 
-               scope.minimize=function(){
-          elem.find('.notes-widget').removeClass('active');
-        }
+
       }
     }
   })

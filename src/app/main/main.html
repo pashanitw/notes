@@ -1,4 +1,10 @@
-<div class="container" droppable>
+<div class="player-page">
+  <div class="container">
+    <input type="text" colorpicker=""/>
+    <notes-widget ng-repeat="notes in items" ng-model="notes.model"  ng-mouseover="" ></notes-widget>
 
-
+    <button type="button" class="btn btn-default btn-large" ng-click="addNotes()">Add</button>
+    </div>
+  <svg-line line="line"></svg-line>
 </div>
+

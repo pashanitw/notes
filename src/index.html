@@ -25,12 +25,12 @@
     <!-- endinject -->
     <!-- endbuild -->
   </head>
-  <body>
+  <body droppable>
     <!--[if lt IE 10]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div ng-view></div>
+    <div ng-view class="notebook-app-wrapper"></div>
 
     <script src="../bower_components/jquery/dist/jquery.js"></script>
     <script src="../bower_components/jquery-ui/jquery-ui.js"></script>
@@ -70,5 +70,8 @@
     <script src="../bower_components/angular-bootstrap-colorpicker/js/bootstrap-colorpicker-module.js"></script>
     <script src="../bower_components/checklist-model/checklist-model.js"></script>
     <script src="lib/xml2json.min.js"></script>
+    <script src="../bower_components/spin.js/spin.js"></script>
+    <script src="../bower_components/angular-spinner/angular-spinner.js"></script>
+    <script src=../.tmp/bower_components/angularjs-toaster/toaster.js></script>
   </body>
 </html>
